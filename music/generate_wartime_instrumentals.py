@@ -77,7 +77,7 @@ def render(song):
  beat=60/song["bpm"]
  meter=song["meter"]
  phrase= len(song["melody"])
- bars=32 if meter==4 else 40
+ bars=64 if meter==4 else 80
  length=bars*meter*beat+2.0
  n=int(length*SR)
  mix=np.zeros(n,dtype=np.float32)
@@ -102,7 +102,7 @@ def render(song):
    idx=(bar*meter+b)%phrase
    note=notes[idx]
    if bar>=bars-4 and b==meter-1 and bar%2:note=-1
-   if bar in (8,16,24) and b==0 and note>=0:note+=12
+   if bar%16 in (8,12) and b==0 and note>=0:note+=12
    now=base+b*beat
    if song["style"]=="swing" and b%2:now+=.12*beat
    place(mix,note,now,.83*beat,song["lead"],.19)
