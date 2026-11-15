@@ -1,0 +1,27 @@
+name: Scout downloadable LOC minor nation records
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/scout-loc-minors.yml"
+permissions:
+  contents: write
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Scout LOC downloadable metadata
+        run: python3 music/scout_loc_minor_nations.py
+      - name: Save source metadata on dev
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add music/minor-nation-loc-scout.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Phase 23C.10: discover fully downloadable minor nation recordings"
+            git push
+          fi
