@@ -1,0 +1,32 @@
+name: Import LOC international music batch
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/import-loc-international.yml"
+permissions:
+  contents: write
+concurrency:
+  group: loc-international-music-import
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Verify and import ten full international recordings
+        run: python3 music/import_loc_international.py
+      - name: Commit to development radio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/tobs-international-*.mp3 audio-manifest.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Phase 23C: ten full archival recordings for five major-power stations"
+            git push
+          fi
