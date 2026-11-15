@@ -1,6 +1,13 @@
 # TOBS — Music Rights & Source Audit (Phase 23C.1)
 Date: 2026-11-15. Scope: research guidance for U.S.-hosted development website; not legal advice.
 
+## Hard eligibility rule — user-approved 2026-11-15
+**TOBS only uses recordings with affirmative, documented rights to redistribute and play on the public website.** Eligible sources are (a) sound recordings and underlying works reliably established as **public domain** for intended uses, or (b) recordings explicitly released under a free-use license or rights-holder permission that permits public redistribution and commercial use, with any required attribution fulfilled. Prefer CC0, CC BY, and suitable other free/open licenses; review license conditions such as share-alike and adaptations before deploying.
+
+**Default = do not use.** If public-domain status is unproven, the recording license is missing/unclear, commercial redistribution is restricted, underlying composition rights remain uncertain, or the provenance is contradictory, mark the candidate **excluded_unverified** and move on to a different candidate. Do not repeatedly ask the site owner to conduct rights reviews or spend time pursuing permissions for restricted tracks.
+
+Automated research may check evidence and document eligibility, but must not claim to offer legal certification. A **verified eligible** classification needs specific recording-level and composition-level evidence URLs; an ancient date, library streaming availability, or Commons/YouTube hosting alone is never enough. A known restricted track is **rejected**. No historical music is uploaded or added to the playable manifest without verified eligibility and provenance. The preference for music from the 1940s and earlier is for historical fit, not a rights shortcut.
+
 ## Research preference — user-confirmed 2026-11-15
 - Prefer music **composed or recorded during the 1940s or earlier** when building the 1936–1945 TOBS atmosphere.
 - This is a **historical fit / candidate-discovery preference**, **NOT blanket copyright clearance**. A recording made or released during the 1930s or 1940s may remain protected in the U.S. and elsewhere. A public-domain composition does not automatically make every performance or sound recording public domain.
@@ -14,7 +21,7 @@ Before adding any historical or third-party recording to `audio-manifest.json`, 
 - Original catalog/item page URL; direct recording URL; explicit rights/license statement URL; date reviewed and who reviewed it.
 - Rights to **sound recording** and **underlying composition**, assessed separately; any foreign rights or restoration concerns.
 - License exact version, attribution text, rights-holder name, modifications, redistribution/commercial permission, and any share-alike implications.
-- **Decision**: candidate | needs_review | cleared | rejected. Only `cleared` is deployable. Store a rights statement snapshot/evidence separately where feasible.
+- **Decision**: candidate | excluded_unverified | verified_eligible | rejected. Only `verified_eligible` is potentially deployable after source-file and attribution checks; existing `needs_review` entries are legacy research leads and remain excluded until evidence resolves them. Store a rights statement snapshot/evidence separately where feasible.
 - Audio-quality check, geographic/cultural relevance, accessible metadata, and content review.
 
 ## Status: sources researched, no third-party tracks licensed or added
