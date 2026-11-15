@@ -106,10 +106,10 @@
       "frequency_mhz": 83.5,
       "country": "Australia",
       "station": "Southern Cross Wireless",
-      "research_status": "audio_deployed",
-      "rights_cleared_track_count": 1,
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.5: first playable original composition (full-length wartime-themed instrumental), synthesized specifically for TOBS; not an authentic historical recording. See music/ORIGINAL-WARTIME-MUSIC.md."
+      "notes": "Phase 23C.5 original synthetic track rejected and removed after listening test. No playable recording; prioritize genuine public-domain/free-use period performances."
     },
     {
       "frequency_mhz": 84,
@@ -197,7 +197,7 @@
       "country": "United Kingdom",
       "station": "Albion Home Service",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 5,
+      "rights_cleared_track_count": 4,
       "target_initial_tracks": 5,
       "notes": "4 complete LOC historical public-domain recordings in playable dev radio, latest batch individual MD5 verified. Repertoire fit is editorial, not a wartime national broadcast. See music/major-batch2-sources.json and music/CREDITS.md."
     },
@@ -241,10 +241,10 @@
       "frequency_mhz": 89.5,
       "country": "Poland",
       "station": "Polskie Echo",
-      "research_status": "audio_deployed",
-      "rights_cleared_track_count": 1,
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.5: first playable original composition (full-length wartime-themed instrumental), synthesized specifically for TOBS; not an authentic historical recording. See music/ORIGINAL-WARTIME-MUSIC.md."
+      "notes": "Phase 23C.5 original synthetic track rejected and removed after listening test. No playable recording; prioritize genuine public-domain/free-use period performances."
     },
     {
       "frequency_mhz": 89.6,
@@ -367,17 +367,17 @@
       "frequency_mhz": 95.4,
       "country": "Canada",
       "station": "Maple Leaf Broadcasting",
-      "research_status": "audio_deployed",
-      "rights_cleared_track_count": 1,
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.5: first playable original composition (full-length wartime-themed instrumental), synthesized specifically for TOBS; not an authentic historical recording. See music/ORIGINAL-WARTIME-MUSIC.md."
+      "notes": "Phase 23C.5 original synthetic track rejected and removed after listening test. No playable recording; prioritize genuine public-domain/free-use period performances."
     },
     {
       "frequency_mhz": 95.7,
       "country": "United States",
       "station": "WRS Victory Ballroom",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 6,
+      "rights_cleared_track_count": 5,
       "target_initial_tracks": 5,
       "notes": "Five eligible LOC Citizen DJ Jazz CURATED EXCERPTS (not full commercial recordings). No historical audio deployed yet. Source and rights: https://citizen-dj.labs.loc.gov/loc-jukebox-jazz/use/"
     },
@@ -539,7 +539,7 @@
       "country": "Soviet Union",
       "station": "Radio Krasnaya Zvezda",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 5,
+      "rights_cleared_track_count": 4,
       "target_initial_tracks": 5,
       "notes": "4 complete LOC historical public-domain recordings in playable dev radio, latest batch individual MD5 verified. Repertoire fit is editorial, not a wartime national broadcast. See music/major-batch2-sources.json and music/CREDITS.md."
     },
