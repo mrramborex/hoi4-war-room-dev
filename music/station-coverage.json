@@ -169,10 +169,10 @@
       "frequency_mhz": 86.9,
       "country": "Austria",
       "station": "Wiener Funkhaus",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.9: full original pre-1923 historical performances from LOC, verified against item MD5 (music/international-batch3-sources.json). Austrian song Brüderlein fein composed by Austrian theatre composer Joseph Drechsler; recorded in New York 1916, NOT an original wartime Vienna radio broadcast. No user commercial copyrighted tracks uploaded."
     },
     {
       "frequency_mhz": 87.2,
@@ -278,9 +278,9 @@
       "country": "France",
       "station": "La Voix de Paris",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 4,
+      "rights_cleared_track_count": 5,
       "target_initial_tracks": 5,
-      "notes": "4 complete LOC historical public-domain recordings in playable dev radio, latest batch individual MD5 verified. Repertoire fit is editorial, not a wartime national broadcast. See music/major-batch2-sources.json and music/CREDITS.md."
+      "notes": "Phase 23C.9: full original pre-1923 historical performances from LOC, verified against item MD5 (music/international-batch3-sources.json). Austrian song Brüderlein fein composed by Austrian theatre composer Joseph Drechsler; recorded in New York 1916, NOT an original wartime Vienna radio broadcast. No user commercial copyrighted tracks uploaded."
     },
     {
       "frequency_mhz": 91.3,
@@ -422,9 +422,9 @@
       "country": "Germany",
       "station": "Berliner Tanzorchester",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 4,
+      "rights_cleared_track_count": 5,
       "target_initial_tracks": 5,
-      "notes": "4 complete LOC historical public-domain recordings in playable dev radio, latest batch individual MD5 verified. Repertoire fit is editorial, not a wartime national broadcast. See music/major-batch2-sources.json and music/CREDITS.md."
+      "notes": "Phase 23C.9: full original pre-1923 historical performances from LOC, verified against item MD5 (music/international-batch3-sources.json). Austrian song Brüderlein fein composed by Austrian theatre composer Joseph Drechsler; recorded in New York 1916, NOT an original wartime Vienna radio broadcast. No user commercial copyrighted tracks uploaded."
     },
     {
       "frequency_mhz": 97.6,
