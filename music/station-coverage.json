@@ -44,18 +44,18 @@
       "country": "Mexico",
       "station": "Radio México",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 1,
+      "rights_cleared_track_count": 2,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.10: full real pre-1923 recordings from LOC, each MP3 checked against official LOC MD5; culturally assigned by language/repertoire or ensemble, not recording location. No genuine 1939–45 recording implied. See music/minor-batch4-sources.json."
+      "notes": "Phase 23C.11: complete original pre-1923 LOC performances, original audio MD5 verified against official package. Regional selection by composer, ensemble or genre, not recording location. See music/minor-batch5-sources.json and music/minor-batch5-verified.json."
     },
     {
       "frequency_mhz": 81.8,
       "country": "Argentina",
       "station": "Radio del Plata",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.11: complete original pre-1923 LOC performances, original audio MD5 verified against official package. Regional selection by composer, ensemble or genre, not recording location. See music/minor-batch5-sources.json and music/minor-batch5-verified.json."
     },
     {
       "frequency_mhz": 82.1,
@@ -250,10 +250,10 @@
       "frequency_mhz": 89.6,
       "country": "Greece",
       "station": "Athens Wireless",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 2,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.11: complete original pre-1923 LOC performances, original audio MD5 verified against official package. Regional selection by composer, ensemble or genre, not recording location. See music/minor-batch5-sources.json and music/minor-batch5-verified.json."
     },
     {
       "frequency_mhz": 90.1,
@@ -493,10 +493,10 @@
       "frequency_mhz": 101.3,
       "country": "Brazil",
       "station": "Rádio Carioca",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.11: complete original pre-1923 LOC performances, original audio MD5 verified against official package. Regional selection by composer, ensemble or genre, not recording location. See music/minor-batch5-sources.json and music/minor-batch5-verified.json."
     },
     {
       "frequency_mhz": 101.5,
