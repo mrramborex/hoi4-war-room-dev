@@ -1,0 +1,33 @@
+{
+  "phase": "23C.8",
+  "version": 1,
+  "rights": "Library of Congress National Jukebox dataset; all its pre-1923 recordings assumed PD United States. Historical 1912 song composition. Public reuse of historic recordings only; not source user MP3 archive.",
+  "source_rights": "https://data.labs.loc.gov/jukebox/README.html",
+  "checksum_manifest": "https://data.labs.loc.gov/jukebox/manifest.html",
+  "tracks": [
+    {
+      "country": "United Kingdom",
+      "title": "It's a Long, Long Way to Tipperary — McCormack ensemble (1914)",
+      "id": "11634",
+      "md5": "6c19d14dda3babf8961e35e3eb20e315",
+      "recorded": "1914-11-23",
+      "credits": "Harry Macdonough, William F. Hooley, John McCormack and Reinald Werrenrath; Jack Judge and Harry Williams",
+      "notes": "Original 1914 male vocal and chorus, with orchestra; genuine WWI-associated music, NOT WWII recording.",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-11634_1.mp3",
+      "source": "https://www.loc.gov/item/jukebox-11634/",
+      "filename": "tobs-uk-tipperary-11634.mp3"
+    },
+    {
+      "country": "United Kingdom",
+      "title": "It's a Long, Long Way to Tipperary — American Quartet (1914)",
+      "id": "11094",
+      "md5": "5879894a21f61b11ebf50439a070b540",
+      "recorded": "1914-09-15",
+      "credits": "American Quartet: Billy Murray, Steve Porter, Robert D. Armour, William F. Hooley; Jack Judge and Harry Williams",
+      "notes": "Original 1914 quartet performance with orchestra; genuine WWI-associated song, NOT WWII recording.",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-11094_1.mp3",
+      "source": "https://www.loc.gov/item/jukebox-11094/",
+      "filename": "tobs-uk-tipperary-11094.mp3"
+    }
+  ]
+}
