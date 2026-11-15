@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "phase": "23C.6",
+  "updated_on": "2026-11-15",
+  "scope": "Actual 1939-1945 source recordings and wartime performances; research only; do not add to playable radio until exact audio file and all underlying rights cleared",
+  "rights_rule": "public_domain_or_explicit_free_reuse_only",
+  "items": [
+    {
+      "title": "Uncle Sam Blues",
+      "performer": "Oran 'Hot Lips' Page with Eddie Condon's Jazz Band",
+      "year": 1944,
+      "kind": "actual wartime V-Disc music",
+      "source_url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/descriptions-and-essays/",
+      "rights_url": "https://www.loc.gov/collections/national-jukebox/about-this-collection/rights-and-access/",
+      "status": "excluded_unverified",
+      "reason": "1944 V-Disc is genuine wartime music but military distribution did not automatically extinguish rights; no documented license for public website redistribution"
+    },
+    {
+      "title": "Artistry in Rhythm",
+      "performer": "Stan Kenton and His Orchestra",
+      "year": 1943,
+      "kind": "actual wartime big-band recording",
+      "source_url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/descriptions-and-essays/",
+      "rights_url": "https://www.loc.gov/collections/national-jukebox/about-this-collection/rights-and-access/",
+      "status": "excluded_unverified",
+      "reason": "Commercial 1943 sound recording and composition rights lack public-redistribution clearance"
+    },
+    {
+      "title": "Ac-Cent-Tchu-Ate the Positive",
+      "performer": "Johnny Mercer",
+      "year": 1944,
+      "kind": "actual wartime popular song recording",
+      "source_url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/listen-to-registry-titles/",
+      "rights_url": "https://www.loc.gov/collections/national-jukebox/about-this-collection/rights-and-access/",
+      "status": "excluded_unverified",
+      "reason": "Recordings from 1944 generally retain US rights without special documented exemption"
+    },
+    {
+      "title": "Caldonia",
+      "performer": "Louis Jordan",
+      "year": 1945,
+      "kind": "actual wartime jump blues recording",
+      "source_url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/complete-national-recording-registry-listing/",
+      "rights_url": "https://www.loc.gov/collections/national-jukebox/about-this-collection/rights-and-access/",
+      "status": "excluded_unverified",
+      "reason": "1945 commercial record; no documented free reuse"
+    },
+    {
+      "title": "The Army Air Forces Band / wartime performing unit",
+      "performer": "U.S. Army Air Forces Band",
+      "year": 1942,
+      "kind": "authentic wartime military band performances",
+      "source_url": "https://www.music.af.mil/USAFBand/About-Us/History/A-Wartime-Birth-1941-1945/",
+      "status": "research_only",
+      "reason": "Official band history confirms wartime films, recordings and radio performances; no exact redistributable free recording identified. Warner Bros. film involvement raises third-party rights questions"
+    },
+    {
+      "title": "Army-Navy Screen Magazine: G.I. Journal",
+      "performer": "Kay Kyser and orchestra, 1944 filmed military entertainment",
+      "year": 1944,
+      "kind": "authentic wartime musical performance in government military film",
+      "source_url": "https://16mmfilmography.org/film/army-navy-screen-magazine-the-gi-journal/",
+      "status": "excluded_unverified",
+      "reason": "The linked restored transfer asks for permission for commercial use; musical composition and performance rights not separately established"
+    },
+    {
+      "title": "When Work Is Done",
+      "performer": "U.S. Office of War Information wartime community recreation film",
+      "year": 1944,
+      "kind": "genuine wartime government film with dances and recreation; possible background musical passages",
+      "source_url": "https://www.loc.gov/item/2020600703/",
+      "rights_url": "https://citizen-dj.labs.loc.gov/loc-national-screening-room/remix/?itemId=2020600703&itemStart=492000",
+      "status": "source_free_music_unconfirmed",
+      "reason": "LOC Citizen DJ explicitly grants reuse of its government-film subset; need verify that any extract contains an actual complete musical performance with a separately eligible composition"
+    },
+    {
+      "title": "Film Communique No. 4",
+      "performer": "U.S. Army Signal Corps / War Department",
+      "year": 1943,
+      "kind": "actual wartime government film audio, primarily newsreel",
+      "source_url": "https://www.loc.gov/item/2020600729/",
+      "rights_url": "https://citizen-dj.labs.loc.gov/loc-national-screening-room/remix/?itemId=2020600729&itemStart=44000",
+      "status": "source_free_music_unconfirmed",
+      "reason": "Govt wartime film flagged reusable by LOC; musical passages not confirmed, so no music playlist inclusion"
+    },
+    {
+      "title": "The Memphis Belle: A Story of a Flying Fortress",
+      "performer": "U.S. Army Eighth Air Force 1944 film",
+      "year": 1944,
+      "kind": "wartime government documentary with film score",
+      "source_url": "https://www.loc.gov/item/2023602007/",
+      "rights_url": "https://citizen-dj.labs.loc.gov/loc-national-screening-room/remix/?itemId=mbrs00009301&itemStart=2050000",
+      "status": "source_free_music_unconfirmed",
+      "reason": "LOC reuse permission for govt film source; identifiable musical cues and underlying score rights need specific verification; film soundtrack is not equivalent to a standalone song"
+    },
+    {
+      "title": "Army-Navy Screen Magazine: Jubilee",
+      "performer": "Lena Horne and Eddie Rochester Anderson",
+      "year": 1944,
+      "kind": "authentic armed-services performance in wartime film",
+      "source_url": "https://www.archives.gov/press/press-releases/2007-245",
+      "status": "excluded_unverified",
+      "reason": "Original movie musical compositions and film performances may be independently protected; no free-redistribution evidence for performance"
+    }
+  ],
+  "discovery_sources": [
+    "https://www.archives.gov/research/military/ww2/sound-recordings.html",
+    "https://www.archives.gov/research/guide-fed-records/groups/208.html",
+    "https://citizen-dj.labs.loc.gov/loc-national-screening-room/use/",
+    "https://www.loc.gov/collections/national-jukebox/about-this-collection/rights-and-access/",
+    "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/listen-to-registry-titles/"
+  ]
+}
