@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "TOBS live receiver: 5 complete United States recordings plus 10 rights-documented LOC historical international recordings. Unpopulated stations have no audio until appropriate files are cleared.",
+  "notes": "Phase 23C live receiver: 17 complete historical recordings across 7 major-power stations. Japanese originals from Wikimedia Commons have explicit PD recording/composition tags. Silent stations have no playlist.",
   "stations": {
     "United States": [
       {
@@ -72,6 +72,16 @@
       {
         "title": "Douchechka devitza — LOC historical recording",
         "src": "audio/tobs-international-16142.mp3"
+      }
+    ],
+    "Japan": [
+      {
+        "title": "Gunkan kōshinkyoku (Warship March) — historical recording",
+        "src": "audio/tobs-japan-gunkan-1913.ogg"
+      },
+      {
+        "title": "Teki wa Ikuman — historical recording",
+        "src": "audio/tobs-japan-teki-wa-ikuman.ogg"
       }
     ]
   }
