@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "TOBS live receiver: 27 full historical recordings across seven major-power stations. Six synthetic Phase 23C.5 wartime-style instrumentals were rejected by user and removed; prioritize authentic public-domain/free-use performances, not basic synthesized approximations.",
+  "notes": "TOBS historical archive recordings: 27 earlier genuine selections plus 1 full Polish 1916 folk recording. No rejected synthesized music or copyrighted commercial WWII masters.",
   "stations": {
     "United States": [
       {
@@ -122,6 +122,12 @@
       {
         "title": "Teki wa Ikuman — historical recording",
         "src": "audio/tobs-japan-teki-wa-ikuman.ogg"
+      }
+    ],
+    "Poland": [
+      {
+        "title": "Ulan (Pieśń Narodowa) — 1916 Polish historical folk performance",
+        "src": "audio/tobs-poland-ulan-1916.mp3"
       }
     ]
   }
