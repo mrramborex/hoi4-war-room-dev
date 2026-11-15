@@ -175,3 +175,17 @@ All nine complete original recordings are from the [Library of Congress National
 | Poland | Krakowiak | 1911-07-20 | Rybowiak Orchestra; A. E. Brunner (composer) | [LOC 130659](https://www.loc.gov/item/jukebox-130659/), `6da5c7bd15f864e0e2a296e1310f2411` |
 
 All nine MP3s are in `audio/tobs-minors-batch4-[item-id].mp3`; the machine-readable source table is `music/minor-batch4-sources.json`. Authentic 1936–1945 songs are still under research due to rights restrictions; no rejected synthetic instrumentals or commercially restricted uploads were added.
+
+## Phase 23C.11 — Argentina, Brazil, Greece, and Mexico (5 original complete recordings)
+
+All five historic master files were included in the [LOC National Jukebox downloadable dataset](https://data.labs.loc.gov/jukebox/), dated before 1923 and matched to the item's official MD5 recording checksum. **These recordings are not WWII-era recordings.** Station assignment reflects musical or regional repertoire, not where the performances were recorded.
+
+| TOBS station | Historical performance | Original record date | Credits | Original source / MD5 |
+| --- | --- | --- | --- | --- |
+| Argentina | Mi ricurita — tango | 1915-11-30 | Victor Orchestra, Edward T. King (conductor); Osmán Pérez Freire (composer) | [LOC 15618](https://www.loc.gov/item/jukebox-15618/), `46e3b1c896e45ac31e217cee08340bf0` |
+| Brazil | A madrugada exul | 1908-05-04 | Roxy King (soprano), Victor Orchestra; Leopoldo Miguez (Brazilian composer) | [LOC 126387](https://www.loc.gov/item/jukebox-126387/), `ea5e0e834609f1d5fe892103a6be1ff2` |
+| Greece | Estudiantina waltz | 1916 | Athenian Mandolin Quartet; Émile Waldteufel / Paul Lacome (composer credit per LOC) | [LOC 16628](https://www.loc.gov/item/jukebox-16628/), `bf39cfaa93f0fcefa49cba5dcd2a72ac` |
+| Greece | Spanish rhapsody | 1916 | Athenian Mandolin Quartet; Simone Salvetti (composer per LOC) | [LOC 16627](https://www.loc.gov/item/jukebox-16627/), `782dae0e613ad38101516529b0c1c44b` |
+| Mexico | Alejandra | 1910s | Banda Rodríguez, Victor Band; E. Navarro (composer) | [LOC 12663](https://www.loc.gov/item/jukebox-12663/), `fd8e54e799e2e4893aca1e9f754a4ee4` |
+
+**Context:** The Athenian Mandolin Quartet's two recordings are European repertoire performed by a historically Greek ensemble—not traditional Greek songs. *Mi ricurita* is catalogued by LOC as an Argentine-targeted tango performed by the Victor Orchestra in the United States. *A madrugada exul* is music by Brazilian composer Leopoldo Miguez, performed in Portuguese. *Alejandra* is Mexican band repertoire, not a newly synthesized recording. See `music/minor-batch5-sources.json` for the item-level rationale. No copyrighted user-uploaded MP3s were publicly hosted.
