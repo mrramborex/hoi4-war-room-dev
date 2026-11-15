@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "TOBS historical music archive: three additional full verified pre-1923 LOC recordings (France, Germany, and first Austrian broadcast) in Phase 23C.9. Historic repertoire, not actual WWII performances. No copyrighted user audio or rejected synthesized music.",
+  "notes": "TOBS historical music archive: nine original real musical recordings, 1906–1916, added to Sweden, Norway, Finland, Denmark, Mexico, and Poland. No synthetic or restricted commercial WWII originals published. Genuine WWII period performance research continues separately.",
   "stations": {
     "United States": [
       {
@@ -144,12 +144,58 @@
       {
         "title": "Ulan (Pieśń Narodowa) — 1916 Polish historical folk performance",
         "src": "audio/tobs-poland-ulan-1916.mp3"
+      },
+      {
+        "title": "Krakowiak — original 1911 recording",
+        "src": "audio/tobs-minors-batch4-130659.mp3"
       }
     ],
     "Austria": [
       {
         "title": "Brüderlein fein — Frida Bennèche — original historical recording",
         "src": "audio/tobs-international-batch3-19147.mp3"
+      }
+    ],
+    "Sweden": [
+      {
+        "title": "Drick ur ditt glas — original 1906 recording",
+        "src": "audio/tobs-minors-batch4-123353.mp3"
+      },
+      {
+        "title": "Hell dig, du höga Nord! — original 1916 recording",
+        "src": "audio/tobs-minors-batch4-16725.mp3"
+      }
+    ],
+    "Norway": [
+      {
+        "title": "Hun er sød, hun er blid — original 1913 recording",
+        "src": "audio/tobs-minors-batch4-133882.mp3"
+      },
+      {
+        "title": "Sæterjentens søndag — original 1913 recording",
+        "src": "audio/tobs-minors-batch4-133885.mp3"
+      }
+    ],
+    "Finland": [
+      {
+        "title": "Taivas on sininen ja valkoinen — original 1916 recording",
+        "src": "audio/tobs-minors-batch4-18368.mp3"
+      },
+      {
+        "title": "Ei taivahan alla — original 1916 recording",
+        "src": "audio/tobs-minors-batch4-18369.mp3"
+      }
+    ],
+    "Denmark": [
+      {
+        "title": "Fritz og Lise — original 1906 recording",
+        "src": "audio/tobs-minors-batch4-124182.mp3"
+      }
+    ],
+    "Mexico": [
+      {
+        "title": "Adela — original 1914 recording",
+        "src": "audio/tobs-minors-batch4-258926.mp3"
       }
     ]
   }
