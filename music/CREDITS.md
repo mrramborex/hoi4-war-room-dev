@@ -157,3 +157,21 @@ All three are genuine pre-1923 recordings obtained as complete MP3s from the Lib
 | Austria | Brüderlein fein — Frida Bennèche | 1916-08-02 | Frida Bennèche, soprano; King's Orchestra; Edward T. King, conductor; Joseph Drechsler, composer; Ferdinand Raimund, playwright | [LOC 19147](https://www.loc.gov/item/jukebox-19147/), `8f8e101854e99b41ecf1b021102acc0b` |
 
 Both the 1914 German national song and the French anthem are used as period historical documentation, not endorsement of any political ideology. Austrian *Brüderlein fein* is part of a Viennese theatrical tradition, but was recorded in the United States. The source recordings are pre-WWII; no user-provided private audio has been published.
+
+## Phase 23C.10 — Northern Europe, Mexico, and Poland (nine authentic recordings)
+
+All nine complete original recordings are from the [Library of Congress National Jukebox dataset](https://data.labs.loc.gov/jukebox/) and **matched their individual official MD5 checksums** in the [LOC manifest](https://data.labs.loc.gov/jukebox/manifest.html). These are recordings from **1906–1916**, not WWII-era performances or actual period national broadcasts. Station assignments are based on cultural repertoire/language/ensemble, never on the location of the studio. The Danish-language selection *Fritz og Lise* is a performance of a French-composed Offenbach work; it is explicitly **Danish-language programming**, not native Danish composition.
+
+| Station | Recording | Original date | Original performance credits | LOC source and MD5 |
+| --- | --- | --- | --- | --- |
+| Sweden | Drick ur ditt glas | 1906-07-12 | Joel Mossberg (baritone); Carl Michael Bellman (composer) | [LOC 123353](https://www.loc.gov/item/jukebox-123353/), `b272e29b39c295e2176891490bc179bf` |
+| Sweden | Hell dig, du höga Nord! | 1916-03-03 | Aage Wang-Holm (tenor); King's Orchestra; Bernhard Henrik Crusell (composer) | [LOC 16725](https://www.loc.gov/item/jukebox-16725/), `ea5c5fbe89201f20de39e7bca2f179f7` |
+| Norway | Hun er sød, hun er blid | 1913-10-08 | Carsten Woll (tenor), Fred Bachman (piano); Halfdan Kjerulf (composer) | [LOC 133882](https://www.loc.gov/item/jukebox-133882/), `463f5ccf021e4bf3889c7634b582bef0` |
+| Norway | Sæterjentens søndag | 1913-10-09 | Carsten Woll (tenor), Fred Bachman (piano); Ole Bull (composer) | [LOC 133885](https://www.loc.gov/item/jukebox-133885/), `816d1264a2db0900a9a88f0581e63814` |
+| Finland | Taivas on sininen ja valkoinen | 1916-06-27 | Elli Suokas (soprano), King's Orchestra; Edward T. King (conductor) | [LOC 18368](https://www.loc.gov/item/jukebox-18368/), `fa13b52aa461c1921efa4bfee8dbfda8` |
+| Finland | Ei taivahan alla | 1916-06-27 | Elli Suokas (soprano), King's Orchestra; Edward T. King (conductor) | [LOC 18369](https://www.loc.gov/item/jukebox-18369/), `403b5fc593c7a23e6b088f27f53ecb5d` |
+| Denmark | Fritz og Lise | 1906-12-06 | Gudrun Carlson (soprano), Johannes Herskind; Jacques Offenbach (composer) | [LOC 124182](https://www.loc.gov/item/jukebox-124182/), `1550e45e48f71724355d2586d6423ed9` |
+| Mexico | Adela | 1914-12-01 | Banda Rodríguez; Walter B. Rogers (conductor); E. Navarro (composer) | [LOC 258926](https://www.loc.gov/item/jukebox-258926/), `f8513e7856f71bdcabc98137daec5498` |
+| Poland | Krakowiak | 1911-07-20 | Rybowiak Orchestra; A. E. Brunner (composer) | [LOC 130659](https://www.loc.gov/item/jukebox-130659/), `6da5c7bd15f864e0e2a296e1310f2411` |
+
+All nine MP3s are in `audio/tobs-minors-batch4-[item-id].mp3`; the machine-readable source table is `music/minor-batch4-sources.json`. Authentic 1936–1945 songs are still under research due to rights restrictions; no rejected synthetic instrumentals or commercially restricted uploads were added.
