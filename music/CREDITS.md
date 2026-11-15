@@ -19,6 +19,6 @@ The Library of Congress identifies the **specific curated audio excerpts** in th
 Imported on 2026-11-15 by an auditable GitHub Actions job with exact archive URLs and file format checks:
 `music/loc-curated-excerpts.json`, `music/import_loc_jazz.py`, `.github/workflows/import-loc-jazz.yml`.
 
-**Other existing TOBS test recordings:** Seven original synthesized station identifiers, not third-party historical recordings.
+**Historical audio currently deployed:** The five curated LOC excerpts above. All seven original synthesized test transmissions were removed from the development radio and repository when live-station playback was implemented.
 
 **Rights rule:** Only public-domain recordings or explicitly free-use recordings with appropriate redistribution rights are used. Other reviewed titles remain outside the playable radio until sufficient evidence exists.
