@@ -10,6 +10,26 @@
       {
         "title": "TOBS Test Transmission — Closing Ident",
         "src": "audio/tobs-test-signoff.wav"
+      },
+      {
+        "title": "'Joe Turner Blues' Medley — LOC excerpt 00:34",
+        "src": "audio/tobs-loc-joe-turner-blues.wav"
+      },
+      {
+        "title": "12th Street Rag — LOC excerpt 00:00",
+        "src": "audio/tobs-loc-12th-street-rag.wav"
+      },
+      {
+        "title": "A Classical Spasm — LOC excerpt 00:00",
+        "src": "audio/tobs-loc-classical-spasm.wav"
+      },
+      {
+        "title": "A Rag-Time Episode — LOC excerpt 00:30",
+        "src": "audio/tobs-loc-rag-time-episode.wav"
+      },
+      {
+        "title": "After You've Gone — LOC excerpt 01:00",
+        "src": "audio/tobs-loc-after-youve-gone.wav"
       }
     ],
     "United Kingdom": [
