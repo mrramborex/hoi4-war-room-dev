@@ -43,10 +43,10 @@
       "frequency_mhz": 81.6,
       "country": "Mexico",
       "station": "Radio México",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.10: full real pre-1923 recordings from LOC, each MP3 checked against official LOC MD5; culturally assigned by language/repertoire or ensemble, not recording location. No genuine 1939–45 recording implied. See music/minor-batch4-sources.json."
     },
     {
       "frequency_mhz": 81.8,
@@ -124,10 +124,10 @@
       "frequency_mhz": 84.5,
       "country": "Finland",
       "station": "Helsinki Radio",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 2,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.10: full real pre-1923 recordings from LOC, each MP3 checked against official LOC MD5; culturally assigned by language/repertoire or ensemble, not recording location. No genuine 1939–45 recording implied. See music/minor-batch4-sources.json."
     },
     {
       "frequency_mhz": 85,
@@ -160,10 +160,10 @@
       "frequency_mhz": 86.7,
       "country": "Norway",
       "station": "Oslo Wireless",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 2,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.10: full real pre-1923 recordings from LOC, each MP3 checked against official LOC MD5; culturally assigned by language/repertoire or ensemble, not recording location. No genuine 1939–45 recording implied. See music/minor-batch4-sources.json."
     },
     {
       "frequency_mhz": 86.9,
@@ -242,9 +242,9 @@
       "country": "Poland",
       "station": "Polskie Echo",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 1,
+      "rights_cleared_track_count": 2,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.7: Ulan, full 1916 historical Polish-language folk performance (Jakov Medvedieff and King's Orchestra), sourced from Library of Congress National Jukebox; original MP3 matched official MD5. NOT a 1939–1945 recording; synthetic original rejected earlier remains removed."
+      "notes": "Phase 23C.10: full real pre-1923 recordings from LOC, each MP3 checked against official LOC MD5; culturally assigned by language/repertoire or ensemble, not recording location. No genuine 1939–45 recording implied. See music/minor-batch4-sources.json."
     },
     {
       "frequency_mhz": 89.6,
@@ -529,10 +529,10 @@
       "frequency_mhz": 102.7,
       "country": "Denmark",
       "station": "København Radio",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.10: full real pre-1923 recordings from LOC, each MP3 checked against official LOC MD5; culturally assigned by language/repertoire or ensemble, not recording location. No genuine 1939–45 recording implied. See music/minor-batch4-sources.json."
     },
     {
       "frequency_mhz": 103.1,
@@ -556,10 +556,10 @@
       "frequency_mhz": 103.7,
       "country": "Sweden",
       "station": "Stockholm Wireless",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 2,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.10: full real pre-1923 recordings from LOC, each MP3 checked against official LOC MD5; culturally assigned by language/repertoire or ensemble, not recording location. No genuine 1939–45 recording implied. See music/minor-batch4-sources.json."
     },
     {
       "frequency_mhz": 103.9,
