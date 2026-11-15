@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "phase": "23C.7",
+  "country": "Poland",
+  "title": "Ulan (Pieśń Narodowa)",
+  "description": "Polish/Russian folk song, historical original performance; not a WWII recording",
+  "performer": "Jakov M. Medvedieff, tenor; King's Orchestra; Edward T. King, conductor",
+  "recording_date": "1916-03-30",
+  "id": "17105",
+  "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-17105_1.mp3",
+  "source_item": "https://www.loc.gov/item/jukebox-17105/",
+  "rights_evidence": "https://www.loc.gov/collections/national-jukebox/about-this-collection/rights-and-access/",
+  "checksum_source": "https://data.labs.loc.gov/jukebox/manifest.html",
+  "md5": "528e0097e369e015186ecd03a41d8367",
+  "filename": "tobs-poland-ulan-1916.mp3",
+  "notes": "Pre-1923 original performance, PD under US MMA; historic Polish folk repertoire, recorded by Victor in US. Not wartime 1939-1945 audio."
+}
