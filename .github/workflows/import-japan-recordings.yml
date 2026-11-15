@@ -1,0 +1,32 @@
+name: Import public-domain Japanese recordings
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/import-japan-recordings.yml"
+permissions:
+  contents: write
+concurrency:
+  group: japan-public-domain-import
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Download and validate Japanese historic recordings
+        run: python3 music/import_japan_recordings.py
+      - name: Commit verified archive files to development
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/tobs-japan-*.ogg audio-manifest.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Phase 23C.3: add two full historic Japanese recordings"
+            git push
+          fi
