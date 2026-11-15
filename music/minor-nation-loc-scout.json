@@ -1,0 +1,2684 @@
+{
+  "version": 1,
+  "scope": "LOC downloadable complete MP3 subset, no inferred rights for unverified compositions",
+  "rights": "https://data.labs.loc.gov/jukebox/README.html",
+  "groups": {
+    "Sweden": {
+      "count": 14,
+      "shortlist": [
+        {
+          "id": "17981",
+          "title": "Aktenskapsfragan",
+          "date": "1916-06-01",
+          "language": "Swedish",
+          "audience": "",
+          "genre": "Ethnic music | Swedish",
+          "credits": "Lundberg, Oscar, Vocalist -- Bass Vocal | King, Edward T., Conductor | King's Orchestra, Musical Group | Fröding, Gustaf, Author",
+          "source": "https://www.loc.gov/item/jukebox-17981/"
+        },
+        {
+          "id": "130996",
+          "title": "Alls ingen flicka lastar ja'",
+          "date": "1911-11-02",
+          "language": "Swedish",
+          "audience": "",
+          "genre": "Ethnic music | Swedish",
+          "credits": "Olson-Ellis, Elis, Vocalist -- Tenor Vocal | Bachman, Fred, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-130996/"
+        },
+        {
+          "id": "123353",
+          "title": "Drick ur ditt glas",
+          "date": "1906-07-12",
+          "language": "Swedish",
+          "audience": "",
+          "genre": "Ethnic music | Swedish",
+          "credits": "Mossberg, Joel, Vocalist -- Baritone Vocal | Bellman, Carl Michael, Composer",
+          "source": "https://www.loc.gov/item/jukebox-123353/"
+        },
+        {
+          "id": "16725",
+          "title": "Hell dig, du hoga Nord!",
+          "date": "1916-03-03",
+          "language": "Swedish",
+          "audience": "",
+          "genre": "Classical music | Ethnic music | Swedish",
+          "credits": "King, Edward T., Conductor | Crusell, Bernhard Henrik, Composer | King's Orchestra, Musical Group | Wang-Holm, Aage, Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-16725/"
+        },
+        {
+          "id": "16730",
+          "title": "Kung Carl XII",
+          "date": "1916-05-05",
+          "language": "Swedish",
+          "audience": "",
+          "genre": "Classical music | Ethnic music | Swedish",
+          "credits": "Westermark, Otto, Composer | King, Edward T., Conductor | Wang-Holm, Aage, Vocalist -- Tenor Vocal | King's Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-16730/"
+        },
+        {
+          "id": "17593",
+          "title": "Lifdrabanten och kung Erik",
+          "date": "1916-05-05",
+          "language": "Swedish",
+          "audience": "",
+          "genre": "Classical music | Swedish",
+          "credits": "King, Edward T., Conductor | King's Orchestra, Musical Group | Wang-Holm, Aage, Vocalist -- Tenor Vocal | Lindblad, Otto, Composer",
+          "source": "https://www.loc.gov/item/jukebox-17593/"
+        },
+        {
+          "id": "131002",
+          "title": "Lifvets saga",
+          "date": "1911-11-02",
+          "language": "Swedish",
+          "audience": "",
+          "genre": "Ethnic music | Swedish",
+          "credits": "Westling, August, Lyricist | Olson-Ellis, Elis, Vocalist -- Tenor Vocal | Bachman, Fred, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-131002/"
+        },
+        {
+          "id": "123309",
+          "title": "Liss Olof Larsons : Stockholmsresa",
+          "date": "1906-07-10",
+          "language": "Swedish",
+          "audience": "",
+          "genre": "Ethnic music | Swedish",
+          "credits": "Mossberg, Joel, Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-123309/"
+        },
+        {
+          "id": "17980",
+          "title": "Min Hemlandsdal",
+          "date": "1916-06-01",
+          "language": "Swedish",
+          "audience": "",
+          "genre": "Ethnic music | Swedish",
+          "credits": "Lundberg, Oscar, Vocalist -- Bass Vocal | King, Edward T., Conductor | King's Orchestra, Musical Group | Liebe, Ludwig, Composer",
+          "source": "https://www.loc.gov/item/jukebox-17980/"
+        },
+        {
+          "id": "123344",
+          "title": "Min lille vra",
+          "date": "1906-07-12",
+          "language": "Swedish",
+          "audience": "",
+          "genre": "Ethnic music | Popular music",
+          "credits": "Mossberg, Joel, Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-123344/"
+        },
+        {
+          "id": "123328",
+          "title": "Per Svinaherde",
+          "date": "1906-07-11",
+          "language": "Swedish",
+          "audience": "",
+          "genre": "Ethnic music | Swedish",
+          "credits": "Mossberg, Joel, Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-123328/"
+        },
+        {
+          "id": "123307",
+          "title": "Stor-Olas Maja",
+          "date": "1906-07-10",
+          "language": "Swedish",
+          "audience": "",
+          "genre": "Ethnic music | Swedish",
+          "credits": "Mossberg, Joel, Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-123307/"
+        },
+        {
+          "id": "16737",
+          "title": "Till Osterland vill jag fara",
+          "date": "1916-05-25",
+          "language": "Swedish",
+          "audience": "",
+          "genre": "Ethnic music | Swedish",
+          "credits": "King, Edward T., Conductor | Haag, Gustav, Arranger | Wang-Holm, Aage, Vocalist -- Tenor Vocal | King's Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-16737/"
+        },
+        {
+          "id": "123321",
+          "title": "Trollhatten",
+          "date": "1906-07-11",
+          "language": "Swedish",
+          "audience": "",
+          "genre": "Ethnic music | Swedish",
+          "credits": "Lindblad, Adolf Fredrik, Composer | Lindblad, Adolf Fredrik, Lyricist | Mossberg, Joel, Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-123321/"
+        }
+      ]
+    },
+    "Norway": {
+      "count": 11,
+      "shortlist": [
+        {
+          "id": "123367",
+          "title": "Det Norske flag",
+          "date": "1906-07-17",
+          "language": "Norwegian",
+          "audience": "",
+          "genre": "Norwegian | Ethnic music",
+          "credits": "Ibsen, L. M., Composer | Rören, Hjalmar E., Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-123367/"
+        },
+        {
+          "id": "133883",
+          "title": "Eg veit ei liti gjenta",
+          "date": "1913-10-09",
+          "language": "Norwegian",
+          "audience": "",
+          "genre": "Norwegian | Ethnic music",
+          "credits": "Elling, Catharinus, Lyricist | Woll, Carsten, Vocalist -- Tenor Vocal | Elling, Catharinus, Composer | Bachman, Fred, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-133883/"
+        },
+        {
+          "id": "135116",
+          "title": "Han mass aan lasse",
+          "date": "1914-05-05",
+          "language": "Norwegian",
+          "audience": "",
+          "genre": "Norwegian | Ethnic music",
+          "credits": "Hammer, Rolf, Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-135116/"
+        },
+        {
+          "id": "133882",
+          "title": "Hun er sd, hun er bld",
+          "date": "1913-10-08",
+          "language": "Norwegian",
+          "audience": "",
+          "genre": "Norwegian | Ethnic music",
+          "credits": "Woll, Carsten, Vocalist -- Tenor Vocal | Kjerulf, Halfdan, Composer | Bachman, Fred, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-133882/"
+        },
+        {
+          "id": "135079",
+          "title": "Jeg gjemmer en undersod drom",
+          "date": "1914-04-24",
+          "language": "Norwegian",
+          "audience": "",
+          "genre": "Classical music | Norwegian",
+          "credits": "Lie, Sigurd, Composer | Vogt, Nils Collett, Lyricist | Hammer, Rolf, Vocalist -- Tenor Vocal | Pike, Katherine, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-135079/"
+        },
+        {
+          "id": "135074",
+          "title": "Kom med visor",
+          "date": "1914-05-05",
+          "language": "Norwegian",
+          "audience": "",
+          "genre": "Classical music | Norwegian",
+          "credits": "Sinding, Christian, Composer | Hammer, Rolf, Vocalist -- Tenor Vocal | Pike, Katherine, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-135074/"
+        },
+        {
+          "id": "133885",
+          "title": "Saeterjentens Sndag",
+          "date": "1913-10-09",
+          "language": "Norwegian",
+          "audience": "",
+          "genre": "Norwegian | Ethnic music",
+          "credits": "Woll, Carsten, Vocalist -- Tenor Vocal | Bull, Ole, Lyricist | Bull, Ole, Composer | Bachman, Fred, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-133885/"
+        },
+        {
+          "id": "133880",
+          "title": "Til min gyldenlak",
+          "date": "1913-10-08",
+          "language": "Norwegian",
+          "audience": "",
+          "genre": "Norwegian | Ethnic music",
+          "credits": "Woll, Carsten, Vocalist -- Tenor Vocal | Wergeland, Henrik Arnold, Lyricist | Frija, Emil, Songwriter | Bachman, Fred, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-133880/"
+        },
+        {
+          "id": "135080",
+          "title": "Tillags aat alla",
+          "date": "1914-04-24",
+          "language": "Norwegian",
+          "audience": "",
+          "genre": "Norwegian | Ethnic music",
+          "credits": "Hammer, Rolf, Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-135080/"
+        },
+        {
+          "id": "135072",
+          "title": "Traet",
+          "date": "1914-04-24",
+          "language": "Norwegian",
+          "audience": "",
+          "genre": "Norwegian | Opera",
+          "credits": "Nordraak, Rikard, Composer | Bjørnson, Bjørnstjerne, Lyricist | Hammer, Rolf, Vocalist -- Tenor Vocal | Pike, Katherine, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-135072/"
+        },
+        {
+          "id": "135071",
+          "title": "Venetiansk serenade",
+          "date": "1914-04-24",
+          "language": "Norwegian",
+          "audience": "",
+          "genre": "Norwegian | Opera",
+          "credits": "Svendsen, Johan Severin, Composer | Hammer, Rolf, Vocalist -- Tenor Vocal | Pike, Katherine, Instrumentalist -- Piano | Paulsen, John, Author",
+          "source": "https://www.loc.gov/item/jukebox-135071/"
+        }
+      ]
+    },
+    "Denmark": {
+      "count": 3,
+      "shortlist": [
+        {
+          "id": "124182",
+          "title": "Fritz og Lise",
+          "date": "1906-12-06",
+          "language": "Danish",
+          "audience": "",
+          "genre": "Ethnic music | Danish",
+          "credits": "Offenbach, Jacques, Composer | Carlson, Gudrun, Vocalist -- Soprano Vocal | Herskind, Johannes, Vocalist",
+          "source": "https://www.loc.gov/item/jukebox-124182/"
+        },
+        {
+          "id": "124178",
+          "title": "Legende",
+          "date": "1906-12-06",
+          "language": "Danish",
+          "audience": "",
+          "genre": "Ethnic music | Danish",
+          "credits": "Offenbach, Jacques, Composer | Carlson, Gudrun, Vocalist -- Soprano Vocal | Herskind, Johannes, Vocalist",
+          "source": "https://www.loc.gov/item/jukebox-124178/"
+        },
+        {
+          "id": "124176",
+          "title": "Gobble duet",
+          "date": "1906-12-06",
+          "language": "Danish",
+          "audience": "",
+          "genre": "Opera | Danish",
+          "credits": "Audran, Edmond, Composer | Carlson, Gudrun, Vocalist -- Soprano Vocal | Herskind, Johannes, Vocalist",
+          "source": "https://www.loc.gov/item/jukebox-124176/"
+        }
+      ]
+    },
+    "Netherlands": {
+      "count": 0,
+      "shortlist": []
+    },
+    "Belgium": {
+      "count": 0,
+      "shortlist": []
+    },
+    "Finland": {
+      "count": 2,
+      "shortlist": [
+        {
+          "id": "18369",
+          "title": "Ei taivahan alla",
+          "date": "1916-06-27",
+          "language": "Finnish",
+          "audience": "",
+          "genre": "Ethnic music | Popular music",
+          "credits": "King, Edward T., Conductor | King's Orchestra, Musical Group | Suokas, Elli, Vocalist -- Soprano Vocal",
+          "source": "https://www.loc.gov/item/jukebox-18369/"
+        },
+        {
+          "id": "18368",
+          "title": "Taivas on sininen ja valkoinen",
+          "date": "1916-06-27",
+          "language": "Finnish",
+          "audience": "",
+          "genre": "Finnish | Ethnic music | Classical music",
+          "credits": "King, Edward T., Conductor | King's Orchestra, Musical Group | Suokas, Elli, Vocalist -- Soprano Vocal",
+          "source": "https://www.loc.gov/item/jukebox-18368/"
+        }
+      ]
+    },
+    "Mexico": {
+      "count": 51,
+      "shortlist": [
+        {
+          "id": "29828",
+          "title": "A Granada",
+          "date": "1918-09-26",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Alvarez, F. M., Composer | Caruso, Enrico, Vocalist -- Tenor Vocal | Pasternack, Josef, Conductor | Gras y Elías, Francisco, Author",
+          "source": "https://www.loc.gov/item/jukebox-29828/"
+        },
+        {
+          "id": "28755",
+          "title": "A la luz de la luna",
+          "date": "1918-04-16",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Spanish (Mexico) | Classical",
+          "credits": "Pasternack, Josef, Conductor | Michelena, Fernando, Lyricist | Caruso, Enrico, Vocalist -- Tenor Vocal | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Olavarría Maytín, Gaspar Antonio, Composer",
+          "source": "https://www.loc.gov/item/jukebox-28755/"
+        },
+        {
+          "id": "123968",
+          "title": "A una morena tengo un volcan ardiendo",
+          "date": "1906-10-27",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Cavalieri, Elda, Vocalist -- Soprano Vocal | Alvarez, F. M., Composer",
+          "source": "https://www.loc.gov/item/jukebox-123968/"
+        },
+        {
+          "id": "258926",
+          "title": "Adela",
+          "date": "1914-12-01",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish (Mexico) | Popular music",
+          "credits": "Rogers, Walter B., Conductor | Banda Rodríguez, Musical Group | Navarro, E., Composer",
+          "source": "https://www.loc.gov/item/jukebox-258926/"
+        },
+        {
+          "id": "12663",
+          "title": "Alejandra",
+          "date": "1915-03-16",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish (Mexico) | Popular music",
+          "credits": "Banda Rodríguez, Musical Group | Navarro, E., Composer | Victor Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-12663/"
+        },
+        {
+          "id": "120583",
+          "title": "Amour et printemps",
+          "date": "1904-10-18",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish (Argentina); French | Popular music",
+          "credits": "Garde Républicaine Band, Musical Group | Waldteufel, Emil, Composer",
+          "source": "https://www.loc.gov/item/jukebox-120583/"
+        },
+        {
+          "id": "17288",
+          "title": "Catalina",
+          "date": "1916-04-13",
+          "language": "",
+          "audience": "",
+          "genre": "Ethnic music | Spanish (Guatemala)",
+          "credits": "Hurtado, Mariano B., Composer | Hurtado Brothers Royal Marimba Band of Guatemala, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-17288/"
+        },
+        {
+          "id": "11850",
+          "title": "Chaqueteros",
+          "date": "1914-12-16",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish (Mexico) | Popular music",
+          "credits": "Banda Rodríguez, Musical Group | Rogers, Walter B., Conductor | Garza, J. M., Composer | Victor Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-11850/"
+        },
+        {
+          "id": "189361",
+          "title": "El amanecer",
+          "date": "1915-10-15",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish (Argentina) | Popular music",
+          "credits": "King, Edward T., Conductor | Victor Orchestra, Musical Group | Firpo, Roberto, Composer",
+          "source": "https://www.loc.gov/item/jukebox-189361/"
+        },
+        {
+          "id": "127364",
+          "title": "El bolero grande",
+          "date": "1909-03-19",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Victor Orchestra, Musical Group | Arral, Blanche, Vocalist -- Soprano Vocal | Vasseur, Léon, Composer",
+          "source": "https://www.loc.gov/item/jukebox-127364/"
+        },
+        {
+          "id": "121769",
+          "title": "El canto del presidiario",
+          "date": "1905-06-08",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical music | Ethnic music",
+          "credits": "Alvarez, F. M., Composer | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Victor Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-121769/"
+        },
+        {
+          "id": "127601",
+          "title": "El canto del presidiario",
+          "date": "1909-05-14",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Ethnic music | Popular music",
+          "credits": "Alvarez, F. M., Composer | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Victor Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-127601/"
+        },
+        {
+          "id": "422609",
+          "title": "El canto del presidiario",
+          "date": "1905-06-08",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical music | Ethnic music",
+          "credits": "Alvarez, F. M., Composer | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Victor Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-422609/"
+        },
+        {
+          "id": "247902",
+          "title": "El celoso",
+          "date": "1906-04-03",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Gogorza, Emilio de, Vocalist -- Baritone Vocal | Francisco, Carlos, Sig., Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-247902/"
+        },
+        {
+          "id": "17295",
+          "title": "El choclo",
+          "date": "1916-04-14",
+          "language": "",
+          "audience": "",
+          "genre": "Ethnic music | Spanish (Guatemala)",
+          "credits": "Hurtado Brothers Royal Marimba Band of Guatemala, Musical Group | Villoldo, Angel Gregorio, Composer",
+          "source": "https://www.loc.gov/item/jukebox-17295/"
+        },
+        {
+          "id": "40382",
+          "title": "El relicario",
+          "date": "1921-03-26",
+          "language": "",
+          "audience": "",
+          "genre": "Ethnic music | Spanish (Guatemala)",
+          "credits": "Padilla, José, Composer | Marimba Azul y Blanco, Musical Group | Blue and White Marimba Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-40382/"
+        },
+        {
+          "id": "17421",
+          "title": "Fading leaves serenata",
+          "date": "1916-04-26",
+          "language": "",
+          "audience": "",
+          "genre": "Ethnic music | Spanish (Guatemala)",
+          "credits": "Carroll, H. E., Composer | Hurtado Brothers Royal Marimba Band of Guatemala, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-17421/"
+        },
+        {
+          "id": "17278",
+          "title": "Fletita",
+          "date": "1916-04-12",
+          "language": "",
+          "audience": "",
+          "genre": "Ethnic music | Spanish (Guatemala)",
+          "credits": "Hurtado, Jesús B., Composer | Hurtado Brothers Royal Marimba Band of Guatemala, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-17278/"
+        },
+        {
+          "id": "134890",
+          "title": "Flores purisimas",
+          "date": "1914-04-03",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Caruso, Enrico, Vocalist -- Tenor Vocal | Chapí, Ruperto, Composer | Scognamiglio, Gaetano, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-134890/"
+        },
+        {
+          "id": "258928",
+          "title": "Hortencia",
+          "date": "1914-12-01",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish | Popular music",
+          "credits": "Rogers, Walter B., Conductor | Banda Rodríguez, Musical Group | Victor Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-258928/"
+        },
+        {
+          "id": "127293",
+          "title": "La gitana",
+          "date": "1909-03-15",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish (Mexico) | Popular music",
+          "credits": "Bucalossi, Ernest, Composer | Bianculli, P., Instrumentalist -- Mandolin | Pryor, Arthur, Instrumentalist -- Trombone | Fuchs, Jacob C., Instrumentalist -- Cornet | Victor Dance Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-127293/"
+        },
+        {
+          "id": "249295",
+          "title": "La golondrina",
+          "date": "1906-06-27",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Spanish (Mexico) | Classical",
+          "credits": "Gogorza, Emilio de, Vocalist -- Baritone Vocal | Serradell, Narciso, Composer | Francisco, Carlos, Sig., Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-249295/"
+        },
+        {
+          "id": "123653",
+          "title": "La nina de los ojos azules",
+          "date": "1906-09-06",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical music | Spanish",
+          "credits": "Alvarez, F. M., Composer | Cáceres, Carlos, Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-123653/"
+        },
+        {
+          "id": "120761",
+          "title": "La paloma",
+          "date": "1913-09-05",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Ethnic music | Popular music",
+          "credits": "Francisco, Carlos, Sig., Vocalist -- Baritone Vocal | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Yradier, Sebastián, Composer",
+          "source": "https://www.loc.gov/item/jukebox-120761/"
+        },
+        {
+          "id": "117554",
+          "title": "La paloma",
+          "date": "1903-05-17",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "De Lussan, Zélie, Vocalist -- Soprano Vocal | Yradier, Sebastián, Composer",
+          "source": "https://www.loc.gov/item/jukebox-117554/"
+        },
+        {
+          "id": "120765",
+          "title": "La paloma",
+          "date": "1904-11-09",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Ethnic music | Popular music",
+          "credits": "Francisco, Carlos, Sig., Vocalist -- Baritone Vocal | Bianculli, P., Instrumentalist -- Mandolin | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Yradier, Sebastián, Composer",
+          "source": "https://www.loc.gov/item/jukebox-120765/"
+        },
+        {
+          "id": "29816",
+          "title": "La partida",
+          "date": "1918-07-10",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Alvarez, F. M., Composer | Caruso, Enrico, Vocalist -- Tenor Vocal | Pasternack, Josef, Conductor",
+          "source": "https://www.loc.gov/item/jukebox-29816/"
+        },
+        {
+          "id": "123940",
+          "title": "La sevillana",
+          "date": "1906-10-24",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Cavalieri, Elda, Vocalist -- Soprano Vocal | Victor Orchestra, Musical Group | Yradier, Sebastián, Composer",
+          "source": "https://www.loc.gov/item/jukebox-123940/"
+        },
+        {
+          "id": "117549",
+          "title": "Lili",
+          "date": "1903-05-17",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "De Lussan, Zélie, Vocalist -- Soprano Vocal | Guetary, Garme, Composer",
+          "source": "https://www.loc.gov/item/jukebox-117549/"
+        },
+        {
+          "id": "13464",
+          "title": "Lindas poblanas",
+          "date": "1915-05-25",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish | Popular music",
+          "credits": "Rogers, Walter B., Conductor | Banda Rodríguez, Musical Group | Victor Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-13464/"
+        },
+        {
+          "id": "421854",
+          "title": "Maria",
+          "date": "1908-06-30",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Ethnic music | Popular music",
+          "credits": "Guétary, Pedro, Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-421854/"
+        },
+        {
+          "id": "11858",
+          "title": "Maria Luisa",
+          "date": "1914-12-16",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish | Popular music",
+          "credits": "Arriola, A., Composer | Rogers, Walter B., Conductor | Banda Rodríguez, Musical Group | Victor Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-11858/"
+        },
+        {
+          "id": "123293",
+          "title": "Meus amores",
+          "date": "1906-07-02",
+          "language": "Spanish (galician dialect)",
+          "audience": "",
+          "genre": "Spanish | Classical",
+          "credits": "Chao, Eladio A., Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-123293/"
+        },
+        {
+          "id": "15618",
+          "title": "Mi ricurita",
+          "date": "1915-11-30",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish (Argentina) | Popular music",
+          "credits": "King, Edward T., Conductor | Victor Orchestra, Musical Group | Pérez Freire, Osmán, Composer",
+          "source": "https://www.loc.gov/item/jukebox-15618/"
+        },
+        {
+          "id": "35399",
+          "title": "My isle of golden dreams",
+          "date": "1920-02-13",
+          "language": "",
+          "audience": "",
+          "genre": "Ethnic music | Spanish (Guatemala)",
+          "credits": "Marimba Azul y Blanco, Musical Group | Blaufuss, Walter, Composer | Blue and White Marimba Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-35399/"
+        },
+        {
+          "id": "11851",
+          "title": "No llores",
+          "date": "1914-12-16",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish (Mexico) | Popular music",
+          "credits": "Rogers, Walter B., Conductor | Moreno, T., Composer | Banda Rodríguez, Musical Group | Victor Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-11851/"
+        },
+        {
+          "id": "37944",
+          "title": "Noche feliz",
+          "date": "1920-09-14",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Spanish (Mexico) | Classical",
+          "credits": "Posadas, Guillermo, Composer | Caruso, Enrico, Vocalist -- Tenor Vocal | Pasternack, Josef, Conductor",
+          "source": "https://www.loc.gov/item/jukebox-37944/"
+        },
+        {
+          "id": "13857",
+          "title": "Over the waves",
+          "date": "1915-10-06",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish (Mexico) | Ethnic music | Popular music",
+          "credits": "Pietro, Instrumentalist -- Accordion | Rosas, Juventino, Composer | Deiro, Pietro, Instrumentalist -- Accordion",
+          "source": "https://www.loc.gov/item/jukebox-13857/"
+        },
+        {
+          "id": "64375",
+          "title": "Perjura!",
+          "date": "1922-10-13",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Pasternack, Josef, Conductor | Ruffo, Titta, Vocalist -- Baritone Vocal | Lerdo de Tejada, Miguel, Composer",
+          "source": "https://www.loc.gov/item/jukebox-64375/"
+        },
+        {
+          "id": "11857",
+          "title": "Pienso en ti",
+          "date": "1914-12-16",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish | Popular music",
+          "credits": "Banda Rodríguez, Musical Group | Rogers, Walter B., Conductor | Villasenor, P. N., Composer | Victor Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-11857/"
+        },
+        {
+          "id": "248713",
+          "title": "Serenata",
+          "date": "1906-02-05",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical music",
+          "credits": "Schubert, Franz, Composer | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Francisco, Carlos, Sig., Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-248713/"
+        },
+        {
+          "id": "121975",
+          "title": "Serenata",
+          "date": "1905-09-14",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Spanish | Opera | Ethnic music",
+          "credits": "Gogorza, Emilio de, Vocalist -- Baritone Vocal | Suppé, Franz von, Composer | Francisco, Carlos, Sig., Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-121975/"
+        },
+        {
+          "id": "242987",
+          "title": "Serenata Aragomesa",
+          "date": "1901-05-24",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical music | Ethnic music",
+          "credits": "Chalia, Rosalia, Vocalist -- Soprano Vocal | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Francisco, Carlos, Sig., Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-242987/"
+        },
+        {
+          "id": "121968",
+          "title": "Sevillana",
+          "date": "1905-09-12",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical music | Ethnic music",
+          "credits": "Gogorza, Emilio de, Vocalist -- Baritone Vocal | Francisco, Carlos, Sig., Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-121968/"
+        },
+        {
+          "id": "121972",
+          "title": "Son los bailes de mascaras",
+          "date": "1905-09-12",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Caballero, Manuel Fernández, Composer | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Francisco, Carlos, Sig., Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-121972/"
+        },
+        {
+          "id": "17382",
+          "title": "Aida : Selection",
+          "date": "1916-04-20",
+          "language": "",
+          "audience": "",
+          "genre": "Opera | Spanish (Guatemala)",
+          "credits": "Verdi, Giuseppe, Composer | Hurtado Brothers Royal Marimba Band of Guatemala, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-17382/"
+        },
+        {
+          "id": "17379",
+          "title": "Cavalleria rusticana intermezzo",
+          "date": "1916-04-25",
+          "language": "",
+          "audience": "",
+          "genre": "Opera | Spanish (Guatemala)",
+          "credits": "Mascagni, Pietro, Composer | Hurtado Brothers Royal Marimba Band of Guatemala, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-17379/"
+        },
+        {
+          "id": "17401",
+          "title": "Lucia sextette",
+          "date": "1916-04-21",
+          "language": "",
+          "audience": "",
+          "genre": "Opera | Spanish (Guatemala)",
+          "credits": "Hurtado Brothers Royal Marimba Band of Guatemala, Musical Group | Donizetti, Gaetano, Composer",
+          "source": "https://www.loc.gov/item/jukebox-17401/"
+        },
+        {
+          "id": "125264",
+          "title": "Merry widow waltz",
+          "date": "1907-07-15",
+          "language": "",
+          "audience": "",
+          "genre": "Opera | Spanish (Mexico)",
+          "credits": "Lehár, Franz, Composer | Victor Orchestra, Musical Group | Rogers, Walter B., Conductor",
+          "source": "https://www.loc.gov/item/jukebox-125264/"
+        },
+        {
+          "id": "17407",
+          "title": "Modest Suzanne : Potpourri",
+          "date": "1916-04-21",
+          "language": "",
+          "audience": "",
+          "genre": "Opera | Spanish (Guatemala)",
+          "credits": "Hurtado Brothers Royal Marimba Band of Guatemala, Musical Group | Gilbert, Jean, Composer",
+          "source": "https://www.loc.gov/item/jukebox-17407/"
+        }
+      ]
+    },
+    "Spain": {
+      "count": 51,
+      "shortlist": [
+        {
+          "id": "29828",
+          "title": "A Granada",
+          "date": "1918-09-26",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Alvarez, F. M., Composer | Caruso, Enrico, Vocalist -- Tenor Vocal | Pasternack, Josef, Conductor | Gras y Elías, Francisco, Author",
+          "source": "https://www.loc.gov/item/jukebox-29828/"
+        },
+        {
+          "id": "28755",
+          "title": "A la luz de la luna",
+          "date": "1918-04-16",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Spanish (Mexico) | Classical",
+          "credits": "Pasternack, Josef, Conductor | Michelena, Fernando, Lyricist | Caruso, Enrico, Vocalist -- Tenor Vocal | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Olavarría Maytín, Gaspar Antonio, Composer",
+          "source": "https://www.loc.gov/item/jukebox-28755/"
+        },
+        {
+          "id": "123968",
+          "title": "A una morena tengo un volcan ardiendo",
+          "date": "1906-10-27",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Cavalieri, Elda, Vocalist -- Soprano Vocal | Alvarez, F. M., Composer",
+          "source": "https://www.loc.gov/item/jukebox-123968/"
+        },
+        {
+          "id": "258926",
+          "title": "Adela",
+          "date": "1914-12-01",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish (Mexico) | Popular music",
+          "credits": "Rogers, Walter B., Conductor | Banda Rodríguez, Musical Group | Navarro, E., Composer",
+          "source": "https://www.loc.gov/item/jukebox-258926/"
+        },
+        {
+          "id": "12663",
+          "title": "Alejandra",
+          "date": "1915-03-16",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish (Mexico) | Popular music",
+          "credits": "Banda Rodríguez, Musical Group | Navarro, E., Composer | Victor Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-12663/"
+        },
+        {
+          "id": "120583",
+          "title": "Amour et printemps",
+          "date": "1904-10-18",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish (Argentina); French | Popular music",
+          "credits": "Garde Républicaine Band, Musical Group | Waldteufel, Emil, Composer",
+          "source": "https://www.loc.gov/item/jukebox-120583/"
+        },
+        {
+          "id": "17288",
+          "title": "Catalina",
+          "date": "1916-04-13",
+          "language": "",
+          "audience": "",
+          "genre": "Ethnic music | Spanish (Guatemala)",
+          "credits": "Hurtado, Mariano B., Composer | Hurtado Brothers Royal Marimba Band of Guatemala, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-17288/"
+        },
+        {
+          "id": "11850",
+          "title": "Chaqueteros",
+          "date": "1914-12-16",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish (Mexico) | Popular music",
+          "credits": "Banda Rodríguez, Musical Group | Rogers, Walter B., Conductor | Garza, J. M., Composer | Victor Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-11850/"
+        },
+        {
+          "id": "189361",
+          "title": "El amanecer",
+          "date": "1915-10-15",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish (Argentina) | Popular music",
+          "credits": "King, Edward T., Conductor | Victor Orchestra, Musical Group | Firpo, Roberto, Composer",
+          "source": "https://www.loc.gov/item/jukebox-189361/"
+        },
+        {
+          "id": "127364",
+          "title": "El bolero grande",
+          "date": "1909-03-19",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Victor Orchestra, Musical Group | Arral, Blanche, Vocalist -- Soprano Vocal | Vasseur, Léon, Composer",
+          "source": "https://www.loc.gov/item/jukebox-127364/"
+        },
+        {
+          "id": "121769",
+          "title": "El canto del presidiario",
+          "date": "1905-06-08",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical music | Ethnic music",
+          "credits": "Alvarez, F. M., Composer | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Victor Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-121769/"
+        },
+        {
+          "id": "127601",
+          "title": "El canto del presidiario",
+          "date": "1909-05-14",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Ethnic music | Popular music",
+          "credits": "Alvarez, F. M., Composer | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Victor Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-127601/"
+        },
+        {
+          "id": "422609",
+          "title": "El canto del presidiario",
+          "date": "1905-06-08",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical music | Ethnic music",
+          "credits": "Alvarez, F. M., Composer | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Victor Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-422609/"
+        },
+        {
+          "id": "247902",
+          "title": "El celoso",
+          "date": "1906-04-03",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Gogorza, Emilio de, Vocalist -- Baritone Vocal | Francisco, Carlos, Sig., Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-247902/"
+        },
+        {
+          "id": "17295",
+          "title": "El choclo",
+          "date": "1916-04-14",
+          "language": "",
+          "audience": "",
+          "genre": "Ethnic music | Spanish (Guatemala)",
+          "credits": "Hurtado Brothers Royal Marimba Band of Guatemala, Musical Group | Villoldo, Angel Gregorio, Composer",
+          "source": "https://www.loc.gov/item/jukebox-17295/"
+        },
+        {
+          "id": "40382",
+          "title": "El relicario",
+          "date": "1921-03-26",
+          "language": "",
+          "audience": "",
+          "genre": "Ethnic music | Spanish (Guatemala)",
+          "credits": "Padilla, José, Composer | Marimba Azul y Blanco, Musical Group | Blue and White Marimba Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-40382/"
+        },
+        {
+          "id": "17421",
+          "title": "Fading leaves serenata",
+          "date": "1916-04-26",
+          "language": "",
+          "audience": "",
+          "genre": "Ethnic music | Spanish (Guatemala)",
+          "credits": "Carroll, H. E., Composer | Hurtado Brothers Royal Marimba Band of Guatemala, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-17421/"
+        },
+        {
+          "id": "17278",
+          "title": "Fletita",
+          "date": "1916-04-12",
+          "language": "",
+          "audience": "",
+          "genre": "Ethnic music | Spanish (Guatemala)",
+          "credits": "Hurtado, Jesús B., Composer | Hurtado Brothers Royal Marimba Band of Guatemala, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-17278/"
+        },
+        {
+          "id": "134890",
+          "title": "Flores purisimas",
+          "date": "1914-04-03",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Caruso, Enrico, Vocalist -- Tenor Vocal | Chapí, Ruperto, Composer | Scognamiglio, Gaetano, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-134890/"
+        },
+        {
+          "id": "258928",
+          "title": "Hortencia",
+          "date": "1914-12-01",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish | Popular music",
+          "credits": "Rogers, Walter B., Conductor | Banda Rodríguez, Musical Group | Victor Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-258928/"
+        },
+        {
+          "id": "127293",
+          "title": "La gitana",
+          "date": "1909-03-15",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish (Mexico) | Popular music",
+          "credits": "Bucalossi, Ernest, Composer | Bianculli, P., Instrumentalist -- Mandolin | Pryor, Arthur, Instrumentalist -- Trombone | Fuchs, Jacob C., Instrumentalist -- Cornet | Victor Dance Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-127293/"
+        },
+        {
+          "id": "249295",
+          "title": "La golondrina",
+          "date": "1906-06-27",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Spanish (Mexico) | Classical",
+          "credits": "Gogorza, Emilio de, Vocalist -- Baritone Vocal | Serradell, Narciso, Composer | Francisco, Carlos, Sig., Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-249295/"
+        },
+        {
+          "id": "123653",
+          "title": "La nina de los ojos azules",
+          "date": "1906-09-06",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical music | Spanish",
+          "credits": "Alvarez, F. M., Composer | Cáceres, Carlos, Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-123653/"
+        },
+        {
+          "id": "120761",
+          "title": "La paloma",
+          "date": "1913-09-05",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Ethnic music | Popular music",
+          "credits": "Francisco, Carlos, Sig., Vocalist -- Baritone Vocal | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Yradier, Sebastián, Composer",
+          "source": "https://www.loc.gov/item/jukebox-120761/"
+        },
+        {
+          "id": "117554",
+          "title": "La paloma",
+          "date": "1903-05-17",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "De Lussan, Zélie, Vocalist -- Soprano Vocal | Yradier, Sebastián, Composer",
+          "source": "https://www.loc.gov/item/jukebox-117554/"
+        },
+        {
+          "id": "120765",
+          "title": "La paloma",
+          "date": "1904-11-09",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Ethnic music | Popular music",
+          "credits": "Francisco, Carlos, Sig., Vocalist -- Baritone Vocal | Bianculli, P., Instrumentalist -- Mandolin | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Yradier, Sebastián, Composer",
+          "source": "https://www.loc.gov/item/jukebox-120765/"
+        },
+        {
+          "id": "29816",
+          "title": "La partida",
+          "date": "1918-07-10",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Alvarez, F. M., Composer | Caruso, Enrico, Vocalist -- Tenor Vocal | Pasternack, Josef, Conductor",
+          "source": "https://www.loc.gov/item/jukebox-29816/"
+        },
+        {
+          "id": "123940",
+          "title": "La sevillana",
+          "date": "1906-10-24",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Cavalieri, Elda, Vocalist -- Soprano Vocal | Victor Orchestra, Musical Group | Yradier, Sebastián, Composer",
+          "source": "https://www.loc.gov/item/jukebox-123940/"
+        },
+        {
+          "id": "117549",
+          "title": "Lili",
+          "date": "1903-05-17",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "De Lussan, Zélie, Vocalist -- Soprano Vocal | Guetary, Garme, Composer",
+          "source": "https://www.loc.gov/item/jukebox-117549/"
+        },
+        {
+          "id": "13464",
+          "title": "Lindas poblanas",
+          "date": "1915-05-25",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish | Popular music",
+          "credits": "Rogers, Walter B., Conductor | Banda Rodríguez, Musical Group | Victor Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-13464/"
+        },
+        {
+          "id": "421854",
+          "title": "Maria",
+          "date": "1908-06-30",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Ethnic music | Popular music",
+          "credits": "Guétary, Pedro, Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-421854/"
+        },
+        {
+          "id": "11858",
+          "title": "Maria Luisa",
+          "date": "1914-12-16",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish | Popular music",
+          "credits": "Arriola, A., Composer | Rogers, Walter B., Conductor | Banda Rodríguez, Musical Group | Victor Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-11858/"
+        },
+        {
+          "id": "123293",
+          "title": "Meus amores",
+          "date": "1906-07-02",
+          "language": "Spanish (galician dialect)",
+          "audience": "",
+          "genre": "Spanish | Classical",
+          "credits": "Chao, Eladio A., Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-123293/"
+        },
+        {
+          "id": "15618",
+          "title": "Mi ricurita",
+          "date": "1915-11-30",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish (Argentina) | Popular music",
+          "credits": "King, Edward T., Conductor | Victor Orchestra, Musical Group | Pérez Freire, Osmán, Composer",
+          "source": "https://www.loc.gov/item/jukebox-15618/"
+        },
+        {
+          "id": "35399",
+          "title": "My isle of golden dreams",
+          "date": "1920-02-13",
+          "language": "",
+          "audience": "",
+          "genre": "Ethnic music | Spanish (Guatemala)",
+          "credits": "Marimba Azul y Blanco, Musical Group | Blaufuss, Walter, Composer | Blue and White Marimba Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-35399/"
+        },
+        {
+          "id": "11851",
+          "title": "No llores",
+          "date": "1914-12-16",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish (Mexico) | Popular music",
+          "credits": "Rogers, Walter B., Conductor | Moreno, T., Composer | Banda Rodríguez, Musical Group | Victor Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-11851/"
+        },
+        {
+          "id": "37944",
+          "title": "Noche feliz",
+          "date": "1920-09-14",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Spanish (Mexico) | Classical",
+          "credits": "Posadas, Guillermo, Composer | Caruso, Enrico, Vocalist -- Tenor Vocal | Pasternack, Josef, Conductor",
+          "source": "https://www.loc.gov/item/jukebox-37944/"
+        },
+        {
+          "id": "13857",
+          "title": "Over the waves",
+          "date": "1915-10-06",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish (Mexico) | Ethnic music | Popular music",
+          "credits": "Pietro, Instrumentalist -- Accordion | Rosas, Juventino, Composer | Deiro, Pietro, Instrumentalist -- Accordion",
+          "source": "https://www.loc.gov/item/jukebox-13857/"
+        },
+        {
+          "id": "64375",
+          "title": "Perjura!",
+          "date": "1922-10-13",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Pasternack, Josef, Conductor | Ruffo, Titta, Vocalist -- Baritone Vocal | Lerdo de Tejada, Miguel, Composer",
+          "source": "https://www.loc.gov/item/jukebox-64375/"
+        },
+        {
+          "id": "11857",
+          "title": "Pienso en ti",
+          "date": "1914-12-16",
+          "language": "",
+          "audience": "",
+          "genre": "Spanish | Popular music",
+          "credits": "Banda Rodríguez, Musical Group | Rogers, Walter B., Conductor | Villasenor, P. N., Composer | Victor Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-11857/"
+        },
+        {
+          "id": "248713",
+          "title": "Serenata",
+          "date": "1906-02-05",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical music",
+          "credits": "Schubert, Franz, Composer | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Francisco, Carlos, Sig., Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-248713/"
+        },
+        {
+          "id": "121975",
+          "title": "Serenata",
+          "date": "1905-09-14",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Spanish | Opera | Ethnic music",
+          "credits": "Gogorza, Emilio de, Vocalist -- Baritone Vocal | Suppé, Franz von, Composer | Francisco, Carlos, Sig., Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-121975/"
+        },
+        {
+          "id": "242987",
+          "title": "Serenata Aragomesa",
+          "date": "1901-05-24",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical music | Ethnic music",
+          "credits": "Chalia, Rosalia, Vocalist -- Soprano Vocal | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Francisco, Carlos, Sig., Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-242987/"
+        },
+        {
+          "id": "121968",
+          "title": "Sevillana",
+          "date": "1905-09-12",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Classical music | Ethnic music",
+          "credits": "Gogorza, Emilio de, Vocalist -- Baritone Vocal | Francisco, Carlos, Sig., Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-121968/"
+        },
+        {
+          "id": "121972",
+          "title": "Son los bailes de mascaras",
+          "date": "1905-09-12",
+          "language": "Spanish",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Caballero, Manuel Fernández, Composer | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Francisco, Carlos, Sig., Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-121972/"
+        },
+        {
+          "id": "17382",
+          "title": "Aida : Selection",
+          "date": "1916-04-20",
+          "language": "",
+          "audience": "",
+          "genre": "Opera | Spanish (Guatemala)",
+          "credits": "Verdi, Giuseppe, Composer | Hurtado Brothers Royal Marimba Band of Guatemala, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-17382/"
+        },
+        {
+          "id": "17379",
+          "title": "Cavalleria rusticana intermezzo",
+          "date": "1916-04-25",
+          "language": "",
+          "audience": "",
+          "genre": "Opera | Spanish (Guatemala)",
+          "credits": "Mascagni, Pietro, Composer | Hurtado Brothers Royal Marimba Band of Guatemala, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-17379/"
+        },
+        {
+          "id": "17401",
+          "title": "Lucia sextette",
+          "date": "1916-04-21",
+          "language": "",
+          "audience": "",
+          "genre": "Opera | Spanish (Guatemala)",
+          "credits": "Hurtado Brothers Royal Marimba Band of Guatemala, Musical Group | Donizetti, Gaetano, Composer",
+          "source": "https://www.loc.gov/item/jukebox-17401/"
+        },
+        {
+          "id": "125264",
+          "title": "Merry widow waltz",
+          "date": "1907-07-15",
+          "language": "",
+          "audience": "",
+          "genre": "Opera | Spanish (Mexico)",
+          "credits": "Lehár, Franz, Composer | Victor Orchestra, Musical Group | Rogers, Walter B., Conductor",
+          "source": "https://www.loc.gov/item/jukebox-125264/"
+        },
+        {
+          "id": "17407",
+          "title": "Modest Suzanne : Potpourri",
+          "date": "1916-04-21",
+          "language": "",
+          "audience": "",
+          "genre": "Opera | Spanish (Guatemala)",
+          "credits": "Hurtado Brothers Royal Marimba Band of Guatemala, Musical Group | Gilbert, Jean, Composer",
+          "source": "https://www.loc.gov/item/jukebox-17407/"
+        }
+      ]
+    },
+    "Portugal": {
+      "count": 1,
+      "shortlist": [
+        {
+          "id": "126387",
+          "title": "A madrugada exul",
+          "date": "1908-05-04",
+          "language": "Portuguese",
+          "audience": "",
+          "genre": "Opera | Portuguese (Brazil)",
+          "credits": "King, Roxy, Vocalist -- Soprano Vocal | Victor Orchestra, Musical Group | Miguez, Leopoldo, Composer",
+          "source": "https://www.loc.gov/item/jukebox-126387/"
+        }
+      ]
+    },
+    "Poland": {
+      "count": 28,
+      "shortlist": [
+        {
+          "id": "224693",
+          "title": "Ach te oczy!",
+          "date": "1911-07-24",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Classical music | Polish | Ethnic music",
+          "credits": "Rybowiak, B., Vocalist -- Tenor Vocal | Bałuciński, Tad. G., Composer",
+          "source": "https://www.loc.gov/item/jukebox-224693/"
+        },
+        {
+          "id": "125653",
+          "title": "Aimez-moi",
+          "date": "1907-10-09",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Classical music | Ethnic music",
+          "credits": "Sembrich, Marcella, Vocalist -- Soprano Vocal | Viardot-García, Pauline, Arranger | Chopin, Frédéric, Composer | Sembrich, Marcella, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-125653/"
+        },
+        {
+          "id": "125605",
+          "title": "Halka : Polish song",
+          "date": "1907-10-05",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Classical music",
+          "credits": "Sembrich, Marcella, Vocalist -- Soprano Vocal | Wolski, Włodzimierz, Librettist | Moniuszko, Stanislaw, Composer",
+          "source": "https://www.loc.gov/item/jukebox-125605/"
+        },
+        {
+          "id": "130636",
+          "title": "Idzie Stary Bes Wies",
+          "date": "1911-07-18",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Polish | Ethnic music",
+          "credits": "Chopin Conservatory Male Quartet, Vocal Group | Gall, Jan, Composer",
+          "source": "https://www.loc.gov/item/jukebox-130636/"
+        },
+        {
+          "id": "130658",
+          "title": "Jas i Marysia",
+          "date": "1911-07-20",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Polish | Ethnic music",
+          "credits": "Rybowiak, B., Vocalist -- Tenor Vocal | Wawrzyńska, Bolesława Iza, Vocalist -- Contralto",
+          "source": "https://www.loc.gov/item/jukebox-130658/"
+        },
+        {
+          "id": "130659",
+          "title": "Krakowiak",
+          "date": "1911-07-20",
+          "language": "",
+          "audience": "",
+          "genre": "Polish | Ethnic music",
+          "credits": "Brunner, A. E., Composer | Rybowiak Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-130659/"
+        },
+        {
+          "id": "187961",
+          "title": "Marsz sokoow",
+          "date": "1916-08-04",
+          "language": "",
+          "audience": "",
+          "genre": "Classical music | Polish | Ethnic music",
+          "credits": "Grigaitis, K. W., Arranger | King, Edward T., Conductor | Czerwiński, Wilhelm, Composer | Victor Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-187961/"
+        },
+        {
+          "id": "224707",
+          "title": "Matysek",
+          "date": "1911-07-24",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Polish | Ethnic music",
+          "credits": "Rybowiak, B., Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-224707/"
+        },
+        {
+          "id": "130630",
+          "title": "Mazur",
+          "date": "1911-07-17",
+          "language": "",
+          "audience": "",
+          "genre": "Polish | Ethnic music",
+          "credits": "Rybowiak Orchestra, Musical Group | Hensel, R., Composer",
+          "source": "https://www.loc.gov/item/jukebox-130630/"
+        },
+        {
+          "id": "43769",
+          "title": "Mazur do Miechowa",
+          "date": "1922-02-10",
+          "language": "",
+          "audience": "",
+          "genre": "Polish | Ethnic music",
+          "credits": "Shilkret, Nathaniel, Conductor | Witkowski, Leon, Instrumentalist -- Clarinet | Orkiestra Witkowskiego, Musical Group | Witkowski, T., Instrumentalist -- Violin | Witkowski, Leon, Composer",
+          "source": "https://www.loc.gov/item/jukebox-43769/"
+        },
+        {
+          "id": "130702",
+          "title": "Miala Baba Koguta",
+          "date": "1911-07-24",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Polish | Ethnic music",
+          "credits": "Rybowiak, B., Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-130702/"
+        },
+        {
+          "id": "17202",
+          "title": "Muszka",
+          "date": "1916-04-06",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Classical music | Polish | Ethnic music",
+          "credits": "King, Edward T., Conductor | King's Orchestra, Musical Group | Medvedieff, R. Rosovskaia, Vocalist -- Soprano Vocal",
+          "source": "https://www.loc.gov/item/jukebox-17202/"
+        },
+        {
+          "id": "130631",
+          "title": "Na Dolinie Zawierucha",
+          "date": "1911-07-20",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Polish | Ethnic music",
+          "credits": "Kuzniewicz, S., Vocalist -- Tenor Vocal | Rybowiak, B., Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-130631/"
+        },
+        {
+          "id": "29502",
+          "title": "Na falach Dunaju",
+          "date": "1918-06-20",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Polish | Classical",
+          "credits": "Shilkret, Nathaniel, Conductor | Pijanowska, Julja, Vocalist -- Soprano Vocal | Ivanovici, Iosif, Composer",
+          "source": "https://www.loc.gov/item/jukebox-29502/"
+        },
+        {
+          "id": "15273",
+          "title": "Nasz Chlopicki",
+          "date": "1915-10-21",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Polish | Ethnic music",
+          "credits": "Wroński, Tadeusz, Vocalist -- Baritone Vocal | King, Edward T., Conductor | King's Orchestra, Musical Group | Kurpiński, Karol, Composer",
+          "source": "https://www.loc.gov/item/jukebox-15273/"
+        },
+        {
+          "id": "130531",
+          "title": "Nie szukaj Prawdy",
+          "date": "1911-06-27",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Humorous songs | Polish | Ethnic music",
+          "credits": "Herbert, Victor, Composer | Wachtel, Karol, Vocalist",
+          "source": "https://www.loc.gov/item/jukebox-130531/"
+        },
+        {
+          "id": "130666",
+          "title": "Oj ten mazur Czysta bieda",
+          "date": "1911-07-20",
+          "language": "",
+          "audience": "",
+          "genre": "Polish | Ethnic music",
+          "credits": "Zalewski, B. J., Composer | Rybowiak Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-130666/"
+        },
+        {
+          "id": "17216",
+          "title": "Piesn wieczorna",
+          "date": "1916-04-06",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Classical music | Polish",
+          "credits": "King, Edward T., Conductor | Moniuszko, Stanislaw, Composer | Medvedieff, R. Rosovskaia, Vocalist -- Soprano Vocal | King's Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-17216/"
+        },
+        {
+          "id": "130650",
+          "title": "Polak nie suga",
+          "date": "1911-07-19",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Polish | Ethnic music",
+          "credits": "Chopin Conservatory Mixed Quartet, Vocal Group",
+          "source": "https://www.loc.gov/item/jukebox-130650/"
+        },
+        {
+          "id": "15249",
+          "title": "Polonez Kosciuszkowski",
+          "date": "1915-10-21",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Polish | Ethnic music",
+          "credits": "Wroński, Tadeusz, Vocalist -- Baritone Vocal | King, Edward T., Conductor | King's Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-15249/"
+        },
+        {
+          "id": "130665",
+          "title": "Polonez Pozegnanie Ojczyzny",
+          "date": "1911-07-20",
+          "language": "",
+          "audience": "",
+          "genre": "Polish | Ethnic music",
+          "credits": "Rybowiak Orchestra, Musical Group | Oginski, Michel, Composer",
+          "source": "https://www.loc.gov/item/jukebox-130665/"
+        },
+        {
+          "id": "18969",
+          "title": "Swir, swir za kominem",
+          "date": "1916-08-04",
+          "language": "",
+          "audience": "",
+          "genre": "Classical music | Polish | Ethnic music",
+          "credits": "King, Edward T., Conductor | Namysłowski, Karol, Composer | Victor Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-18969/"
+        },
+        {
+          "id": "17105",
+          "title": "Ulan",
+          "date": "1916-03-30",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Polish | Ethnic music",
+          "credits": "King, Edward T., Conductor | King's Orchestra, Musical Group | Medvedieff, Jakov M., Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-17105/"
+        },
+        {
+          "id": "130649",
+          "title": "Witaj majowa jutrzenko",
+          "date": "1911-07-19",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Polish | Ethnic music",
+          "credits": "Chopin Conservatory Mixed Quartet, Vocal Group",
+          "source": "https://www.loc.gov/item/jukebox-130649/"
+        },
+        {
+          "id": "310073",
+          "title": "Wojt mazur",
+          "date": "1916-07-27",
+          "language": "",
+          "audience": "",
+          "genre": "Classical music | Polish | Ethnic music",
+          "credits": "King, Edward T., Conductor | King's Orchestra, Musical Group | Lewandowski, Leopold, Composer",
+          "source": "https://www.loc.gov/item/jukebox-310073/"
+        },
+        {
+          "id": "26339",
+          "title": "Pobudka",
+          "date": "1917-10-31",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Polish | Opera",
+          "credits": "Auber, D. F. E., Composer | King, Edward T., Conductor | Pijanowska, Julja, Vocalist -- Soprano Vocal | King's Orchestra, Musical Group | Dluzawski, Karol, Lyricist",
+          "source": "https://www.loc.gov/item/jukebox-26339/"
+        },
+        {
+          "id": "130663",
+          "title": "Polonez, op. 87, no. 3",
+          "date": "1911-07-20",
+          "language": "",
+          "audience": "",
+          "genre": "Polish | Opera",
+          "credits": "Kurpiński, Karol, Composer | Rybowiak Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-130663/"
+        },
+        {
+          "id": "17203",
+          "title": "Szumia jodly za gorszczyca",
+          "date": "1916-04-06",
+          "language": "Polish",
+          "audience": "",
+          "genre": "Polish | Opera",
+          "credits": "King, Edward T., Conductor | Moniuszko, Stanislaw, Composer | King's Orchestra, Musical Group | Medvedieff, Jakov M., Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-17203/"
+        }
+      ]
+    },
+    "Canada": {
+      "count": 3114,
+      "shortlist": [
+        {
+          "id": "131863",
+          "title": "A bowl of roses",
+          "date": "1912-05-27",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Dunlap, Marguerite, Vocalist -- Contralto | Henley, William Ernest, Lyricist | Clarke, Robert Coningsby, Composer",
+          "source": "https://www.loc.gov/item/jukebox-131863/"
+        },
+        {
+          "id": "259778",
+          "title": "A child's song",
+          "date": "1912-04-02",
+          "language": "English",
+          "audience": "",
+          "genre": "Musical theater",
+          "credits": "Moore, Thomas, Author | Victor Orchestra, Musical Group | McCormack, John, Vocalist -- Tenor Vocal | Marshall, Charles, Composer",
+          "source": "https://www.loc.gov/item/jukebox-259778/"
+        },
+        {
+          "id": "257443",
+          "title": "A dew drop",
+          "date": "1917-06-18",
+          "language": "English",
+          "audience": "",
+          "genre": "Educational | Classical",
+          "credits": "Bachman, Fred, Instrumentalist -- Piano | Bourdon, Rosario, Instrumentalist -- Piano | Gilchrist, William Wallace, Composer | Sherman, Frank Dempster, Author | Smith, Eleanor, Composer | Wheeler, Elizabeth, Vocalist -- Soprano Vocal | Smith, Eleanor, Lyricist",
+          "source": "https://www.loc.gov/item/jukebox-257443/"
+        },
+        {
+          "id": "132912",
+          "title": "A dream",
+          "date": "1913-03-05",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Harrison, Charles, Vocalist -- Tenor Vocal | Bartlett, J. C., Composer | Victor Orchestra, Musical Group | Cory, Charles B., Lyricist",
+          "source": "https://www.loc.gov/item/jukebox-132912/"
+        },
+        {
+          "id": "37989",
+          "title": "A dream",
+          "date": "1920-09-16",
+          "language": "English",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Bartlett, J. C., Composer | Caruso, Enrico, Vocalist -- Tenor Vocal | Cory, Charles B., Lyricist | Pasternack, Josef, Conductor",
+          "source": "https://www.loc.gov/item/jukebox-37989/"
+        },
+        {
+          "id": "265915",
+          "title": "A dream",
+          "date": "1914-04-07",
+          "language": "English",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Bartlett, J. C., Composer | McCormack, John, Vocalist -- Tenor Vocal | Cory, Charles B., Lyricist",
+          "source": "https://www.loc.gov/item/jukebox-265915/"
+        },
+        {
+          "id": "259782",
+          "title": "A farewell",
+          "date": "1912-04-02",
+          "language": "English",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Kingsley, Charles, Author | Liddle, Samuel, Composer | McCormack, John, Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-259782/"
+        },
+        {
+          "id": "249459",
+          "title": "A flower from home sweet home",
+          "date": "1906-09-19",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Schmid, Johann C., Composer | Macdonough, Harry, Vocalist -- Tenor Vocal | Bieling, John H., Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-249459/"
+        },
+        {
+          "id": "5399",
+          "title": "A flower from the garden of life",
+          "date": "1901-02-16",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Chattaway, Thurland, Lyricist | Natus, Joseph, Vocalist -- Tenor Vocal | Chattaway, Thurland, Composer",
+          "source": "https://www.loc.gov/item/jukebox-5399/"
+        },
+        {
+          "id": "124931",
+          "title": "A friend of mine told a friend of mine",
+          "date": "1907-05-07",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Tally, Harry, Vocalist -- Tenor Vocal | Bryan, Alfred, Lyricist | Paley, Herman, Composer | Kendis, James, Composer",
+          "source": "https://www.loc.gov/item/jukebox-124931/"
+        },
+        {
+          "id": "422533",
+          "title": "A friend of mine told a friend of mine",
+          "date": "1907-05-07",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Tally, Harry, Vocalist -- Tenor Vocal | Bryan, Alfred, Lyricist | Paley, Herman, Composer | Kendis, James, Composer",
+          "source": "https://www.loc.gov/item/jukebox-422533/"
+        },
+        {
+          "id": "260131",
+          "title": "A girl like me",
+          "date": "1912-04-24",
+          "language": "English",
+          "audience": "",
+          "genre": "Musical theater",
+          "credits": "Lyric Quartet, Vocal Group | Marsh, Lucy Isabelle, Vocalist -- Soprano Vocal | Dunlap, Marguerite, Vocalist -- Contralto | Smith, Robert B., Lyricist | Wheeler, Elizabeth, Vocalist -- Soprano Vocal | Hubbell, Raymond, Composer | Macdonough, Harry, Vocalist -- Tenor Vocal | Werrenrath, Reinald, Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-260131/"
+        },
+        {
+          "id": "130877",
+          "title": "A girlie was just made to love",
+          "date": "1911-10-03",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Goodwin, Joe, Lyricist | Meyer, George W., Composer | Van Brunt, Walter, Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-130877/"
+        },
+        {
+          "id": "62625",
+          "title": "A hundred years from now",
+          "date": "1922-07-05",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Rattay, Howard, Instrumentalist -- Violin | Bourdon, Rosario, Conductor | Baker, Elsie, Vocalist -- Contralto | Bennett, John, Author | Jacobs-Bond, Carrie, Composer",
+          "source": "https://www.loc.gov/item/jukebox-62625/"
+        },
+        {
+          "id": "422503",
+          "title": "A lemon in the garden of love",
+          "date": "1906-10-23",
+          "language": "English",
+          "audience": "",
+          "genre": "Humorous songs | Musical theater",
+          "credits": "Murray, Billy, Vocalist -- Tenor Vocal | Carle, Richard, Composer | Rourke, M. E., Lyricist",
+          "source": "https://www.loc.gov/item/jukebox-422503/"
+        },
+        {
+          "id": "12879",
+          "title": "A little bit of heaven",
+          "date": "1915-04-06",
+          "language": "English",
+          "audience": "",
+          "genre": "Musical theater | Ethnic characterizations",
+          "credits": "Harrison, Charles, Vocalist -- Tenor Vocal | Ball, Ernest R., Composer | Rogers, Walter B., Conductor | Brennan, J. Keirn, Lyricist",
+          "source": "https://www.loc.gov/item/jukebox-12879/"
+        },
+        {
+          "id": "15467",
+          "title": "A little bit of heaven",
+          "date": "1915-11-10",
+          "language": "English",
+          "audience": "",
+          "genre": "Ethnic characterizations | Musical theater",
+          "credits": "Rogers, Walter B., Conductor | Ball, Ernest R., Composer | McCormack, John, Vocalist -- Tenor Vocal | Brennan, J. Keirn, Lyricist",
+          "source": "https://www.loc.gov/item/jukebox-15467/"
+        },
+        {
+          "id": "4006",
+          "title": "A little boy in blue",
+          "date": "1902-05-22",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Browne, Raymond A., Lyricist | Macdonough, Harry, Vocalist -- Tenor Vocal | Morse, Theodore F., Composer",
+          "source": "https://www.loc.gov/item/jukebox-4006/"
+        },
+        {
+          "id": "133599",
+          "title": "A little bunch of shamrocks (I am holding in my hand)",
+          "date": "1913-07-28",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Clough, Arthur C., Vocalist -- Tenor Vocal | Jerome, William, Lyricist | Sterling, Andrew B., Lyricist | Von Tilzer, Harry, Composer",
+          "source": "https://www.loc.gov/item/jukebox-133599/"
+        },
+        {
+          "id": "132370",
+          "title": "A little girl at home",
+          "date": "1912-11-18",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Dunlap, Marguerite, Vocalist -- Contralto | Herbert, Victor, Composer | Macdonough, Harry, Vocalist -- Tenor Vocal | O'Dea, James, Lyricist",
+          "source": "https://www.loc.gov/item/jukebox-132370/"
+        },
+        {
+          "id": "134096",
+          "title": "A little love, a little kiss",
+          "date": "1913-12-03",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Harrison, Charles, Vocalist -- Tenor Vocal | Ross, Adrian, Lyricist | Silésu, Lao, Composer",
+          "source": "https://www.loc.gov/item/jukebox-134096/"
+        },
+        {
+          "id": "133245",
+          "title": "A little love, a little kiss",
+          "date": "1913-05-01",
+          "language": "English",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Victor Orchestra, Musical Group | McCormack, John, Vocalist -- Tenor Vocal | Ross, Adrian, Lyricist | Silésu, Lao, Composer",
+          "source": "https://www.loc.gov/item/jukebox-133245/"
+        },
+        {
+          "id": "422493",
+          "title": "A little lunch for two",
+          "date": "1906-06-13",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Tally, Harry, Vocalist -- Tenor Vocal | Von Tilzer, Albert, Composer | Lamb, Arthur J., Lyricist",
+          "source": "https://www.loc.gov/item/jukebox-422493/"
+        },
+        {
+          "id": "133464",
+          "title": "A moonlight song",
+          "date": "1913-07-21",
+          "language": "English",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Beddoe, Daniel, Vocalist -- Tenor Vocal | Mills, John Proctor, Lyricist | Cadman, Charles Wakefield, Composer",
+          "source": "https://www.loc.gov/item/jukebox-133464/"
+        },
+        {
+          "id": "133443",
+          "title": "A perfect day",
+          "date": "1913-06-17",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Jacobs-Bond, Carrie, Lyricist | Baker, Elsie, Vocalist -- Contralto | Jacobs-Bond, Carrie, Composer",
+          "source": "https://www.loc.gov/item/jukebox-133443/"
+        },
+        {
+          "id": "189312",
+          "title": "A perfect day",
+          "date": "1916-09-15",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Wood, C. Robert, Vocalist -- Tenor Vocal | Johnson, Oliver, Vocalist -- Bass Vocal | Moody, Wallace, Vocalist -- Tenor Vocal | Imperial Quartet, Vocal Group | Tufts, Ben Q., Vocalist -- Baritone Vocal | Jacobs-Bond, Carrie, Composer",
+          "source": "https://www.loc.gov/item/jukebox-189312/"
+        },
+        {
+          "id": "14782",
+          "title": "A perfect day",
+          "date": "1915-09-16",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Wood, C. Robert, Vocalist -- Tenor Vocal | Johnson, Oliver, Vocalist -- Bass Vocal | Moody, Wallace, Vocalist -- Tenor Vocal | Imperial Quartet, Vocal Group | Tufts, Ben Q., Vocalist -- Baritone Vocal | Jacobs-Bond, Carrie, Composer",
+          "source": "https://www.loc.gov/item/jukebox-14782/"
+        },
+        {
+          "id": "33073",
+          "title": "A pretty girl is like a melody",
+          "date": "1919-06-30",
+          "language": "English",
+          "audience": "",
+          "genre": "Musical theater",
+          "credits": "Steel, John, Vocalist -- Tenor Vocal | Rattay, Howard, Instrumentalist -- Violin | Pasternack, Josef, Conductor | Berlin, Irving, Composer | Berlin, Irving, Lyricist",
+          "source": "https://www.loc.gov/item/jukebox-33073/"
+        },
+        {
+          "id": "120494",
+          "title": "A rheumatism cure in Jayville Centre",
+          "date": "1904-10-10",
+          "language": "English",
+          "audience": "",
+          "genre": "Descriptive specialties | Popular music",
+          "credits": "Stanley, Frank C., Author | Stanley, Frank C., Speaker | Harlan, Byron G., Speaker",
+          "source": "https://www.loc.gov/item/jukebox-120494/"
+        },
+        {
+          "id": "31864",
+          "title": "A rose, a kiss and you",
+          "date": "1919-04-17",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Steel, John, Vocalist -- Tenor Vocal | Rattay, Howard, Instrumentalist -- Violin | Reitz, William H., Instrumentalist -- Bells | Pasternack, Josef, Conductor | Robe, Harold A., Lyricist | Bourdon, Rosario, Instrumentalist -- Cello | Arthur, Gerald, Composer",
+          "source": "https://www.loc.gov/item/jukebox-31864/"
+        },
+        {
+          "id": "422586",
+          "title": "A singer sang a song",
+          "date": "1908-07-17",
+          "language": "English",
+          "audience": "",
+          "genre": "Humorous songs | Musical theater",
+          "credits": "Morton, Ed, Vocalist -- Baritone Vocal | Heelan, William A., Lyricist | Furth, Seymour, Composer",
+          "source": "https://www.loc.gov/item/jukebox-422586/"
+        },
+        {
+          "id": "62689",
+          "title": "A sleepy little village (Where the Dixie cotton grows)",
+          "date": "1922-06-21",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Smalle, Ed, Instrumentalist -- Piano | Leslie, Edgar, Lyricist | Bourdon, Rosario, Conductor | Murray, Billy, Vocalist -- Tenor Vocal | Wendling, Pete, Composer",
+          "source": "https://www.loc.gov/item/jukebox-62689/"
+        },
+        {
+          "id": "189198",
+          "title": "A stein song",
+          "date": "1915-11-05",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Orpheus Quartet, Vocal Group | Murphy, Lambert, Vocalist -- Tenor Vocal | Glenn, Wilfred, Vocalist -- Bass Vocal | Bullard, Frederic Field, Composer | Rogers, Walter B., Conductor | Macdonough, Harry, Vocalist -- Tenor Vocal | Werrenrath, Reinald, Vocalist -- Baritone Vocal | Hovey, Richard, Lyricist",
+          "source": "https://www.loc.gov/item/jukebox-189198/"
+        },
+        {
+          "id": "122150",
+          "title": "A warrior bold",
+          "date": "1905-11-17",
+          "language": "English",
+          "audience": "",
+          "genre": "Classical music",
+          "credits": "Stanley, Frank C., Vocalist -- Bass Vocal | Adams, Stephen, Composer | Thomas, Edwin, Lyricist",
+          "source": "https://www.loc.gov/item/jukebox-122150/"
+        },
+        {
+          "id": "120823",
+          "title": "Abraham",
+          "date": "1904-11-22",
+          "language": "English",
+          "audience": "",
+          "genre": "Ethnic characterizations | Popular music",
+          "credits": "Sterling, Andrew B., Lyricist | Collins, Arthur, Vocalist -- Baritone Vocal | Von Tilzer, Harry, Composer",
+          "source": "https://www.loc.gov/item/jukebox-120823/"
+        },
+        {
+          "id": "249413",
+          "title": "Abraham Jefferson Washington Lee",
+          "date": "1906-09-17",
+          "language": "English",
+          "audience": "",
+          "genre": "Humorous songs | Popular music",
+          "credits": "Sterling, Andrew B., Lyricist | Collins, Arthur, Vocalist -- Baritone Vocal | Von Tilzer, Harry, Composer",
+          "source": "https://www.loc.gov/item/jukebox-249413/"
+        },
+        {
+          "id": "121232",
+          "title": "Absence makes the heart grow fonder",
+          "date": "1907-10-30",
+          "language": "English",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Macdonough, Harry, Vocalist -- Tenor Vocal | Gillespie, Arthur, Lyricist | Dillea, Herbert, Composer",
+          "source": "https://www.loc.gov/item/jukebox-121232/"
+        },
+        {
+          "id": "135239",
+          "title": "Across the Rio Grande",
+          "date": "1914-05-28",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Oakland, Will, Vocalist -- Countertenor Vocal | Porter, Steve, Vocalist -- Baritone Vocal | Reed, David, Lyricist | Heidelberg Quintette, Vocal Group | Graff, George, Lyricist | Hooley, William F., Vocalist -- Bass Vocal | Armour, Robert D., Vocalist -- Tenor Vocal | Murray, Billy, Vocalist -- Tenor Vocal | Ball, Ernest R., Comp",
+          "source": "https://www.loc.gov/item/jukebox-135239/"
+        },
+        {
+          "id": "125894",
+          "title": "Adorables tourments",
+          "date": "1908-01-10",
+          "language": "French",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Caruso, Enrico, Vocalist -- Tenor Vocal | Barthelemy, Richard, Composer",
+          "source": "https://www.loc.gov/item/jukebox-125894/"
+        },
+        {
+          "id": "422487",
+          "title": "After they gather the hay",
+          "date": "1906-04-17",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Walker, James John, Lyricist | Henry, S. R., Composer | Bieling, John H., Vocalist -- Tenor Vocal | Hooley, William F., Vocalist -- Bass Vocal | Dudley, S. H., Vocalist -- Baritone Vocal | Haydn Quartet, Vocal Group | Macdonough, Harry, Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-422487/"
+        },
+        {
+          "id": "130235",
+          "title": "Afterwards",
+          "date": "1911-05-03",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Lemon, Mary Mark, Lyricist | Mullen, John W., Composer | Coombs, Frank, Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-130235/"
+        },
+        {
+          "id": "131883",
+          "title": "Aime-moi",
+          "date": "1912-06-06",
+          "language": "French",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Fornia, Rita, Vocalist -- Soprano Vocal | Bourdon, Rosario, Instrumentalist -- Piano | Chopin, Frédéric, Composer | Viardot-García, Pauline, Arranger",
+          "source": "https://www.loc.gov/item/jukebox-131883/"
+        },
+        {
+          "id": "119447",
+          "title": "Ain't it funny what a difference just a few hours make",
+          "date": "1904-03-23",
+          "language": "English",
+          "audience": "",
+          "genre": "Musical theater",
+          "credits": "Murray, Billy, Vocalist -- Tenor Vocal | Robyn, Alfred G., Composer | Blossom, Henry, Lyricist",
+          "source": "https://www.loc.gov/item/jukebox-119447/"
+        },
+        {
+          "id": "119448",
+          "title": "Ain't it funny what a difference just a few hours make",
+          "date": "1904-10-11",
+          "language": "English",
+          "audience": "",
+          "genre": "Humorous songs | Musical theater",
+          "credits": "Murray, Billy, Vocalist -- Tenor Vocal | Robyn, Alfred G., Composer | Blossom, Henry, Lyricist",
+          "source": "https://www.loc.gov/item/jukebox-119448/"
+        },
+        {
+          "id": "333797",
+          "title": "Ain't that a shame",
+          "date": "1901-12-06",
+          "language": "English",
+          "audience": "",
+          "genre": "Humorous songs | Ethnic characterizations",
+          "credits": "Leachman, Silas F., Vocalist | Queen, John, Lyricist | Wilson, Walter, Composer",
+          "source": "https://www.loc.gov/item/jukebox-333797/"
+        },
+        {
+          "id": "41310",
+          "title": "Ain't you coming out Malinda?",
+          "date": "1921-06-14",
+          "language": "English",
+          "audience": "",
+          "genre": "Popular music",
+          "credits": "Burr, Henry, Vocalist -- Tenor Vocal | Sterling, Andrew B., Lyricist | Bourdon, Rosario, Conductor | Croxton, Frank, Vocalist -- Bass Vocal | Moran, Eddie, Lyricist | Peerless Quartet, Vocal Group | Campbell, Albert, Vocalist -- Tenor Vocal | Meyer, John H., Vocalist -- Bass Vocal | Von Tilzer, Harry, Composer",
+          "source": "https://www.loc.gov/item/jukebox-41310/"
+        },
+        {
+          "id": "129652",
+          "title": "Air de Lia",
+          "date": "1911-05-05",
+          "language": "French",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Gerville-Réache, Jeanne, Vocalist -- Contralto | Victor Orchestra, Musical Group | Debussy, Claude, Composer",
+          "source": "https://www.loc.gov/item/jukebox-129652/"
+        },
+        {
+          "id": "421903",
+          "title": "Air de Phanuel",
+          "date": "1916-02-01",
+          "language": "French",
+          "audience": "",
+          "genre": "Classical music | Opera",
+          "credits": "Journet, Marcel, Vocalist -- Bass Vocal | Victor Orchestra, Musical Group | Rogers, Walter B., Conductor | Massenet, Jules, Composer",
+          "source": "https://www.loc.gov/item/jukebox-421903/"
+        },
+        {
+          "id": "124653",
+          "title": "Air des bijoux",
+          "date": "1910-08-22",
+          "language": "French",
+          "audience": "",
+          "genre": "Classical music | Opera",
+          "credits": "Gounod, Charles, Composer | Melba, Nellie, Vocalist -- Soprano Vocal | Victor Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-124653/"
+        },
+        {
+          "id": "124650",
+          "title": "Air des bijoux",
+          "date": "1907-03-27",
+          "language": "French",
+          "audience": "",
+          "genre": "Classical music | Opera",
+          "credits": "Gounod, Charles, Composer | Melba, Nellie, Vocalist -- Soprano Vocal | Victor Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-124650/"
+        }
+      ]
+    },
+    "Austria": {
+      "count": 88,
+      "shortlist": [
+        {
+          "id": "131368",
+          "title": "Abendlich strahlt der Sonne Auge",
+          "date": "1912-01-11",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | Opera",
+          "credits": "Wagner, Richard, Composer | Rogers, Walter B., Conductor | Journet, Marcel, Vocalist -- Bass Vocal | Victor Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-131368/"
+        },
+        {
+          "id": "131956",
+          "title": "Allerseelen",
+          "date": "1912-07-09",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Strauss, Richard, Composer | Werrenrath, Reinald, Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-131956/"
+        },
+        {
+          "id": "213054",
+          "title": "Aus der Jugendzeit",
+          "date": "1902-08-04",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Muench, Emil, Vocalist -- Tenor Vocal | Rückert, Friedrich, Author | Radecke, Robert, Composer",
+          "source": "https://www.loc.gov/item/jukebox-213054/"
+        },
+        {
+          "id": "127819",
+          "title": "Barbchen",
+          "date": "1909-09-17",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music",
+          "credits": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Hermann, Hans, Composer",
+          "source": "https://www.loc.gov/item/jukebox-127819/"
+        },
+        {
+          "id": "19147",
+          "title": "Bruderlein fein",
+          "date": "1916-08-02",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | German",
+          "credits": "Raimund, Ferdinand, Author | Bennèche, Frida, Vocalist -- Soprano Vocal | King, Edward T., Conductor | Drechsler, Joseph, Composer | King's Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-19147/"
+        },
+        {
+          "id": "187994",
+          "title": "Canzonetta",
+          "date": "1916-09-26",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Lapitino, Francis J., Instrumentalist -- Harp | Hageman, Richard, Conductor | Ersch, Johann Samuel, Arranger | Gluck, Alma, Vocalist -- Soprano Vocal | Loewe, Carl, Composer | Goethe, Johann Wolfgang von, Author",
+          "source": "https://www.loc.gov/item/jukebox-187994/"
+        },
+        {
+          "id": "133032",
+          "title": "Chorus of priests : Grand Isis!",
+          "date": "1913-04-04",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | Opera",
+          "credits": "Metropolitan Opera Male Chorus, Vocal Group | Victor Orchestra, Musical Group | Mozart, Wolfgang Amadeus, Composer",
+          "source": "https://www.loc.gov/item/jukebox-133032/"
+        },
+        {
+          "id": "14840",
+          "title": "Das Erkennen",
+          "date": "1915-09-15",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music",
+          "credits": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Loewe, Carl, Composer | Rogers, Walter B., Conductor",
+          "source": "https://www.loc.gov/item/jukebox-14840/"
+        },
+        {
+          "id": "13129",
+          "title": "Das Herz am Rhein",
+          "date": "1915-04-26",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | German",
+          "credits": "Muench, Emil, Vocalist -- Tenor Vocal | Hill, Wilhelm, Composer | Levy, Ted, Conductor",
+          "source": "https://www.loc.gov/item/jukebox-13129/"
+        },
+        {
+          "id": "187707",
+          "title": "Dem Unendlichen",
+          "date": "1915-03-22",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Arndt-Ober, Margarethe, Vocalist -- Contralto | Schubert, Franz, Composer | Arndt, Arthur, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-187707/"
+        },
+        {
+          "id": "133121",
+          "title": "Der Engel",
+          "date": "1913-04-15",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Farrar, Geraldine, Vocalist -- Soprano Vocal | Victor Orchestra, Musical Group | Homer, Louise, Vocalist -- Contralto | Rubinstein, Anton, Composer",
+          "source": "https://www.loc.gov/item/jukebox-133121/"
+        },
+        {
+          "id": "12432",
+          "title": "Der gute Kamerad",
+          "date": "1915-02-18",
+          "language": "German",
+          "audience": "",
+          "genre": "Ethnic music",
+          "credits": "Schlegel, Carl, Vocalist -- Baritone Vocal | Rogers, Walter B., Conductor",
+          "source": "https://www.loc.gov/item/jukebox-12432/"
+        },
+        {
+          "id": "122801",
+          "title": "Der Tannenbaum",
+          "date": "1906-03-22",
+          "language": "German",
+          "audience": "",
+          "genre": "Ethnic music | Popular music",
+          "credits": "Muench, Emil, Vocalist -- Tenor Vocal | Zarnack, Joachim August C., Lyricist",
+          "source": "https://www.loc.gov/item/jukebox-122801/"
+        },
+        {
+          "id": "122800",
+          "title": "Der Tannenbaum",
+          "date": "1906-03-22",
+          "language": "German",
+          "audience": "",
+          "genre": "Ethnic music | Popular music",
+          "credits": "Muench, Emil, Vocalist -- Tenor Vocal | Zarnack, Joachim August C., Lyricist",
+          "source": "https://www.loc.gov/item/jukebox-122800/"
+        },
+        {
+          "id": "125293",
+          "title": "Der Tod und das Madchen",
+          "date": "1907-07-24",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music",
+          "credits": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Schubert, Franz, Composer | Claudius, Matthias, Author",
+          "source": "https://www.loc.gov/item/jukebox-125293/"
+        },
+        {
+          "id": "19146",
+          "title": "Des Madchens Klage",
+          "date": "1916-08-02",
+          "language": "German",
+          "audience": "",
+          "genre": "Ethnic music | German",
+          "credits": "Bennèche, Frida, Vocalist -- Soprano Vocal | King, Edward T., Conductor | Düringer, Philipp Jakob, Lyricist | Düringer, Philipp Jakob, Composer | King's Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-19146/"
+        },
+        {
+          "id": "187660",
+          "title": "Deutschland uber alles",
+          "date": "1914-11-10",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical | German",
+          "credits": "Schlegel, Carl, Vocalist -- Baritone Vocal | Rogers, Walter B., Conductor | Haydn, Joseph, Composer",
+          "source": "https://www.loc.gov/item/jukebox-187660/"
+        },
+        {
+          "id": "13126",
+          "title": "Die Deutsche Mutter",
+          "date": "1915-04-26",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | German",
+          "credits": "Muench, Emil, Vocalist -- Tenor Vocal | Neeb, Heinrich Adam, Composer | Levy, Ted, Conductor",
+          "source": "https://www.loc.gov/item/jukebox-13126/"
+        },
+        {
+          "id": "131220",
+          "title": "Die Forelle, op. 32",
+          "date": "1911-12-08",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music",
+          "credits": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Schubert, Franz, Composer | Hoffman, Katharina, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-131220/"
+        },
+        {
+          "id": "121738",
+          "title": "Die Lorelei",
+          "date": "1909-08-10",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music",
+          "credits": "Heine, Heinrich, Author | Muench, Emil, Vocalist -- Tenor Vocal | Silcher, Friedrich, Composer",
+          "source": "https://www.loc.gov/item/jukebox-121738/"
+        },
+        {
+          "id": "121736",
+          "title": "Die Lorelei",
+          "date": "1905-05-19",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music",
+          "credits": "Heine, Heinrich, Author | Muench, Emil, Vocalist -- Tenor Vocal | Silcher, Friedrich, Composer",
+          "source": "https://www.loc.gov/item/jukebox-121736/"
+        },
+        {
+          "id": "121737",
+          "title": "Die Lorelei",
+          "date": "1909-08-10",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music",
+          "credits": "Heine, Heinrich, Author | Muench, Emil, Vocalist -- Tenor Vocal | Silcher, Friedrich, Composer",
+          "source": "https://www.loc.gov/item/jukebox-121737/"
+        },
+        {
+          "id": "204564",
+          "title": "Die Lorelei",
+          "date": "1906-03-22",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | German",
+          "credits": "Heine, Heinrich, Author | Muench, Emil, Vocalist -- Tenor Vocal | Silcher, Friedrich, Composer",
+          "source": "https://www.loc.gov/item/jukebox-204564/"
+        },
+        {
+          "id": "247864",
+          "title": "Die Wacht am Rhein",
+          "date": "1909-07-19",
+          "language": "German",
+          "audience": "",
+          "genre": "Ethnic music | German",
+          "credits": "Muench, Emil, Vocalist -- Tenor Vocal | Wilhelm, Carl, Composer",
+          "source": "https://www.loc.gov/item/jukebox-247864/"
+        },
+        {
+          "id": "11508",
+          "title": "Die Wacht am Rhein",
+          "date": "1914-11-10",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical | German",
+          "credits": "Schlegel, Carl, Vocalist -- Baritone Vocal | Rogers, Walter B., Conductor | Wilhelm, Carl, Composer",
+          "source": "https://www.loc.gov/item/jukebox-11508/"
+        },
+        {
+          "id": "247863",
+          "title": "Die Wacht am Rhein",
+          "date": "1905-05-19",
+          "language": "German",
+          "audience": "",
+          "genre": "Ethnic music | German",
+          "credits": "Muench, Emil, Vocalist -- Tenor Vocal | Wilhelm, Carl, Composer",
+          "source": "https://www.loc.gov/item/jukebox-247863/"
+        },
+        {
+          "id": "131205",
+          "title": "Erlkonig",
+          "date": "1911-12-07",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music",
+          "credits": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Schubert, Franz, Composer | Victor Orchestra, Musical Group | Goethe, Johann Wolfgang von, Author",
+          "source": "https://www.loc.gov/item/jukebox-131205/"
+        },
+        {
+          "id": "128261",
+          "title": "Evening star from Tannhauser",
+          "date": "1909-12-23",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | Opera",
+          "credits": "Wagner, Richard, Composer | Werrenrath, Reinald, Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-128261/"
+        },
+        {
+          "id": "128262",
+          "title": "Evening star from Tannhauser",
+          "date": "1909-12-23",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | Opera",
+          "credits": "Wagner, Richard, Composer | Werrenrath, Reinald, Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-128262/"
+        },
+        {
+          "id": "131683",
+          "title": "Fort denn, eile",
+          "date": "1912-03-08",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | Opera",
+          "credits": "Matzenauer, Margarete, Vocalist -- Contralto | Wagner, Richard, Composer | Victor Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-131683/"
+        },
+        {
+          "id": "131684",
+          "title": "Fort denn, eile",
+          "date": "1912-03-08",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | Opera",
+          "credits": "Matzenauer, Margarete, Vocalist -- Contralto | Wagner, Richard, Composer | Victor Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-131684/"
+        },
+        {
+          "id": "125291",
+          "title": "Fruhlingszeit",
+          "date": "1907-07-24",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music",
+          "credits": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Becker, John Joseph, Composer",
+          "source": "https://www.loc.gov/item/jukebox-125291/"
+        },
+        {
+          "id": "134789",
+          "title": "German fidelity march",
+          "date": "1914-03-21",
+          "language": "",
+          "audience": "",
+          "genre": "German | Popular music",
+          "credits": "United States Marine Band, Musical Group | Blankenburg, Hermann Ludwig, Composer | Santelmann, William H., Conductor",
+          "source": "https://www.loc.gov/item/jukebox-134789/"
+        },
+        {
+          "id": "122573",
+          "title": "Hi-le hi-lo",
+          "date": "1906-02-16",
+          "language": "German",
+          "audience": "",
+          "genre": "Yodeling | Ethnic music",
+          "credits": "Bourdon, Rosario, Conductor | Watson, George P., Arranger | Watson, George P., Vocalist -- Yodeling",
+          "source": "https://www.loc.gov/item/jukebox-122573/"
+        },
+        {
+          "id": "124119",
+          "title": "Ho-yo-to-ho!",
+          "date": "1906-11-26",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | Opera",
+          "credits": "Gadski, Johanna, Vocalist -- Soprano Vocal | Wagner, Richard, Composer",
+          "source": "https://www.loc.gov/item/jukebox-124119/"
+        },
+        {
+          "id": "124121",
+          "title": "Ho-yo-to-ho!",
+          "date": "1916-05-26",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | Opera",
+          "credits": "Gadski, Johanna, Vocalist -- Soprano Vocal | Wagner, Richard, Composer | Bourdon, Rosario, Conductor",
+          "source": "https://www.loc.gov/item/jukebox-124121/"
+        },
+        {
+          "id": "126801",
+          "title": "I und mei Bua",
+          "date": "1908-09-29",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | Yodeling",
+          "credits": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Millöcker, Carl, Composer",
+          "source": "https://www.loc.gov/item/jukebox-126801/"
+        },
+        {
+          "id": "126800",
+          "title": "I und mei Bua",
+          "date": "1908-09-29",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | Yodeling",
+          "credits": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Millöcker, Carl, Composer",
+          "source": "https://www.loc.gov/item/jukebox-126800/"
+        },
+        {
+          "id": "12434",
+          "title": "Ich grolle nicht",
+          "date": "1915-02-18",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music",
+          "credits": "Heine, Heinrich, Author | Schlegel, Carl, Vocalist -- Baritone Vocal | Rogers, Walter B., Conductor | Schumann, Robert, Composer",
+          "source": "https://www.loc.gov/item/jukebox-12434/"
+        },
+        {
+          "id": "130274",
+          "title": "Ich grolle nicht",
+          "date": "1911-05-05",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Schumann, Robert, Composer | Gerville-Réache, Jeanne, Vocalist -- Contralto",
+          "source": "https://www.loc.gov/item/jukebox-130274/"
+        },
+        {
+          "id": "127738",
+          "title": "Ich liebe Dich",
+          "date": "1909-08-11",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical | German",
+          "credits": "Gunster, Frederick, Vocalist -- Tenor Vocal | Grieg, Edvard, Composer",
+          "source": "https://www.loc.gov/item/jukebox-127738/"
+        },
+        {
+          "id": "133757",
+          "title": "Im Kahne",
+          "date": "1913-09-17",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music",
+          "credits": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Krag, Vilhelm, Author | Grieg, Edvard, Composer",
+          "source": "https://www.loc.gov/item/jukebox-133757/"
+        },
+        {
+          "id": "118633",
+          "title": "Im tiefen Keller sitz ich hier",
+          "date": "1903-10-19",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical",
+          "credits": "Fischer, Karl Ludwig, Composer | Muchler, Carl, Lyricist | Blass, Robert, Vocalist -- Bass Vocal",
+          "source": "https://www.loc.gov/item/jukebox-118633/"
+        },
+        {
+          "id": "124612",
+          "title": "Isolde's Liebestod",
+          "date": "1915-06-16",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | Opera",
+          "credits": "Gadski, Johanna, Vocalist -- Soprano Vocal | Wagner, Richard, Composer | Rogers, Walter B., Conductor",
+          "source": "https://www.loc.gov/item/jukebox-124612/"
+        },
+        {
+          "id": "134258",
+          "title": "Liuba's air",
+          "date": "1913-12-31",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | Opera",
+          "credits": "Gluck, Alma, Vocalist -- Soprano Vocal | Rogers, Walter B., Conductor | Rimsky-Korsakov, Nikolay, Composer",
+          "source": "https://www.loc.gov/item/jukebox-134258/"
+        },
+        {
+          "id": "14838",
+          "title": "Lorelei",
+          "date": "1915-09-15",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music",
+          "credits": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Heine, Heinrich, Author | Rogers, Walter B., Conductor | Silcher, Friedrich, Composer",
+          "source": "https://www.loc.gov/item/jukebox-14838/"
+        },
+        {
+          "id": "122290",
+          "title": "Mein Herz",
+          "date": "1915-09-14",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | Opera",
+          "credits": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Bourdon, Rosario, Instrumentalist -- Cello | Rogers, Walter B., Conductor | Saint-Saëns, Camille, Composer",
+          "source": "https://www.loc.gov/item/jukebox-122290/"
+        },
+        {
+          "id": "134787",
+          "title": "National emblem march",
+          "date": "1914-03-21",
+          "language": "",
+          "audience": "",
+          "genre": "German | Popular music",
+          "credits": "United States Marine Band, Musical Group | Bagley, E. E., Composer | Santelmann, William H., Conductor",
+          "source": "https://www.loc.gov/item/jukebox-134787/"
+        },
+        {
+          "id": "122059",
+          "title": "O du mein holder Abendstern",
+          "date": "1905-10-20",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | Opera",
+          "credits": "Wagner, Richard, Composer | Janpolski, Albert G., Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-122059/"
+        },
+        {
+          "id": "422605",
+          "title": "O du mein holder Abendstern",
+          "date": "1910-01-10",
+          "language": "German",
+          "audience": "",
+          "genre": "Classical music | Opera",
+          "credits": "Wagner, Richard, Composer | Journet, Marcel, Vocalist -- Bass Vocal | Victor Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-422605/"
+        }
+      ]
+    },
+    "Turkey": {
+      "count": 0,
+      "shortlist": []
+    },
+    "Greece": {
+      "count": 2,
+      "shortlist": [
+        {
+          "id": "16628",
+          "title": "Estudiantina waltz",
+          "date": "1916-02-25",
+          "language": "",
+          "audience": "",
+          "genre": "Greek | Popular music",
+          "credits": "Athenian Mandolin Quartet [i.e., Alessios Defilippis Mandolin Quartet], Musical Group | Lacome, P., Composer | Waldteufel, Emil, Arranger | Waldteufel, Emil, Composer | Walter, C. G., Arranger",
+          "source": "https://www.loc.gov/item/jukebox-16628/"
+        },
+        {
+          "id": "16627",
+          "title": "Spanish rhapsody",
+          "date": "1916-02-25",
+          "language": "",
+          "audience": "",
+          "genre": "Greek | Popular music",
+          "credits": "Salvetti, Simone, Composer | Athenian Mandolin Quartet [i.e., Alessios Defilippis Mandolin Quartet], Musical Group | Alessios de Filippis Mandolin Quartet, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-16627/"
+        }
+      ]
+    }
+  }
+}
