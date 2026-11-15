@@ -212,24 +212,40 @@ function musicCountry(name){
 }
 $('personalMusicInput').addEventListener('change',event=>{
  const files=Array.from(event.target.files||[]);
- let added=0;
+ let added=0,firstCurrentIndex=null;
+ const counts=new Map();
+ const active=$('country').value;
  for(const file of files){
   if(!/\.mp3$/i.test(file.name)||file.size<1000||file.size>150000000)continue;
   const country=musicCountry(file.name);
   if(!stationByCountry.has(country))continue;
+  const publicCount=(playlists[country]||[]).length;
+  const privateCount=(localPlaylists[country]||[]).length;
+  if(country===active&&firstCurrentIndex===null)firstCurrentIndex=publicCount+privateCount;
   const url=URL.createObjectURL(file);
   personalMusicUrls.push(url);
   const cleanTitle=file.name.replace(/\.mp3$/i,'').replace(/[_-]{2,}/g,' ').trim().slice(0,115);
   (localPlaylists[country]||(localPlaylists[country]=[])).push({title:cleanTitle+' · personal file',url});
+  counts.set(country,(counts.get(country)||0)+1);
   added++;
  }
  event.target.value='';
- $('personalMusicNote').textContent=added?added+' personal MP3(s) loaded in this browser session · not uploaded':'No valid MP3s selected.';
- if(!stationPlaylist().length||!power){render();return}
- // A newly populated station can begin automatically from the power gesture;
- // existing stations continue uninterrupted until tuned away or the next track.
- if(!playing&&stationPlaylist().length){activeCountry='';render()}
- else render();
+ if(!added){
+  $('personalMusicNote').textContent='No MP3s loaded. Select extracted MP3 files (not the RAR archive).';
+  render();
+  return;
+ }
+ const summary=Array.from(counts.entries()).map(([country,n])=>country+': '+n).join(' · ');
+ $('personalMusicNote').textContent=added+' personal MP3(s) loaded — '+summary+' · browser only, never uploaded';
+ // A previously empty tuned station should immediately play the newly loaded
+ // genuine user file, rather than retaining a remembered silent-station state.
+ if(firstCurrentIndex!==null&&!playing&&power){
+  const country=$('country').value;
+  stationBroadcasts.set(country,{index:firstCurrentIndex,position:0,at:Date.now(),fresh:true});
+  void playCurrent();
+ }else{
+  render();
+ }
 });
 fetch(new URL('audio-manifest.json',location.href),{cache:'no-cache'}).then(response=>{if(!response.ok)throw Error('Audio manifest unavailable');return response.json()}).then(loadLibrary).catch(()=>{audioMessage='No recordings have been loaded.';render()});
 async function playCurrent(){
