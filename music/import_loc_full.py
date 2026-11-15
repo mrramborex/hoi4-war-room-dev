@@ -28,7 +28,7 @@ for item in items:
     actual = hashlib.md5(data).hexdigest()
     if actual != item["md5"]:
         raise ValueError(f"Official LOC checksum mismatch for {name}: {actual}")
-    if not (data.startswith(b"ID3") or data[:1] == b"\\xff"):
+    if not (data.startswith(b"ID3") or data[0] == 0xff):
         raise ValueError(f"Not MP3 audio: {name}")
     print(f"PASS {item['title']}: {len(data)} bytes, MD5={actual}")
     files.append((name,data,item))
