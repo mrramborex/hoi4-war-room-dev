@@ -241,10 +241,10 @@
       "frequency_mhz": 89.5,
       "country": "Poland",
       "station": "Polskie Echo",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.5 original synthetic track rejected and removed after listening test. No playable recording; prioritize genuine public-domain/free-use period performances."
+      "notes": "Phase 23C.7: Ulan, full 1916 historical Polish-language folk performance (Jakov Medvedieff and King's Orchestra), sourced from Library of Congress National Jukebox; original MP3 matched official MD5. NOT a 1939–1945 recording; synthetic original rejected earlier remains removed."
     },
     {
       "frequency_mhz": 89.6,
