@@ -1,5 +1,16 @@
 {
   "version": 1,
-  "notes": "Add only recordings you own, have permission to use, or have verified public-domain rights for. Audio files should live under audio/ in this repository. Station keys match the country options in radio.html.",
-  "stations": {}
+  "notes": "Two original synthesized test recordings are available on the United States station for Phase 23B.5 playback testing. Other stations intentionally have no audio pending approved recordings. Only add recordings you own, have permission to use, or have verified public-domain rights for.",
+  "stations": {
+    "United States": [
+      {
+        "title": "TOBS Test Transmission — Opening Ident",
+        "src": "audio/tobs-test-ident.wav"
+      },
+      {
+        "title": "TOBS Test Transmission — Closing Ident",
+        "src": "audio/tobs-test-signoff.wav"
+      }
+    ]
+  }
 }
