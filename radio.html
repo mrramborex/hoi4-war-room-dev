@@ -214,12 +214,12 @@ $('personalMusicInput').addEventListener('change',event=>{
  const files=Array.from(event.target.files||[]);
  let added=0;
  for(const file of files){
-  if(!/\\.mp3$/i.test(file.name)||file.size<1000||file.size>150000000)continue;
+  if(!/\.mp3$/i.test(file.name)||file.size<1000||file.size>150000000)continue;
   const country=musicCountry(file.name);
   if(!stationByCountry.has(country))continue;
   const url=URL.createObjectURL(file);
   personalMusicUrls.push(url);
-  const cleanTitle=file.name.replace(/\\.mp3$/i,'').replace(/[_-]{2,}/g,' ').trim().slice(0,115);
+  const cleanTitle=file.name.replace(/\.mp3$/i,'').replace(/[_-]{2,}/g,' ').trim().slice(0,115);
   (localPlaylists[country]||(localPlaylists[country]=[])).push({title:cleanTitle+' · personal file',url});
   added++;
  }
