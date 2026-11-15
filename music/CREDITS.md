@@ -145,3 +145,15 @@ These are two different complete original recordings of *It's a Long, Long Way t
 | American Quartet (Billy Murray, Steve Porter, Robert D. Armour and William F. Hooley); Jack Judge and Harry Williams | 1914-09-15 | [jukebox-11094](https://www.loc.gov/item/jukebox-11094/) | `5879894a21f61b11ebf50439a070b540` | `audio/tobs-uk-tipperary-11094.mp3` |
 
 The eight MP3s in the user's personal WW2 Music.rar archive were not copied to the public GitHub repo. They remain accessible through the browser-local personal file picker, without any upload.
+
+## Phase 23C.9 — French, German, Austrian historical recordings
+
+All three are genuine pre-1923 recordings obtained as complete MP3s from the Library of Congress National Jukebox. Each source MP3 matched the exact entry in the [LOC dataset MD5 manifest](https://data.labs.loc.gov/jukebox/manifest.html). No WWII-era master is claimed; region assignment is based on the composition or repertoire, not the place of recording.
+
+| TOBS station | Historic composition and recording | Date | Performers and composer | LOC catalog and original MD5 |
+| --- | --- | --- | --- | --- |
+| France | La Marseillaise — Emilio de Gogorza and Carlos Francisco | 1905-01-10 | Emilio de Gogorza and Carlos Francisco, baritones; Claude Joseph Rouget de Lisle, composer | [LOC 121062](https://www.loc.gov/item/jukebox-121062/), `b1a53d7652a77e750d2a5345c255a0a2` |
+| Germany | Deutschland über alles — Carl Schlegel | 1914-11-10 | Carl Schlegel, baritone; Walter B. Rogers, conductor; Joseph Haydn, composer | [LOC 187660](https://www.loc.gov/item/jukebox-187660/), `b1b0e6542a9bdf9a5ba2c3161de7dcab` |
+| Austria | Brüderlein fein — Frida Bennèche | 1916-08-02 | Frida Bennèche, soprano; King's Orchestra; Edward T. King, conductor; Joseph Drechsler, composer; Ferdinand Raimund, playwright | [LOC 19147](https://www.loc.gov/item/jukebox-19147/), `8f8e101854e99b41ecf1b021102acc0b` |
+
+Both the 1914 German national song and the French anthem are used as period historical documentation, not endorsement of any political ideology. Austrian *Brüderlein fein* is part of a Viennese theatrical tradition, but was recorded in the United States. The source recordings are pre-WWII; no user-provided private audio has been published.
