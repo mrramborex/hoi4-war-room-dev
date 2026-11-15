@@ -1,0 +1,42 @@
+{
+  "15618": {
+    "country": "Argentina",
+    "title": "Mi ricurita — tango",
+    "md5": "46e3b1c896e45ac31e217cee08340bf0",
+    "source": "https://www.loc.gov/item/jukebox-15618/",
+    "audio": "https://data.labs.loc.gov/jukebox/audio/jukebox-15618_1.mp3",
+    "file": "tobs-c11-15618.mp3"
+  },
+  "126387": {
+    "country": "Brazil",
+    "title": "A madrugada exul",
+    "md5": "ea5e0e834609f1d5fe892103a6be1ff2",
+    "source": "https://www.loc.gov/item/jukebox-126387/",
+    "audio": "https://data.labs.loc.gov/jukebox/audio/jukebox-126387_1.mp3",
+    "file": "tobs-c11-126387.mp3"
+  },
+  "16628": {
+    "country": "Greece",
+    "title": "Estudiantina waltz",
+    "md5": "bf39cfaa93f0fcefa49cba5dcd2a72ac",
+    "source": "https://www.loc.gov/item/jukebox-16628/",
+    "audio": "https://data.labs.loc.gov/jukebox/audio/jukebox-16628_1.mp3",
+    "file": "tobs-c11-16628.mp3"
+  },
+  "16627": {
+    "country": "Greece",
+    "title": "Spanish rhapsody",
+    "md5": "782dae0e613ad38101516529b0c1c44b",
+    "source": "https://www.loc.gov/item/jukebox-16627/",
+    "audio": "https://data.labs.loc.gov/jukebox/audio/jukebox-16627_1.mp3",
+    "file": "tobs-c11-16627.mp3"
+  },
+  "12663": {
+    "country": "Mexico",
+    "title": "Alejandra",
+    "md5": "fd8e54e799e2e4893aca1e9f754a4ee4",
+    "source": "https://www.loc.gov/item/jukebox-12663/",
+    "audio": "https://data.labs.loc.gov/jukebox/audio/jukebox-12663_1.mp3",
+    "file": "tobs-c11-12663.mp3"
+  }
+}

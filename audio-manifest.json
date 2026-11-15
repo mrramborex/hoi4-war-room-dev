@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "TOBS historical music archive: nine original real musical recordings, 1906–1916, added to Sweden, Norway, Finland, Denmark, Mexico, and Poland. No synthetic or restricted commercial WWII originals published. Genuine WWII period performance research continues separately.",
+  "notes": "Phase 23C.11: authentic complete pre-1923 historical recordings for Argentina, Brazil, Greece and Mexico; not genuine WWII-era 1940s masters, no synthetic audio or restricted user uploads. Official LOC original hash verified.",
   "stations": {
     "United States": [
       {
@@ -196,6 +196,32 @@
       {
         "title": "Adela — original 1914 recording",
         "src": "audio/tobs-minors-batch4-258926.mp3"
+      },
+      {
+        "title": "Alejandra — original historical recording",
+        "src": "audio/tobs-c11-12663.mp3"
+      }
+    ],
+    "Argentina": [
+      {
+        "title": "Mi ricurita — tango — original historical recording",
+        "src": "audio/tobs-c11-15618.mp3"
+      }
+    ],
+    "Brazil": [
+      {
+        "title": "A madrugada exul — original historical recording",
+        "src": "audio/tobs-c11-126387.mp3"
+      }
+    ],
+    "Greece": [
+      {
+        "title": "Estudiantina waltz — original historical recording",
+        "src": "audio/tobs-c11-16628.mp3"
+      },
+      {
+        "title": "Spanish rhapsody — original historical recording",
+        "src": "audio/tobs-c11-16627.mp3"
       }
     ]
   }
