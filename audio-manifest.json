@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "TOBS archival library: two complete, source-verified UK Tipperary recordings from 1914 added; authentic WWI-era recordings, not WWII; modern and copyrighted user-supplied 1940s MP3s remain browser-local, no synthesized songs.",
+  "notes": "TOBS historical music archive: three additional full verified pre-1923 LOC recordings (France, Germany, and first Austrian broadcast) in Phase 23C.9. Historic repertoire, not actual WWII performances. No copyrighted user audio or rejected synthesized music.",
   "stations": {
     "United States": [
       {
@@ -66,6 +66,10 @@
       {
         "title": "Au fond du temple saint — LOC full recording",
         "src": "audio/tobs-major-batch2-131400.mp3"
+      },
+      {
+        "title": "La Marseillaise — Emilio de Gogorza and Carlos Francisco — original historical recording",
+        "src": "audio/tobs-international-batch3-121062.mp3"
       }
     ],
     "Germany": [
@@ -84,6 +88,10 @@
       {
         "title": "Der Tod und das Mädchen — LOC full recording",
         "src": "audio/tobs-major-batch2-125293.mp3"
+      },
+      {
+        "title": "Deutschland über alles — Carl Schlegel — original historical recording",
+        "src": "audio/tobs-international-batch3-187660.mp3"
       }
     ],
     "Italy": [
@@ -136,6 +144,12 @@
       {
         "title": "Ulan (Pieśń Narodowa) — 1916 Polish historical folk performance",
         "src": "audio/tobs-poland-ulan-1916.mp3"
+      }
+    ],
+    "Austria": [
+      {
+        "title": "Brüderlein fein — Frida Bennèche — original historical recording",
+        "src": "audio/tobs-international-batch3-19147.mp3"
       }
     ]
   }
