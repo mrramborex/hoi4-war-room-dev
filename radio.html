@@ -249,8 +249,12 @@ function changeTrack(delta){
 }
 audio.addEventListener('ended',()=>{
  const list=stationPlaylist();
- if(list.length>1)changeTrack(1);
- else{track=0;stationBroadcasts.set($('country').value,{index:0,position:0,at:Date.now(),fresh:true});audio.removeAttribute('src');audio.load();if(power)void playCurrent();else render()}
+ if(!list.length){playing=false;render();return}
+ // The station keeps broadcasting continuously, starting the next recording at its beginning.
+ track=(track+1)%list.length;
+ stationBroadcasts.set($('country').value,{index:track,position:0,at:Date.now(),fresh:false});
+ playbackGeneration++;playing=false;audio.removeAttribute('src');audio.load();
+ if(power)void playCurrent();else render();
 });
 audio.addEventListener('error',()=>{
  if(!audio.getAttribute('src'))return;
