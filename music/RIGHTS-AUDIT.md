@@ -1,6 +1,13 @@
 # TOBS — Music Rights & Source Audit (Phase 23C.1)
 Date: 2026-11-15. Scope: research guidance for U.S.-hosted development website; not legal advice.
 
+## Research preference — user-confirmed 2026-11-15
+- Prefer music **composed or recorded during the 1940s or earlier** when building the 1936–1945 TOBS atmosphere.
+- This is a **historical fit / candidate-discovery preference**, **NOT blanket copyright clearance**. A recording made or released during the 1930s or 1940s may remain protected in the U.S. and elsewhere. A public-domain composition does not automatically make every performance or sound recording public domain.
+- User's informal first-pass check of the current candidates was favorable, but it does **not** change their recorded `needs_review` statuses or authorize publishing them.
+- Continue requiring per-recording evidence of public-domain status, suitable license, or permission covering redistribution and website use before marking any track `cleared`.
+- When source evidence is incomplete, use `needs_review`; never silently equate "1940s and earlier" with "free to use".
+
 ## Gate: no audio is deployed without per-recording approval
 Before adding any historical or third-party recording to `audio-manifest.json`, record:
 - Track title; performer; composer and lyricist (when known); recording owner/label; first *publication* year and country.
