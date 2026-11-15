@@ -197,9 +197,9 @@
       "country": "United Kingdom",
       "station": "Albion Home Service",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 4,
+      "rights_cleared_track_count": 6,
       "target_initial_tracks": 5,
-      "notes": "4 complete LOC historical public-domain recordings in playable dev radio, latest batch individual MD5 verified. Repertoire fit is editorial, not a wartime national broadcast. See music/major-batch2-sources.json and music/CREDITS.md."
+      "notes": "6 total complete archival recordings. Two original 1914 recordings of It's a Long, Long Way to Tipperary added Phase 23C.8; authentic WWI-era, not WWII. LOC checksum verified; see music/uk-tipperary-sources.json. No user-owned copyright-uncertain MP3s public hosted."
     },
     {
       "frequency_mhz": 88.4,
