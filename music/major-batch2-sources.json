@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "phase": "23C.4",
+  "scope": "Five major-power stations; 10 full-length LOC recordings",
+  "rights_statement": "https://data.labs.loc.gov/jukebox/README.html",
+  "hash_source": "https://data.labs.loc.gov/jukebox/manifest.html",
+  "note": "LOC dataset records dated before 1923 and assumed public domain in the United States; station assignment reflects language/repertoire, not original broadcast or recording location. Japanese and American playlists untouched.",
+  "songs": [
+    {
+      "country": "United Kingdom",
+      "title": "A Farewell",
+      "id": "259782",
+      "md5": "e274d6f97cae421fa74cac534b6562f5",
+      "credits": "John McCormack; Charles Kingsley and Samuel Liddle",
+      "recorded": "1912-04-02",
+      "source_item": "https://www.loc.gov/item/jukebox-259782/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-259782_1.mp3",
+      "filename": "tobs-major-batch2-259782.mp3"
+    },
+    {
+      "country": "United Kingdom",
+      "title": "A Little Bit of Heaven",
+      "id": "12879",
+      "md5": "47d75639e968e4a6d1cd636d961b6cc6",
+      "credits": "Charles Harrison; Ernest R. Ball and J. Keirn Brennan",
+      "recorded": "1915-04-06",
+      "source_item": "https://www.loc.gov/item/jukebox-12879/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-12879_1.mp3",
+      "filename": "tobs-major-batch2-12879.mp3"
+    },
+    {
+      "country": "France",
+      "title": "Ah! fuyez, douce image",
+      "id": "131294",
+      "md5": "94d670ffdd1315073f4b289cf67a4f57",
+      "credits": "Enrico Caruso; Jules Massenet",
+      "recorded": "1911-12-27",
+      "source_item": "https://www.loc.gov/item/jukebox-131294/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-131294_1.mp3",
+      "filename": "tobs-major-batch2-131294.mp3"
+    },
+    {
+      "country": "France",
+      "title": "Au fond du temple saint",
+      "id": "131400",
+      "md5": "ad8593a8b7c1bb225492198582ace86e",
+      "credits": "Edmond Clément and Marcel Journet; Georges Bizet",
+      "recorded": "1912-01-18",
+      "source_item": "https://www.loc.gov/item/jukebox-131400/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-131400_1.mp3",
+      "filename": "tobs-major-batch2-131400.mp3"
+    },
+    {
+      "country": "Germany",
+      "title": "Der Tannenbaum",
+      "id": "122801",
+      "md5": "d3b707712a803f3781ed300989dc8e22",
+      "credits": "Emil Muench; traditional song, Joachim August Zarnack lyrics",
+      "recorded": "1906-03-22",
+      "source_item": "https://www.loc.gov/item/jukebox-122801/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-122801_1.mp3",
+      "filename": "tobs-major-batch2-122801.mp3"
+    },
+    {
+      "country": "Germany",
+      "title": "Der Tod und das Mädchen",
+      "id": "125293",
+      "md5": "d3865ed67a986fd0a40a5905284a13a7",
+      "credits": "Ernestine Schumann-Heink; Franz Schubert and Matthias Claudius",
+      "recorded": "1907-07-24",
+      "source_item": "https://www.loc.gov/item/jukebox-125293/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-125293_1.mp3",
+      "filename": "tobs-major-batch2-125293.mp3"
+    },
+    {
+      "country": "Italy",
+      "title": "Addio del passato",
+      "id": "134548",
+      "md5": "67bc0cac50b7cd837c7e56f708e2e57c",
+      "credits": "Lucrezia Bori; Giuseppe Verdi",
+      "recorded": "1914-02-12",
+      "source_item": "https://www.loc.gov/item/jukebox-134548/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-134548_1.mp3",
+      "filename": "tobs-major-batch2-134548.mp3"
+    },
+    {
+      "country": "Italy",
+      "title": "Ah! non credea mirarti",
+      "id": "24085",
+      "md5": "96fe562dfce9cd75721f4732a50cf0e8",
+      "credits": "Amelita Galli-Curci; Vincenzo Bellini",
+      "recorded": "1917-06-15",
+      "source_item": "https://www.loc.gov/item/jukebox-24085/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-24085_1.mp3",
+      "filename": "tobs-major-batch2-24085.mp3"
+    },
+    {
+      "country": "Soviet Union",
+      "title": "Oi kasala mene mati",
+      "id": "16147",
+      "md5": "29f4e9341a34ef417596b388c1c8a05f",
+      "credits": "Nina Dimitrieff; Russian/Ukrainian traditional repertoire as described by LOC",
+      "recorded": "1916-01-18",
+      "source_item": "https://www.loc.gov/item/jukebox-16147/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-16147_1.mp3",
+      "filename": "tobs-major-batch2-16147.mp3"
+    },
+    {
+      "country": "Soviet Union",
+      "title": "Song of the Volga Boatmen",
+      "id": "41296",
+      "md5": "3897647a3a04e54b59bb9437568fffdb",
+      "credits": "Emilio de Gogorza; traditional Russian repertoire, Edward Bromberg arrangement",
+      "recorded": "1921-06-09",
+      "source_item": "https://www.loc.gov/item/jukebox-41296/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-41296_1.mp3",
+      "filename": "tobs-major-batch2-41296.mp3"
+    }
+  ]
+}
