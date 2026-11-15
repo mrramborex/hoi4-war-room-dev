@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "TOBS live receiver: all historical public-domain tracks retained; added six newly composed WWII-era-inspired instrumental pieces made exclusively for HOI4 War Room. These are original new compositions, not historical recordings or famous WWII songs.",
+  "notes": "TOBS live receiver: 27 full historical recordings across seven major-power stations. Six synthetic Phase 23C.5 wartime-style instrumentals were rejected by user and removed; prioritize authentic public-domain/free-use performances, not basic synthesized approximations.",
   "stations": {
     "United States": [
       {
@@ -22,10 +22,6 @@
       {
         "title": "After You've Gone — LOC complete recording",
         "src": "audio/tobs-full-after-youve-gone.mp3"
-      },
-      {
-        "title": "Home Front Swing — original WWII-era-inspired instrumental",
-        "src": "audio/tobs-original-home-front-swing.wav"
       }
     ],
     "United Kingdom": [
@@ -44,10 +40,6 @@
       {
         "title": "A Little Bit of Heaven — LOC full recording",
         "src": "audio/tobs-major-batch2-12879.mp3"
-      },
-      {
-        "title": "Blackout Waltz — original WWII-era-inspired instrumental",
-        "src": "audio/tobs-original-blackout-waltz.wav"
       }
     ],
     "France": [
@@ -120,10 +112,6 @@
       {
         "title": "Song of the Volga Boatmen — LOC full recording",
         "src": "audio/tobs-major-batch2-41296.mp3"
-      },
-      {
-        "title": "Eastern Front Signal — original WWII-era-inspired instrumental",
-        "src": "audio/tobs-original-eastern-front-signal.wav"
       }
     ],
     "Japan": [
@@ -134,24 +122,6 @@
       {
         "title": "Teki wa Ikuman — historical recording",
         "src": "audio/tobs-japan-teki-wa-ikuman.ogg"
-      }
-    ],
-    "Canada": [
-      {
-        "title": "Atlantic Convoy — original WWII-era-inspired instrumental",
-        "src": "audio/tobs-original-atlantic-convoy.wav"
-      }
-    ],
-    "Australia": [
-      {
-        "title": "Southern Skies Dance — original WWII-era-inspired instrumental",
-        "src": "audio/tobs-original-southern-skies-dance.wav"
-      }
-    ],
-    "Poland": [
-      {
-        "title": "Warsaw Lanterns — original WWII-era-inspired instrumental",
-        "src": "audio/tobs-original-warsaw-lanterns.wav"
       }
     ]
   }
