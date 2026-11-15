@@ -122,3 +122,15 @@ Source: [Library of Congress National Jukebox 1900–1922 dataset](https://data.
 ## Phase 23C.5 — Rejected prototypes
 
 Six newly synthesized WWII-era-inspired instrumentals were **rejected after listening review** because they sounded artificial compared with authentic archival music. All six were removed from the development playlists and media files on 2026-11-15. This section is a historical note, not playable-music credits. Prefer credible original historical performances with documented public-domain or free-use rights; do not restore these recordings.
+
+## Phase 23C.7 — Poland: Polskie Echo (89.5 MHz)
+
+**Ulan (Pieśń Narodowa)** — Original Polish/Russian folk-song performance, 1916-03-30. Performed by tenor Jakov M. Medvedieff with King's Orchestra, Edward T. King conducting. This is real archival audio, not an AI-generated tune, and **not a WWII-era recording**. Recording originally made in the United States; assigned to Poland for Polish-language folk repertoire.
+
+- Official Library of Congress catalog: https://www.loc.gov/item/jukebox-17105/
+- Rights: https://www.loc.gov/collections/national-jukebox/about-this-collection/rights-and-access/
+- Complete MP3 from LOC dataset: https://data.labs.loc.gov/jukebox/audio/jukebox-17105_1.mp3
+- Official MD5 verified: `528e0097e369e015186ecd03a41d8367` (https://data.labs.loc.gov/jukebox/manifest.html)
+- TOBS file: `audio/tobs-poland-ulan-1916.mp3`
+
+No synthetic music was reintroduced. Authentic 1936–1945 recordings still require item-level verification of recording and underlying work rights before adding to public audio.
