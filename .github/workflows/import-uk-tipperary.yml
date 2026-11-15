@@ -1,0 +1,30 @@
+name: Import authentic 1914 British recordings
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/import-uk-tipperary.yml"
+permissions:
+  contents: write
+concurrency:
+  group: tobs-uk-tipperary
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Download and checksum-verify both LOC originals
+        run: python3 music/import_uk_tipperary.py
+      - name: Commit eligible audio to development radio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/tobs-uk-tipperary-*.mp3 audio-manifest.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Phase 23C.8: add two source-verified 1914 British songs"
+            git push
+          fi
