@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C live receiver: 17 complete historical recordings across 7 major-power stations. Japanese originals from Wikimedia Commons have explicit PD recording/composition tags. Silent stations have no playlist.",
+  "notes": "TOBS Phase 23C.4: 27 complete rights-documented historical recordings, across all 7 major powers. US & Japan unchanged by this batch. Other 58 stations await cleared music.",
   "stations": {
     "United States": [
       {
@@ -32,6 +32,14 @@
       {
         "title": "A Child's Song — LOC historical recording",
         "src": "audio/tobs-international-259778.mp3"
+      },
+      {
+        "title": "A Farewell — LOC full recording",
+        "src": "audio/tobs-major-batch2-259782.mp3"
+      },
+      {
+        "title": "A Little Bit of Heaven — LOC full recording",
+        "src": "audio/tobs-major-batch2-12879.mp3"
       }
     ],
     "France": [
@@ -42,6 +50,14 @@
       {
         "title": "Air de Lia — LOC historical recording",
         "src": "audio/tobs-international-129652.mp3"
+      },
+      {
+        "title": "Ah! fuyez, douce image — LOC full recording",
+        "src": "audio/tobs-major-batch2-131294.mp3"
+      },
+      {
+        "title": "Au fond du temple saint — LOC full recording",
+        "src": "audio/tobs-major-batch2-131400.mp3"
       }
     ],
     "Germany": [
@@ -52,6 +68,14 @@
       {
         "title": "Bärbchen — LOC historical recording",
         "src": "audio/tobs-international-127819.mp3"
+      },
+      {
+        "title": "Der Tannenbaum — LOC full recording",
+        "src": "audio/tobs-major-batch2-122801.mp3"
+      },
+      {
+        "title": "Der Tod und das Mädchen — LOC full recording",
+        "src": "audio/tobs-major-batch2-125293.mp3"
       }
     ],
     "Italy": [
@@ -62,6 +86,14 @@
       {
         "title": "Abbietta zingara — LOC historical recording",
         "src": "audio/tobs-international-187534.mp3"
+      },
+      {
+        "title": "Addio del passato — LOC full recording",
+        "src": "audio/tobs-major-batch2-134548.mp3"
+      },
+      {
+        "title": "Ah! non credea mirarti — LOC full recording",
+        "src": "audio/tobs-major-batch2-24085.mp3"
       }
     ],
     "Soviet Union": [
@@ -72,6 +104,14 @@
       {
         "title": "Douchechka devitza — LOC historical recording",
         "src": "audio/tobs-international-16142.mp3"
+      },
+      {
+        "title": "Oi kasala mene mati — LOC full recording",
+        "src": "audio/tobs-major-batch2-16147.mp3"
+      },
+      {
+        "title": "Song of the Volga Boatmen — LOC full recording",
+        "src": "audio/tobs-major-batch2-41296.mp3"
       }
     ],
     "Japan": [
