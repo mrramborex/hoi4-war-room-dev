@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Two original synthesized test recordings are available on the United States station for Phase 23B.5 playback testing. Other stations intentionally have no audio pending approved recordings. Only add recordings you own, have permission to use, or have verified public-domain rights for.",
+  "notes": "Phase 23B.6 includes original synthesized test station-identification melodies for United States, United Kingdom, France, Germany, Japan and Soviet Union. These are not historical broadcasts or commercial songs. Other countries have no recordings pending licensed, user-owned, or confirmed public-domain audio. Keep all station keys identical to radio.html country option values.",
   "stations": {
     "United States": [
       {
@@ -10,6 +10,36 @@
       {
         "title": "TOBS Test Transmission — Closing Ident",
         "src": "audio/tobs-test-signoff.wav"
+      }
+    ],
+    "United Kingdom": [
+      {
+        "title": "Albion Home Service — Station Ident",
+        "src": "audio/tobs-albion-ident.wav"
+      }
+    ],
+    "France": [
+      {
+        "title": "La Voix de Paris — Station Ident",
+        "src": "audio/tobs-paris-ident.wav"
+      }
+    ],
+    "Germany": [
+      {
+        "title": "Berliner Tanzorchester — Station Ident",
+        "src": "audio/tobs-berlin-ident.wav"
+      }
+    ],
+    "Japan": [
+      {
+        "title": "Sakura Denpa — Station Ident",
+        "src": "audio/tobs-sakura-ident.wav"
+      }
+    ],
+    "Soviet Union": [
+      {
+        "title": "Radio Krasnaya Zvezda — Station Ident",
+        "src": "audio/tobs-moscow-ident.wav"
       }
     ]
   }
