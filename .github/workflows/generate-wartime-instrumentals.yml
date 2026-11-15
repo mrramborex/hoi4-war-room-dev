@@ -1,4 +1,5 @@
 name: Generate original TOBS wartime instrumentals
+# Rebuild six extended full-length originals for the dev radio.
 on:
   workflow_dispatch:
   push:
