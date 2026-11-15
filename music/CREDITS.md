@@ -119,17 +119,6 @@ Source: [Library of Congress National Jukebox 1900–1922 dataset](https://data.
 
 **Historical context:** Source performances are earlier than 1923 and were not genuine wartime national-radio transmissions. Station curation is based on musical or language relevance. The Soviet Union station includes pre-Soviet Russian repertoire; do not describe the originals as Soviet-era recordings. Japanese selections remain unchanged.
 
-## Phase 23C.5 — Six Original Wartime-Themed Instrumentals
+## Phase 23C.5 — Rejected prototypes
 
-These **new compositions and synthetic audio masters were created exclusively for TOBS**, without historical audio samples, third-party melodies or external soundfonts. They are *not* genuine 1936–1945 recordings and must always be identified as original, period-inspired music.
-
-| TOBS station | Title | Musical concept | File |
-| --- | --- | --- | --- |
-| WRS Victory Ballroom (United States) | Home Front Swing | original swing / dance-band cue | `audio/tobs-original-home-front-swing.wav` |
-| Albion Home Service (United Kingdom) | Blackout Waltz | original wartime waltz | `audio/tobs-original-blackout-waltz.wav` |
-| Maple Leaf Broadcasting (Canada) | Atlantic Convoy | original convoy march | `audio/tobs-original-atlantic-convoy.wav` |
-| Southern Cross Wireless (Australia) | Southern Skies Dance | original swing dance | `audio/tobs-original-southern-skies-dance.wav` |
-| Polskie Echo (Poland) | Warsaw Lanterns | original instrumental waltz | `audio/tobs-original-warsaw-lanterns.wav` |
-| Radio Krasnaya Zvezda (Soviet Union) | Eastern Front Signal | original brass march | `audio/tobs-original-eastern-front-signal.wav` |
-
-Reproducible source and full-song generator: `music/generate_wartime_instrumentals.py`. This is project-original audio, not automatically public-domain historical recordings.
+Six newly synthesized WWII-era-inspired instrumentals were **rejected after listening review** because they sounded artificial compared with authentic archival music. All six were removed from the development playlists and media files on 2026-11-15. This section is a historical note, not playable-music credits. Prefer credible original historical performances with documented public-domain or free-use rights; do not restore these recordings.
