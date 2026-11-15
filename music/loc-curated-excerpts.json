@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "description": "Exact Library of Congress Citizen DJ Jazz curated excerpts; research staging, not yet downloaded or deployed. Source authorizes commercial reuse of this curated collection.",
+  "rights_evidence": "https://citizen-dj.labs.loc.gov/loc-jukebox-jazz/use/",
+  "recommended_credit": "Citizen DJ Project, Library of Congress, National Jukebox",
+  "items": [
+    {
+      "country": "United States",
+      "title": "'Joe Turner Blues' Medley — LOC excerpt 00:34",
+      "filename": "tobs-loc-joe-turner-blues.wav",
+      "url": "https://s3.amazonaws.com/citizen-dj-assets.labs.loc.gov/audio/samplepacks/loc-jukebox-jazz/Joe-Turner-blues-medley_jukebox-19795_001_00-00-34.wav",
+      "source_item": "https://www.loc.gov/item/jukebox-19795/",
+      "status": "verified_source_not_imported"
+    },
+    {
+      "country": "United States",
+      "title": "12th Street Rag — LOC excerpt 00:00",
+      "filename": "tobs-loc-12th-street-rag.wav",
+      "url": "https://s3.amazonaws.com/citizen-dj-assets.labs.loc.gov/audio/samplepacks/loc-jukebox-jazz/12th-Street-rag_jukebox-38191_001_00-00-00.wav",
+      "source_item": "https://www.loc.gov/item/jukebox-38191/",
+      "status": "verified_source_not_imported"
+    },
+    {
+      "country": "United States",
+      "title": "A Classical Spasm — LOC excerpt 00:00",
+      "filename": "tobs-loc-classical-spasm.wav",
+      "url": "https://s3.amazonaws.com/citizen-dj-assets.labs.loc.gov/audio/samplepacks/loc-jukebox-jazz/A-classical-spasm_jukebox-20378_001_00-00-00.wav",
+      "source_item": "https://www.loc.gov/item/jukebox-20378/",
+      "status": "verified_source_not_imported"
+    },
+    {
+      "country": "United States",
+      "title": "A Rag-Time Episode — LOC excerpt 00:30",
+      "filename": "tobs-loc-rag-time-episode.wav",
+      "url": "https://s3.amazonaws.com/citizen-dj-assets.labs.loc.gov/audio/samplepacks/loc-jukebox-jazz/A-rag-time-episode_jukebox-129854_001_00-00-30.wav",
+      "source_item": "https://www.loc.gov/item/jukebox-129854/",
+      "status": "verified_source_not_imported"
+    },
+    {
+      "country": "United States",
+      "title": "After You've Gone — LOC excerpt 01:00",
+      "filename": "tobs-loc-after-youve-gone.wav",
+      "url": "https://s3.amazonaws.com/citizen-dj-assets.labs.loc.gov/audio/samplepacks/loc-jukebox-jazz/After-youve-gone_jukebox-313413_001_00-01-00.wav",
+      "source_item": "https://www.loc.gov/item/jukebox-313413/",
+      "status": "verified_source_not_imported"
+    }
+  ]
+}
