@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "source": "https://data.labs.loc.gov/jukebox/",
+  "rights_statement": "https://data.labs.loc.gov/jukebox/README.html",
+  "manifest": "https://data.labs.loc.gov/jukebox/manifest.html",
+  "notes": "Library of Congress National Jukebox full recordings. Source dataset contains 1900–1922 US public domain recordings. File-level MD5 checksums are from its official manifest.",
+  "songs": [
+    {
+      "title": "'Joe Turner Blues' Medley",
+      "id": "19795",
+      "md5": "b8dab8133fa0c3a2bfd98aa76ec72bbc",
+      "filename": "tobs-full-joe-turner-blues.mp3",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-19795_1.mp3",
+      "item": "https://www.loc.gov/item/jukebox-19795/"
+    },
+    {
+      "title": "12th Street Rag",
+      "id": "38191",
+      "md5": "cdf8402f90861099180b8113e3b2f768",
+      "filename": "tobs-full-12th-street-rag.mp3",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-38191_1.mp3",
+      "item": "https://www.loc.gov/item/jukebox-38191/"
+    },
+    {
+      "title": "A Classical Spasm",
+      "id": "20378",
+      "md5": "68b0830bec4297115dc8577c28367072",
+      "filename": "tobs-full-classical-spasm.mp3",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-20378_1.mp3",
+      "item": "https://www.loc.gov/item/jukebox-20378/"
+    },
+    {
+      "title": "A Rag-Time Episode",
+      "id": "129854",
+      "md5": "674d823f2a256d46bf65c67663730151",
+      "filename": "tobs-full-rag-time-episode.mp3",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-129854_1.mp3",
+      "item": "https://www.loc.gov/item/jukebox-129854/"
+    },
+    {
+      "title": "After You've Gone",
+      "id": "313413",
+      "md5": "a82d8d596b67ed58cf55f0663e4dd159",
+      "filename": "tobs-full-after-youve-gone.mp3",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-313413_1.mp3",
+      "item": "https://www.loc.gov/item/jukebox-313413/"
+    }
+  ]
+}
