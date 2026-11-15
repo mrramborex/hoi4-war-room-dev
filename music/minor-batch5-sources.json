@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "phase": "23C.11",
+  "created": "2026-11-15",
+  "full_length": true,
+  "recordings": "Actual 1908-1922 archival performances, NOT WWII-era recordings",
+  "rights_note": "LOC National Jukebox dataset pre-1923 source recordings assumed U.S. public domain; source works pre-1923 and historic. Item-specific review and official downloaded-file checksum needed.",
+  "rights_url": "https://data.labs.loc.gov/jukebox/README.html",
+  "checksum_url": "https://data.labs.loc.gov/jukebox/manifest.json",
+  "items": [
+    {
+      "country": "Argentina",
+      "id": "15618",
+      "title": "Mi ricurita — tango",
+      "date": "1915-11-30",
+      "credits": "Victor Orchestra, Edward T. King (conductor); Osmán Pérez Freire (composer)",
+      "why": "Instrumental tango indexed by LOC for Spanish (Argentina); composer's birthplace or nationality is not the country assignment",
+      "label": "Original 1915 tango performance",
+      "source": "https://www.loc.gov/item/jukebox-15618/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-15618_1.mp3",
+      "filename": "tobs-c11-15618.mp3"
+    },
+    {
+      "country": "Brazil",
+      "id": "126387",
+      "title": "A madrugada exul",
+      "date": "1908-05-04",
+      "credits": "Roxy King (soprano), Victor Orchestra; Leopoldo Miguez (Brazilian composer)",
+      "why": "Portuguese (Brazil)-language operatic vocal written by Brazilian composer; original recorded Camden NJ",
+      "label": "Original 1908 Brazilian operatic repertoire",
+      "source": "https://www.loc.gov/item/jukebox-126387/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-126387_1.mp3",
+      "filename": "tobs-c11-126387.mp3"
+    },
+    {
+      "country": "Greece",
+      "id": "16628",
+      "title": "Estudiantina waltz",
+      "date": "1916",
+      "credits": "Athenian Mandolin Quartet; Émile Waldteufel / Paul Lacome (composer credit per LOC)",
+      "why": "Performed by Athenian Mandolin Quartet; source composition not native Greek",
+      "label": "Original period Greek ensemble performance of European waltz",
+      "source": "https://www.loc.gov/item/jukebox-16628/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-16628_1.mp3",
+      "filename": "tobs-c11-16628.mp3"
+    },
+    {
+      "country": "Greece",
+      "id": "16627",
+      "title": "Spanish rhapsody",
+      "date": "1916",
+      "credits": "Athenian Mandolin Quartet; Simone Salvetti (composer per LOC)",
+      "why": "Athenian Mandolin Quartet performing Spanish-themed repertoire; do not call traditional Greek composition",
+      "label": "Original Greek ensemble historical performance",
+      "source": "https://www.loc.gov/item/jukebox-16627/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-16627_1.mp3",
+      "filename": "tobs-c11-16627.mp3"
+    },
+    {
+      "country": "Mexico",
+      "id": "12663",
+      "title": "Alejandra",
+      "date": "1910s",
+      "credits": "Banda Rodríguez, Victor Band; E. Navarro (composer)",
+      "why": "Mexican popular band instrumental according to LOC Spanish (Mexico) genre",
+      "label": "Genuine historical Mexican band recording",
+      "source": "https://www.loc.gov/item/jukebox-12663/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-12663_1.mp3",
+      "filename": "tobs-c11-12663.mp3"
+    }
+  ]
+}
