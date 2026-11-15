@@ -65,4 +65,15 @@ Ten additional complete historical MP3 recordings imported on 2026-11-15, valida
 | Eugene Onegin — Aria | [LOC 122060](https://www.loc.gov/item/jukebox-122060/) | Albert G. Janpolski; Pyotr Ilyich Tchaikovsky (pre-Soviet historical Russian repertoire) | `audio/tobs-international-122060.mp3` |
 | Douchechka devitza | [LOC 16142](https://www.loc.gov/item/jukebox-16142/) | Nina Dimitrieff; Alexander Dargomyzhsky (pre-Soviet historical Russian repertoire) | `audio/tobs-international-16142.mp3` |
 
-Japan is deliberately not included yet: no suitable Japanese-language music was found within this particular LOC dataset. Our public-domain/free-use gate still applies to other sources. 
+Japan is deliberately not included yet: no suitable Japanese-language music was found within this particular LOC dataset. Our public-domain/free-use gate still applies to other sources.
+
+## Sakura Denpa — Japan (82.6 MHz)
+
+Two complete historical Japanese performances, sourced as **original OGG files** from Wikimedia Commons and checked against the Commons original-file SHA1 and file size during import. Commons explicitly identifies the underlying compositions/lyrics, performances and historical Japanese sound-recording rights as public domain (including U.S. pre-1926 sound-recording eligibility). These files were uploaded to Commons from online historical transfers; do not replace them with later commercial remasters without fresh rights verification.
+
+| Performance | Date | Historical credits | Source | Local file |
+| --- | --- | --- | --- | --- |
+| Gunkan kōshinkyoku (Warship March) | 1913 | Fumiko Nōsho; Tokichi Setoguchi; Hiraku Toriyama | https://commons.wikimedia.org/wiki/File:Gunkan_k%C5%8Dshinkyoku_(1913).ogg | `audio/tobs-japan-gunkan-1913.ogg` |
+| Teki wa Ikuman | Before 1913 | Nōsho Benjirō; Sakunosuke Koyama; Yamada Bimyō | https://commons.wikimedia.org/wiki/File:Teki_wa_Ikuman_(N%C5%8Dsho_Benjir%C5%8D).ogg | `audio/tobs-japan-teki-wa-ikuman.ogg` |
+
+The Japanese playlist currently has two historical **military** pieces, not a balanced representation of civilian music; expand with verified traditional and popular repertoire when eligible recordings are found. Source identities and validation procedure: `music/japan-recordings-batch-1.json`, `music/import_japan_recordings.py`.
