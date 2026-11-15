@@ -1,0 +1,1396 @@
+{
+  "version": 1,
+  "collection": "LOC National Jukebox full-length 1900-1922 public-domain dataset",
+  "rights": "https://data.labs.loc.gov/jukebox/README.html",
+  "purpose": "Discovery only, requires deliberate item-level cultural fit selection; not automatically deployed",
+  "groups": {
+    "France": {
+      "total_matches": 171,
+      "shortlist": [
+        {
+          "id": "122295",
+          "title": "Ach, mein Sohn segnet Dir!",
+          "language": "French | German",
+          "genre": "Opera",
+          "date": "1909-09-18",
+          "contributors": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Meyerbeer, Giacomo, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-122295/"
+        },
+        {
+          "id": "127011",
+          "title": "Adieu, notre petite table",
+          "language": "French",
+          "genre": "Opera",
+          "date": "1908-12-08",
+          "contributors": "Farrar, Geraldine, Vocalist -- Soprano Vocal | Massenet, Jules, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-127011/"
+        },
+        {
+          "id": "125894",
+          "title": "Adorables tourments",
+          "language": "French",
+          "genre": "Classical",
+          "date": "1908-01-10",
+          "contributors": "Caruso, Enrico, Vocalist -- Tenor Vocal | Barthelemy, Richard, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-125894/"
+        },
+        {
+          "id": "131294",
+          "title": "Ah! fuyez, douce image",
+          "language": "French",
+          "genre": "Opera",
+          "date": "1911-12-27",
+          "contributors": "Caruso, Enrico, Vocalist -- Tenor Vocal | Massenet, Jules, Composer | Victor Orchestra, Musical Group",
+          "source_item": "https://www.loc.gov/item/jukebox-131294/"
+        },
+        {
+          "id": "22600",
+          "title": "Ah, mon sort!",
+          "language": "French",
+          "genre": "Opera",
+          "date": "1917-04-15",
+          "contributors": "Lapitino, Francis J., Instrumentalist -- Harp | Caruso, Enrico, Vocalist -- Tenor Vocal | Rubinstein, Anton, Composer | Pasternack, Josef, Conductor",
+          "source_item": "https://www.loc.gov/item/jukebox-22600/"
+        },
+        {
+          "id": "131883",
+          "title": "Aime-moi",
+          "language": "French",
+          "genre": "Classical",
+          "date": "1912-06-06",
+          "contributors": "Fornia, Rita, Vocalist -- Soprano Vocal | Bourdon, Rosario, Instrumentalist -- Piano | Chopin, Frédéric, Composer | Viardot-García, Pauline, Arranger",
+          "source_item": "https://www.loc.gov/item/jukebox-131883/"
+        },
+        {
+          "id": "187374",
+          "title": "Air de la lettre",
+          "language": "French",
+          "genre": "Opera",
+          "date": "1916-01-28",
+          "contributors": "Journet, Marcel, Vocalist -- Bass Vocal | Rogers, Walter B., Conductor | Massenet, Jules, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-187374/"
+        },
+        {
+          "id": "129652",
+          "title": "Air de Lia",
+          "language": "French",
+          "genre": "Classical",
+          "date": "1911-05-05",
+          "contributors": "Gerville-Réache, Jeanne, Vocalist -- Contralto | Victor Orchestra, Musical Group | Debussy, Claude, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-129652/"
+        },
+        {
+          "id": "20312",
+          "title": "Air de Lienski",
+          "language": "French",
+          "genre": "Opera",
+          "date": "1916-11-03",
+          "contributors": "Tchaikovsky, Peter Ilich, Composer | Delines, Michel, Translator | Pasternack, Josef, Conductor | Caruso, Enrico, Vocalist -- Tenor Vocal | Victor Orchestra, Musical Group | Pushkin, Aleksandr Sergeevich, Author",
+          "source_item": "https://www.loc.gov/item/jukebox-20312/"
+        },
+        {
+          "id": "421903",
+          "title": "Air de Phanuel",
+          "language": "French",
+          "genre": "Classical music | Opera",
+          "date": "1916-02-01",
+          "contributors": "Journet, Marcel, Vocalist -- Bass Vocal | Victor Orchestra, Musical Group | Rogers, Walter B., Conductor | Massenet, Jules, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-421903/"
+        },
+        {
+          "id": "128333",
+          "title": "Air de sommeil",
+          "language": "French",
+          "genre": "Opera",
+          "date": "1910-01-10",
+          "contributors": "Gounod, Charles, Composer | Journet, Marcel, Vocalist -- Bass Vocal | Victor Orchestra, Musical Group",
+          "source_item": "https://www.loc.gov/item/jukebox-128333/"
+        },
+        {
+          "id": "124653",
+          "title": "Air des bijoux",
+          "language": "French",
+          "genre": "Classical music | Opera",
+          "date": "1910-08-22",
+          "contributors": "Gounod, Charles, Composer | Melba, Nellie, Vocalist -- Soprano Vocal | Victor Orchestra, Musical Group",
+          "source_item": "https://www.loc.gov/item/jukebox-124653/"
+        },
+        {
+          "id": "123084",
+          "title": "Air des bijoux",
+          "language": "French",
+          "genre": "Opera",
+          "date": "1906-05-04",
+          "contributors": "Sembrich, Marcella, Vocalist -- Soprano Vocal | Gounod, Charles, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-123084/"
+        },
+        {
+          "id": "124650",
+          "title": "Air des bijoux",
+          "language": "French",
+          "genre": "Classical music | Opera",
+          "date": "1907-03-27",
+          "contributors": "Gounod, Charles, Composer | Melba, Nellie, Vocalist -- Soprano Vocal | Victor Orchestra, Musical Group",
+          "source_item": "https://www.loc.gov/item/jukebox-124650/"
+        },
+        {
+          "id": "131363",
+          "title": "Air du grand pretre",
+          "language": "French",
+          "genre": "Classical music | Opera",
+          "date": "1912-01-11",
+          "contributors": "Rogers, Walter B., Conductor | Victor Orchestra, Musical Group | Mozart, Wolfgang Amadeus, Composer | Journet, Marcel, Vocalist -- Bass Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-131363/"
+        },
+        {
+          "id": "121307",
+          "title": "Air du laboureur",
+          "language": "French",
+          "genre": "Classical",
+          "date": "1905-02-20",
+          "contributors": "Plançon, Pol, Vocalist -- Bass Vocal | Haydn, Joseph, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-121307/"
+        },
+        {
+          "id": "122394",
+          "title": "Air du tambour major",
+          "language": "French",
+          "genre": "Classical music | Opera",
+          "date": "1907-03-27",
+          "contributors": "Plançon, Pol, Vocalist -- Bass Vocal | Thomas, Ambroise, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-122394/"
+        },
+        {
+          "id": "129647",
+          "title": "Air du tigre",
+          "language": "French",
+          "genre": "Opera",
+          "date": "1911-05-05",
+          "contributors": "Victor Orchestra, Musical Group | Gerville-Réache, Jeanne, Vocalist -- Contralto | Massé, Victor, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-129647/"
+        },
+        {
+          "id": "127935",
+          "title": "Amour, viens aider",
+          "language": "French",
+          "genre": "Opera",
+          "date": "1909-10-11",
+          "contributors": "Homer, Louise, Vocalist -- Contralto | Saint-Saëns, Camille, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-127935/"
+        },
+        {
+          "id": "132820",
+          "title": "Ange adorable",
+          "language": "French",
+          "genre": "Opera",
+          "date": "1913-02-13",
+          "contributors": "Gounod, Charles, Composer | Farrar, Geraldine, Vocalist -- Soprano Vocal | Clément, Edmond, Vocalist -- Tenor Vocal | Victor Orchestra, Musical Group",
+          "source_item": "https://www.loc.gov/item/jukebox-132820/"
+        },
+        {
+          "id": "128343",
+          "title": "Attends! Voici la rue",
+          "language": "French",
+          "genre": "Opera",
+          "date": "1910-01-12",
+          "contributors": "Farrar, Geraldine, Vocalist -- Soprano Vocal | Caruso, Enrico, Vocalist -- Tenor Vocal | Gounod, Charles, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-128343/"
+        },
+        {
+          "id": "131400",
+          "title": "Au fond du temple saint",
+          "language": "French",
+          "genre": "Opera",
+          "date": "1912-01-18",
+          "contributors": "Bizet, Georges, Composer | Clément, Edmond, Vocalist -- Tenor Vocal | Journet, Marcel, Vocalist -- Bass Vocal | Victor Orchestra, Musical Group | Rogers, Walter B., Conductor",
+          "source_item": "https://www.loc.gov/item/jukebox-131400/"
+        },
+        {
+          "id": "35177",
+          "title": "Au printemps",
+          "language": "French",
+          "genre": "French | Classical",
+          "date": "1920-01-20",
+          "contributors": "Farrar, Geraldine, Vocalist -- Soprano Vocal | Gounod, Charles, Composer | Lapitino, Francis J., Instrumentalist -- Harp | Pasternack, Josef, Conductor",
+          "source_item": "https://www.loc.gov/item/jukebox-35177/"
+        },
+        {
+          "id": "135172",
+          "title": "Barcarolle",
+          "language": "French",
+          "genre": "Classical music | Opera",
+          "date": "1914-05-21",
+          "contributors": "Offenbach, Jacques, Composer | Gluck, Alma, Vocalist -- Soprano Vocal | Homer, Louise, Vocalist -- Contralto",
+          "source_item": "https://www.loc.gov/item/jukebox-135172/"
+        },
+        {
+          "id": "127890",
+          "title": "Barcarolle",
+          "language": "French",
+          "genre": "Opera",
+          "date": "1909-10-06",
+          "contributors": "Farrar, Geraldine, Vocalist -- Soprano Vocal | Victor Orchestra, Musical Group | Offenbach, Jacques, Composer | Scotti, Antonio, Vocalist -- Baritone Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-127890/"
+        },
+        {
+          "id": "132444",
+          "title": "Because",
+          "language": "French",
+          "genre": "Classical",
+          "date": "1912-12-07",
+          "contributors": "Victor Orchestra, Musical Group | Caruso, Enrico, Vocalist -- Tenor Vocal | Hardelot, Guy d', Composer | Teschemacher, Edward, Lyricist",
+          "source_item": "https://www.loc.gov/item/jukebox-132444/"
+        },
+        {
+          "id": "134229",
+          "title": "Berceuse",
+          "language": "French",
+          "genre": "Classical music | Opera",
+          "date": "1913-12-29",
+          "contributors": "Gluck, Alma, Vocalist -- Soprano Vocal | Godard, Benjamin, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-134229/"
+        },
+        {
+          "id": "126303",
+          "title": "Berceuse",
+          "language": "French",
+          "genre": "Opera",
+          "date": "1908-04-14",
+          "contributors": "Plançon, Pol, Vocalist -- Bass Vocal | Thomas, Ambroise, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-126303/"
+        },
+        {
+          "id": "131012",
+          "title": "Bergere legere",
+          "language": "French",
+          "genre": "Classical",
+          "date": "1911-11-06",
+          "contributors": "Clément, Edmond, Vocalist -- Tenor Vocal | La Forge, Frank, Instrumentalist -- Piano | Weckerlin, J.-B., Arranger | Pessard, Emile, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-131012/"
+        },
+        {
+          "id": "37983",
+          "title": "Bois epais",
+          "language": "French",
+          "genre": "Opera",
+          "date": "1920-09-16",
+          "contributors": "Caruso, Enrico, Vocalist -- Tenor Vocal | Quinault, Philippe, Librettist | Pasternack, Josef, Conductor | Lully, Jean Baptiste, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-37983/"
+        },
+        {
+          "id": "132254",
+          "title": "Bon jour, Suzon!",
+          "language": "French",
+          "genre": "Classical",
+          "date": "1912-10-28",
+          "contributors": "Dalmorès, Charles, Vocalist -- Tenor Vocal | Bourdon, Rosario, Instrumentalist -- Piano | Delibes, Léo, Composer | Musset, Alfred de, Author",
+          "source_item": "https://www.loc.gov/item/jukebox-132254/"
+        },
+        {
+          "id": "13393",
+          "title": "C'est toi!",
+          "language": "French",
+          "genre": "Opera",
+          "date": "1915-05-19",
+          "contributors": "Bizet, Georges, Composer | Farrar, Geraldine, Vocalist -- Soprano Vocal | Rogers, Walter B., Conductor | Martinelli, Giovanni, Vocalist -- Tenor Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-13393/"
+        },
+        {
+          "id": "131017",
+          "title": "Ca fait peur aux oiseaux",
+          "language": "French",
+          "genre": "Classical",
+          "date": "1911-11-06",
+          "contributors": "Clément, Edmond, Vocalist -- Tenor Vocal | La Forge, Frank, Instrumentalist -- Piano | Bernard, Paul, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-131017/"
+        },
+        {
+          "id": "38545",
+          "title": "Cantabile de Rysoor",
+          "language": "French",
+          "genre": "Opera",
+          "date": "1920-10-11",
+          "contributors": "Paladilhe, Emile, Composer | Ruffo, Titta, Vocalist -- Baritone Vocal | Pasternack, Josef, Conductor",
+          "source_item": "https://www.loc.gov/item/jukebox-38545/"
+        },
+        {
+          "id": "16648",
+          "title": "Cantique de Noel",
+          "language": "French",
+          "genre": "Classical",
+          "date": "1916-02-23",
+          "contributors": "Rogers, Walter B., Conductor | Caruso, Enrico, Vocalist -- Tenor Vocal | Adam, Adolphe, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-16648/"
+        }
+      ]
+    },
+    "Germany": {
+      "total_matches": 86,
+      "shortlist": [
+        {
+          "id": "131368",
+          "title": "Abendlich strahlt der Sonne Auge",
+          "language": "German",
+          "genre": "Classical music | Opera",
+          "date": "1912-01-11",
+          "contributors": "Wagner, Richard, Composer | Rogers, Walter B., Conductor | Journet, Marcel, Vocalist -- Bass Vocal | Victor Orchestra, Musical Group",
+          "source_item": "https://www.loc.gov/item/jukebox-131368/"
+        },
+        {
+          "id": "122295",
+          "title": "Ach, mein Sohn segnet Dir!",
+          "language": "French | German",
+          "genre": "Opera",
+          "date": "1909-09-18",
+          "contributors": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Meyerbeer, Giacomo, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-122295/"
+        },
+        {
+          "id": "131956",
+          "title": "Allerseelen",
+          "language": "German",
+          "genre": "Classical",
+          "date": "1912-07-09",
+          "contributors": "Strauss, Richard, Composer | Werrenrath, Reinald, Vocalist -- Baritone Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-131956/"
+        },
+        {
+          "id": "131468",
+          "title": "An allen Zweigen",
+          "language": "German",
+          "genre": "Opera",
+          "date": "1912-03-14",
+          "contributors": "Gadski, Johanna, Vocalist -- Soprano Vocal | Victor Orchestra, Musical Group | Thuille, Ludwig, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-131468/"
+        },
+        {
+          "id": "130968",
+          "title": "Athmest du nicht mit mir die sussen Dufte?",
+          "language": "German",
+          "genre": "Opera",
+          "date": "1911-10-26",
+          "contributors": "Dalmorès, Charles, Vocalist -- Tenor Vocal | Wagner, Richard, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-130968/"
+        },
+        {
+          "id": "213054",
+          "title": "Aus der Jugendzeit",
+          "language": "German",
+          "genre": "Classical",
+          "date": "1902-08-04",
+          "contributors": "Muench, Emil, Vocalist -- Tenor Vocal | Rückert, Friedrich, Author | Radecke, Robert, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-213054/"
+        },
+        {
+          "id": "127819",
+          "title": "Barbchen",
+          "language": "German",
+          "genre": "Classical music",
+          "date": "1909-09-17",
+          "contributors": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Hermann, Hans, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-127819/"
+        },
+        {
+          "id": "122303",
+          "title": "Brindisi",
+          "language": "German",
+          "genre": "Opera",
+          "date": "1909-09-17",
+          "contributors": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Donizetti, Gaetano, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-122303/"
+        },
+        {
+          "id": "122298",
+          "title": "Brindisi",
+          "language": "German",
+          "genre": "Opera",
+          "date": "1906-01-03",
+          "contributors": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Donizetti, Gaetano, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-122298/"
+        },
+        {
+          "id": "19147",
+          "title": "Bruderlein fein",
+          "language": "German",
+          "genre": "Classical music | German",
+          "date": "1916-08-02",
+          "contributors": "Raimund, Ferdinand, Author | Bennèche, Frida, Vocalist -- Soprano Vocal | King, Edward T., Conductor | Drechsler, Joseph, Composer | King's Orchestra, Musical Group",
+          "source_item": "https://www.loc.gov/item/jukebox-19147/"
+        },
+        {
+          "id": "187994",
+          "title": "Canzonetta",
+          "language": "German",
+          "genre": "Classical",
+          "date": "1916-09-26",
+          "contributors": "Lapitino, Francis J., Instrumentalist -- Harp | Hageman, Richard, Conductor | Ersch, Johann Samuel, Arranger | Gluck, Alma, Vocalist -- Soprano Vocal | Loewe, Carl, Composer | Goethe, Johann Wolfgang von, Author",
+          "source_item": "https://www.loc.gov/item/jukebox-187994/"
+        },
+        {
+          "id": "133032",
+          "title": "Chorus of priests : Grand Isis!",
+          "language": "German",
+          "genre": "Classical music | Opera",
+          "date": "1913-04-04",
+          "contributors": "Metropolitan Opera Male Chorus, Vocal Group | Victor Orchestra, Musical Group | Mozart, Wolfgang Amadeus, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-133032/"
+        },
+        {
+          "id": "14840",
+          "title": "Das Erkennen",
+          "language": "German",
+          "genre": "Classical music",
+          "date": "1915-09-15",
+          "contributors": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Loewe, Carl, Composer | Rogers, Walter B., Conductor",
+          "source_item": "https://www.loc.gov/item/jukebox-14840/"
+        },
+        {
+          "id": "13129",
+          "title": "Das Herz am Rhein",
+          "language": "German",
+          "genre": "Classical music | German",
+          "date": "1915-04-26",
+          "contributors": "Muench, Emil, Vocalist -- Tenor Vocal | Hill, Wilhelm, Composer | Levy, Ted, Conductor",
+          "source_item": "https://www.loc.gov/item/jukebox-13129/"
+        },
+        {
+          "id": "187707",
+          "title": "Dem Unendlichen",
+          "language": "German",
+          "genre": "Classical",
+          "date": "1915-03-22",
+          "contributors": "Arndt-Ober, Margarethe, Vocalist -- Contralto | Schubert, Franz, Composer | Arndt, Arthur, Instrumentalist -- Piano",
+          "source_item": "https://www.loc.gov/item/jukebox-187707/"
+        },
+        {
+          "id": "133121",
+          "title": "Der Engel",
+          "language": "German",
+          "genre": "Classical",
+          "date": "1913-04-15",
+          "contributors": "Farrar, Geraldine, Vocalist -- Soprano Vocal | Victor Orchestra, Musical Group | Homer, Louise, Vocalist -- Contralto | Rubinstein, Anton, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-133121/"
+        },
+        {
+          "id": "132617",
+          "title": "Der fruhling erwachte",
+          "language": "German",
+          "genre": "Opera",
+          "date": "1913-01-16",
+          "contributors": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Victor Orchestra, Musical Group | Saint-Saëns, Camille, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-132617/"
+        },
+        {
+          "id": "12432",
+          "title": "Der gute Kamerad",
+          "language": "German",
+          "genre": "Ethnic music",
+          "date": "1915-02-18",
+          "contributors": "Schlegel, Carl, Vocalist -- Baritone Vocal | Rogers, Walter B., Conductor",
+          "source_item": "https://www.loc.gov/item/jukebox-12432/"
+        },
+        {
+          "id": "132898",
+          "title": "Der Himmel hangt ihm voller Geigen",
+          "language": "German",
+          "genre": "Opera",
+          "date": "1913-02-27",
+          "contributors": "Farrar, Geraldine, Vocalist -- Soprano Vocal | Victor Orchestra, Musical Group | Fall, Leo, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-132898/"
+        },
+        {
+          "id": "132725",
+          "title": "Der Kleine Sandmann bin ich",
+          "language": "German",
+          "genre": "Opera",
+          "date": "1913-01-25",
+          "contributors": "Humperdinck, Engelbert, Composer | Gluck, Alma, Vocalist -- Soprano Vocal | Victor Orchestra, Musical Group | Homer, Louise, Vocalist -- Contralto",
+          "source_item": "https://www.loc.gov/item/jukebox-132725/"
+        },
+        {
+          "id": "122801",
+          "title": "Der Tannenbaum",
+          "language": "German",
+          "genre": "Ethnic music | Popular music",
+          "date": "1906-03-22",
+          "contributors": "Muench, Emil, Vocalist -- Tenor Vocal | Zarnack, Joachim August C., Lyricist",
+          "source_item": "https://www.loc.gov/item/jukebox-122801/"
+        },
+        {
+          "id": "122800",
+          "title": "Der Tannenbaum",
+          "language": "German",
+          "genre": "Ethnic music | Popular music",
+          "date": "1906-03-22",
+          "contributors": "Muench, Emil, Vocalist -- Tenor Vocal | Zarnack, Joachim August C., Lyricist",
+          "source_item": "https://www.loc.gov/item/jukebox-122800/"
+        },
+        {
+          "id": "125293",
+          "title": "Der Tod und das Madchen",
+          "language": "German",
+          "genre": "Classical music",
+          "date": "1907-07-24",
+          "contributors": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Schubert, Franz, Composer | Claudius, Matthias, Author",
+          "source_item": "https://www.loc.gov/item/jukebox-125293/"
+        },
+        {
+          "id": "19146",
+          "title": "Des Madchens Klage",
+          "language": "German",
+          "genre": "Ethnic music | German",
+          "date": "1916-08-02",
+          "contributors": "Bennèche, Frida, Vocalist -- Soprano Vocal | King, Edward T., Conductor | Düringer, Philipp Jakob, Lyricist | Düringer, Philipp Jakob, Composer | King's Orchestra, Musical Group",
+          "source_item": "https://www.loc.gov/item/jukebox-19146/"
+        },
+        {
+          "id": "187660",
+          "title": "Deutschland uber alles",
+          "language": "German",
+          "genre": "Classical | German",
+          "date": "1914-11-10",
+          "contributors": "Schlegel, Carl, Vocalist -- Baritone Vocal | Rogers, Walter B., Conductor | Haydn, Joseph, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-187660/"
+        },
+        {
+          "id": "187055",
+          "title": "Dich, teure Halle",
+          "language": "German",
+          "genre": "Opera",
+          "date": "1911-09-29",
+          "contributors": "Victor Orchestra, Musical Group | Voigt, Louise B., Vocalist -- Soprano Vocal | Wagner, Richard, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-187055/"
+        },
+        {
+          "id": "13126",
+          "title": "Die Deutsche Mutter",
+          "language": "German",
+          "genre": "Classical music | German",
+          "date": "1915-04-26",
+          "contributors": "Muench, Emil, Vocalist -- Tenor Vocal | Neeb, Heinrich Adam, Composer | Levy, Ted, Conductor",
+          "source_item": "https://www.loc.gov/item/jukebox-13126/"
+        },
+        {
+          "id": "131220",
+          "title": "Die Forelle, op. 32",
+          "language": "German",
+          "genre": "Classical music",
+          "date": "1911-12-08",
+          "contributors": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Schubert, Franz, Composer | Hoffman, Katharina, Instrumentalist -- Piano",
+          "source_item": "https://www.loc.gov/item/jukebox-131220/"
+        },
+        {
+          "id": "121738",
+          "title": "Die Lorelei",
+          "language": "German",
+          "genre": "Classical music",
+          "date": "1909-08-10",
+          "contributors": "Heine, Heinrich, Author | Muench, Emil, Vocalist -- Tenor Vocal | Silcher, Friedrich, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-121738/"
+        },
+        {
+          "id": "121736",
+          "title": "Die Lorelei",
+          "language": "German",
+          "genre": "Classical music",
+          "date": "1905-05-19",
+          "contributors": "Heine, Heinrich, Author | Muench, Emil, Vocalist -- Tenor Vocal | Silcher, Friedrich, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-121736/"
+        },
+        {
+          "id": "121737",
+          "title": "Die Lorelei",
+          "language": "German",
+          "genre": "Classical music",
+          "date": "1909-08-10",
+          "contributors": "Heine, Heinrich, Author | Muench, Emil, Vocalist -- Tenor Vocal | Silcher, Friedrich, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-121737/"
+        },
+        {
+          "id": "204564",
+          "title": "Die Lorelei",
+          "language": "German",
+          "genre": "Classical music | German",
+          "date": "1906-03-22",
+          "contributors": "Heine, Heinrich, Author | Muench, Emil, Vocalist -- Tenor Vocal | Silcher, Friedrich, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-204564/"
+        },
+        {
+          "id": "247864",
+          "title": "Die Wacht am Rhein",
+          "language": "German",
+          "genre": "Ethnic music | German",
+          "date": "1909-07-19",
+          "contributors": "Muench, Emil, Vocalist -- Tenor Vocal | Wilhelm, Carl, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-247864/"
+        },
+        {
+          "id": "11508",
+          "title": "Die Wacht am Rhein",
+          "language": "German",
+          "genre": "Classical | German",
+          "date": "1914-11-10",
+          "contributors": "Schlegel, Carl, Vocalist -- Baritone Vocal | Rogers, Walter B., Conductor | Wilhelm, Carl, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-11508/"
+        },
+        {
+          "id": "247863",
+          "title": "Die Wacht am Rhein",
+          "language": "German",
+          "genre": "Ethnic music | German",
+          "date": "1905-05-19",
+          "contributors": "Muench, Emil, Vocalist -- Tenor Vocal | Wilhelm, Carl, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-247863/"
+        }
+      ]
+    },
+    "Italy": {
+      "total_matches": 429,
+      "shortlist": [
+        {
+          "id": "28011",
+          "title": "A tanto amor",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1918-04-02",
+          "contributors": "Pasternack, Josef, Conductor | Donizetti, Gaetano, Composer | De Luca, Giuseppe, Vocalist -- Baritone Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-28011/"
+        },
+        {
+          "id": "34394",
+          "title": "A tanto amor",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1919-10-10",
+          "contributors": "Donizetti, Gaetano, Composer | Zanelli, Renato, Vocalist -- Baritone Vocal | Pasternack, Josef, Conductor",
+          "source_item": "https://www.loc.gov/item/jukebox-34394/"
+        },
+        {
+          "id": "33523",
+          "title": "A vucchella",
+          "language": "Italian",
+          "genre": "Classical",
+          "date": "1919-09-08",
+          "contributors": "Pasternack, Josef, Conductor | Caruso, Enrico, Vocalist -- Tenor Vocal | D’Annunzio, Gabriele, Author | Tosti, F. Paolo, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-33523/"
+        },
+        {
+          "id": "187534",
+          "title": "Abbietta Zingara",
+          "language": "Italian",
+          "genre": "Classical music | Opera",
+          "date": "1916-01-27",
+          "contributors": "Rogers, Walter B., Conductor | Verdi, Giuseppe, Composer | Journet, Marcel, Vocalist -- Bass Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-187534/"
+        },
+        {
+          "id": "16280",
+          "title": "Abbietta Zingara",
+          "language": "Italian",
+          "genre": "Classical music | Opera",
+          "date": "1916-01-27",
+          "contributors": "Rogers, Walter B., Conductor | Verdi, Giuseppe, Composer | Journet, Marcel, Vocalist -- Bass Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-16280/"
+        },
+        {
+          "id": "36309",
+          "title": "Adamastor, re dell'onde profonde",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1920-04-20",
+          "contributors": "Ruffo, Titta, Vocalist -- Baritone Vocal | Pasternack, Josef, Conductor | Meyerbeer, Giacomo, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-36309/"
+        },
+        {
+          "id": "36308",
+          "title": "Adamastor, re dell'onde profonde",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1920-04-20",
+          "contributors": "Ruffo, Titta, Vocalist -- Baritone Vocal | Pasternack, Josef, Conductor | Meyerbeer, Giacomo, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-36308/"
+        },
+        {
+          "id": "132530",
+          "title": "Addio",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1912-12-20",
+          "contributors": "Regis-Rossini, A., Instrumentalist -- Harp | Farrar, Geraldine, Vocalist -- Soprano Vocal | Victor Orchestra, Musical Group | Puccini, Giacomo, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-132530/"
+        },
+        {
+          "id": "130088",
+          "title": "Addio",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1911-04-13",
+          "contributors": "Gluck, Alma, Vocalist -- Soprano Vocal | Victor Orchestra, Musical Group | Puccini, Giacomo, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-130088/"
+        },
+        {
+          "id": "134156",
+          "title": "Addio alla madre",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1913-12-15",
+          "contributors": "Mascagni, Pietro, Composer | Caruso, Enrico, Vocalist -- Tenor Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-134156/"
+        },
+        {
+          "id": "134548",
+          "title": "Addio del passato",
+          "language": "Italian",
+          "genre": "Classical music | Opera",
+          "date": "1914-02-12",
+          "contributors": "Verdi, Giuseppe, Composer | Bori, Lucrezia, Vocalist -- Soprano Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-134548/"
+        },
+        {
+          "id": "125036",
+          "title": "Addio del passato",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1907-05-31",
+          "contributors": "Verdi, Giuseppe, Composer | Nielsen, Alice, Vocalist -- Soprano Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-125036/"
+        },
+        {
+          "id": "134547",
+          "title": "Addio del passato",
+          "language": "Italian",
+          "genre": "Classical music | Opera",
+          "date": "1914-02-12",
+          "contributors": "Verdi, Giuseppe, Composer | Bori, Lucrezia, Vocalist -- Soprano Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-134547/"
+        },
+        {
+          "id": "124671",
+          "title": "Addio!",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1910-08-23",
+          "contributors": "Puccini, Giacomo, Composer | Melba, Nellie, Vocalist -- Soprano Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-124671/"
+        },
+        {
+          "id": "424979",
+          "title": "Ah fors' e lui",
+          "language": "Italian",
+          "genre": "Classical music | Opera",
+          "date": "1919-03-07",
+          "contributors": "Galli-Curci, Amelita, Vocalist -- Soprano Vocal | Verdi, Giuseppe, Composer | Pasternack, Josef, Conductor",
+          "source_item": "https://www.loc.gov/item/jukebox-424979/"
+        },
+        {
+          "id": "124594",
+          "title": "Ah Mimi, tu piu",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1907-03-17",
+          "contributors": "Caruso, Enrico, Vocalist -- Tenor Vocal | Scotti, Antonio, Vocalist -- Baritone Vocal | Puccini, Giacomo, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-124594/"
+        },
+        {
+          "id": "284987",
+          "title": "Ah! l'alto ardor",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1912-03-22",
+          "contributors": "Matzenauer, Margarete, Vocalist -- Contralto | Metropolitan Opera Chorus, Vocal Group | Victor Orchestra, Musical Group | Donizetti, Gaetano, Composer | Amato, Pasquale, Vocalist -- Baritone Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-284987/"
+        },
+        {
+          "id": "133990",
+          "title": "Ah! Mimi tu piu",
+          "language": "Italian",
+          "genre": "Classical music | Opera",
+          "date": "1913-11-05",
+          "contributors": "Murphy, Lambert, Vocalist -- Tenor Vocal | Werrenrath, Reinald, Vocalist -- Baritone Vocal | Puccini, Giacomo, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-133990/"
+        },
+        {
+          "id": "24085",
+          "title": "Ah! non credea mirarti",
+          "language": "Italian",
+          "genre": "Classical music | Opera",
+          "date": "1917-06-15",
+          "contributors": "Galli-Curci, Amelita, Vocalist -- Soprano Vocal | Lennartz, Alfred, Instrumentalist -- Cello | Bellini, Vincenzo, Composer | Pasternack, Josef, Conductor",
+          "source_item": "https://www.loc.gov/item/jukebox-24085/"
+        },
+        {
+          "id": "190403",
+          "title": "Ah! Non credea mirarti",
+          "language": "Italian",
+          "genre": "Classical music | Opera",
+          "date": "1911-07-20",
+          "contributors": "Gluck, Alma, Vocalist -- Soprano Vocal | Victor Orchestra, Musical Group | Bellini, Vincenzo, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-190403/"
+        },
+        {
+          "id": "123092",
+          "title": "Ah! non giunge",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1906-05-05",
+          "contributors": "Sembrich, Marcella, Vocalist -- Soprano Vocal | Bellini, Vincenzo, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-123092/"
+        },
+        {
+          "id": "130060",
+          "title": "Ah! non giunge",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1911-03-18",
+          "contributors": "Barone, Clement, Instrumentalist -- Flute | Victor Orchestra, Musical Group | Bellini, Vincenzo, Composer | Tetrazzini, Luisa, Vocalist -- Soprano Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-130060/"
+        },
+        {
+          "id": "62135",
+          "title": "Ah! Per sempre",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1922-04-18",
+          "contributors": "Bellini, Vincenzo, Composer | Pasternack, Josef, Conductor | De Luca, Giuseppe, Vocalist -- Baritone Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-62135/"
+        },
+        {
+          "id": "124798",
+          "title": "Ah! si, ben mio",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1907-04-12",
+          "contributors": "Dalmorès, Charles, Vocalist -- Tenor Vocal | Verdi, Giuseppe, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-124798/"
+        },
+        {
+          "id": "130982",
+          "title": "Ah, dunque ei m'amera",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1912-04-04",
+          "contributors": "Victor Orchestra, Musical Group | Catalani, Alfredo, Composer | Alda, Frances, Vocalist -- Soprano Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-130982/"
+        },
+        {
+          "id": "130017",
+          "title": "Ah, fors' e lui",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1911-03-16",
+          "contributors": "Verdi, Giuseppe, Composer | Tetrazzini, Luisa, Vocalist -- Soprano Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-130017/"
+        },
+        {
+          "id": "187874",
+          "title": "Ah, la paterna mano",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1916-02-23",
+          "contributors": "Rogers, Walter B., Conductor | Caruso, Enrico, Vocalist -- Tenor Vocal | Verdi, Giuseppe, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-187874/"
+        },
+        {
+          "id": "126175",
+          "title": "Ai nostri monti",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1910-12-29",
+          "contributors": "Caruso, Enrico, Vocalist -- Tenor Vocal | Homer, Louise, Vocalist -- Contralto | Verdi, Giuseppe, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-126175/"
+        },
+        {
+          "id": "132637",
+          "title": "Ai nostri monti",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1913-01-17",
+          "contributors": "Schumann-Heink, Ernestine, Vocalist -- Contralto | Caruso, Enrico, Vocalist -- Tenor Vocal | Verdi, Giuseppe, Composer | Victor Orchestra, Musical Group",
+          "source_item": "https://www.loc.gov/item/jukebox-132637/"
+        },
+        {
+          "id": "129711",
+          "title": "Aida a me togliesti",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1910-12-29",
+          "contributors": "Caruso, Enrico, Vocalist -- Tenor Vocal | Homer, Louise, Vocalist -- Contralto | Verdi, Giuseppe, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-129711/"
+        },
+        {
+          "id": "134268",
+          "title": "Aime fanciullo ancora",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1914-01-05",
+          "contributors": "Ruffo, Titta, Vocalist -- Baritone Vocal | Massenet, Jules, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-134268/"
+        },
+        {
+          "id": "12976",
+          "title": "All 'erta, marinar!",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1915-04-14",
+          "contributors": "Rogers, Walter B., Conductor | Ruffo, Titta, Vocalist -- Baritone Vocal | Meyerbeer, Giacomo, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-12976/"
+        },
+        {
+          "id": "133116",
+          "title": "Alla capanna andiamo",
+          "language": "Italian",
+          "genre": "Classical",
+          "date": "1913-04-15",
+          "contributors": "Farrar, Geraldine, Vocalist -- Soprano Vocal | Victor Orchestra, Musical Group | Homer, Louise, Vocalist -- Contralto | Campana, Fabio, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-133116/"
+        },
+        {
+          "id": "248929",
+          "title": "Alla mente confusa",
+          "language": "Italian",
+          "genre": "Opera",
+          "date": "1906-04-05",
+          "contributors": "Tosti, F. Paolo, Composer | Bernal-Resky, Gustavo, Vocalist -- Baritone Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-248929/"
+        },
+        {
+          "id": "134422",
+          "title": "Amor mio (My love)",
+          "language": "Italian",
+          "genre": "Classical",
+          "date": "1914-01-21",
+          "contributors": "Gaeta, G. E., Lyricist | Ricciardi, Vincenzo, Composer | Caruso, Enrico, Vocalist -- Tenor Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-134422/"
+        }
+      ]
+    },
+    "United Kingdom": {
+      "total_matches": 3090,
+      "shortlist": [
+        {
+          "id": "129840",
+          "title": "A bit of drama",
+          "language": "English",
+          "genre": "Spoken word | Comedies | Popular music",
+          "date": "1911-01-30",
+          "contributors": "Hill, Murry K., Author | Hill, Murry K., Speaker",
+          "source_item": "https://www.loc.gov/item/jukebox-129840/"
+        },
+        {
+          "id": "131863",
+          "title": "A bowl of roses",
+          "language": "English",
+          "genre": "Popular music",
+          "date": "1912-05-27",
+          "contributors": "Dunlap, Marguerite, Vocalist -- Contralto | Henley, William Ernest, Lyricist | Clarke, Robert Coningsby, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-131863/"
+        },
+        {
+          "id": "424768",
+          "title": "A bunch of nonsense",
+          "language": "English",
+          "genre": "Monologues, dialogues, and recitations | Comedies | Popular music",
+          "date": "1909-11-09",
+          "contributors": "Hill, Murry K., Author | Hill, Murry K., Speaker",
+          "source_item": "https://www.loc.gov/item/jukebox-424768/"
+        },
+        {
+          "id": "259778",
+          "title": "A child's song",
+          "language": "English",
+          "genre": "Musical theater",
+          "date": "1912-04-02",
+          "contributors": "Moore, Thomas, Author | Victor Orchestra, Musical Group | McCormack, John, Vocalist -- Tenor Vocal | Marshall, Charles, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-259778/"
+        },
+        {
+          "id": "257443",
+          "title": "A dew drop",
+          "language": "English",
+          "genre": "Educational | Classical",
+          "date": "1917-06-18",
+          "contributors": "Bachman, Fred, Instrumentalist -- Piano | Bourdon, Rosario, Instrumentalist -- Piano | Gilchrist, William Wallace, Composer | Sherman, Frank Dempster, Author | Smith, Eleanor, Composer | Wheeler, Elizabeth, Vocalist -- S",
+          "source_item": "https://www.loc.gov/item/jukebox-257443/"
+        },
+        {
+          "id": "132912",
+          "title": "A dream",
+          "language": "English",
+          "genre": "Popular music",
+          "date": "1913-03-05",
+          "contributors": "Harrison, Charles, Vocalist -- Tenor Vocal | Bartlett, J. C., Composer | Victor Orchestra, Musical Group | Cory, Charles B., Lyricist",
+          "source_item": "https://www.loc.gov/item/jukebox-132912/"
+        },
+        {
+          "id": "37989",
+          "title": "A dream",
+          "language": "English",
+          "genre": "Classical",
+          "date": "1920-09-16",
+          "contributors": "Bartlett, J. C., Composer | Caruso, Enrico, Vocalist -- Tenor Vocal | Cory, Charles B., Lyricist | Pasternack, Josef, Conductor",
+          "source_item": "https://www.loc.gov/item/jukebox-37989/"
+        },
+        {
+          "id": "265915",
+          "title": "A dream",
+          "language": "English",
+          "genre": "Classical",
+          "date": "1914-04-07",
+          "contributors": "Bartlett, J. C., Composer | McCormack, John, Vocalist -- Tenor Vocal | Cory, Charles B., Lyricist",
+          "source_item": "https://www.loc.gov/item/jukebox-265915/"
+        },
+        {
+          "id": "259782",
+          "title": "A farewell",
+          "language": "English",
+          "genre": "Classical",
+          "date": "1912-04-02",
+          "contributors": "Kingsley, Charles, Author | Liddle, Samuel, Composer | McCormack, John, Vocalist -- Tenor Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-259782/"
+        },
+        {
+          "id": "249459",
+          "title": "A flower from home sweet home",
+          "language": "English",
+          "genre": "Popular music",
+          "date": "1906-09-19",
+          "contributors": "Schmid, Johann C., Composer | Macdonough, Harry, Vocalist -- Tenor Vocal | Bieling, John H., Vocalist -- Tenor Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-249459/"
+        },
+        {
+          "id": "5399",
+          "title": "A flower from the garden of life",
+          "language": "English",
+          "genre": "Popular music",
+          "date": "1901-02-16",
+          "contributors": "Chattaway, Thurland, Lyricist | Natus, Joseph, Vocalist -- Tenor Vocal | Chattaway, Thurland, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-5399/"
+        },
+        {
+          "id": "124931",
+          "title": "A friend of mine told a friend of mine",
+          "language": "English",
+          "genre": "Popular music",
+          "date": "1907-05-07",
+          "contributors": "Tally, Harry, Vocalist -- Tenor Vocal | Bryan, Alfred, Lyricist | Paley, Herman, Composer | Kendis, James, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-124931/"
+        },
+        {
+          "id": "422533",
+          "title": "A friend of mine told a friend of mine",
+          "language": "English",
+          "genre": "Popular music",
+          "date": "1907-05-07",
+          "contributors": "Tally, Harry, Vocalist -- Tenor Vocal | Bryan, Alfred, Lyricist | Paley, Herman, Composer | Kendis, James, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-422533/"
+        },
+        {
+          "id": "260131",
+          "title": "A girl like me",
+          "language": "English",
+          "genre": "Musical theater",
+          "date": "1912-04-24",
+          "contributors": "Lyric Quartet, Vocal Group | Marsh, Lucy Isabelle, Vocalist -- Soprano Vocal | Dunlap, Marguerite, Vocalist -- Contralto | Smith, Robert B., Lyricist | Wheeler, Elizabeth, Vocalist -- Soprano Vocal | Hubbell, Raymond, Co",
+          "source_item": "https://www.loc.gov/item/jukebox-260131/"
+        },
+        {
+          "id": "130877",
+          "title": "A girlie was just made to love",
+          "language": "English",
+          "genre": "Popular music",
+          "date": "1911-10-03",
+          "contributors": "Goodwin, Joe, Lyricist | Meyer, George W., Composer | Van Brunt, Walter, Vocalist -- Tenor Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-130877/"
+        },
+        {
+          "id": "31525",
+          "title": "A good man is hard to find",
+          "language": "English",
+          "genre": "Humorous songs | Blues",
+          "date": "1919-02-19",
+          "contributors": "Green, Eddie, Composer | Green, Eddie, Lyricist | Harris, Marion, Vocalist -- Soprano Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-31525/"
+        },
+        {
+          "id": "127118",
+          "title": "A good old dollar bill",
+          "language": "English",
+          "genre": "Humorous songs",
+          "date": "1909-01-11",
+          "contributors": "Murray, Billy, Vocalist -- Tenor Vocal | Morse, Theodore F., Composer | Mahoney, Jack, Lyricist",
+          "source_item": "https://www.loc.gov/item/jukebox-127118/"
+        },
+        {
+          "id": "62625",
+          "title": "A hundred years from now",
+          "language": "English",
+          "genre": "Popular music",
+          "date": "1922-07-05",
+          "contributors": "Rattay, Howard, Instrumentalist -- Violin | Bourdon, Rosario, Conductor | Baker, Elsie, Vocalist -- Contralto | Bennett, John, Author | Jacobs-Bond, Carrie, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-62625/"
+        },
+        {
+          "id": "422503",
+          "title": "A lemon in the garden of love",
+          "language": "English",
+          "genre": "Humorous songs | Musical theater",
+          "date": "1906-10-23",
+          "contributors": "Murray, Billy, Vocalist -- Tenor Vocal | Carle, Richard, Composer | Rourke, M. E., Lyricist",
+          "source_item": "https://www.loc.gov/item/jukebox-422503/"
+        },
+        {
+          "id": "12879",
+          "title": "A little bit of heaven",
+          "language": "English",
+          "genre": "Musical theater | Ethnic characterizations",
+          "date": "1915-04-06",
+          "contributors": "Harrison, Charles, Vocalist -- Tenor Vocal | Ball, Ernest R., Composer | Rogers, Walter B., Conductor | Brennan, J. Keirn, Lyricist",
+          "source_item": "https://www.loc.gov/item/jukebox-12879/"
+        },
+        {
+          "id": "15467",
+          "title": "A little bit of heaven",
+          "language": "English",
+          "genre": "Ethnic characterizations | Musical theater",
+          "date": "1915-11-10",
+          "contributors": "Rogers, Walter B., Conductor | Ball, Ernest R., Composer | McCormack, John, Vocalist -- Tenor Vocal | Brennan, J. Keirn, Lyricist",
+          "source_item": "https://www.loc.gov/item/jukebox-15467/"
+        },
+        {
+          "id": "1333",
+          "title": "A little bit off the top",
+          "language": "English",
+          "genre": "Humorous songs",
+          "date": "1900-10-31",
+          "contributors": "Murray, Fred, Lyricist | Favor, Edward M., Vocalist -- Tenor Vocal | Leigh, Fred W., Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-1333/"
+        },
+        {
+          "id": "4006",
+          "title": "A little boy in blue",
+          "language": "English",
+          "genre": "Popular music",
+          "date": "1902-05-22",
+          "contributors": "Browne, Raymond A., Lyricist | Macdonough, Harry, Vocalist -- Tenor Vocal | Morse, Theodore F., Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-4006/"
+        },
+        {
+          "id": "133599",
+          "title": "A little bunch of shamrocks (I am holding in my hand)",
+          "language": "English",
+          "genre": "Popular music",
+          "date": "1913-07-28",
+          "contributors": "Clough, Arthur C., Vocalist -- Tenor Vocal | Jerome, William, Lyricist | Sterling, Andrew B., Lyricist | Von Tilzer, Harry, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-133599/"
+        },
+        {
+          "id": "132370",
+          "title": "A little girl at home",
+          "language": "English",
+          "genre": "Popular music",
+          "date": "1912-11-18",
+          "contributors": "Dunlap, Marguerite, Vocalist -- Contralto | Herbert, Victor, Composer | Macdonough, Harry, Vocalist -- Tenor Vocal | O'Dea, James, Lyricist",
+          "source_item": "https://www.loc.gov/item/jukebox-132370/"
+        },
+        {
+          "id": "134096",
+          "title": "A little love, a little kiss",
+          "language": "English",
+          "genre": "Popular music",
+          "date": "1913-12-03",
+          "contributors": "Harrison, Charles, Vocalist -- Tenor Vocal | Ross, Adrian, Lyricist | Silésu, Lao, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-134096/"
+        },
+        {
+          "id": "133245",
+          "title": "A little love, a little kiss",
+          "language": "English",
+          "genre": "Classical",
+          "date": "1913-05-01",
+          "contributors": "Victor Orchestra, Musical Group | McCormack, John, Vocalist -- Tenor Vocal | Ross, Adrian, Lyricist | Silésu, Lao, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-133245/"
+        },
+        {
+          "id": "422493",
+          "title": "A little lunch for two",
+          "language": "English",
+          "genre": "Popular music",
+          "date": "1906-06-13",
+          "contributors": "Tally, Harry, Vocalist -- Tenor Vocal | Von Tilzer, Albert, Composer | Lamb, Arthur J., Lyricist",
+          "source_item": "https://www.loc.gov/item/jukebox-422493/"
+        },
+        {
+          "id": "133464",
+          "title": "A moonlight song",
+          "language": "English",
+          "genre": "Classical",
+          "date": "1913-07-21",
+          "contributors": "Beddoe, Daniel, Vocalist -- Tenor Vocal | Mills, John Proctor, Lyricist | Cadman, Charles Wakefield, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-133464/"
+        },
+        {
+          "id": "133443",
+          "title": "A perfect day",
+          "language": "English",
+          "genre": "Popular music",
+          "date": "1913-06-17",
+          "contributors": "Jacobs-Bond, Carrie, Lyricist | Baker, Elsie, Vocalist -- Contralto | Jacobs-Bond, Carrie, Composer",
+          "source_item": "https://www.loc.gov/item/jukebox-133443/"
+        },
+        {
+          "id": "189312",
+          "title": "A perfect day",
+          "language": "English",
+          "genre": "Popular music",
+          "date": "1916-09-15",
+          "contributors": "Wood, C. Robert, Vocalist -- Tenor Vocal | Johnson, Oliver, Vocalist -- Bass Vocal | Moody, Wallace, Vocalist -- Tenor Vocal | Imperial Quartet, Vocal Group | Tufts, Ben Q., Vocalist -- Baritone Vocal | Jacobs-Bond, Carr",
+          "source_item": "https://www.loc.gov/item/jukebox-189312/"
+        },
+        {
+          "id": "14782",
+          "title": "A perfect day",
+          "language": "English",
+          "genre": "Popular music",
+          "date": "1915-09-16",
+          "contributors": "Wood, C. Robert, Vocalist -- Tenor Vocal | Johnson, Oliver, Vocalist -- Bass Vocal | Moody, Wallace, Vocalist -- Tenor Vocal | Imperial Quartet, Vocal Group | Tufts, Ben Q., Vocalist -- Baritone Vocal | Jacobs-Bond, Carr",
+          "source_item": "https://www.loc.gov/item/jukebox-14782/"
+        },
+        {
+          "id": "33073",
+          "title": "A pretty girl is like a melody",
+          "language": "English",
+          "genre": "Musical theater",
+          "date": "1919-06-30",
+          "contributors": "Steel, John, Vocalist -- Tenor Vocal | Rattay, Howard, Instrumentalist -- Violin | Pasternack, Josef, Conductor | Berlin, Irving, Composer | Berlin, Irving, Lyricist",
+          "source_item": "https://www.loc.gov/item/jukebox-33073/"
+        },
+        {
+          "id": "120494",
+          "title": "A rheumatism cure in Jayville Centre",
+          "language": "English",
+          "genre": "Descriptive specialties | Popular music",
+          "date": "1904-10-10",
+          "contributors": "Stanley, Frank C., Author | Stanley, Frank C., Speaker | Harlan, Byron G., Speaker",
+          "source_item": "https://www.loc.gov/item/jukebox-120494/"
+        },
+        {
+          "id": "31864",
+          "title": "A rose, a kiss and you",
+          "language": "English",
+          "genre": "Popular music",
+          "date": "1919-04-17",
+          "contributors": "Steel, John, Vocalist -- Tenor Vocal | Rattay, Howard, Instrumentalist -- Violin | Reitz, William H., Instrumentalist -- Bells | Pasternack, Josef, Conductor | Robe, Harold A., Lyricist | Bourdon, Rosario, Instrumentalis",
+          "source_item": "https://www.loc.gov/item/jukebox-31864/"
+        }
+      ]
+    },
+    "Soviet Union": {
+      "total_matches": 11,
+      "shortlist": [
+        {
+          "id": "64369",
+          "title": "Arioso",
+          "language": "Russian",
+          "genre": "Opera",
+          "date": "1922-10-12",
+          "contributors": "Ruffo, Titta, Vocalist -- Baritone Vocal | Rubinstein, Anton, Composer | Pasternack, Josef, Conductor",
+          "source_item": "https://www.loc.gov/item/jukebox-64369/"
+        },
+        {
+          "id": "16142",
+          "title": "Douchechka devitza",
+          "language": "Russian",
+          "genre": "Opera",
+          "date": "1916-01-18",
+          "contributors": "Rogers, Walter B., Conductor | Dargomyzhski, Aleksandr Sergeevich, Composer | Dimitrieff, Nina, Vocalist -- Soprano Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-16142/"
+        },
+        {
+          "id": "122060",
+          "title": "Eugene Onegin : Aria",
+          "language": "Russian",
+          "genre": "Opera",
+          "date": "1905-10-20",
+          "contributors": "Tchaikovsky, Peter Ilich, Composer | Janpolski, Albert G., Vocalist -- Baritone Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-122060/"
+        },
+        {
+          "id": "16831",
+          "title": "Hopak",
+          "language": "Russian",
+          "genre": "Classical music",
+          "date": "1916-03-14",
+          "contributors": "Mussorgsky, Modest Petrovich, Composer | Rogers, Walter B., Conductor | Dimitrieff, Nina, Vocalist -- Soprano Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-16831/"
+        },
+        {
+          "id": "187860",
+          "title": "Matushka golubushka",
+          "language": "Russian",
+          "genre": "Classical music | Ethnic music",
+          "date": "1916-01-18",
+          "contributors": "Rogers, Walter B., Conductor | Dimitrieff, Nina, Vocalist -- Soprano Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-187860/"
+        },
+        {
+          "id": "16147",
+          "title": "Oi kasala mene mati",
+          "language": "Russian",
+          "genre": "Ethnic music | Russian",
+          "date": "1916-01-18",
+          "contributors": "Rogers, Walter B., Conductor | Dimitrieff, Nina, Vocalist -- Soprano Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-16147/"
+        },
+        {
+          "id": "24164",
+          "title": "Romance orientale",
+          "language": "Russian",
+          "genre": "Classical",
+          "date": "1917-06-25",
+          "contributors": "Zimbalist, Efrem, Instrumentalist -- Violin | Gluck, Alma, Vocalist -- Soprano Vocal | Rimsky-Korsakov, Nikolay, Composer | Pasternack, Josef, Conductor",
+          "source_item": "https://www.loc.gov/item/jukebox-24164/"
+        },
+        {
+          "id": "422377",
+          "title": "Russian Gypsy song",
+          "language": "Russian",
+          "genre": "Classical music",
+          "date": "1905-10-20",
+          "contributors": "Janpolski, Albert G., Vocalist -- Baritone Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-422377/"
+        },
+        {
+          "id": "41296",
+          "title": "Song of the Volga boatmen",
+          "language": "English | Russian",
+          "genre": "Classical music | Ethnic music",
+          "date": "1921-06-09",
+          "contributors": "Bromberg, Edward, Arranger | Gogorza, Emilio de, Vocalist -- Baritone Vocal | Bromberg, Edward, Translator | Pasternack, Josef, Conductor",
+          "source_item": "https://www.loc.gov/item/jukebox-41296/"
+        },
+        {
+          "id": "16145",
+          "title": "Vostochnyi romans",
+          "language": "Russian",
+          "genre": "Opera",
+          "date": "1916-01-18",
+          "contributors": "Rogers, Walter B., Conductor | Barone, Clement, Instrumentalist -- Flute | Rimsky-Korsakov, Nikolay, Composer | Dimitrieff, Nina, Vocalist -- Soprano Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-16145/"
+        },
+        {
+          "id": "187883",
+          "title": "Wenn Nacht mich hullt und Schweigen, op. 4, no. 3",
+          "language": "Russian",
+          "genre": "Classical music | Russian",
+          "date": "1916-03-14",
+          "contributors": "Rachmaninoff, Sergei, Instrumentalist -- Piano | Rogers, Walter B., Conductor | Dimitrieff, Nina, Vocalist -- Soprano Vocal",
+          "source_item": "https://www.loc.gov/item/jukebox-187883/"
+        }
+      ]
+    },
+    "Japan": {
+      "total_matches": 0,
+      "shortlist": []
+    }
+  }
+}
