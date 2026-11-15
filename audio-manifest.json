@@ -1,0 +1,5 @@
+{
+  "version": 1,
+  "notes": "Add only recordings you own, have permission to use, or have verified public-domain rights for. Audio files should live under audio/ in this repository. Station keys match the country options in radio.html.",
+  "stations": {}
+}
