@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "phase": "23C.9",
+  "rights": "Library of Congress National Jukebox pre-1923 recordings, public-domain U.S. rights, historical compositions older than 1923",
+  "rights_url": "https://www.loc.gov/collections/national-jukebox/about-this-collection/rights-and-access/",
+  "checksum_manifest": "https://data.labs.loc.gov/jukebox/manifest.html",
+  "note": "Original complete historical recorded performances; not actual 1939–45 broadcasts; region match based on repertoire not recording location. Existing 30 tracks retained and user personal files never published.",
+  "tracks": [
+    {
+      "country": "France",
+      "title": "La Marseillaise — Emilio de Gogorza and Carlos Francisco",
+      "id": "121062",
+      "md5": "b1a53d7652a77e750d2a5345c255a0a2",
+      "date": "1905-01-10",
+      "credits": "Emilio de Gogorza and Carlos Francisco, baritones; Claude Joseph Rouget de Lisle, composer",
+      "context": "French national anthem, historic original vocal and orchestra, recorded in United States; not a WWII-era performance",
+      "source_url": "https://www.loc.gov/item/jukebox-121062/",
+      "audio_url": "https://data.labs.loc.gov/jukebox/audio/jukebox-121062_1.mp3",
+      "filename": "tobs-international-batch3-121062.mp3"
+    },
+    {
+      "country": "Germany",
+      "title": "Deutschland über alles — Carl Schlegel",
+      "id": "187660",
+      "md5": "b1b0e6542a9bdf9a5ba2c3161de7dcab",
+      "date": "1914-11-10",
+      "credits": "Carl Schlegel, baritone; Walter B. Rogers, conductor; Joseph Haydn, composer",
+      "context": "Pre-WWII historic German national song, recorded in New Jersey; not a Nazi-era recording or endorsement of historical political regimes",
+      "source_url": "https://www.loc.gov/item/jukebox-187660/",
+      "audio_url": "https://data.labs.loc.gov/jukebox/audio/jukebox-187660_1.mp3",
+      "filename": "tobs-international-batch3-187660.mp3"
+    },
+    {
+      "country": "Austria",
+      "title": "Brüderlein fein — Frida Bennèche",
+      "id": "19147",
+      "md5": "8f8e101854e99b41ecf1b021102acc0b",
+      "date": "1916-08-02",
+      "credits": "Frida Bennèche, soprano; King's Orchestra; Edward T. King, conductor; Joseph Drechsler, composer; Ferdinand Raimund, playwright",
+      "context": "Original 1916 performance of a Viennese theatrical song from Austrian composer Joseph Drechsler and author Ferdinand Raimund, recorded in New York; not an Austrian radio broadcast",
+      "source_url": "https://www.loc.gov/item/jukebox-19147/",
+      "audio_url": "https://data.labs.loc.gov/jukebox/audio/jukebox-19147_1.mp3",
+      "filename": "tobs-international-batch3-19147.mp3"
+    }
+  ]
+}
