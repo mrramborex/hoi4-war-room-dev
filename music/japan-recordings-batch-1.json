@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "station": "Japan",
+  "frequency_mhz": 82.6,
+  "source": "Wikimedia Commons historical original OGG audio files",
+  "notes": "Only these two original recordings are imported; both explicitly identified by Commons as PD-US sound recordings and Japanese audio plus public-domain compositions. Media source history on Commons points to historic transfers appearing on YouTube: respect source-specific rights and do not substitute modern masters.",
+  "items": [
+    {
+      "title": "Gunkan kōshinkyoku (Warship March)",
+      "performer": "Fumiko Nōsho",
+      "year": "1913",
+      "filename": "tobs-japan-gunkan-1913.ogg",
+      "commons_title": "File:Gunkan kōshinkyoku (1913).ogg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gunkan_k%C5%8Dshinkyoku_(1913).ogg",
+      "sha1": "cade2046c079228473daeb7ea98a36f09ba04269",
+      "size": 1748981,
+      "rights": "PD-US pre-1926 recording; PD Japan audio; lyrics composer performer PD per source",
+      "duration_seconds": 169
+    },
+    {
+      "title": "Teki wa Ikuman",
+      "performer": "Nōsho Benjirō",
+      "year": "pre-1913",
+      "filename": "tobs-japan-teki-wa-ikuman.ogg",
+      "commons_title": "File:Teki wa Ikuman (Nōsho Benjirō).ogg",
+      "source": "https://commons.wikimedia.org/wiki/File:Teki_wa_Ikuman_(N%C5%8Dsho_Benjir%C5%8D).ogg",
+      "sha1": null,
+      "size": null,
+      "rights": "PD-US pre-1926 recording; PD Japan audio; lyrics composer performer PD per source",
+      "duration_seconds": 177
+    }
+  ]
+}
