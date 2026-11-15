@@ -1,16 +1,8 @@
 {
   "version": 1,
-  "notes": "Phase 23B.6 includes original synthesized test station-identification melodies for United States, United Kingdom, France, Germany, Japan and Soviet Union. These are not historical broadcasts or commercial songs. Other countries have no recordings pending licensed, user-owned, or confirmed public-domain audio. Keep all station keys identical to radio.html country option values.",
+  "notes": "Phase 23C live-radio mode: only verified LOC historical excerpts are listed. Synthesized test transmissions removed from all playlists. Other stations currently have no playable music until eligible recordings are added. Station keys must match radio.html values.",
   "stations": {
     "United States": [
-      {
-        "title": "TOBS Test Transmission — Opening Ident",
-        "src": "audio/tobs-test-ident.wav"
-      },
-      {
-        "title": "TOBS Test Transmission — Closing Ident",
-        "src": "audio/tobs-test-signoff.wav"
-      },
       {
         "title": "'Joe Turner Blues' Medley — LOC excerpt 00:34",
         "src": "audio/tobs-loc-joe-turner-blues.wav"
@@ -30,36 +22,6 @@
       {
         "title": "After You've Gone — LOC excerpt 01:00",
         "src": "audio/tobs-loc-after-youve-gone.wav"
-      }
-    ],
-    "United Kingdom": [
-      {
-        "title": "Albion Home Service — Station Ident",
-        "src": "audio/tobs-albion-ident.wav"
-      }
-    ],
-    "France": [
-      {
-        "title": "La Voix de Paris — Station Ident",
-        "src": "audio/tobs-paris-ident.wav"
-      }
-    ],
-    "Germany": [
-      {
-        "title": "Berliner Tanzorchester — Station Ident",
-        "src": "audio/tobs-berlin-ident.wav"
-      }
-    ],
-    "Japan": [
-      {
-        "title": "Sakura Denpa — Station Ident",
-        "src": "audio/tobs-sakura-ident.wav"
-      }
-    ],
-    "Soviet Union": [
-      {
-        "title": "Radio Krasnaya Zvezda — Station Ident",
-        "src": "audio/tobs-moscow-ident.wav"
       }
     ]
   }
