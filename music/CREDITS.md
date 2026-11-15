@@ -77,3 +77,44 @@ Two complete historical Japanese performances, sourced as **original OGG files**
 | Teki wa Ikuman | Before 1913 | Nōsho Benjirō; Sakunosuke Koyama; Yamada Bimyō | https://commons.wikimedia.org/wiki/File:Teki_wa_Ikuman_(N%C5%8Dsho_Benjir%C5%8D).ogg | `audio/tobs-japan-teki-wa-ikuman.ogg` |
 
 The Japanese playlist currently has two historical **military** pieces, not a balanced representation of civilian music; expand with verified traditional and popular repertoire when eligible recordings are found. Source identities and validation procedure: `music/japan-recordings-batch-1.json`, `music/import_japan_recordings.py`.
+
+## Phase 23C.4 — Major-Power Expansion (10 full-length recordings)
+
+Source: [Library of Congress National Jukebox 1900–1922 dataset](https://data.labs.loc.gov/jukebox/). Rights statement: https://data.labs.loc.gov/jukebox/README.html . Every MP3 was independently verified against its exact MD5 at https://data.labs.loc.gov/jukebox/manifest.html before import.
+
+### United Kingdom
+
+| Complete performance | LOC item | Historical credits | Local file |
+| --- | --- | --- | --- |
+| A Farewell | [259782](https://www.loc.gov/item/jukebox-259782/) | John McCormack; Charles Kingsley and Samuel Liddle | `audio/tobs-major-batch2-259782.mp3` |
+| A Little Bit of Heaven | [12879](https://www.loc.gov/item/jukebox-12879/) | Charles Harrison; Ernest R. Ball and J. Keirn Brennan | `audio/tobs-major-batch2-12879.mp3` |
+
+### France
+
+| Complete performance | LOC item | Historical credits | Local file |
+| --- | --- | --- | --- |
+| Ah! fuyez, douce image | [131294](https://www.loc.gov/item/jukebox-131294/) | Enrico Caruso; Jules Massenet | `audio/tobs-major-batch2-131294.mp3` |
+| Au fond du temple saint | [131400](https://www.loc.gov/item/jukebox-131400/) | Edmond Clément and Marcel Journet; Georges Bizet | `audio/tobs-major-batch2-131400.mp3` |
+
+### Germany
+
+| Complete performance | LOC item | Historical credits | Local file |
+| --- | --- | --- | --- |
+| Der Tannenbaum | [122801](https://www.loc.gov/item/jukebox-122801/) | Emil Muench; traditional song, Joachim August Zarnack lyrics | `audio/tobs-major-batch2-122801.mp3` |
+| Der Tod und das Mädchen | [125293](https://www.loc.gov/item/jukebox-125293/) | Ernestine Schumann-Heink; Franz Schubert and Matthias Claudius | `audio/tobs-major-batch2-125293.mp3` |
+
+### Italy
+
+| Complete performance | LOC item | Historical credits | Local file |
+| --- | --- | --- | --- |
+| Addio del passato | [134548](https://www.loc.gov/item/jukebox-134548/) | Lucrezia Bori; Giuseppe Verdi | `audio/tobs-major-batch2-134548.mp3` |
+| Ah! non credea mirarti | [24085](https://www.loc.gov/item/jukebox-24085/) | Amelita Galli-Curci; Vincenzo Bellini | `audio/tobs-major-batch2-24085.mp3` |
+
+### Soviet Union
+
+| Complete performance | LOC item | Historical credits | Local file |
+| --- | --- | --- | --- |
+| Oi kasala mene mati | [16147](https://www.loc.gov/item/jukebox-16147/) | Nina Dimitrieff; Russian/Ukrainian traditional repertoire as described by LOC | `audio/tobs-major-batch2-16147.mp3` |
+| Song of the Volga Boatmen | [41296](https://www.loc.gov/item/jukebox-41296/) | Emilio de Gogorza; traditional Russian repertoire, Edward Bromberg arrangement | `audio/tobs-major-batch2-41296.mp3` |
+
+**Historical context:** Source performances are earlier than 1923 and were not genuine wartime national-radio transmissions. Station curation is based on musical or language relevance. The Soviet Union station includes pre-Soviet Russian repertoire; do not describe the originals as Soviet-era recordings. Japanese selections remain unchanged.
