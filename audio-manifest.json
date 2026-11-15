@@ -1,27 +1,27 @@
 {
   "version": 1,
-  "notes": "Phase 23C live-radio mode: only verified LOC historical excerpts are listed. Synthesized test transmissions removed from all playlists. Other stations currently have no playable music until eligible recordings are added. Station keys must match radio.html values.",
+  "notes": "Phase 23C: five full-length LOC National Jukebox historic public-domain performances; original short Citizen DJ excerpts retired. Stations without verified audio have no playlist yet.",
   "stations": {
     "United States": [
       {
-        "title": "'Joe Turner Blues' Medley — LOC excerpt 00:34",
-        "src": "audio/tobs-loc-joe-turner-blues.wav"
+        "title": "'Joe Turner Blues' Medley — LOC complete recording",
+        "src": "audio/tobs-full-joe-turner-blues.mp3"
       },
       {
-        "title": "12th Street Rag — LOC excerpt 00:00",
-        "src": "audio/tobs-loc-12th-street-rag.wav"
+        "title": "12th Street Rag — LOC complete recording",
+        "src": "audio/tobs-full-12th-street-rag.mp3"
       },
       {
-        "title": "A Classical Spasm — LOC excerpt 00:00",
-        "src": "audio/tobs-loc-classical-spasm.wav"
+        "title": "A Classical Spasm — LOC complete recording",
+        "src": "audio/tobs-full-classical-spasm.mp3"
       },
       {
-        "title": "A Rag-Time Episode — LOC excerpt 00:30",
-        "src": "audio/tobs-loc-rag-time-episode.wav"
+        "title": "A Rag-Time Episode — LOC complete recording",
+        "src": "audio/tobs-full-rag-time-episode.mp3"
       },
       {
-        "title": "After You've Gone — LOC excerpt 01:00",
-        "src": "audio/tobs-loc-after-youve-gone.wav"
+        "title": "After You've Gone — LOC complete recording",
+        "src": "audio/tobs-full-after-youve-gone.mp3"
       }
     ]
   }
