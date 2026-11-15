@@ -1,0 +1,30 @@
+name: Import verified Polish folk recording
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/import-poland-folk.yml"
+permissions:
+  contents: write
+concurrency:
+  group: tobs-poland-folk
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Verify and retrieve original Polish recording
+        run: python3 music/import_poland_folk.py
+      - name: Publish only to dev site
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/tobs-poland-ulan-1916.mp3 audio-manifest.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Phase 23C.7: add verified 1916 Polish folk performance"
+            git push
+          fi
