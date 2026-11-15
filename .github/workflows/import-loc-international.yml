@@ -1,4 +1,5 @@
 name: Import LOC international music batch
+# Retry after rechecking individual LOC MD5 manifest entries.
 on:
   workflow_dispatch:
   push:
