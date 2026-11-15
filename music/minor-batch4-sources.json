@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "phase": "23C.10",
+  "intent": "Original complete pre-1923 recorded performances; no synthesized tracks. Music associated by genre, language, performers or traditional repertoire; not actual national wartime radio broadcasts.",
+  "source": "Library of Congress National Jukebox 1900-1922",
+  "rights": "https://data.labs.loc.gov/jukebox/README.html",
+  "official_checksum_manifest": "https://data.labs.loc.gov/jukebox/manifest.html",
+  "tracks": [
+    {
+      "country": "Sweden",
+      "id": "123353",
+      "title": "Drick ur ditt glas",
+      "date": "1906-07-12",
+      "credits": "Joel Mossberg (baritone); Carl Michael Bellman (composer)",
+      "md5": "b272e29b39c295e2176891490bc179bf",
+      "context": "Swedish song by Bellman, original 1906 performance",
+      "source": "https://www.loc.gov/item/jukebox-123353/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-123353_1.mp3",
+      "filename": "tobs-minors-batch4-123353.mp3"
+    },
+    {
+      "country": "Sweden",
+      "id": "16725",
+      "title": "Hell dig, du höga Nord!",
+      "date": "1916-03-03",
+      "credits": "Aage Wang-Holm (tenor); King's Orchestra; Bernhard Henrik Crusell (composer)",
+      "md5": "ea5c5fbe89201f20de39e7bca2f179f7",
+      "context": "Swedish-language Nordic song, not a WWII broadcast",
+      "source": "https://www.loc.gov/item/jukebox-16725/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-16725_1.mp3",
+      "filename": "tobs-minors-batch4-16725.mp3"
+    },
+    {
+      "country": "Norway",
+      "id": "133882",
+      "title": "Hun er sød, hun er blid",
+      "date": "1913-10-08",
+      "credits": "Carsten Woll (tenor), Fred Bachman (piano); Halfdan Kjerulf (composer)",
+      "md5": "463f5ccf021e4bf3889c7634b582bef0",
+      "context": "Norwegian romantic song; note the LOC metadata has garbled diacritics",
+      "source": "https://www.loc.gov/item/jukebox-133882/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-133882_1.mp3",
+      "filename": "tobs-minors-batch4-133882.mp3"
+    },
+    {
+      "country": "Norway",
+      "id": "133885",
+      "title": "Sæterjentens søndag",
+      "date": "1913-10-09",
+      "credits": "Carsten Woll (tenor), Fred Bachman (piano); Ole Bull (composer)",
+      "md5": "816d1264a2db0900a9a88f0581e63814",
+      "context": "Norwegian traditional-style composition by Ole Bull",
+      "source": "https://www.loc.gov/item/jukebox-133885/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-133885_1.mp3",
+      "filename": "tobs-minors-batch4-133885.mp3"
+    },
+    {
+      "country": "Finland",
+      "id": "18368",
+      "title": "Taivas on sininen ja valkoinen",
+      "date": "1916-06-27",
+      "credits": "Elli Suokas (soprano), King's Orchestra; Edward T. King (conductor)",
+      "md5": "fa13b52aa461c1921efa4bfee8dbfda8",
+      "context": "Finnish-language national folk repertoire",
+      "source": "https://www.loc.gov/item/jukebox-18368/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-18368_1.mp3",
+      "filename": "tobs-minors-batch4-18368.mp3"
+    },
+    {
+      "country": "Finland",
+      "id": "18369",
+      "title": "Ei taivahan alla",
+      "date": "1916-06-27",
+      "credits": "Elli Suokas (soprano), King's Orchestra; Edward T. King (conductor)",
+      "md5": "403b5fc593c7a23e6b088f27f53ecb5d",
+      "context": "Finnish-language popular vocal and orchestra",
+      "source": "https://www.loc.gov/item/jukebox-18369/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-18369_1.mp3",
+      "filename": "tobs-minors-batch4-18369.mp3"
+    },
+    {
+      "country": "Denmark",
+      "id": "124182",
+      "title": "Fritz og Lise",
+      "date": "1906-12-06",
+      "credits": "Gudrun Carlson (soprano), Johannes Herskind; Jacques Offenbach (composer)",
+      "md5": "1550e45e48f71724355d2586d6423ed9",
+      "context": "Danish-language performance of an Offenbach theatrical work, not Danish-composed music",
+      "source": "https://www.loc.gov/item/jukebox-124182/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-124182_1.mp3",
+      "filename": "tobs-minors-batch4-124182.mp3"
+    },
+    {
+      "country": "Mexico",
+      "id": "258926",
+      "title": "Adela",
+      "date": "1914-12-01",
+      "credits": "Banda Rodríguez; Walter B. Rogers (conductor); E. Navarro (composer)",
+      "md5": "f8513e7856f71bdcabc98137daec5498",
+      "context": "Mexican-style regional band repertoire (LOC Spanish Mexico genre)",
+      "source": "https://www.loc.gov/item/jukebox-258926/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-258926_1.mp3",
+      "filename": "tobs-minors-batch4-258926.mp3"
+    },
+    {
+      "country": "Poland",
+      "id": "130659",
+      "title": "Krakowiak",
+      "date": "1911-07-20",
+      "credits": "Rybowiak Orchestra; A. E. Brunner (composer)",
+      "md5": "6da5c7bd15f864e0e2a296e1310f2411",
+      "context": "Polish krakowiak dance by original ensemble",
+      "source": "https://www.loc.gov/item/jukebox-130659/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-130659_1.mp3",
+      "filename": "tobs-minors-batch4-130659.mp3"
+    }
+  ]
+}
