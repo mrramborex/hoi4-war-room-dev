@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C: five full-length LOC National Jukebox historic public-domain performances; original short Citizen DJ excerpts retired. Stations without verified audio have no playlist yet.",
+  "notes": "TOBS live receiver: 5 complete United States recordings plus 10 rights-documented LOC historical international recordings. Unpopulated stations have no audio until appropriate files are cleared.",
   "stations": {
     "United States": [
       {
@@ -22,6 +22,56 @@
       {
         "title": "After You've Gone — LOC complete recording",
         "src": "audio/tobs-full-after-youve-gone.mp3"
+      }
+    ],
+    "United Kingdom": [
+      {
+        "title": "A Bowl of Roses — LOC historical recording",
+        "src": "audio/tobs-international-131863.mp3"
+      },
+      {
+        "title": "A Child's Song — LOC historical recording",
+        "src": "audio/tobs-international-259778.mp3"
+      }
+    ],
+    "France": [
+      {
+        "title": "Adieu, notre petite table — LOC historical recording",
+        "src": "audio/tobs-international-127011.mp3"
+      },
+      {
+        "title": "Air de Lia — LOC historical recording",
+        "src": "audio/tobs-international-129652.mp3"
+      }
+    ],
+    "Germany": [
+      {
+        "title": "Aus der Jugendzeit — LOC historical recording",
+        "src": "audio/tobs-international-213054.mp3"
+      },
+      {
+        "title": "Bärbchen — LOC historical recording",
+        "src": "audio/tobs-international-127819.mp3"
+      }
+    ],
+    "Italy": [
+      {
+        "title": "A tanto amor — LOC historical recording",
+        "src": "audio/tobs-international-28011.mp3"
+      },
+      {
+        "title": "Abbietta zingara — LOC historical recording",
+        "src": "audio/tobs-international-187534.mp3"
+      }
+    ],
+    "Soviet Union": [
+      {
+        "title": "Eugene Onegin — Aria — LOC historical recording",
+        "src": "audio/tobs-international-122060.mp3"
+      },
+      {
+        "title": "Douchechka devitza — LOC historical recording",
+        "src": "audio/tobs-international-16142.mp3"
       }
     ]
   }
