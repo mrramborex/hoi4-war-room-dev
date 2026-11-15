@@ -197,9 +197,9 @@
       "country": "United Kingdom",
       "station": "Albion Home Service",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 2,
+      "rights_cleared_track_count": 4,
       "target_initial_tracks": 5,
-      "notes": "Two complete U.S. public-domain-designated LOC National Jukebox recordings imported and checksum verified. Historical musical repertoire, not original wartime broadcasts. See music/loc-international-batch-1.json and music/CREDITS.md. Previous user-approved historical candidates remain unimported separately."
+      "notes": "4 complete LOC historical public-domain recordings in playable dev radio, latest batch individual MD5 verified. Repertoire fit is editorial, not a wartime national broadcast. See music/major-batch2-sources.json and music/CREDITS.md."
     },
     {
       "frequency_mhz": 88.4,
@@ -278,9 +278,9 @@
       "country": "France",
       "station": "La Voix de Paris",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 2,
+      "rights_cleared_track_count": 4,
       "target_initial_tracks": 5,
-      "notes": "Two complete U.S. public-domain-designated LOC National Jukebox recordings imported and checksum verified. Historical musical repertoire, not original wartime broadcasts. See music/loc-international-batch-1.json and music/CREDITS.md. Previous user-approved historical candidates remain unimported separately."
+      "notes": "4 complete LOC historical public-domain recordings in playable dev radio, latest batch individual MD5 verified. Repertoire fit is editorial, not a wartime national broadcast. See music/major-batch2-sources.json and music/CREDITS.md."
     },
     {
       "frequency_mhz": 91.3,
@@ -422,9 +422,9 @@
       "country": "Germany",
       "station": "Berliner Tanzorchester",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 2,
+      "rights_cleared_track_count": 4,
       "target_initial_tracks": 5,
-      "notes": "Two complete U.S. public-domain-designated LOC National Jukebox recordings imported and checksum verified. Historical musical repertoire, not original wartime broadcasts. See music/loc-international-batch-1.json and music/CREDITS.md. Previous user-approved historical candidates remain unimported separately."
+      "notes": "4 complete LOC historical public-domain recordings in playable dev radio, latest batch individual MD5 verified. Repertoire fit is editorial, not a wartime national broadcast. See music/major-batch2-sources.json and music/CREDITS.md."
     },
     {
       "frequency_mhz": 97.6,
@@ -440,9 +440,9 @@
       "country": "Italy",
       "station": "Radio Roma",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 2,
+      "rights_cleared_track_count": 4,
       "target_initial_tracks": 5,
-      "notes": "Two complete U.S. public-domain-designated LOC National Jukebox recordings imported and checksum verified. Historical musical repertoire, not original wartime broadcasts. See music/loc-international-batch-1.json and music/CREDITS.md. Previous user-approved historical candidates remain unimported separately."
+      "notes": "4 complete LOC historical public-domain recordings in playable dev radio, latest batch individual MD5 verified. Repertoire fit is editorial, not a wartime national broadcast. See music/major-batch2-sources.json and music/CREDITS.md."
     },
     {
       "frequency_mhz": 98.6,
@@ -539,9 +539,9 @@
       "country": "Soviet Union",
       "station": "Radio Krasnaya Zvezda",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 2,
+      "rights_cleared_track_count": 4,
       "target_initial_tracks": 5,
-      "notes": "Two complete U.S. public-domain-designated LOC National Jukebox recordings imported and checksum verified. Historical musical repertoire, not original wartime broadcasts. See music/loc-international-batch-1.json and music/CREDITS.md. Previous user-approved historical candidates remain unimported separately."
+      "notes": "4 complete LOC historical public-domain recordings in playable dev radio, latest batch individual MD5 verified. Repertoire fit is editorial, not a wartime national broadcast. See music/major-batch2-sources.json and music/CREDITS.md."
     },
     {
       "frequency_mhz": 103.2,
