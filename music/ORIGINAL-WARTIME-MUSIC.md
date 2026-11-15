@@ -1,20 +1,9 @@
-# Phase 23C.5 — Original Wartime-Themed Instrumentals
+# Phase 23C.5 — Rejected Synthesized Instrumental Prototypes
 
-**Why:** Actual 1930s/1940s WWII recordings often remain protected even when the song is old. Instead of using famous copyrighted performances, TOBS supplements verified public-domain historical recordings with **originally composed, newly synthesized** period-inspired instrumental programming.
+**Disposition: REJECTED by owner after listening test (2026-11-15).** The six original WWII-era-inspired instrumentals were perceived as artificial and not like genuine songs. All six WAVs were removed from the development repo, their playlist entries deleted, and the generation workflow and generator retired.
 
-Six completely original instrumental pieces:
+Rejected pieces: Home Front Swing (United States), Blackout Waltz (United Kingdom), Atlantic Convoy (Canada), Southern Skies Dance (Australia), Warsaw Lanterns (Poland), Eastern Front Signal (Soviet Union).
 
-| Station | Piece | Style |
-| --- | --- | --- |
-| United States / WRS Victory Ballroom | Home Front Swing | home-front dance-band swing |
-| United Kingdom / Albion Home Service | Blackout Waltz | wartime blackout-era waltz |
-| Canada / Maple Leaf Broadcasting | Atlantic Convoy | convoy march |
-| Australia / Southern Cross Wireless | Southern Skies Dance | swing dance |
-| Poland / Polskie Echo | Warsaw Lanterns | reflective wartime waltz |
-| Soviet Union / Radio Krasnaya Zvezda | Eastern Front Signal | wartime brass march |
+**Revised sound standard:** Prefer authentic complete archival recordings with confirmed public-domain or freely redistributable rights. An instrumental is acceptable when it is a convincing human performance or high-quality recording, not an elementary synthetic melody. Do not automatically generate cheap approximations or reintroduce these prototypes. No need to reopen user review for rejected tracks.
 
-The compositions and audio synthesis are originally authored for HOI4 War Room, not copied from any existing record, song, sample pack, or proprietary soundfont. They are **evocations** of the 1936–45 era, not genuine wartime recordings. They do not reference copyrighted tunes or use historic copyrighted audio samples.
-
-Source: `music/generate_wartime_instrumentals.py`. Output: six mono 22.05 kHz WAV files. GitHub Actions validates and commits the generated audio to the development radio only. Never describe them as actual historic broadcast recordings.
-
-**Rights:** original compositions and masters created for this project; no third-party recording rights to clear. Historical archival tracks must still satisfy the public-domain/free-use gate individually.
+The Phase 23C.4 historical library remains unchanged: 27 complete archival tracks across seven major powers. Canada, Australia, and Poland return to research-only until eligible audio is found.
