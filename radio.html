@@ -27,6 +27,13 @@ body{padding:0!important;margin:0!important;min-height:0!important;display:block
 .volume-group{align-items:center}
 @media(max-width:650px){.rotary-layout{grid-template-columns:65px minmax(0,1fr);gap:7px}.volume-rotary{width:58px;height:58px;min-width:58px;min-height:58px;max-width:58px;max-height:58px}}
 @media(max-width:460px){.rotary-layout{grid-template-columns:80px minmax(0,1fr)}.volume-rotary{width:65px;height:65px;min-width:65px;min-height:65px;max-width:65px;max-height:65px}}
+/* Phase 23A: concentric fixed knob faces, rotating pointer only */
+.rotary{display:grid!important;place-items:center!important;position:relative;isolation:isolate;padding:0!important;line-height:normal}
+.rotary-face{position:relative!important;display:block!important;box-sizing:border-box!important;width:73%!important;height:73%!important;aspect-ratio:1/1!important;border-radius:50%!important;margin:0!important;padding:0!important;transform:none!important;justify-self:center!important;align-self:center!important;flex:none!important}
+.rotary-pointer{position:absolute!important;inset:0!important;top:0!important;left:0!important;width:100%!important;height:100%!important;border-radius:50%;background:transparent!important;box-shadow:none!important;transform:rotate(var(--rotation))!important;transform-origin:50% 50%!important}
+.rotary-pointer::before{content:"";position:absolute;top:5px;left:calc(50% - 2px);width:4px;height:19px;border-radius:3px;background:#f0cb86;box-shadow:0 0 2px #000}
+.volume-rotary .rotary-pointer{height:100%!important}
+.volume-rotary .rotary-pointer::before{height:14px}
 /* Phase 23A: centered rotary core, bronze transport bezels, two-way click fail-safe */
 .rotary{display:grid!important;place-items:center!important;position:relative;line-height:normal;vertical-align:middle}
 .rotary-face{position:relative!important;display:block!important;width:73%!important;height:73%!important;aspect-ratio:1!important;margin:0!important;padding:0!important;justify-self:center!important;align-self:center!important;transform:rotate(var(--rotation));transform-origin:50% 50%}
