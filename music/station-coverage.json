@@ -1,0 +1,592 @@
+{
+  "version": 1,
+  "created": "2026-11-15",
+  "description": "Research tracking only. Proof-of-concept synthetic audio does not count toward licensed historical tracks.",
+  "stations": [
+    {
+      "frequency_mhz": 80.1,
+      "country": "Afghanistan",
+      "station": "Radio Kabul",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 80.4,
+      "country": "Switzerland",
+      "station": "Alpine Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 80.6,
+      "country": "Yunnan",
+      "station": "Kunming Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 81.1,
+      "country": "Estonia",
+      "station": "Tallinn Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 81.6,
+      "country": "Mexico",
+      "station": "Radio México",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 81.8,
+      "country": "Argentina",
+      "station": "Radio del Plata",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 82.1,
+      "country": "Turkey",
+      "station": "Ankara Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 82.3,
+      "country": "Sichuan Clique",
+      "station": "Sichuan Provincial Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 82.6,
+      "country": "Japan",
+      "station": "Sakura Denpa",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 82.8,
+      "country": "Ethiopia",
+      "station": "Addis Ababa Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 83.3,
+      "country": "Netherlands",
+      "station": "Hilversum Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 83.5,
+      "country": "Australia",
+      "station": "Southern Cross Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 84,
+      "country": "Northeastern Army",
+      "station": "Northeast Frontier Signal",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 84.5,
+      "country": "Finland",
+      "station": "Helsinki Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 85,
+      "country": "New Zealand",
+      "station": "Kiwi Coast Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 85.2,
+      "country": "Aussa",
+      "station": "Aussa Desert Signal",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 85.7,
+      "country": "Shanxi",
+      "station": "Taiyuan Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 86.7,
+      "country": "Norway",
+      "station": "Oslo Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 86.9,
+      "country": "Austria",
+      "station": "Wiener Funkhaus",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 87.2,
+      "country": "Uruguay",
+      "station": "Radio Montevideo",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 87.4,
+      "country": "Sinkiang",
+      "station": "Ürümqi Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 88.3,
+      "country": "United Kingdom",
+      "station": "Albion Home Service",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 88.4,
+      "country": "Paraguay",
+      "station": "Asunción Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 88.6,
+      "country": "Belgium",
+      "station": "Radio Bruxelles",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 88.9,
+      "country": "Yugoslavia",
+      "station": "Belgrade Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 89.1,
+      "country": "Khotan Ma",
+      "station": "Khotan Frontier Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 89.5,
+      "country": "Poland",
+      "station": "Polskie Echo",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 89.6,
+      "country": "Greece",
+      "station": "Athens Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 90.1,
+      "country": "Philippines",
+      "station": "Manila Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 90.8,
+      "country": "Qinghai Ma",
+      "station": "Qinghai Highland Signal",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 91.2,
+      "country": "France",
+      "station": "La Voix de Paris",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 91.3,
+      "country": "Hungary",
+      "station": "Budapest Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 92,
+      "country": "British Raj / India",
+      "station": "Delhi Wireless Service",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 92.5,
+      "country": "Gansu Ma",
+      "station": "Lanzhou Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 93,
+      "country": "Iceland",
+      "station": "Reykjavík Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 93.5,
+      "country": "Portugal",
+      "station": "Rádio Lisboa",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 93.7,
+      "country": "Bulgaria",
+      "station": "Sofia Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 94.2,
+      "country": "Ningxia Ma",
+      "station": "Ningxia Frontier Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 94.7,
+      "country": "Iran",
+      "station": "Tehran Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 95.2,
+      "country": "Romania",
+      "station": "București Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 95.4,
+      "country": "Canada",
+      "station": "Maple Leaf Broadcasting",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 95.7,
+      "country": "United States",
+      "station": "WRS Victory Ballroom",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 95.9,
+      "country": "Hebei-Chahar",
+      "station": "North China Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 96.4,
+      "country": "Iraq",
+      "station": "Baghdad Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 96.9,
+      "country": "Siam / Thailand",
+      "station": "Bangkok Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 97.1,
+      "country": "Chile",
+      "station": "Radio Santiago",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 97.4,
+      "country": "Germany",
+      "station": "Berliner Tanzorchester",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 97.6,
+      "country": "Shandong Clique",
+      "station": "Jinan Regional Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 98.1,
+      "country": "Italy",
+      "station": "Radio Roma",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 98.6,
+      "country": "South Africa",
+      "station": "Cape Town Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 98.8,
+      "country": "China (Nationalist)",
+      "station": "Nanjing Central Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 99.3,
+      "country": "Congo",
+      "station": "Congo River Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 100.5,
+      "country": "Communist China",
+      "station": "Yan'an People's Signal",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 101,
+      "country": "Czechoslovakia",
+      "station": "Praha Radioklub",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 101.3,
+      "country": "Brazil",
+      "station": "Rádio Carioca",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 101.5,
+      "country": "Latvia",
+      "station": "Rīga Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 102,
+      "country": "Spain",
+      "station": "Radio Madrid",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 102.2,
+      "country": "Guangxi Clique",
+      "station": "Guangxi Regional Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 102.7,
+      "country": "Denmark",
+      "station": "København Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 103.1,
+      "country": "Soviet Union",
+      "station": "Radio Krasnaya Zvezda",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 103.2,
+      "country": "Lithuania",
+      "station": "Kaunas Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 103.7,
+      "country": "Sweden",
+      "station": "Stockholm Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 103.9,
+      "country": "Guangdong Clique",
+      "station": "Pearl River Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 104.4,
+      "country": "Dutch East Indies / Indonesia",
+      "station": "Batavia Wireless",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    },
+    {
+      "frequency_mhz": 104.9,
+      "country": "Manchukuo",
+      "station": "Hsinking Radio",
+      "research_status": "not_started",
+      "rights_cleared_track_count": 0,
+      "target_initial_tracks": 5,
+      "notes": ""
+    }
+  ]
+}
