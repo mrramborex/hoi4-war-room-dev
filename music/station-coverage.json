@@ -79,10 +79,10 @@
       "frequency_mhz": 82.6,
       "country": "Japan",
       "station": "Sakura Denpa",
-      "research_status": "not_started",
+      "research_status": "in_progress",
       "rights_cleared_track_count": 0,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "First sourced candidate entered in track-candidates.csv; rights remain needs_review, no historical recording deployed."
     },
     {
       "frequency_mhz": 82.8,
@@ -196,10 +196,10 @@
       "frequency_mhz": 88.3,
       "country": "United Kingdom",
       "station": "Albion Home Service",
-      "research_status": "not_started",
+      "research_status": "in_progress",
       "rights_cleared_track_count": 0,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "First sourced candidate entered in track-candidates.csv; rights remain needs_review, no historical recording deployed."
     },
     {
       "frequency_mhz": 88.4,
@@ -277,10 +277,10 @@
       "frequency_mhz": 91.2,
       "country": "France",
       "station": "La Voix de Paris",
-      "research_status": "not_started",
+      "research_status": "in_progress",
       "rights_cleared_track_count": 0,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "First sourced candidate entered in track-candidates.csv; rights remain needs_review, no historical recording deployed."
     },
     {
       "frequency_mhz": 91.3,
@@ -421,10 +421,10 @@
       "frequency_mhz": 97.4,
       "country": "Germany",
       "station": "Berliner Tanzorchester",
-      "research_status": "not_started",
+      "research_status": "in_progress",
       "rights_cleared_track_count": 0,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "First sourced candidate entered in track-candidates.csv; rights remain needs_review, no historical recording deployed."
     },
     {
       "frequency_mhz": 97.6,
@@ -439,10 +439,10 @@
       "frequency_mhz": 98.1,
       "country": "Italy",
       "station": "Radio Roma",
-      "research_status": "not_started",
+      "research_status": "in_progress",
       "rights_cleared_track_count": 0,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "First sourced candidate entered in track-candidates.csv; rights remain needs_review, no historical recording deployed."
     },
     {
       "frequency_mhz": 98.6,
@@ -538,10 +538,10 @@
       "frequency_mhz": 103.1,
       "country": "Soviet Union",
       "station": "Radio Krasnaya Zvezda",
-      "research_status": "not_started",
+      "research_status": "in_progress",
       "rights_cleared_track_count": 0,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "First sourced candidate entered in track-candidates.csv; rights remain needs_review, no historical recording deployed."
     },
     {
       "frequency_mhz": 103.2,
