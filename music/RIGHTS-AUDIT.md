@@ -1,6 +1,13 @@
 # TOBS — Music Rights & Source Audit (Phase 23C.1)
 Date: 2026-11-15. Scope: research guidance for U.S.-hosted development website; not legal advice.
 
+## Phase 23C.6 — Authentic WWII recording priority (2026-11-15)
+- Prioritize **real recordings made during 1936–1945** (genuine period voices, instrumental ensembles, or music broadcasts) over earlier pre-war material, when rights permit. **Do not confuse music composed during the war with a historically recorded performance.**
+- Owner rejected the six 23C.5 synthetic wartime instrumentals for artificial musical quality. **Do not reintroduce** them or add basic oscillator/sequencer-style substitutes. A genuine human ensemble/performance is preferred, with a musical quality gate as well as the existing copyright gate.
+- The Library of Congress has clear public-domain government film excerpts from WWII, but a film containing an old commercial song or protected musical score is **not automatically eligible as a standalone song**. Verify both audio and underlying music before adding.
+- U.S. commercial WWII-era recordings, V-Discs, Armed Forces Radio Service broadcasts and 1940s music in online collections are research leads unless exact free distribution rights are documented. Do not borrow those tracks simply because they are historically important, streamable, or government-associated.
+- See `music/wwii-period-candidates.json` and `music/AUTHENTIC-WWII-RESEARCH.md` for the source-by-source inventory. No 1940s musical audio has been added yet by this phase.
+
 ## Hard eligibility rule — user-approved 2026-11-15
 **TOBS only uses recordings with affirmative, documented rights to redistribute and play on the public website.** Eligible sources are (a) sound recordings and underlying works reliably established as **public domain** for intended uses, or (b) recordings explicitly released under a free-use license or rights-holder permission that permits public redistribution and commercial use, with any required attribution fulfilled. Prefer CC0, CC BY, and suitable other free/open licenses; review license conditions such as share-alike and adaptations before deploying.
 
