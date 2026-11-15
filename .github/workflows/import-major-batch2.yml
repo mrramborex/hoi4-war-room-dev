@@ -1,0 +1,32 @@
+name: Import LOC major-powers batch 2
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/import-major-batch2.yml"
+permissions:
+  contents: write
+concurrency:
+  group: tobs-major-batch2
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Verify full archive recordings against LOC MD5
+        run: python3 music/import_major_batch2.py
+      - name: Commit approved music only to development
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/tobs-major-batch2-*.mp3 audio-manifest.json
+          if git diff --cached --quiet; then
+            echo "No new files"
+          else
+            git commit -m "Phase 23C.4: ten complete LOC songs for major-power stations"
+            git push
+          fi
