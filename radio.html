@@ -160,4 +160,49 @@ window.addEventListener('message',event=>{
  tuneCampaign();render();
 });
 function render(){checkStation();let n=$('country').selectedIndex,o=options[n];$('radio').classList.toggle('on',power);$('station').textContent=power?o.text:'RECEIVER STANDBY';$('description').textContent=power?o.value+' · International radio identification':'Turn the power knob to illuminate the dial.';const program=broadcasts[o.value]||['World Service','Period-inspired radio selections'];$('programTitle').textContent=power?program[0]:'Awaiting transmission';$('programDetails').textContent=power?program[1]+' · '+(stationPlaylist().length?'recording available':'programming concept'):'Period-inspired programming preview';$('signal').textContent=!power?'● POWER OFF':playing?'● RECEIVING · AUDIO':'● RECEIVER ON · STANDBY';$('power').innerHTML=power?'POWER<br>ON':'POWER<br>OFF';$('power').setAttribute('aria-pressed',String(power));$('needle').style.setProperty('--position',(7+n/(options.length-1)*86)+'%');$('mode').textContent=mode.toUpperCase();$('mode').setAttribute('aria-pressed',String(mode==='auto'));$('modeNote').textContent=mode==='auto'?(campaignCountry?'AUTO · Following '+campaignCountry:'AUTO · Awaiting campaign country') :'MANUAL · Select any of 65 stations.';$('stationReadout').textContent=o.text.split(' · ')[0]+' MHz';$('stationLabel').textContent=o.text.split(' · ').slice(1).join(' · ');$('stationDial').style.setProperty('--rotation',(-135+n/(options.length-1)*270)+'deg');$('stationDial').setAttribute('aria-valuenow',String(n+1));$('stationDial').setAttribute('aria-valuetext',o.text);$('volumeDial').style.setProperty('--rotation',(-135+Number($('volume').value)*2.7)+'deg');$('volumeDial').setAttribute('aria-valuenow',$('volume').value);$('play').classList.toggle('is-paused',playing);$('play').querySelector('.transport-icon').textContent=playing?'':'▶';$('play').setAttribute('aria-label',playing?'Pause':'Play');$('play').setAttribute('aria-pressed',String(playing));$('playbackNote').textContent=audioMessage}
-$('power').addEventListener('click',()=>{power=!power;if(!power){stopAudio();audioMessage='Receiver powered off.'}else{audioMessage=stationPlaylist().length?'Receiver on · press Play to listen.':'Receiver on · no recording loaded.'}render()});$('country').addEventListener('change',()=>{mode='manual';render()});$('mode').addEventListener('click',()=>{mode=mode==='auto'?'manual':'auto';tuneCampaign();render()});function volume(v){$('volume').value=Math.max(0,Math.min(100,v));$('volumeValue').textContent=$('volume').value+'%';audio.volume=Number($('volume').value)/100;render()}$('volume').addEventListener('input',()=>volume(+$('volume').value));function attachRotary(id,min,max,read,apply,step){const el=$(id);let start=null,moved=false;const clamp=v=>Math.max(min,Math.min(max,v));function fromPointer(e){const b=el.getBoundingClientRect(),x=e.clientX-b.left-b.width/2,y=e.clientY-b.top-b.height/2;const angle=(Math.atan2(y,x)*180/Math.PI+90+360)%360;const rawArc=(angle+135)%360;/* The 90-degree untracked gap is split between its nearest endpoints rather than wrapping minimum to maximum. */const arc=rawArc>270?(rawArc<315?270:0):rawArc;return clamp(Math.round(min+arc/270*(max-min)))}el.addEventListener('pointerdown',e=>{if(e.button!==0)return;start={x:e.clientX,y:e.clientY};moved=false;el.setPointerCapture(e.pointerId)});el.addEventListener('pointermove',e=>{if(!start)return;if(Math.hypot(e.clientX-start.x,e.clientY-start.y)>5)moved=true;if(moved)apply(fromPointer(e))});el.addEventListener('pointerup',event=>{if(start&&!moved){const bounds=el.getBoundingClientRect();const direction=(event.clientX-bounds.left)<bounds.width/2?-1:1;apply(clamp(read()+direction*step))}start=null});el.addEventListener('pointercancel',()=>{start=null});el.addEventListener('keydown',e=>{let dir=e.key==='ArrowUp'||e.key==='ArrowRight'?1:e.key==='ArrowDown'||e.key==='ArrowLeft'?-1:0;if(dir){e.preventDefault();apply(clamp(read()+dir*step))}});el.addEventListener('wheel',e=>{e.preventDefault();apply(clamp(read()+(e.deltaY<0?step:-step)))},{passive:false})}attachRotary('stationDial',0,options.length-1,()=>$('country').selectedIndex,n=>{$('country').selectedIndex=n;mode='manual';render()},1);attachRotary('volumeDial',0,100,()=>+$('volume').value,n=>volume(n),5);$('play').addEventListener('click',()=>{if(playing){audio.pause();playing=false;audioMessage='Playback paused.';render()}else void playCurrent()});$('rewind').addEventListener('click',()=>changeTrack(-1));$('skip').addEventListener('click',()=>changeTrack(1));render();window.parent.postMessage({type:'warroom-dev-radio-ready'},'https://mrramborex.github.io');function reportSize(){const el=document.querySelector('.radio-assembly');if(!el)return;window.parent.postMessage({type:'warroom-dev-radio-size',height:Math.ceil(el.getBoundingClientRect().height)+4},'https://mrramborex.github.io')}new ResizeObserver(reportSize).observe(document.querySelector('.radio-assembly'));window.addEventListener('load',reportSize);reportSize()})();</script></body></html>
+$('power').addEventListener('click',()=>{power=!power;if(!power){stopAudio();audioMessage='Receiver powered off.'}else{audioMessage=stationPlaylist().length?'Receiver on · press Play to listen.':'Receiver on · no recording loaded.'}render()});$('country').addEventListener('change',()=>{mode='manual';render()});$('mode').addEventListener('click',()=>{mode=mode==='auto'?'manual':'auto';tuneCampaign();render()});function volume(v){$('volume').value=Math.max(0,Math.min(100,v));$('volumeValue').textContent=$('volume').value+'%';audio.volume=Number($('volume').value)/100;render()}$('volume').addEventListener('input',()=>volume(+$('volume').value));function attachRotary(id,min,max,read,apply,step){
+ const el=$(id);let start=null,moved=false,lastAngle=null,dragValue=min;
+ const clamp=v=>Math.max(min,Math.min(max,v));
+ function pointerAngle(e){
+  const b=el.getBoundingClientRect(),x=e.clientX-b.left-b.width/2,y=e.clientY-b.top-b.height/2;
+  // Ignore the small center point where pointer angles are unstable.
+  if(Math.hypot(x,y)<Math.min(b.width,b.height)*0.11)return null;
+  return (Math.atan2(y,x)*180/Math.PI+90+360)%360;
+ }
+ el.addEventListener('pointerdown',e=>{
+  if(e.button!==0)return;
+  start={x:e.clientX,y:e.clientY};moved=false;lastAngle=pointerAngle(e);dragValue=read();
+  el.setPointerCapture(e.pointerId);
+ });
+ el.addEventListener('pointermove',e=>{
+  if(!start)return;
+  if(Math.hypot(e.clientX-start.x,e.clientY-start.y)>5)moved=true;
+  const angle=pointerAngle(e);
+  if(angle===null){lastAngle=null;return}
+  if(lastAngle!==null&&moved){
+   // Use incremental signed rotation instead of absolute angles: crossing
+   // the untracked bottom gap cannot teleport MIN to MAX or vice versa.
+   const delta=((angle-lastAngle+540)%360)-180;
+   dragValue=clamp(dragValue+delta*(max-min)/270);
+   apply(clamp(Math.round(dragValue)));
+  }
+  lastAngle=angle;
+ });
+ el.addEventListener('pointerup',e=>{
+  if(start&&!moved){
+   const bounds=el.getBoundingClientRect();
+   const direction=e.clientX-bounds.left<bounds.width/2?-1:1;
+   apply(clamp(read()+direction*step));
+  }
+  start=null;lastAngle=null;
+ });
+ el.addEventListener('pointercancel',()=>{start=null;lastAngle=null});
+ el.addEventListener('keydown',e=>{
+  const dir=e.key==='ArrowUp'||e.key==='ArrowRight'?1:e.key==='ArrowDown'||e.key==='ArrowLeft'?-1:0;
+  if(dir){e.preventDefault();apply(clamp(read()+dir*step))}
+ });
+ el.addEventListener('wheel',e=>{
+  e.preventDefault();apply(clamp(read()+(e.deltaY<0?step:-step)))
+ },{passive:false});
+}
+attachRotary('stationDial',0,options.length-1,()=>$('country').selectedIndex,n=>{$('country').selectedIndex=n;mode='manual';render()},1);attachRotary('volumeDial',0,100,()=>+$('volume').value,n=>volume(n),5);$('play').addEventListener('click',()=>{if(playing){audio.pause();playing=false;audioMessage='Playback paused.';render()}else void playCurrent()});$('rewind').addEventListener('click',()=>changeTrack(-1));$('skip').addEventListener('click',()=>changeTrack(1));render();window.parent.postMessage({type:'warroom-dev-radio-ready'},'https://mrramborex.github.io');function reportSize(){const el=document.querySelector('.radio-assembly');if(!el)return;window.parent.postMessage({type:'warroom-dev-radio-size',height:Math.ceil(el.getBoundingClientRect().height)+4},'https://mrramborex.github.io')}new ResizeObserver(reportSize).observe(document.querySelector('.radio-assembly'));window.addEventListener('load',reportSize);reportSize()})();</script></body></html>
