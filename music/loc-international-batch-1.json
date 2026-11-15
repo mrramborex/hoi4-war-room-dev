@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "notes": "Curated full-length historical audio matched to LOC National Jukebox official data manifest and rights statement; US public domain asserted by LOC for source dataset. Cultural relevance is language/repertoire, not proof of original nationality or 1930s production.",
+  "rights_statement": "https://data.labs.loc.gov/jukebox/README.html",
+  "checksums": "https://data.labs.loc.gov/jukebox/manifest.html",
+  "items": [
+    {
+      "country": "United Kingdom",
+      "title": "A Bowl of Roses",
+      "id": "131863",
+      "md5": "1ba9b8956901245ed5fd7b44982b47ee",
+      "credits": "Marguerite Dunlap; music Robert Coningsby Clarke, lyrics W.E. Henley",
+      "filename": "tobs-international-131863.mp3",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-131863_1.mp3",
+      "source_item": "https://www.loc.gov/item/jukebox-131863/"
+    },
+    {
+      "country": "United Kingdom",
+      "title": "A Child's Song",
+      "id": "259778",
+      "md5": "6a65b888babfbf710ecd1995b0497757",
+      "credits": "John McCormack; lyrics Thomas Moore, music Charles Marshall",
+      "filename": "tobs-international-259778.mp3",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-259778_1.mp3",
+      "source_item": "https://www.loc.gov/item/jukebox-259778/"
+    },
+    {
+      "country": "France",
+      "title": "Adieu, notre petite table",
+      "id": "127011",
+      "md5": "8b0226576e6835913b56b4a2b00f4b44",
+      "credits": "Geraldine Farrar; Jules Massenet",
+      "filename": "tobs-international-127011.mp3",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-127011_1.mp3",
+      "source_item": "https://www.loc.gov/item/jukebox-127011/"
+    },
+    {
+      "country": "France",
+      "title": "Air de Lia",
+      "id": "129652",
+      "md5": "1e7918fa40f5291b91a710a67e7a2634",
+      "credits": "Jeanne Gerville-Réache; Claude Debussy",
+      "filename": "tobs-international-129652.mp3",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-129652_1.mp3",
+      "source_item": "https://www.loc.gov/item/jukebox-129652/"
+    },
+    {
+      "country": "Germany",
+      "title": "Aus der Jugendzeit",
+      "id": "213054",
+      "md5": "885e2df9a22e0b3df7b49719f8e40376",
+      "credits": "Emil Muench; Robert Radecke",
+      "filename": "tobs-international-213054.mp3",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-213054_1.mp3",
+      "source_item": "https://www.loc.gov/item/jukebox-213054/"
+    },
+    {
+      "country": "Germany",
+      "title": "Bärbchen",
+      "id": "127819",
+      "md5": "8c983f73a035824d830e58477cb5d677",
+      "credits": "Ernestine Schumann-Heink; Hans Hermann",
+      "filename": "tobs-international-127819.mp3",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-127819_1.mp3",
+      "source_item": "https://www.loc.gov/item/jukebox-127819/"
+    },
+    {
+      "country": "Italy",
+      "title": "A tanto amor",
+      "id": "28011",
+      "md5": "0bebbda25353d7ef425185bf2ebeb11f",
+      "credits": "Giuseppe De Luca; Gaetano Donizetti",
+      "filename": "tobs-international-28011.mp3",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-28011_1.mp3",
+      "source_item": "https://www.loc.gov/item/jukebox-28011/"
+    },
+    {
+      "country": "Italy",
+      "title": "Abbietta zingara",
+      "id": "187534",
+      "md5": "70e73ce8e6bdc1964b83cb0e50a3a5ee",
+      "credits": "Marcel Journet; Giuseppe Verdi",
+      "filename": "tobs-international-187534.mp3",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-187534_1.mp3",
+      "source_item": "https://www.loc.gov/item/jukebox-187534/"
+    },
+    {
+      "country": "Soviet Union",
+      "title": "Eugene Onegin — Aria",
+      "id": "122060",
+      "md5": "01d82b7f666815ca870b6e0d63ece934",
+      "credits": "Albert G. Janpolski; Pyotr Ilyich Tchaikovsky (pre-Soviet historical Russian repertoire)",
+      "filename": "tobs-international-122060.mp3",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-122060_1.mp3",
+      "source_item": "https://www.loc.gov/item/jukebox-122060/"
+    },
+    {
+      "country": "Soviet Union",
+      "title": "Douchechka devitza",
+      "id": "16142",
+      "md5": "1c8bc297764160f214c3fc415141abfb",
+      "credits": "Nina Dimitrieff; Alexander Dargomyzhsky (pre-Soviet historical Russian repertoire)",
+      "filename": "tobs-international-16142.mp3",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-16142_1.mp3",
+      "source_item": "https://www.loc.gov/item/jukebox-16142/"
+    }
+  ]
+}
