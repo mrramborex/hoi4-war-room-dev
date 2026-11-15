@@ -79,10 +79,10 @@
       "frequency_mhz": 82.6,
       "country": "Japan",
       "station": "Sakura Denpa",
-      "research_status": "in_progress",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 2,
       "target_initial_tracks": 5,
-      "notes": "One candidate excluded_unverified by strict gate; source/copyright/provenance caveats in track-candidates.csv. Find alternative clearly-licensed recordings."
+      "notes": "Two whole historical Japanese recordings added 2026-11-15 with Commons recording/composition public-domain tags and original audio SHA1 validation. Both are military material; prioritize civilian repertoire next. See music/japan-recordings-batch-1.json."
     },
     {
       "frequency_mhz": 82.8,
