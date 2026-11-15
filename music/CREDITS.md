@@ -134,3 +134,14 @@ Six newly synthesized WWII-era-inspired instrumentals were **rejected after list
 - TOBS file: `audio/tobs-poland-ulan-1916.mp3`
 
 No synthetic music was reintroduced. Authentic 1936–1945 recordings still require item-level verification of recording and underlying work rights before adding to public audio.
+
+## Phase 23C.8 — British historical songs (two full original 1914 performances)
+
+These are two different complete original recordings of *It's a Long, Long Way to Tipperary* (1914). This is **WWI-associated music, not WWII-era recordings**, but historically authentic songs. Both pre-1923 recordings were validated against [LOC official MD5 hashes](https://data.labs.loc.gov/jukebox/manifest.html) and the [LOC public-domain dataset rights statement](https://data.labs.loc.gov/jukebox/README.html).
+
+| Original performer | Recording date | LOC item | Original checksum (MD5) | TOBS file |
+| --- | --- | --- | --- | --- |
+| Harry Macdonough, William F. Hooley, John McCormack and Reinald Werrenrath; Jack Judge and Harry Williams | 1914-11-23 | [jukebox-11634](https://www.loc.gov/item/jukebox-11634/) | `6c19d14dda3babf8961e35e3eb20e315` | `audio/tobs-uk-tipperary-11634.mp3` |
+| American Quartet (Billy Murray, Steve Porter, Robert D. Armour and William F. Hooley); Jack Judge and Harry Williams | 1914-09-15 | [jukebox-11094](https://www.loc.gov/item/jukebox-11094/) | `5879894a21f61b11ebf50439a070b540` | `audio/tobs-uk-tipperary-11094.mp3` |
+
+The eight MP3s in the user's personal WW2 Music.rar archive were not copied to the public GitHub repo. They remain accessible through the browser-local personal file picker, without any upload.
