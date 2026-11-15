@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "TOBS historical archive recordings: 27 earlier genuine selections plus 1 full Polish 1916 folk recording. No rejected synthesized music or copyrighted commercial WWII masters.",
+  "notes": "TOBS archival library: two complete, source-verified UK Tipperary recordings from 1914 added; authentic WWI-era recordings, not WWII; modern and copyrighted user-supplied 1940s MP3s remain browser-local, no synthesized songs.",
   "stations": {
     "United States": [
       {
@@ -40,6 +40,14 @@
       {
         "title": "A Little Bit of Heaven — LOC full recording",
         "src": "audio/tobs-major-batch2-12879.mp3"
+      },
+      {
+        "title": "It's a Long, Long Way to Tipperary — McCormack ensemble (1914) — complete historical recording",
+        "src": "audio/tobs-uk-tipperary-11634.mp3"
+      },
+      {
+        "title": "It's a Long, Long Way to Tipperary — American Quartet (1914) — complete historical recording",
+        "src": "audio/tobs-uk-tipperary-11094.mp3"
       }
     ],
     "France": [
