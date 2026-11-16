@@ -1,7 +1,7 @@
 {
   "version": 1,
   "phase": "23C.6",
-  "updated_on": "2026-11-15",
+  "updated_on": "2026-11-16",
   "scope": "Actual 1939-1945 source recordings and wartime performances; research only; do not add to playable radio until exact audio file and all underlying rights cleared",
   "rights_rule": "public_domain_or_explicit_free_reuse_only",
   "items": [
@@ -101,6 +101,69 @@
       "source_url": "https://www.archives.gov/press/press-releases/2007-245",
       "status": "excluded_unverified",
       "reason": "Original movie musical compositions and film performances may be independently protected; no free-redistribution evidence for performance"
+    },
+    {
+      "title": "The United States Field Artillery March",
+      "performer": "Boston Pops, Arthur Fiedler",
+      "year": 1944,
+      "kind": "authentic WWII-era recording excerpt",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_United_States_Field_Artillery_March_(1944),_by_the_Boston_Pops.oga",
+      "status": "excluded_unverified",
+      "duration_seconds": 27,
+      "recording_rights_evidence": "Commons claims non-renewal of 1931–1963 performance; no item-specific renewal search evidence provided; sound-recording law distinct from composition law",
+      "composition_rights_evidence": "John Philip Sousa 1917 composition, pre-1931 publication",
+      "reason": "27-second excerpt is not complete; master public-domain assertion relies on a non-renewal theory insufficient for 1944 sound recording."
+    },
+    {
+      "title": "National Spirit March",
+      "performer": "U.S. Army Band",
+      "composition_year": 1917,
+      "kind": "modern interpretation of period-appropriate composition",
+      "source_url": "https://commons.wikimedia.org/wiki/File:National_Spirit_March_-_U.S._Army_Band.ogg",
+      "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/National_Spirit_March_-_U.S._Army_Band.ogg",
+      "status": "research_only_not_wwii",
+      "duration_seconds": 187,
+      "recording_rights_evidence": "Commons file page identifies U.S. Army Band official-duty federal work, PD-USGov",
+      "composition_rights_evidence": "Silas Erly Hummel, 1917, died 1931; Commons pre-1931 published composition claim",
+      "reason": "Actual performance date and original publication of this specific master not established; verify authoritative Army source and exact original checksum before treating as deployable."
+    },
+    {
+      "title": "Garryowen",
+      "performer": "U.S. Army Field Band",
+      "kind": "modern interpretation of older Irish traditional air",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Garryowen_-_U.S._Army_Field_Band.ogg",
+      "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Garryowen_-_U.S._Army_Field_Band.ogg",
+      "status": "research_only_not_wwii",
+      "duration_seconds": 177,
+      "recording_rights_evidence": "Commons PD-USGov official duty claim; original source U.S. Army Field Band downloads",
+      "composition_rights_evidence": "Traditional late 18th-century Irish air; no known composer",
+      "commons_sha1": "See Commons file history/structured data; exact master byte checksum not independently downloaded",
+      "reason": "Modern master recording date and first release not documented; verify original Army master identity."
+    },
+    {
+      "title": "Washington Grays",
+      "performer": "U.S. Army Band",
+      "kind": "modern interpretation of 1861 march",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Washington_Grays_-_U.S._Army_Band.ogg",
+      "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Washington_Grays_-_U.S._Army_Band.ogg",
+      "status": "research_only_not_wwii",
+      "duration_seconds": 258,
+      "recording_rights_evidence": "Commons PD-USGov Army Band official-duty recording claim",
+      "composition_rights_evidence": "Claudio S. Grafulla (1810–1880), 1861 composition",
+      "commons_sha1": "179894ff3b527d0d365464d6f5aa7dbf79072d83",
+      "reason": "Exact recording/performance date and original publication unverified; checksum from Commons metadata not independently matched."
+    },
+    {
+      "title": "Mi ricurita",
+      "performer": "Victor Orchestra, Edward T. King",
+      "recording_date": "1915-11-30",
+      "kind": "authentic older period-appropriate tango, not WWII-era",
+      "source_url": "https://www.loc.gov/item/jukebox-15618/",
+      "download_url": "https://data.labs.loc.gov/jukebox/audio/jukebox-15618_1.mp3",
+      "status": "excluded_unverified",
+      "recording_rights_evidence": "LOC National Jukebox says pre-1923 published US recordings entered US public domain Jan 1 2022; item lists 1915 recording date but no item-specific first publication date",
+      "composition_rights_evidence": "Osmán Pérez Freire credited; composition original publication date not independently established",
+      "reason": "Previously uploaded in Phase 23C.11; archive hash validation does not independently establish composition rights or first publication. Do not treat as new clearance."
     }
   ],
   "discovery_sources": [
@@ -109,5 +172,6 @@
     "https://citizen-dj.labs.loc.gov/loc-national-screening-room/use/",
     "https://www.loc.gov/collections/national-jukebox/about-this-collection/rights-and-access/",
     "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/listen-to-registry-titles/"
-  ]
+  ],
+  "audit_note": "Strict two-layer rights audit. No new 1936–1945 performance cleared. Commons government-band recordings are modern interpretations, not WWII originals. Do not auto-deploy. Recording MD5 or Commons SHA-1 proves file identity, not licensing or original release."
 }
