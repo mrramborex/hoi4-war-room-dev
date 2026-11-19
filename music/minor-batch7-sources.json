@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "phase": "23C.13",
+  "date": "2026-11-18",
+  "source": "Library of Congress National Jukebox complete pre-1923 performances",
+  "rights_url": "https://data.labs.loc.gov/jukebox/README.html",
+  "integrity_manifest": "https://data.labs.loc.gov/jukebox/manifest.json",
+  "notes": "Historical WWI/prewar music, not genuine 1939-1945 recordings. Region-matching according to composer or subject not recording location. Belgian item is MULTINATIONAL medley with Belgian anthem section.",
+  "tracks": [
+    {
+      "country": "Belgium",
+      "id": "12768",
+      "title": "National Airs of the Allies — includes La Brabançonne",
+      "date": "1915-06-03",
+      "credits": "Victor Military Band; Edward T. King, conductor",
+      "cultural_fit": "1915 Allied military-band medley with France, Britain, Belgium (La Brabançonne) and Russia. Mixed-nation medley, not purely Belgian music or WWII broadcast.",
+      "source_url": "https://www.loc.gov/item/jukebox-12768/",
+      "audio_url": "https://data.labs.loc.gov/jukebox/audio/jukebox-12768_1.mp3",
+      "filename": "tobs-c13-12768.mp3"
+    },
+    {
+      "country": "Argentina",
+      "id": "17295",
+      "title": "El Choclo — Tango",
+      "date": "1916-04-14",
+      "credits": "Hurtado Brothers Royal Marimba Band of Guatemala; Ángel Gregorio Villoldo, Argentine composer",
+      "cultural_fit": "Early instrumental recording of Argentine tango composed by Ángel Villoldo, performed by Guatemalan ensemble in 1916; not an Argentine radio master.",
+      "source_url": "https://www.loc.gov/item/jukebox-17295/",
+      "audio_url": "https://data.labs.loc.gov/jukebox/audio/jukebox-17295_1.mp3",
+      "filename": "tobs-c13-17295.mp3"
+    },
+    {
+      "country": "Mexico",
+      "id": "11850",
+      "title": "Chaqueteros",
+      "date": "1914-12-16",
+      "credits": "Banda Rodríguez; Walter B. Rogers, conductor; J. M. Garza, composer",
+      "cultural_fit": "LOC catalog identifies Spanish (Mexico) Mexican popular band repertoire.",
+      "source_url": "https://www.loc.gov/item/jukebox-11850/",
+      "audio_url": "https://data.labs.loc.gov/jukebox/audio/jukebox-11850_1.mp3",
+      "filename": "tobs-c13-11850.mp3"
+    },
+    {
+      "country": "Mexico",
+      "id": "249295",
+      "title": "La Golondrina",
+      "date": "1906-06-27",
+      "credits": "Emilio de Gogorza and Carlos Francisco, baritones; Narciso Serradell, Mexican composer",
+      "cultural_fit": "Spanish-language historical rendition of original Mexican composition.",
+      "source_url": "https://www.loc.gov/item/jukebox-249295/",
+      "audio_url": "https://data.labs.loc.gov/jukebox/audio/jukebox-249295_1.mp3",
+      "filename": "tobs-c13-249295.mp3"
+    }
+  ]
+}
