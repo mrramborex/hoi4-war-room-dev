@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "TOBS: four additional historically authentic LOC music records added for Spain, Argentina, Mexico in Phase 23C.12. Historical pre-WWII original performances, not copyrighted commercial WWII masters, user uploads, or synthetic recordings.",
+  "notes": "TOBS 23C.13: three real pre-1923 recordings for Argentina and Mexico. Belgian medley unavailable in LOC downloadable archive and excluded. No WWII masters claimed.",
   "stations": {
     "United States": [
       {
@@ -204,6 +204,14 @@
       {
         "title": "Over the Waves (Sobre las olas) — original 1915 recording",
         "src": "audio/tobs-c12-13857.mp3"
+      },
+      {
+        "title": "Chaqueteros — original 1914 recording",
+        "src": "audio/tobs-c13-11850.mp3"
+      },
+      {
+        "title": "La Golondrina — original 1906 recording",
+        "src": "audio/tobs-c13-249295.mp3"
       }
     ],
     "Argentina": [
@@ -214,6 +222,10 @@
       {
         "title": "El amanecer — original 1915 recording",
         "src": "audio/tobs-c12-189361.mp3"
+      },
+      {
+        "title": "El Choclo — Tango — original 1916 recording",
+        "src": "audio/tobs-c13-17295.mp3"
       }
     ],
     "Brazil": [
