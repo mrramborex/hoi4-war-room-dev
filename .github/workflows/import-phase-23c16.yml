@@ -1,0 +1,30 @@
+name: Import authentic Hungarian Czech Bulgarian records C16
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/import-phase-23c16.yml"
+permissions:
+  contents: write
+concurrency:
+  group: tobs-c16
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Verify seven original LOC recordings
+        run: python3 music/import_phase_23c16.py
+      - name: Publish checked audio and records in one commit to dev
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/tobs-c16-*.mp3 audio-manifest.json music/phase-23c16-verified.json music/station-coverage.json music/CREDITS.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Phase 23C.16: seven verified Hungarian Czech Bulgarian original recordings"
+            git push
+          fi

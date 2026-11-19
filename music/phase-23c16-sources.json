@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "phase": "23C.16",
+  "rights": "https://data.labs.loc.gov/jukebox/README.html",
+  "archive_manifest": "https://data.labs.loc.gov/jukebox/manifest.json",
+  "notes": "Original historic pre-1923 human performances, not WWII-era masters. Recorded in USA; assigned culturally by repertoire and language. Import all seven only with source MD5.",
+  "tracks": [
+    {
+      "country": "Hungary",
+      "id": "17138",
+      "title": "A ven czigany",
+      "date": "1916-05-12",
+      "credits": "Munkácsy Olga Zenekara, Musical Group | Munkácsy, Olga Bibor, Leader | Zerkovitz, Béla, Composer",
+      "genre": "Ethnic music | Classical | Hungarian",
+      "language": "",
+      "source": "https://www.loc.gov/item/jukebox-17138/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-17138_1.mp3",
+      "filename": "tobs-c16-17138.mp3"
+    },
+    {
+      "country": "Hungary",
+      "id": "131087",
+      "title": "Azert csillag, hogy ragyogjon",
+      "date": "1911-11-03",
+      "credits": "Kapossy Károly Czigány Zenéje, Musical Group",
+      "genre": "Ethnic music | Hungarian",
+      "language": "",
+      "source": "https://www.loc.gov/item/jukebox-131087/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-131087_1.mp3",
+      "filename": "tobs-c16-131087.mp3"
+    },
+    {
+      "country": "Hungary",
+      "id": "16366",
+      "title": "Hungarian czardas",
+      "date": "1916-02-04",
+      "credits": "Moskowitz, Joseph, Instrumentalist -- Cimbalom | Yussim, Max, Instrumentalist -- Piano",
+      "genre": "Ethnic music",
+      "language": "",
+      "source": "https://www.loc.gov/item/jukebox-16366/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-16366_1.mp3",
+      "filename": "tobs-c16-16366.mp3"
+    },
+    {
+      "country": "Czechoslovakia",
+      "id": "131426",
+      "title": "Vaska a Marenky",
+      "date": "1912-01-24",
+      "credits": "Foerstrova, Hanna, Vocalist -- Soprano Vocal | Smetana, Bedřich, Composer | King, Edward T., Conductor | King's Orchestra, Musical Group | Pták, Bohumil, Vocalist -- Tenor Vocal",
+      "genre": "Opera | Bohemian (Czech)",
+      "language": "Czech",
+      "source": "https://www.loc.gov/item/jukebox-131426/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-131426_1.mp3",
+      "filename": "tobs-c16-131426.mp3"
+    },
+    {
+      "country": "Czechoslovakia",
+      "id": "187333",
+      "title": "Kytice Smes Narodnick, pisni Doa Pijaci",
+      "date": "1911-07-10",
+      "credits": "Kalašovo Pěvecké Kvarteto, Vocal Group",
+      "genre": "Ethnic music | Bohemian (Czech)",
+      "language": "Czech",
+      "source": "https://www.loc.gov/item/jukebox-187333/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-187333_1.mp3",
+      "filename": "tobs-c16-187333.mp3"
+    },
+    {
+      "country": "Czechoslovakia",
+      "id": "130593",
+      "title": "Listecku dubovy",
+      "date": "1911-07-11",
+      "credits": "Cesko Amerikà [i.e., Kalašovo Pěvecké Kvarteto], Musical Group | Kalašovo Pěvecké Kvarteto, Vocal Group",
+      "genre": "Ethnic music | Bohemian (Czech)",
+      "language": "Czech",
+      "source": "https://www.loc.gov/item/jukebox-130593/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-130593_1.mp3",
+      "filename": "tobs-c16-130593.mp3"
+    },
+    {
+      "country": "Bulgaria",
+      "id": "13218",
+      "title": "Bulgarian dance",
+      "date": "1915-04-30",
+      "credits": "Dimitri, Michael, Instrumentalist -- Accordion | Melnikoff, Wassili, Instrumentalist -- Accordion",
+      "genre": "Ethnic music",
+      "language": "",
+      "source": "https://www.loc.gov/item/jukebox-13218/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-13218_1.mp3",
+      "filename": "tobs-c16-13218.mp3"
+    }
+  ]
+}
