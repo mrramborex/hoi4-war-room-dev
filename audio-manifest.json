@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.11: authentic complete pre-1923 historical recordings for Argentina, Brazil, Greece and Mexico; not genuine WWII-era 1940s masters, no synthetic audio or restricted user uploads. Official LOC original hash verified.",
+  "notes": "TOBS: four additional historically authentic LOC music records added for Spain, Argentina, Mexico in Phase 23C.12. Historical pre-WWII original performances, not copyrighted commercial WWII masters, user uploads, or synthetic recordings.",
   "stations": {
     "United States": [
       {
@@ -200,12 +200,20 @@
       {
         "title": "Alejandra — original historical recording",
         "src": "audio/tobs-c11-12663.mp3"
+      },
+      {
+        "title": "Over the Waves (Sobre las olas) — original 1915 recording",
+        "src": "audio/tobs-c12-13857.mp3"
       }
     ],
     "Argentina": [
       {
         "title": "Mi ricurita — tango — original historical recording",
         "src": "audio/tobs-c11-15618.mp3"
+      },
+      {
+        "title": "El amanecer — original 1915 recording",
+        "src": "audio/tobs-c12-189361.mp3"
       }
     ],
     "Brazil": [
@@ -222,6 +230,16 @@
       {
         "title": "Spanish rhapsody — original historical recording",
         "src": "audio/tobs-c11-16627.mp3"
+      }
+    ],
+    "Spain": [
+      {
+        "title": "La paloma — original 1903 recording",
+        "src": "audio/tobs-c12-117554.mp3"
+      },
+      {
+        "title": "Meus amores — original 1906 recording",
+        "src": "audio/tobs-c12-123293.mp3"
       }
     ]
   }

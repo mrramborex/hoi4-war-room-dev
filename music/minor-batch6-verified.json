@@ -1,0 +1,30 @@
+{
+  "117554": {
+    "country": "Spain",
+    "title": "La paloma",
+    "source": "https://www.loc.gov/item/jukebox-117554/",
+    "md5": "0c68b476a84a0410645c5941b0d6ca73",
+    "filename": "tobs-c12-117554.mp3"
+  },
+  "123293": {
+    "country": "Spain",
+    "title": "Meus amores",
+    "source": "https://www.loc.gov/item/jukebox-123293/",
+    "md5": "5ddf4760b2baed048074b1861e37fe12",
+    "filename": "tobs-c12-123293.mp3"
+  },
+  "189361": {
+    "country": "Argentina",
+    "title": "El amanecer",
+    "source": "https://www.loc.gov/item/jukebox-189361/",
+    "md5": "6af204d92a91790e02c7bda7af95dfab",
+    "filename": "tobs-c12-189361.mp3"
+  },
+  "13857": {
+    "country": "Mexico",
+    "title": "Over the Waves (Sobre las olas)",
+    "source": "https://www.loc.gov/item/jukebox-13857/",
+    "md5": "ab4fa987a01265e03b3d95dfbbac2770",
+    "filename": "tobs-c12-13857.mp3"
+  }
+}
