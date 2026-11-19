@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.14: six real archival human performances on Commons (Canada 1915, Australia 1915, Netherlands 1899 and circa 1920, Estonia 1914, Belgium 2003 US Navy Band). Audio is streamed from strictly allowlisted public-domain Wikimedia URLs because GitHub's download runner hit a Wikimedia 429. Full source URLs and exact periods documented in music/CREDITS.md. No synthetic/user-supplied restricted tracks published.",
+  "notes": "TOBS Phase 23C.15: 12 genuine complete early 1900s historic LOC records added to Sweden Norway Denmark Poland Austria; official checksum validated. Not WW2-era original masters. Six Commons streaming files from Phase 23C.14 preserved; no synthetic recordings or user uploads.",
   "stations": {
     "United States": [
       {
@@ -148,12 +148,28 @@
       {
         "title": "Krakowiak — original 1911 recording",
         "src": "audio/tobs-minors-batch4-130659.mp3"
+      },
+      {
+        "title": "Mazur — historical 1911 performance",
+        "src": "audio/tobs-c15-130630.mp3"
+      },
+      {
+        "title": "Polonez Pozegnanie Ojczyzny — historical 1911 performance",
+        "src": "audio/tobs-c15-130665.mp3"
+      },
+      {
+        "title": "Polonez Kosciuszkowski — historical 1915 performance",
+        "src": "audio/tobs-c15-15249.mp3"
       }
     ],
     "Austria": [
       {
         "title": "Brüderlein fein — Frida Bennèche — original historical recording",
         "src": "audio/tobs-international-batch3-19147.mp3"
+      },
+      {
+        "title": "Chorus of priests : Grand Isis! — historical 1913 performance",
+        "src": "audio/tobs-c15-133032.mp3"
       }
     ],
     "Sweden": [
@@ -164,6 +180,18 @@
       {
         "title": "Hell dig, du höga Nord! — original 1916 recording",
         "src": "audio/tobs-minors-batch4-16725.mp3"
+      },
+      {
+        "title": "Aktenskapsfragan — historical 1916 performance",
+        "src": "audio/tobs-c15-17981.mp3"
+      },
+      {
+        "title": "Kung Carl XII — historical 1916 performance",
+        "src": "audio/tobs-c15-16730.mp3"
+      },
+      {
+        "title": "Lifdrabanten och kung Erik — historical 1916 performance",
+        "src": "audio/tobs-c15-17593.mp3"
       }
     ],
     "Norway": [
@@ -174,6 +202,18 @@
       {
         "title": "Sæterjentens søndag — original 1913 recording",
         "src": "audio/tobs-minors-batch4-133885.mp3"
+      },
+      {
+        "title": "Det Norske flag — historical 1906 performance",
+        "src": "audio/tobs-c15-123367.mp3"
+      },
+      {
+        "title": "Eg veit ei liti gjenta — historical 1913 performance",
+        "src": "audio/tobs-c15-133883.mp3"
+      },
+      {
+        "title": "Kom med visor — historical 1914 performance",
+        "src": "audio/tobs-c15-135074.mp3"
       }
     ],
     "Finland": [
@@ -190,6 +230,14 @@
       {
         "title": "Fritz og Lise — original 1906 recording",
         "src": "audio/tobs-minors-batch4-124182.mp3"
+      },
+      {
+        "title": "Legende — historical 1906 performance",
+        "src": "audio/tobs-c15-124178.mp3"
+      },
+      {
+        "title": "Gobble duet — historical 1906 performance",
+        "src": "audio/tobs-c15-124176.mp3"
       }
     ],
     "Mexico": [
