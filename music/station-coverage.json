@@ -161,18 +161,18 @@
       "country": "Norway",
       "station": "Oslo Wireless",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 2,
+      "rights_cleared_track_count": 5,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.10: full real pre-1923 recordings from LOC, each MP3 checked against official LOC MD5; culturally assigned by language/repertoire or ensemble, not recording location. No genuine 1939–45 recording implied. See music/minor-batch4-sources.json."
+      "notes": "Phase 23C.15 adds fully original pre-1923 LOC records (12 across Sweden Norway Denmark Poland Austria), individually MD5 checked. Danish recordings are Danish language of French-composed theatrical works, Austria item by Mozart. These were recorded outside target country; not WWII-period masters. See music/northern-europe-batch9-sources.json."
     },
     {
       "frequency_mhz": 86.9,
       "country": "Austria",
       "station": "Wiener Funkhaus",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 1,
+      "rights_cleared_track_count": 2,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.9: full original pre-1923 historical performances from LOC, verified against item MD5 (music/international-batch3-sources.json). Austrian song Brüderlein fein composed by Austrian theatre composer Joseph Drechsler; recorded in New York 1916, NOT an original wartime Vienna radio broadcast. No user commercial copyrighted tracks uploaded."
+      "notes": "Phase 23C.15 adds fully original pre-1923 LOC records (12 across Sweden Norway Denmark Poland Austria), individually MD5 checked. Danish recordings are Danish language of French-composed theatrical works, Austria item by Mozart. These were recorded outside target country; not WWII-period masters. See music/northern-europe-batch9-sources.json."
     },
     {
       "frequency_mhz": 87.2,
@@ -242,9 +242,9 @@
       "country": "Poland",
       "station": "Polskie Echo",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 2,
+      "rights_cleared_track_count": 5,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.10: full real pre-1923 recordings from LOC, each MP3 checked against official LOC MD5; culturally assigned by language/repertoire or ensemble, not recording location. No genuine 1939–45 recording implied. See music/minor-batch4-sources.json."
+      "notes": "Phase 23C.15 adds fully original pre-1923 LOC records (12 across Sweden Norway Denmark Poland Austria), individually MD5 checked. Danish recordings are Danish language of French-composed theatrical works, Austria item by Mozart. These were recorded outside target country; not WWII-period masters. See music/northern-europe-batch9-sources.json."
     },
     {
       "frequency_mhz": 89.6,
@@ -530,9 +530,9 @@
       "country": "Denmark",
       "station": "København Radio",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 1,
+      "rights_cleared_track_count": 3,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.10: full real pre-1923 recordings from LOC, each MP3 checked against official LOC MD5; culturally assigned by language/repertoire or ensemble, not recording location. No genuine 1939–45 recording implied. See music/minor-batch4-sources.json."
+      "notes": "Phase 23C.15 adds fully original pre-1923 LOC records (12 across Sweden Norway Denmark Poland Austria), individually MD5 checked. Danish recordings are Danish language of French-composed theatrical works, Austria item by Mozart. These were recorded outside target country; not WWII-period masters. See music/northern-europe-batch9-sources.json."
     },
     {
       "frequency_mhz": 103.1,
@@ -557,9 +557,9 @@
       "country": "Sweden",
       "station": "Stockholm Wireless",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 2,
+      "rights_cleared_track_count": 5,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.10: full real pre-1923 recordings from LOC, each MP3 checked against official LOC MD5; culturally assigned by language/repertoire or ensemble, not recording location. No genuine 1939–45 recording implied. See music/minor-batch4-sources.json."
+      "notes": "Phase 23C.15 adds fully original pre-1923 LOC records (12 across Sweden Norway Denmark Poland Austria), individually MD5 checked. Danish recordings are Danish language of French-composed theatrical works, Austria item by Mozart. These were recorded outside target country; not WWII-period masters. See music/northern-europe-batch9-sources.json."
     },
     {
       "frequency_mhz": 103.9,
