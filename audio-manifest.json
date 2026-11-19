@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "TOBS 23C.13: three real pre-1923 recordings for Argentina and Mexico. Belgian medley unavailable in LOC downloadable archive and excluded. No WWII masters claimed.",
+  "notes": "Phase 23C.14: six real archival human performances on Commons (Canada 1915, Australia 1915, Netherlands 1899 and circa 1920, Estonia 1914, Belgium 2003 US Navy Band). Audio is streamed from strictly allowlisted public-domain Wikimedia URLs because GitHub's download runner hit a Wikimedia 429. Full source URLs and exact periods documented in music/CREDITS.md. No synthetic/user-supplied restricted tracks published.",
   "stations": {
     "United States": [
       {
@@ -252,6 +252,40 @@
       {
         "title": "Meus amores — original 1906 recording",
         "src": "audio/tobs-c12-123293.mp3"
+      }
+    ],
+    "Canada": [
+      {
+        "title": "O Canada — Victor Military Band, original 1915 recording",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/O_Canada_instrumental_1916.ogg"
+      }
+    ],
+    "Australia": [
+      {
+        "title": "Advance Australia Fair — 1915 original recording (39 sec)",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Advance_Australia_Fair_%281915%29.ogg"
+      }
+    ],
+    "Netherlands": [
+      {
+        "title": "Het Wilhelmus — first historical recording, 1899",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Het_Wilhelmus_%28first_recording_1899%29.ogg"
+      },
+      {
+        "title": "Wilhelmus — Henri Dons, circa 1920",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Henri_Dons_-_Wilhelmus.ogg"
+      }
+    ],
+    "Estonia": [
+      {
+        "title": "Mu isamaa, mu õnn ja rõõm — 1914 instrumental (35 sec)",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Estonian_National_Anthem_%28first_instrumental_recording%29.oga"
+      }
+    ],
+    "Belgium": [
+      {
+        "title": "La Brabançonne — U.S. Navy Band (modern circa 2003 performance)",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/La_Braban%C3%A7onne.oga"
       }
     ]
   }
