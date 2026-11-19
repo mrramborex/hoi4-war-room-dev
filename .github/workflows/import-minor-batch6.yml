@@ -1,0 +1,30 @@
+name: Import authentic international records batch 6
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/import-minor-batch6.yml"
+permissions:
+  contents: write
+concurrency:
+  group: tobs-minor-batch6
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Validate exact LOC archived recordings
+        run: python3 music/import_minor_batch6.py
+      - name: Commit eligible tracks to development branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/tobs-c12-*.mp3 audio-manifest.json music/minor-batch6-verified.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Phase 23C.12: expand with authentic Spanish Argentine Mexican recordings"
+            git push
+          fi
