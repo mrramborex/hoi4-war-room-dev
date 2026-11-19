@@ -189,3 +189,16 @@ All five historic master files were included in the [LOC National Jukebox downlo
 | Mexico | Alejandra | 1910s | Banda Rodríguez, Victor Band; E. Navarro (composer) | [LOC 12663](https://www.loc.gov/item/jukebox-12663/), `fd8e54e799e2e4893aca1e9f754a4ee4` |
 
 **Context:** The Athenian Mandolin Quartet's two recordings are European repertoire performed by a historically Greek ensemble—not traditional Greek songs. *Mi ricurita* is catalogued by LOC as an Argentine-targeted tango performed by the Victor Orchestra in the United States. *A madrugada exul* is music by Brazilian composer Leopoldo Miguez, performed in Portuguese. *Alejandra* is Mexican band repertoire, not a newly synthesized recording. See `music/minor-batch5-sources.json` for the item-level rationale. No copyrighted user-uploaded MP3s were publicly hosted.
+
+## Phase 23C.12 — Spain, Argentina, Mexico (four genuine archived recordings)
+
+All four complete, original pre-1923 recordings were retrieved from the [LOC National Jukebox downloadable dataset](https://data.labs.loc.gov/jukebox/) and passed exact [archive MD5 checksums](https://data.labs.loc.gov/jukebox/manifest.html). These are **not WWII-era recordings** or national radio broadcast tapes. Country assignment reflects composer, music tradition, or language, not studio geography.
+
+| TOBS station | Performance | Recorded | Historical credits | LOC source and validated MD5 |
+| --- | --- | --- | --- | --- |
+| Spain | La paloma | 1903-05-17 | Zélie de Lussan (soprano), Sebastián Yradier (Spanish composer) | [LOC 117554](https://www.loc.gov/item/jukebox-117554/), `0c68b476a84a0410645c5941b0d6ca73` |
+| Spain | Meus amores | 1906-07-02 | Eladio A. Chao (baritone) | [LOC 123293](https://www.loc.gov/item/jukebox-123293/), `5ddf4760b2baed048074b1861e37fe12` |
+| Argentina | El amanecer | 1915-10-15 | Victor Orchestra, Edward T. King (conductor); Roberto Firpo (Argentine tango composer) | [LOC 189361](https://www.loc.gov/item/jukebox-189361/), `6af204d92a91790e02c7bda7af95dfab` |
+| Mexico | Over the Waves (Sobre las olas) | 1915-10-06 | Pietro Deiro (accordion), Juventino Rosas (Mexican composer) | [LOC 13857](https://www.loc.gov/item/jukebox-13857/), `ab4fa987a01265e03b3d95dfbbac2770` |
+
+*La paloma* is Spanish by composition (Sebastián Yradier); *Meus amores* is a Galician-language vocal. *El amanecer* is a tango by Argentine composer Roberto Firpo. *Over the Waves* is by Mexican composer Juventino Rosas but performed by accordionist Pietro Deiro; it is not a Mexican traditional band recording. No synthetic music or rights-uncleared 1940s commercial audio was imported.
