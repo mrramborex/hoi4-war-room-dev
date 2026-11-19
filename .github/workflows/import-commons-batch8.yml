@@ -1,0 +1,30 @@
+name: Import verified Commons nation recordings batch 8
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/import-commons-batch8.yml"
+permissions:
+  contents: write
+concurrency:
+  group: tobs-commons-batch8
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Validate historical Commons masters with published SHA1
+        run: python3 music/import_commons_batch8.py
+      - name: Commit source-verified files only to dev site
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/tobs-c14-* audio-manifest.json music/commons-batch8-verified.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Phase 23C.14: bring Canada Australia Netherlands Estonia Belgium on air"
+            git push
+          fi
