@@ -286,10 +286,10 @@
       "frequency_mhz": 91.3,
       "country": "Hungary",
       "station": "Budapest Radio",
-      "research_status": "audio_deployed",
-      "rights_cleared_track_count": 3,
+      "research_status": "external_archive_stream_pending_playback",
+      "rights_cleared_track_count": 4,
       "target_initial_tracks": 5,
-      "notes": "23C.16: genuine pre-1923 historical LOC originals, verified MD5, from Hungarian, Czech/Bohemian or Bulgarian repertoire. Not WWII era or necessarily made in represented country."
+      "notes": "Phase 23C.17: one original pre-1923 LOC recording added by exact allowlisted external streaming URL. Not a locally hosted MP3; browser audio reachability not yet confirmed. An American band's genuine early recording of Hungarian composer Liszt's orchestral repertoire. See music/phase-23c17-sources.json."
     },
     {
       "frequency_mhz": 92,
@@ -322,10 +322,10 @@
       "frequency_mhz": 93.5,
       "country": "Portugal",
       "station": "Rádio Lisboa",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "external_archive_stream_pending_playback",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.17: one original pre-1923 LOC recording added by exact allowlisted external streaming URL. Not a locally hosted MP3; browser audio reachability not yet confirmed. U.S. band's 1914 fado-inspired dance, associated with Portuguese fado, not an authentic Portuguese fadista performance. See music/phase-23c17-sources.json."
     },
     {
       "frequency_mhz": 93.7,
@@ -358,10 +358,10 @@
       "frequency_mhz": 95.2,
       "country": "Romania",
       "station": "București Radio",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "external_archive_stream_pending_playback",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.17: one original pre-1923 LOC recording added by exact allowlisted external streaming URL. Not a locally hosted MP3; browser audio reachability not yet confirmed. Romanian composer's waltz performed in Polish by a US-recorded vocalist. Not a Romanian radio broadcast. See music/phase-23c17-sources.json."
     },
     {
       "frequency_mhz": 95.4,
@@ -484,10 +484,10 @@
       "frequency_mhz": 101,
       "country": "Czechoslovakia",
       "station": "Praha Radioklub",
-      "research_status": "audio_deployed",
-      "rights_cleared_track_count": 3,
+      "research_status": "external_archive_stream_pending_playback",
+      "rights_cleared_track_count": 4,
       "target_initial_tracks": 5,
-      "notes": "23C.16: genuine pre-1923 historical LOC originals, verified MD5, from Hungarian, Czech/Bohemian or Bulgarian repertoire. Not WWII era or necessarily made in represented country."
+      "notes": "Phase 23C.17: one original pre-1923 LOC recording added by exact allowlisted external streaming URL. Not a locally hosted MP3; browser audio reachability not yet confirmed. Original Bohemian/Czech-language historical vocal recording. Recorded before Czechoslovakia existed. See music/phase-23c17-sources.json."
     },
     {
       "frequency_mhz": 101.3,

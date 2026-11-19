@@ -268,3 +268,16 @@ Seven full, original pre-1923 performances from the Library of Congress National
 | Bulgaria | Bulgarian dance | 1915-04-30 | Dimitri, Michael, Instrumentalist -- Accordion | Melnikoff, Wassili, Instrumentalist -- Accordion | [LOC 13218](https://www.loc.gov/item/jukebox-13218/), e537cb383eb9e11df018ca3460f4540d |
 
 Bulgaria's selection is a historical accordion performance titled Bulgarian Dance. Czech/Bohemian works are grouped under Czechoslovakia for cultural repertoire; not Czech government radio broadcasts.
+
+## Phase 23C.17 — Four original historical LOC streams, single consolidated commit
+
+These are **actual original pre-1923 recorded musical performances**, not synthetic tracks or 1936–1945 WWII-era broadcast tapes. To avoid unnecessary GitHub Actions music-import commits, this batch adds four **exactly allowlisted external LOC archive MP3 URLs**. Unlike locally imported tracks, the MP3 bytes have **not** been downloaded and independently SHA/MD5-verified in this batch; **browser reachability and cross-origin playback still require listening tests**. Do not represent them as locally hosted or checksum-verified.
+
+| Station | Original recording | Date | Attribution | Cultural limitations | LOC source |
+| --- | --- | --- | --- | --- | --- |
+| Romania | Na falach Dunaju (Waves of the Danube) | 1918-06-20 | Julja Pijanowska (soprano); Nathaniel Shilkret (conductor); Iosif Ivanovici (Romanian composer) | Romanian composer's waltz performed in Polish by a US-recorded vocalist. Not a Romanian radio broadcast. | [LOC 29502](https://www.loc.gov/item/jukebox-29502/) |
+| Portugal | Lu Lu Fado — Le vrai fado portugais | 1914-08-04 | Conway's Band; Patrick Conway (conductor); Nicolino Milano (composer) | U.S. band's 1914 fado-inspired dance, associated with Portuguese fado, not an authentic Portuguese fadista performance. | [LOC 10884](https://www.loc.gov/item/jukebox-10884/) |
+| Hungary | Hungarian Rhapsody No. 2 | 1908-09-15 | Arthur Pryor's Band; Franz Liszt (Hungarian composer) | An American band's genuine early recording of Hungarian composer Liszt's orchestral repertoire. | [LOC 126679](https://www.loc.gov/item/jukebox-126679/) |
+| Czechoslovakia | Rekruti | 1907-08-01 | A. Bartos and F. R. Běláč (vocals); Anton Grill (composer) | Original Bohemian/Czech-language historical vocal recording. Recorded before Czechoslovakia existed. | [LOC 125361](https://www.loc.gov/item/jukebox-125361/) |
+
+The Portuguese selection is an American band's *fado*-style dance, not a Portuguese folk vocalist. The Romanian program is a Romanian composer's waltz sung in Polish, not a Romanian-language recording. This is deliberate cultural transparency, not a claim of national-origin broadcast authenticity. Any inaccessible external links should be removed or replaced with verified local masters in a later consolidated batch; the prior 79 entries remain unchanged.

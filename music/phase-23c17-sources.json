@@ -1,0 +1,49 @@
+{
+  "phase": "23C.17",
+  "version": 1,
+  "kind": "external_public_domain_archive_audio_stream",
+  "source_rights": "https://data.labs.loc.gov/jukebox/README.html",
+  "notes": "Exact LOC original item pages and public source MP3 URLs. No byte-level hash or availability check has been completed for this batch. All are pre-1923 sound recordings in the United States.",
+  "tracks": [
+    {
+      "country": "Romania",
+      "id": "29502",
+      "title": "Na falach Dunaju (Waves of the Danube)",
+      "date": "1918-06-20",
+      "performers": "Julja Pijanowska (soprano); Nathaniel Shilkret (conductor); Iosif Ivanovici (Romanian composer)",
+      "context": "Romanian composer's waltz performed in Polish by a US-recorded vocalist. Not a Romanian radio broadcast.",
+      "loc": "https://www.loc.gov/item/jukebox-29502/",
+      "audio": "https://data.labs.loc.gov/jukebox/audio/jukebox-29502_1.mp3"
+    },
+    {
+      "country": "Portugal",
+      "id": "10884",
+      "title": "Lu Lu Fado — Le vrai fado portugais",
+      "date": "1914-08-04",
+      "performers": "Conway's Band; Patrick Conway (conductor); Nicolino Milano (composer)",
+      "context": "U.S. band's 1914 fado-inspired dance, associated with Portuguese fado, not an authentic Portuguese fadista performance.",
+      "loc": "https://www.loc.gov/item/jukebox-10884/",
+      "audio": "https://data.labs.loc.gov/jukebox/audio/jukebox-10884_1.mp3"
+    },
+    {
+      "country": "Hungary",
+      "id": "126679",
+      "title": "Hungarian Rhapsody No. 2",
+      "date": "1908-09-15",
+      "performers": "Arthur Pryor's Band; Franz Liszt (Hungarian composer)",
+      "context": "An American band's genuine early recording of Hungarian composer Liszt's orchestral repertoire.",
+      "loc": "https://www.loc.gov/item/jukebox-126679/",
+      "audio": "https://data.labs.loc.gov/jukebox/audio/jukebox-126679_1.mp3"
+    },
+    {
+      "country": "Czechoslovakia",
+      "id": "125361",
+      "title": "Rekruti",
+      "date": "1907-08-01",
+      "performers": "A. Bartos and F. R. Běláč (vocals); Anton Grill (composer)",
+      "context": "Original Bohemian/Czech-language historical vocal recording. Recorded before Czechoslovakia existed.",
+      "loc": "https://www.loc.gov/item/jukebox-125361/",
+      "audio": "https://data.labs.loc.gov/jukebox/audio/jukebox-125361_1.mp3"
+    }
+  ]
+}

@@ -193,8 +193,16 @@ const commonsArchiveAllowlist=new Set([
  "https://upload.wikimedia.org/wikipedia/commons/5/55/Estonian_National_Anthem_%28first_instrumental_recording%29.oga",
  "https://upload.wikimedia.org/wikipedia/commons/e/e8/La_Braban%C3%A7onne.oga"
 ]);
+// Phase 23C.17: these exact original pre-1923 LOC public-domain audio file
+// URLs are direct-streamed. Availability is external and requires playback test.
+const locArchiveAllowlist=new Set([
+ "https://data.labs.loc.gov/jukebox/audio/jukebox-29502_1.mp3",
+ "https://data.labs.loc.gov/jukebox/audio/jukebox-10884_1.mp3",
+ "https://data.labs.loc.gov/jukebox/audio/jukebox-126679_1.mp3",
+ "https://data.labs.loc.gov/jukebox/audio/jukebox-125361_1.mp3"
+]);
 function mediaUrl(source){
- if(typeof source==='string'&&commonsArchiveAllowlist.has(source))return source;
+ if(typeof source==='string'&&(commonsArchiveAllowlist.has(source)||locArchiveAllowlist.has(source)))return source;
  if(typeof source!=='string'||!/^audio\/[\w.\-/]+\.(?:mp3|ogg|wav)$/i.test(source)||source.split('/').includes('..'))return null;
  const url=new URL(source,location.href),root=new URL('audio/',location.href);
  return url.origin===root.origin&&url.pathname.startsWith(root.pathname)?url.href:null;

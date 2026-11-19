@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.16: 7 verified full original pre-1923 LOC recordings for Hungary, Czechoslovakia and Bulgaria; NOT 1936-1945 broadcasts. No synths or personal user uploads. Existing Commons sources preserved.",
+  "notes": "Phase 23C.17: four additional actual pre-1923 LOC audio original recording links, including first Romanian-composer and Portuguese fado-style programming, Hungary and Czech repertoire. LOC source-file streaming not locally hosted and not independently browser-tested; historic recordings are not WWII-era masters. Existing 73 local and 6 Commons tracks preserved; no synthetic audio or copyrighted user masters.",
   "stations": {
     "United States": [
       {
@@ -348,6 +348,10 @@
       {
         "title": "Hungarian czardas — original 1916 recording",
         "src": "audio/tobs-c16-16366.mp3"
+      },
+      {
+        "title": "Hungarian Rhapsody No. 2 — original 1908 recording · external archive stream",
+        "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-126679_1.mp3"
       }
     ],
     "Czechoslovakia": [
@@ -362,12 +366,28 @@
       {
         "title": "Listecku dubovy — original 1911 recording",
         "src": "audio/tobs-c16-130593.mp3"
+      },
+      {
+        "title": "Rekruti — original 1907 recording · external archive stream",
+        "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-125361_1.mp3"
       }
     ],
     "Bulgaria": [
       {
         "title": "Bulgarian dance — original 1915 recording",
         "src": "audio/tobs-c16-13218.mp3"
+      }
+    ],
+    "Romania": [
+      {
+        "title": "Na falach Dunaju (Waves of the Danube) — original 1918 recording · external archive stream",
+        "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-29502_1.mp3"
+      }
+    ],
+    "Portugal": [
+      {
+        "title": "Lu Lu Fado — Le vrai fado portugais — original 1914 recording · external archive stream",
+        "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-10884_1.mp3"
       }
     ]
   }
