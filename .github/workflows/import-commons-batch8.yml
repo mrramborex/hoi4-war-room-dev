@@ -1,4 +1,5 @@
 name: Import verified Commons nation recordings batch 8
+# Fix original audio URL extension validation for percent-encoded Wikimedia paths.
 on:
   workflow_dispatch:
   push:
