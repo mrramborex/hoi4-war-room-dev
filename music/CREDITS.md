@@ -202,3 +202,15 @@ All four complete, original pre-1923 recordings were retrieved from the [LOC Nat
 | Mexico | Over the Waves (Sobre las olas) | 1915-10-06 | Pietro Deiro (accordion), Juventino Rosas (Mexican composer) | [LOC 13857](https://www.loc.gov/item/jukebox-13857/), `ab4fa987a01265e03b3d95dfbbac2770` |
 
 *La paloma* is Spanish by composition (Sebastián Yradier); *Meus amores* is a Galician-language vocal. *El amanecer* is a tango by Argentine composer Roberto Firpo. *Over the Waves* is by Mexican composer Juventino Rosas but performed by accordionist Pietro Deiro; it is not a Mexican traditional band recording. No synthetic music or rights-uncleared 1940s commercial audio was imported.
+
+## Phase 23C.13 — Three additional original historical songs
+
+This batch contains **actual historical recordings**, not WWII-era performances. Three complete MP3 files passed their original Library of Congress package MD5 validation. The planned [1915 National Airs of the Allies (LOC 12768)](https://www.loc.gov/item/jukebox-12768/), including Belgian *La Brabançonne*, was **excluded** because the official downloaded LOC dataset did not include its full audio; Belgium remains silent rather than receive an unverified substitute.
+
+| TOBS station | Historical performance | Original recording date | Credits and country rationale | Official LOC item and MD5 |
+| --- | --- | --- | --- | --- |
+| Argentina | El Choclo — Tango | 1916-04-14 | Hurtado Brothers Royal Marimba Band of Guatemala; Ángel Gregorio Villoldo, Argentine composer; Early instrumental recording of Argentine tango composed by Ángel Villoldo, performed by Guatemalan ensemble in 1916; not an Argentine radio master. | [LOC 17295](https://www.loc.gov/item/jukebox-17295/), `b5575e2c546b1671177bc60525b80069` |
+| Mexico | Chaqueteros | 1914-12-16 | Banda Rodríguez; Walter B. Rogers, conductor; J. M. Garza, composer; LOC catalog identifies Spanish (Mexico) Mexican popular band repertoire. | [LOC 11850](https://www.loc.gov/item/jukebox-11850/), `4e75a0cac50c99c8cb2521b1e213bace` |
+| Mexico | La Golondrina | 1906-06-27 | Emilio de Gogorza and Carlos Francisco, baritones; Narciso Serradell, Mexican composer; Spanish-language historical rendition of original Mexican composition. | [LOC 249295](https://www.loc.gov/item/jukebox-249295/), `5d523d1576a239f31f315b689d7f4e21` |
+
+Original audio verified from the [LOC National Jukebox pre-1923 dataset](https://data.labs.loc.gov/jukebox/) and [published manifest](https://data.labs.loc.gov/jukebox/manifest.html). No user-provided restricted tracks or rejected synthetic audio uploaded.
