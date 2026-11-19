@@ -252,3 +252,19 @@ All twelve are genuine **original recordings from 1906–1916**, retrieved as co
 | Austria | Chorus of priests : Grand Isis! | 1913-04-04 | Metropolitan Opera Male Chorus, Vocal Group | Victor Orchestra, Musical Group | Mozart, Wolfgang Amadeus, Composer | [LOC 133032](https://www.loc.gov/item/jukebox-133032/), `d6f5349deb7f01d5f3722743f4532612` |
 
 The Danish-language stage recordings are works by Offenbach and Audran, not Danish-composed songs. The Austrian station receives a U.S. performance of an opera excerpt by Austrian composer Mozart. These are listed by their genuine origins and source dates. The remote Commons recordings from C.14 remain linked rather than locally stored; the 12 new LOC master MP3s **are locally hosted in development**. No user MP3s or synth-generated audio have been uploaded.
+
+## Phase 23C.16 — Hungary, Czechoslovakia, Bulgaria: seven original archive recordings
+
+Seven full, original pre-1923 performances from the Library of Congress National Jukebox. Each MP3 matched the official LOC manifest MD5. All are pre-WWII and must not be described as wartime broadcasts.
+
+| Station | Music | Year | Historical performers/composers | LOC source and MD5 |
+| --- | --- | --- | --- | --- |
+| Hungary | A ven czigany | 1916-05-12 | Munkácsy Olga Zenekara, Musical Group | Munkácsy, Olga Bibor, Leader | Zerkovitz, Béla, Composer | [LOC 17138](https://www.loc.gov/item/jukebox-17138/), 07ef59d477019f13fa45584f21490b45 |
+| Hungary | Azert csillag, hogy ragyogjon | 1911-11-03 | Kapossy Károly Czigány Zenéje, Musical Group | [LOC 131087](https://www.loc.gov/item/jukebox-131087/), 3f6eac7df38f12699064d5f60f3f751c |
+| Hungary | Hungarian czardas | 1916-02-04 | Moskowitz, Joseph, Instrumentalist -- Cimbalom | Yussim, Max, Instrumentalist -- Piano | [LOC 16366](https://www.loc.gov/item/jukebox-16366/), ec46264b42afccee93ca0971a0e1069a |
+| Czechoslovakia | Vaska a Marenky | 1912-01-24 | Foerstrova, Hanna, Vocalist -- Soprano Vocal | Smetana, Bedřich, Composer | King, Edward T., Conductor | King's Orchestra, Musical Group | Pták, Bohumil, Vocalist -- Tenor Vocal | [LOC 131426](https://www.loc.gov/item/jukebox-131426/), 25b672ad2f911d82c20af610e1d78336 |
+| Czechoslovakia | Kytice Smes Narodnick, pisni Doa Pijaci | 1911-07-10 | Kalašovo Pěvecké Kvarteto, Vocal Group | [LOC 187333](https://www.loc.gov/item/jukebox-187333/), 7527be1e30161c7e28daceaf1e6b585c |
+| Czechoslovakia | Listecku dubovy | 1911-07-11 | Cesko Amerikà [i.e., Kalašovo Pěvecké Kvarteto], Musical Group | Kalašovo Pěvecké Kvarteto, Vocal Group | [LOC 130593](https://www.loc.gov/item/jukebox-130593/), 0e6e63427c0a540044186177183731c3 |
+| Bulgaria | Bulgarian dance | 1915-04-30 | Dimitri, Michael, Instrumentalist -- Accordion | Melnikoff, Wassili, Instrumentalist -- Accordion | [LOC 13218](https://www.loc.gov/item/jukebox-13218/), e537cb383eb9e11df018ca3460f4540d |
+
+Bulgaria's selection is a historical accordion performance titled Bulgarian Dance. Czech/Bohemian works are grouped under Czechoslovakia for cultural repertoire; not Czech government radio broadcasts.

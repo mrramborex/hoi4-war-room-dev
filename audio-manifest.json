@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "TOBS Phase 23C.15: 12 genuine complete early 1900s historic LOC records added to Sweden Norway Denmark Poland Austria; official checksum validated. Not WW2-era original masters. Six Commons streaming files from Phase 23C.14 preserved; no synthetic recordings or user uploads.",
+  "notes": "Phase 23C.16: 7 verified full original pre-1923 LOC recordings for Hungary, Czechoslovakia and Bulgaria; NOT 1936-1945 broadcasts. No synths or personal user uploads. Existing Commons sources preserved.",
   "stations": {
     "United States": [
       {
@@ -334,6 +334,40 @@
       {
         "title": "La Brabançonne — U.S. Navy Band (modern circa 2003 performance)",
         "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/La_Braban%C3%A7onne.oga"
+      }
+    ],
+    "Hungary": [
+      {
+        "title": "A ven czigany — original 1916 recording",
+        "src": "audio/tobs-c16-17138.mp3"
+      },
+      {
+        "title": "Azert csillag, hogy ragyogjon — original 1911 recording",
+        "src": "audio/tobs-c16-131087.mp3"
+      },
+      {
+        "title": "Hungarian czardas — original 1916 recording",
+        "src": "audio/tobs-c16-16366.mp3"
+      }
+    ],
+    "Czechoslovakia": [
+      {
+        "title": "Vaska a Marenky — original 1912 recording",
+        "src": "audio/tobs-c16-131426.mp3"
+      },
+      {
+        "title": "Kytice Smes Narodnick, pisni Doa Pijaci — original 1911 recording",
+        "src": "audio/tobs-c16-187333.mp3"
+      },
+      {
+        "title": "Listecku dubovy — original 1911 recording",
+        "src": "audio/tobs-c16-130593.mp3"
+      }
+    ],
+    "Bulgaria": [
+      {
+        "title": "Bulgarian dance — original 1915 recording",
+        "src": "audio/tobs-c16-13218.mp3"
       }
     ]
   }

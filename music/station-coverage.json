@@ -286,10 +286,10 @@
       "frequency_mhz": 91.3,
       "country": "Hungary",
       "station": "Budapest Radio",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 3,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "23C.16: genuine pre-1923 historical LOC originals, verified MD5, from Hungarian, Czech/Bohemian or Bulgarian repertoire. Not WWII era or necessarily made in represented country."
     },
     {
       "frequency_mhz": 92,
@@ -331,10 +331,10 @@
       "frequency_mhz": 93.7,
       "country": "Bulgaria",
       "station": "Sofia Radio",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "23C.16: genuine pre-1923 historical LOC originals, verified MD5, from Hungarian, Czech/Bohemian or Bulgarian repertoire. Not WWII era or necessarily made in represented country."
     },
     {
       "frequency_mhz": 94.2,
@@ -484,10 +484,10 @@
       "frequency_mhz": 101,
       "country": "Czechoslovakia",
       "station": "Praha Radioklub",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 3,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "23C.16: genuine pre-1923 historical LOC originals, verified MD5, from Hungarian, Czech/Bohemian or Bulgarian repertoire. Not WWII era or necessarily made in represented country."
     },
     {
       "frequency_mhz": 101.3,
