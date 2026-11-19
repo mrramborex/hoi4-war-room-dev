@@ -1,0 +1,67 @@
+{
+  "phase": "23C.14",
+  "version": 1,
+  "description": "Original complete archive masters on Wikimedia Commons, with each file's Commons SHA1, provenance and public-domain rights verified by Wikimedia API. Belgium is a modern U.S. Navy Band performance, prominently labeled.",
+  "items": [
+    {
+      "country": "Canada",
+      "title": "O Canada — Victor Military Band (recorded 1915, issued c.1916)",
+      "commons_file": "O Canada instrumental 1916.ogg",
+      "filename": "tobs-c14-canada-1916.ogg",
+      "recording_date": "1915-12-09",
+      "credits": "Victor Military Band; Calixa Lavallée",
+      "notes": "Original pre-1923 complete historical recording, U.S. public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:O_Canada_instrumental_1916.ogg"
+    },
+    {
+      "country": "Australia",
+      "title": "Advance Australia Fair — original 1915 recording",
+      "commons_file": "Advance Australia Fair (1915).ogg",
+      "filename": "tobs-c14-australia-1915.ogg",
+      "recording_date": "1915-02-25",
+      "credits": "Historic Australian performance; archival source lacks independently confirmed performer",
+      "notes": "Original historical 1915 excerpt/side, 39 seconds; not a modern performance",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Advance_Australia_Fair_(1915).ogg"
+    },
+    {
+      "country": "Netherlands",
+      "title": "Het Wilhelmus — first recording (1899)",
+      "commons_file": "Het Wilhelmus (first recording 1899).ogg",
+      "filename": "tobs-c14-netherlands-1899.ogg",
+      "recording_date": "1899",
+      "credits": "Historical Dutch anthem performance; performer not reliably identified in source",
+      "notes": "Original 1899 historical recording",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Het_Wilhelmus_(first_recording_1899).ogg"
+    },
+    {
+      "country": "Netherlands",
+      "title": "Wilhelmus — Henri Dons (1920)",
+      "commons_file": "Henri Dons - Wilhelmus.ogg",
+      "filename": "tobs-c14-netherlands-1920.ogg",
+      "recording_date": "1920",
+      "credits": "Henri Dons (singer)",
+      "notes": "Original circa 1920 historic vocal performance",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Henri_Dons_-_Wilhelmus.ogg"
+    },
+    {
+      "country": "Estonia",
+      "title": "Mu isamaa, mu õnn ja rõõm — instrumental (1914)",
+      "commons_file": "Estonian National Anthem (first instrumental recording).oga",
+      "filename": "tobs-c14-estonia-1914.oga",
+      "recording_date": "1914",
+      "credits": "Puhkpillide Orkester (historic band, per Commons)",
+      "notes": "Original 1914 instrumental historical recording, about 35 seconds",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Estonian_National_Anthem_(first_instrumental_recording).oga"
+    },
+    {
+      "country": "Belgium",
+      "title": "La Brabançonne — United States Navy Band (circa 2003)",
+      "commons_file": "La Brabançonne.oga",
+      "filename": "tobs-c14-belgium-navyband-2003.oga",
+      "recording_date": "c.2003",
+      "credits": "United States Navy Band; François Van Campenhout (composer)",
+      "notes": "Genuine modern human military-band performance of 1830 Belgian anthem, U.S. Navy government recording; NOT historical master",
+      "source_url": "https://commons.wikimedia.org/wiki/File:La_Braban%C3%A7onne.oga"
+    }
+  ]
+}
