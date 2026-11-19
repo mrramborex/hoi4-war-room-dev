@@ -8,7 +8,7 @@ import hashlib,base64,json,urllib.request
 from pathlib import Path
 root=Path(__file__).resolve().parent.parent
 batch=json.loads((root/"music/minor-batch7-sources.json").read_text("utf-8"))
-assert batch["version"]==1 and len(batch["tracks"])==4
+assert batch["version"]==1 and len(batch["tracks"])==3
 def get(url,limit):
  req=urllib.request.Request(url,headers={"User-Agent":"HOI4-War-Room-TOBS/1.0 archival verify"})
  with urllib.request.urlopen(req,timeout=120) as r:b=r.read(limit+1)
@@ -40,7 +40,7 @@ for item in batch["tracks"]:
  if actual!=expected:raise ValueError(f"LOC MD5 mismatch {ident}: {actual} != {expected}")
  files.append((item,raw,actual))
  print("VERIFIED",ident,item["country"],item["title"],len(raw),"bytes",flush=True)
-assert len({i["id"] for i,_,_ in files})==4
+assert len({i["id"] for i,_,_ in files})==3
 mp=root/"audio-manifest.json"
 manifest=json.loads(mp.read_text("utf-8"))
 assert manifest["version"]==1
@@ -54,7 +54,7 @@ for item,raw,digest in files:
  src="audio/"+item["filename"]
  if not any(x.get("src")==src for x in station):
   station.append({"title":item["title"]+" — original "+item["date"][:4]+" recording","src":src})
-manifest["notes"]="TOBS 23C.13: 4 real pre-1923 recordings added: a 1915 multinational Allied anthems band medley including Belgium's anthem, an original 1916 Argentine tango, and two Mexican repertoire tracks. No WWII-era master claimed; private MP3s and rejected synthetic music not hosted."
+manifest["notes"]="TOBS 23C.13: three real pre-1923 recordings for Argentina and Mexico. Belgian medley unavailable in LOC downloadable archive and excluded. No WWII masters claimed."
 mp.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n","utf-8")
 (root/"music/minor-batch7-verified.json").write_text(json.dumps({x["id"]:{"md5":digest,"source":x["source_url"],"country":x["country"],"title":x["title"]} for x,_,digest in files},ensure_ascii=False,indent=2)+"\n","utf-8")
-print("SUCCESS all 4 LOC sources verified and imported",flush=True)
+print("SUCCESS all 3 LOC sources verified and imported",flush=True)
