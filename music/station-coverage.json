@@ -34,10 +34,10 @@
       "frequency_mhz": 81.1,
       "country": "Estonia",
       "station": "Tallinn Radio",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.14: Commons public-domain original Ogg files streamed by allowlisted upload.wikimedia.org URL (GitHub Action file-download 429); live browser playback not yet independently tested. Dates 1899, 1914, 1915, 1920; Belgium file a REAL 2003 Navy Band performance, not period audio. See music/commons-batch8-sources.json and music/CREDITS.md."
     },
     {
       "frequency_mhz": 81.6,
@@ -97,19 +97,19 @@
       "frequency_mhz": 83.3,
       "country": "Netherlands",
       "station": "Hilversum Wireless",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 2,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.14: Commons public-domain original Ogg files streamed by allowlisted upload.wikimedia.org URL (GitHub Action file-download 429); live browser playback not yet independently tested. Dates 1899, 1914, 1915, 1920; Belgium file a REAL 2003 Navy Band performance, not period audio. See music/commons-batch8-sources.json and music/CREDITS.md."
     },
     {
       "frequency_mhz": 83.5,
       "country": "Australia",
       "station": "Southern Cross Wireless",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.5 original synthetic track rejected and removed after listening test. No playable recording; prioritize genuine public-domain/free-use period performances."
+      "notes": "Phase 23C.14: Commons public-domain original Ogg files streamed by allowlisted upload.wikimedia.org URL (GitHub Action file-download 429); live browser playback not yet independently tested. Dates 1899, 1914, 1915, 1920; Belgium file a REAL 2003 Navy Band performance, not period audio. See music/commons-batch8-sources.json and music/CREDITS.md."
     },
     {
       "frequency_mhz": 84,
@@ -214,10 +214,10 @@
       "frequency_mhz": 88.6,
       "country": "Belgium",
       "station": "Radio Bruxelles",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.14: Commons public-domain original Ogg files streamed by allowlisted upload.wikimedia.org URL (GitHub Action file-download 429); live browser playback not yet independently tested. Dates 1899, 1914, 1915, 1920; Belgium file a REAL 2003 Navy Band performance, not period audio. See music/commons-batch8-sources.json and music/CREDITS.md."
     },
     {
       "frequency_mhz": 88.9,
@@ -367,10 +367,10 @@
       "frequency_mhz": 95.4,
       "country": "Canada",
       "station": "Maple Leaf Broadcasting",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.5 original synthetic track rejected and removed after listening test. No playable recording; prioritize genuine public-domain/free-use period performances."
+      "notes": "Phase 23C.14: Commons public-domain original Ogg files streamed by allowlisted upload.wikimedia.org URL (GitHub Action file-download 429); live browser playback not yet independently tested. Dates 1899, 1914, 1915, 1920; Belgium file a REAL 2003 Navy Band performance, not period audio. See music/commons-batch8-sources.json and music/CREDITS.md."
     },
     {
       "frequency_mhz": 95.7,
