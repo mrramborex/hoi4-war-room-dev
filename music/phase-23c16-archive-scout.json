@@ -1,0 +1,1129 @@
+{
+  "version": 1,
+  "phase": "23C.16",
+  "source": "https://data.labs.loc.gov/jukebox/metadata.csv",
+  "note": "Metadata-only leads. Country relevance, soundtrack suitability, copyright and downloadable files require separate human review and hash checks. European composers are not proof original recordings were made within that country.",
+  "groups": {
+    "Hungary": {
+      "count": 26,
+      "candidates": [
+        {
+          "id": "126691",
+          "title": "Hungarian rhapsody , no. 2",
+          "date": "1908-09-18",
+          "language": "",
+          "genre": "Classical music",
+          "credits": "Liszt, Franz, Composer | Arthur Pryor's Band, Musical Group | Pryor, Arthur, Conductor",
+          "source": "https://www.loc.gov/item/jukebox-126691/",
+          "matched": [
+            "hungarian",
+            "liszt"
+          ]
+        },
+        {
+          "id": "129725",
+          "title": "Hungarian rhapsody no. 12",
+          "date": "1911-01-05",
+          "language": "",
+          "genre": "Classical music",
+          "credits": "Liszt, Franz, Composer | Arthur Pryor's Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-129725/",
+          "matched": [
+            "hungarian",
+            "liszt"
+          ]
+        },
+        {
+          "id": "424880",
+          "title": "Hungarian rhapsody no. 9 : Finale",
+          "date": "1912-09-05",
+          "language": "",
+          "genre": "Classical music",
+          "credits": "Liszt, Franz, Composer | Arthur Pryor's Band, Musical Group | Pryor, Arthur, Conductor",
+          "source": "https://www.loc.gov/item/jukebox-424880/",
+          "matched": [
+            "hungarian",
+            "liszt"
+          ]
+        },
+        {
+          "id": "126679",
+          "title": "Hungarian rhapsody, no. 2",
+          "date": "1908-09-15",
+          "language": "",
+          "genre": "Classical music",
+          "credits": "Liszt, Franz, Composer | Arthur Pryor's Band, Musical Group | Pryor, Arthur, Conductor",
+          "source": "https://www.loc.gov/item/jukebox-126679/",
+          "matched": [
+            "hungarian",
+            "liszt"
+          ]
+        },
+        {
+          "id": "130488",
+          "title": "A dream of love",
+          "date": "1918-05-23",
+          "language": "",
+          "genre": "Classical music",
+          "credits": "Liszt, Franz, Composer | Victor Herbert's Orchestra, Musical Group | Herbert, Victor, Conductor",
+          "source": "https://www.loc.gov/item/jukebox-130488/",
+          "matched": [
+            "liszt"
+          ]
+        },
+        {
+          "id": "17138",
+          "title": "A ven czigany",
+          "date": "1916-05-12",
+          "language": "",
+          "genre": "Ethnic music | Classical | Hungarian",
+          "credits": "Munkácsy Olga Zenekara, Musical Group | Munkácsy, Olga Bibor, Leader | Zerkovitz, Béla, Composer",
+          "source": "https://www.loc.gov/item/jukebox-17138/",
+          "matched": [
+            "hungarian"
+          ]
+        },
+        {
+          "id": "131087",
+          "title": "Azert csillag, hogy ragyogjon",
+          "date": "1911-11-03",
+          "language": "",
+          "genre": "Ethnic music | Hungarian",
+          "credits": "Kapossy Károly Czigány Zenéje, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-131087/",
+          "matched": [
+            "hungarian"
+          ]
+        },
+        {
+          "id": "5564",
+          "title": "Csardas",
+          "date": "1901-04-04",
+          "language": "",
+          "genre": "Opera",
+          "credits": "Strauss, Johann, Composer | Sousa's Band, Musical Group | Pryor, Arthur, Conductor | Pryor, Arthur, Instrumentalist -- Trombone",
+          "source": "https://www.loc.gov/item/jukebox-5564/",
+          "matched": [
+            "csardas"
+          ]
+        },
+        {
+          "id": "131088",
+          "title": "Ha kimegyek a temeto arkaba",
+          "date": "1911-11-03",
+          "language": "",
+          "genre": "Ethnic music | Hungarian",
+          "credits": "Kapossy Károly Czigány Zenéje, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-131088/",
+          "matched": [
+            "hungarian"
+          ]
+        },
+        {
+          "id": "16692",
+          "title": "Hullamzo Balaton tetejen",
+          "date": "1916-03-01",
+          "language": "Hungarian",
+          "genre": "Classical music | Ethnic music | Hungarian",
+          "credits": "Bartóky, Matilda de, Vocalist -- Soprano Vocal | King, Edward T., Conductor",
+          "source": "https://www.loc.gov/item/jukebox-16692/",
+          "matched": [
+            "hungarian"
+          ]
+        },
+        {
+          "id": "16366",
+          "title": "Hungarian czardas",
+          "date": "1916-02-04",
+          "language": "",
+          "genre": "Ethnic music",
+          "credits": "Moskowitz, Joseph, Instrumentalist -- Cimbalom | Yussim, Max, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-16366/",
+          "matched": [
+            "hungarian"
+          ]
+        },
+        {
+          "id": "187866",
+          "title": "Hungarian dance no. 5",
+          "date": "1916-02-04",
+          "language": "",
+          "genre": "Classical music",
+          "credits": "Brahms, Johannes, Composer | Moskowitz, Joseph, Instrumentalist -- Cimbalom | Yussim, Max, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-187866/",
+          "matched": [
+            "hungarian"
+          ]
+        },
+        {
+          "id": "203825",
+          "title": "Hungarian dance no. 5",
+          "date": "1903-12-09",
+          "language": "",
+          "genre": "Classical music",
+          "credits": "Brahms, Johannes, Composer | Arthur Pryor's Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-203825/",
+          "matched": [
+            "hungarian"
+          ]
+        },
+        {
+          "id": "133500",
+          "title": "Hungarian rag",
+          "date": "1913-07-07",
+          "language": "",
+          "genre": "Ragtime, jazz, and more",
+          "credits": "Conway, Patrick, Conductor | Conway's Band, Musical Group | Lenzberg, Julius, Composer",
+          "source": "https://www.loc.gov/item/jukebox-133500/",
+          "matched": [
+            "hungarian"
+          ]
+        },
+        {
+          "id": "18961",
+          "title": "Hungarian restaurant scene",
+          "date": "1916-11-08",
+          "language": "English",
+          "genre": "Ethnic characterizations | Descriptive specialties",
+          "credits": "Marchetti, F. D., Composer | Smith, Joe, Speaker | Smith, Joe, Author | Goodwin, Harry, Speaker | Avon Comedy Four, Performer | Levy, Ted, Conductor | Dale, Charlie, Speaker | Kaufman, Irving, Speaker",
+          "source": "https://www.loc.gov/item/jukebox-18961/",
+          "matched": [
+            "hungarian"
+          ]
+        },
+        {
+          "id": "133773",
+          "title": "Jehi rozon",
+          "date": "1913-09-19",
+          "language": "Hebrew",
+          "genre": "Religious",
+          "credits": "Wohl, Herman, Director | Rosenblatt, Josef, Vocalist -- Tenor Vocal | King, Edward T., Instrumentalist -- Organ | Ohab Zedek Choir, First Hungarian Congregation, New York, Vocal Group",
+          "source": "https://www.loc.gov/item/jukebox-133773/",
+          "matched": [
+            "hungarian"
+          ]
+        },
+        {
+          "id": "133776",
+          "title": "Jehi rozon",
+          "date": "1913-09-19",
+          "language": "Hebrew",
+          "genre": "Ethnic music | Religious | Jewish",
+          "credits": "Ohab Zedek Choir, First Hungarian Congregation, New York, Vocal Group | King, Edward T., Instrumentalist -- Organ | Rosenblatt, Josef, Vocalist -- Tenor Vocal | Wohl, Herman, Director",
+          "source": "https://www.loc.gov/item/jukebox-133776/",
+          "matched": [
+            "hungarian"
+          ]
+        },
+        {
+          "id": "16694",
+          "title": "Lekaszaltak mar a retet",
+          "date": "1916-03-01",
+          "language": "Hungarian",
+          "genre": "Classical music | Ethnic music | Hungarian",
+          "credits": "Bartóky, Matilda de, Vocalist -- Soprano Vocal | Huber, Sandor, Composer | King, Edward T., Conductor",
+          "source": "https://www.loc.gov/item/jukebox-16694/",
+          "matched": [
+            "hungarian"
+          ]
+        },
+        {
+          "id": "17415",
+          "title": "O quand je dors!",
+          "date": "1916-04-21",
+          "language": "French",
+          "genre": "Classical",
+          "credits": "Destinnová, Ema, Vocalist -- Soprano Vocal | Hugo, Victor, Author | Liszt, Franz, Composer | Rogers, Walter B., Conductor",
+          "source": "https://www.loc.gov/item/jukebox-17415/",
+          "matched": [
+            "liszt"
+          ]
+        },
+        {
+          "id": "131034",
+          "title": "Paraphrase de concert",
+          "date": "1911-11-07",
+          "language": "",
+          "genre": "Classical music",
+          "credits": "Liszt, Franz, Arranger | Verdi, Giuseppe, Composer | Pachmann, Vladimir de, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-131034/",
+          "matched": [
+            "liszt"
+          ]
+        },
+        {
+          "id": "131033",
+          "title": "Paraphrase de concert",
+          "date": "1911-11-07",
+          "language": "",
+          "genre": "Classical music",
+          "credits": "Liszt, Franz, Arranger | Verdi, Giuseppe, Composer | Pachmann, Vladimir de, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-131033/",
+          "matched": [
+            "liszt"
+          ]
+        },
+        {
+          "id": "17116",
+          "title": "Prends moi!",
+          "date": "1916-03-31",
+          "language": "",
+          "genre": "Classical | Hungarian",
+          "credits": "Fysher, A. Nilson, Composer | Munkácsy Olga Zenekara, Musical Group | Munkácsy, Olga Bibor, Leader",
+          "source": "https://www.loc.gov/item/jukebox-17116/",
+          "matched": [
+            "hungarian"
+          ]
+        },
+        {
+          "id": "118008",
+          "title": "Rhapsodie Hongroise no. 2 in C-sharp minor",
+          "date": "1905-06-14",
+          "language": "",
+          "genre": "Classical",
+          "credits": "Liszt, Franz, Composer | Sousa's Band, Musical Group | Clarke, Herbert L., Conductor",
+          "source": "https://www.loc.gov/item/jukebox-118008/",
+          "matched": [
+            "liszt"
+          ]
+        },
+        {
+          "id": "118010",
+          "title": "Rhapsodie hongroise no. 2",
+          "date": "1905-06-14",
+          "language": "",
+          "genre": "Classical music",
+          "credits": "Liszt, Franz, Composer | Sousa's Band, Musical Group | Clarke, Herbert L., Conductor",
+          "source": "https://www.loc.gov/item/jukebox-118010/",
+          "matched": [
+            "liszt"
+          ]
+        },
+        {
+          "id": "133767",
+          "title": "Weseorew",
+          "date": "1913-09-19",
+          "language": "Hebrew",
+          "genre": "Ethnic music | Religious | Jewish",
+          "credits": "Ohab Zedek Choir, First Hungarian Congregation, New York, Vocal Group | King, Edward T., Instrumentalist -- Organ | Rosenblatt, Josef, Vocalist -- Tenor Vocal | Wohl, Herman, Director",
+          "source": "https://www.loc.gov/item/jukebox-133767/",
+          "matched": [
+            "hungarian"
+          ]
+        },
+        {
+          "id": "133770",
+          "title": "Weseorew",
+          "date": "1913-09-19",
+          "language": "Hebrew",
+          "genre": "Ethnic music | Religious | Jewish",
+          "credits": "Ohab Zedek Choir, First Hungarian Congregation, New York, Vocal Group | King, Edward T., Instrumentalist -- Organ | Rosenblatt, Josef, Vocalist -- Tenor Vocal | Wohl, Herman, Director",
+          "source": "https://www.loc.gov/item/jukebox-133770/",
+          "matched": [
+            "hungarian"
+          ]
+        }
+      ]
+    },
+    "Romania": {
+      "count": 1,
+      "candidates": [
+        {
+          "id": "29502",
+          "title": "Na falach Dunaju",
+          "date": "1918-06-20",
+          "language": "Polish",
+          "genre": "Polish | Classical",
+          "credits": "Shilkret, Nathaniel, Conductor | Pijanowska, Julja, Vocalist -- Soprano Vocal | Ivanovici, Iosif, Composer",
+          "source": "https://www.loc.gov/item/jukebox-29502/",
+          "matched": [
+            "ivanovici"
+          ]
+        }
+      ]
+    },
+    "Portugal": {
+      "count": 2,
+      "candidates": [
+        {
+          "id": "126387",
+          "title": "A madrugada exul",
+          "date": "1908-05-04",
+          "language": "Portuguese",
+          "genre": "Opera | Portuguese (Brazil)",
+          "credits": "King, Roxy, Vocalist -- Soprano Vocal | Victor Orchestra, Musical Group | Miguez, Leopoldo, Composer",
+          "source": "https://www.loc.gov/item/jukebox-126387/",
+          "matched": [
+            "portuguese"
+          ]
+        },
+        {
+          "id": "10884",
+          "title": "Lu Lu fado",
+          "date": "1914-08-04",
+          "language": "",
+          "genre": "Ethnic music",
+          "credits": "Conway, Patrick, Conductor | Milano, Nicolino, Composer | Conway's Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-10884/",
+          "matched": [
+            "fado"
+          ]
+        }
+      ]
+    },
+    "Czechoslovakia": {
+      "count": 35,
+      "candidates": [
+        {
+          "id": "131426",
+          "title": "Vaska a Marenky",
+          "date": "1912-01-24",
+          "language": "Czech",
+          "genre": "Opera | Bohemian (Czech)",
+          "credits": "Foerstrova, Hanna, Vocalist -- Soprano Vocal | Smetana, Bedřich, Composer | King, Edward T., Conductor | King's Orchestra, Musical Group | Pták, Bohumil, Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-131426/",
+          "matched": [
+            "czech",
+            "bohemian",
+            "smetana"
+          ]
+        },
+        {
+          "id": "187333",
+          "title": "Kytice Smes Narodnick, pisni Doa Pijaci",
+          "date": "1911-07-10",
+          "language": "Czech",
+          "genre": "Ethnic music | Bohemian (Czech)",
+          "credits": "Kalašovo Pěvecké Kvarteto, Vocal Group",
+          "source": "https://www.loc.gov/item/jukebox-187333/",
+          "matched": [
+            "czech",
+            "bohemian"
+          ]
+        },
+        {
+          "id": "130593",
+          "title": "Listecku dubovy",
+          "date": "1911-07-11",
+          "language": "Czech",
+          "genre": "Ethnic music | Bohemian (Czech)",
+          "credits": "Cesko Amerikà [i.e., Kalašovo Pěvecké Kvarteto], Musical Group | Kalašovo Pěvecké Kvarteto, Vocal Group",
+          "source": "https://www.loc.gov/item/jukebox-130593/",
+          "matched": [
+            "czech",
+            "bohemian"
+          ]
+        },
+        {
+          "id": "131436",
+          "title": "Ne ty to nepovis",
+          "date": "1912-01-24",
+          "language": "Czech",
+          "genre": "Opera | Bohemian (Czech)",
+          "credits": "King, Edward T., Conductor | Vymetal, Alois Ladislov, Composer | King's Orchestra, Musical Group | Pták, Bohumil, Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-131436/",
+          "matched": [
+            "czech",
+            "bohemian"
+          ]
+        },
+        {
+          "id": "125361",
+          "title": "Rekruti",
+          "date": "1907-08-01",
+          "language": "Czech",
+          "genre": "Ethnic music | Bohemian (Czech)",
+          "credits": "Bartos, A., Vocalist | Grill, Anton, Composer | Běláč, F. R., Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-125361/",
+          "matched": [
+            "czech",
+            "bohemian"
+          ]
+        },
+        {
+          "id": "17467",
+          "title": "Ruzenec",
+          "date": "1916-05-01",
+          "language": "Czech",
+          "genre": "Religious | Bohemian (Czech)",
+          "credits": "King, Edward T., Conductor | Pribyl, Nettie K., Vocalist -- Soprano Vocal | Nevin, Ethelbert Woodbridge, Composer | King's Orchestra, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-17467/",
+          "matched": [
+            "czech",
+            "bohemian"
+          ]
+        },
+        {
+          "id": "35842",
+          "title": "Ukolebavka",
+          "date": "1921-02-03",
+          "language": "Czech",
+          "genre": "Opera",
+          "credits": "Destinnová, Ema, Vocalist -- Soprano Vocal | Smetana, Bedřich, Composer | Pasternack, Josef, Conductor",
+          "source": "https://www.loc.gov/item/jukebox-35842/",
+          "matched": [
+            "czech",
+            "smetana"
+          ]
+        },
+        {
+          "id": "130581",
+          "title": "Vej veterku",
+          "date": "1911-07-10",
+          "language": "Czech",
+          "genre": "Ethnic music | Bohemian (Czech)",
+          "credits": "Reindl, V., Vocalist -- Baritone Vocal | Knahl, Jan, Composer | Kalašovo Pěvecké Kvarteto, Vocal Group",
+          "source": "https://www.loc.gov/item/jukebox-130581/",
+          "matched": [
+            "czech",
+            "bohemian"
+          ]
+        },
+        {
+          "id": "125363",
+          "title": "Vesely Mlandenci",
+          "date": "1907-08-01",
+          "language": "Czech",
+          "genre": "Ethnic music | Bohemian (Czech)",
+          "credits": "Bartos, A., Vocalist | Grill, Anton, Composer | Běláč, F. R., Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-125363/",
+          "matched": [
+            "czech",
+            "bohemian"
+          ]
+        },
+        {
+          "id": "39711",
+          "title": "Zalo dievca, zalo travu",
+          "date": "1921-02-03",
+          "language": "Czech",
+          "genre": "Classical",
+          "credits": "Dvořák, Antonín, Composer | Pasternack, Josef, Conductor | Destinnová, Ema, Vocalist -- Soprano Vocal",
+          "source": "https://www.loc.gov/item/jukebox-39711/",
+          "matched": [
+            "czech",
+            "dvořák"
+          ]
+        },
+        {
+          "id": "41993",
+          "title": "Badinage",
+          "date": "1921-08-26",
+          "language": "",
+          "genre": "Classical music | Educational",
+          "credits": "Reitz, William H., Instrumentalist -- Bells | Pasternack, Josef, Conductor | Briglia, Joseph, Instrumentalist -- Piccolo | Dvořák, Antonín, Composer | Planquette, Robert, Composer | Victor Orchestra, Musical Group | Gruner, William, Instrumentalist -- Bassoon | Beethoven, Ludwig van, Composer | Herbert, Victor, Composer | Witzmann, John, Instrumentalist -- Violin",
+          "source": "https://www.loc.gov/item/jukebox-41993/",
+          "matched": [
+            "dvořák"
+          ]
+        },
+        {
+          "id": "128918",
+          "title": "Bohemian girl fantasia",
+          "date": "1910-05-11",
+          "language": "",
+          "genre": "Opera",
+          "credits": "Balfe, Michael William, Composer | Stobbe, William, Arranger | Reitz, William H., Instrumentalist -- Xylophone",
+          "source": "https://www.loc.gov/item/jukebox-128918/",
+          "matched": [
+            "bohemian"
+          ]
+        },
+        {
+          "id": "186735",
+          "title": "Bohemian girl melodies",
+          "date": "1916-05-29",
+          "language": "",
+          "genre": "Opera",
+          "credits": "Balfe, Michael William, Composer | Hackel, Alexander, Instrumentalist -- Violin | Altschuler, Bernard, Instrumentalist -- Cello | McKee Trio, Musical Group | Bergè, William E., Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-186735/",
+          "matched": [
+            "bohemian"
+          ]
+        },
+        {
+          "id": "118853",
+          "title": "Bohemian girl selection",
+          "date": "1903-12-09",
+          "language": "",
+          "genre": "Popular music",
+          "credits": "Arthur Pryor's Band, Musical Group | Balfe, Michael William, Composer",
+          "source": "https://www.loc.gov/item/jukebox-118853/",
+          "matched": [
+            "bohemian"
+          ]
+        },
+        {
+          "id": "127396",
+          "title": "Bohemian girl selection",
+          "date": "1909-03-30",
+          "language": "",
+          "genre": "Musical theater | Opera",
+          "credits": "Arthur Pryor's Band, Musical Group | Balfe, Michael William, Composer",
+          "source": "https://www.loc.gov/item/jukebox-127396/",
+          "matched": [
+            "bohemian"
+          ]
+        },
+        {
+          "id": "130317",
+          "title": "Carnival of Venice",
+          "date": "1911-05-17",
+          "language": "",
+          "genre": "Classical music",
+          "credits": "Kryl's Bohemian Band, Musical Group | Kryl, Bohumir, Instrumentalist -- Cornet",
+          "source": "https://www.loc.gov/item/jukebox-130317/",
+          "matched": [
+            "bohemian"
+          ]
+        },
+        {
+          "id": "34820",
+          "title": "Ej, hory!",
+          "date": "1919-11-26",
+          "language": "Czech",
+          "genre": "Ethnic music",
+          "credits": "Destinnová, Ema, Vocalist -- Soprano Vocal | Lapitino, Francis J., Instrumentalist -- Harp | Pasternack, Josef, Conductor",
+          "source": "https://www.loc.gov/item/jukebox-34820/",
+          "matched": [
+            "czech"
+          ]
+        },
+        {
+          "id": "224060",
+          "title": "Gems from The Bohemian girl",
+          "date": "1911-10-27",
+          "language": "English",
+          "genre": "Opera",
+          "credits": "Balfe, Michael William, Composer | Murphy, Lambert, Vocalist -- Tenor Vocal | Bunn, Alfred, Librettist | Marsh, Lucy Isabelle, Vocalist -- Soprano Vocal | Dunlap, Marguerite, Vocalist -- Contralto | Victor Light Opera Company, Vocal Group | Werrenrath, Reinald, Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-224060/",
+          "matched": [
+            "bohemian"
+          ]
+        },
+        {
+          "id": "17348",
+          "title": "Gems from The Bohemian girl",
+          "date": "1916-06-20",
+          "language": "English",
+          "genre": "Opera",
+          "credits": "Balfe, Michael William, Composer | Murphy, Lambert, Vocalist -- Tenor Vocal | Bunn, Alfred, Librettist | Kline, Olive, Vocalist -- Soprano Vocal | Hosea, Frances, Vocalist -- Contralto | Victor Opera Company, Vocal Group | Dunlap, Marguerite, Vocalist -- Contralto | Hooley, William F., Vocalist -- Bass Vocal | Wheeler, Elizabeth, Vocalist -- Soprano Vocal | Rogers, Walter B., Conductor | Macdonough, Harry, Vocalist -- Tenor Vocal | Werrenrath, Reinald, Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-17348/",
+          "matched": [
+            "bohemian"
+          ]
+        },
+        {
+          "id": "17352",
+          "title": "Gems from The Bohemian girl",
+          "date": "1916-06-20",
+          "language": "English",
+          "genre": "Ethnic characterizations | Opera",
+          "credits": "Balfe, Michael William, Composer | Murphy, Lambert, Vocalist -- Tenor Vocal | Bunn, Alfred, Librettist | Kline, Olive, Vocalist -- Soprano Vocal | Hosea, Frances, Vocalist -- Contralto | Victor Opera Company, Vocal Group | Dunlap, Marguerite, Vocalist -- Contralto | Hooley, William F., Vocalist -- Bass Vocal | Wheeler, Elizabeth, Vocalist -- Soprano Vocal | Rogers, Walter B., Conductor | Macdonough, Harry, Vocalist -- Tenor Vocal | Werrenrath, Reinald, Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-17352/",
+          "matched": [
+            "bohemian"
+          ]
+        },
+        {
+          "id": "14334",
+          "title": "Go to sleep, my dusky baby",
+          "date": "1915-08-12",
+          "language": "English",
+          "genre": "Classical music | Educational | Popular music",
+          "credits": "Kline, Olive, Vocalist -- Soprano Vocal | Dvořák, Antonín, Composer | Dunlap, Marguerite, Vocalist -- Contralto | Baker, Elsie, Vocalist -- Contralto | Rogers, Walter B., Conductor | Rix, Frank R., Lyricist",
+          "source": "https://www.loc.gov/item/jukebox-14334/",
+          "matched": [
+            "dvořák"
+          ]
+        },
+        {
+          "id": "135065",
+          "title": "Good-night",
+          "date": "1914-04-23",
+          "language": "Czech",
+          "genre": "Ethnic music",
+          "credits": "Destinnová, Ema, Vocalist -- Soprano Vocal | Pisek, Vincent, Rev., Translator | Gilly, Dinh, Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-135065/",
+          "matched": [
+            "czech"
+          ]
+        },
+        {
+          "id": "130312",
+          "title": "Grand trio",
+          "date": "1911-05-16",
+          "language": "",
+          "genre": "Classical music | Opera",
+          "credits": "Kryl's Bohemian Band, Musical Group | Kryl, Bohumir, Instrumentalist -- Cornet | Verdi, Giuseppe, Composer | Cimera, Jaroslav, Instrumentalist -- Trombone | Cinconne, [?], Instrumentalist -- Euphonium",
+          "source": "https://www.loc.gov/item/jukebox-130312/",
+          "matched": [
+            "bohemian"
+          ]
+        },
+        {
+          "id": "34861",
+          "title": "Home!",
+          "date": "1919-12-04",
+          "language": "Czech",
+          "genre": "Classical",
+          "credits": "Destinnová, Ema, Vocalist -- Soprano Vocal | Horky, K., Lyricist | Pasternack, Josef, Conductor | Hess, Arno Mario, Composer",
+          "source": "https://www.loc.gov/item/jukebox-34861/",
+          "matched": [
+            "czech"
+          ]
+        },
+        {
+          "id": "133782",
+          "title": "Humoresque",
+          "date": "1913-09-23",
+          "language": "",
+          "genre": "Classical music",
+          "credits": "Rattay, Howard, Instrumentalist -- Violin | Lapitino, Francis J., Instrumentalist -- Harp | Venetian Trio (Victor Records ensemble), Musical Group | Dvořák, Antonín, Composer | Bourdon, Rosario, Instrumentalist -- Cello | Saenger, Gustav, Arranger",
+          "source": "https://www.loc.gov/item/jukebox-133782/",
+          "matched": [
+            "dvořák"
+          ]
+        },
+        {
+          "id": "18843",
+          "title": "Humoresque",
+          "date": "1916-07-24",
+          "language": "",
+          "genre": "Classical",
+          "credits": "Dvořák, Antonín, Composer | Lapitino, Francis J., Instrumentalist -- Harp | Lapitino, Francis J., Arranger",
+          "source": "https://www.loc.gov/item/jukebox-18843/",
+          "matched": [
+            "dvořák"
+          ]
+        },
+        {
+          "id": "21917",
+          "title": "Humoresque",
+          "date": "1917-03-05",
+          "language": "",
+          "genre": "Classical music",
+          "credits": "Dvořák, Antonín, Composer | Arndt, Felix, Instrumentalist -- Piano | Adler, Clarence, Arranger",
+          "source": "https://www.loc.gov/item/jukebox-21917/",
+          "matched": [
+            "dvořák"
+          ]
+        },
+        {
+          "id": "133290",
+          "title": "Humoresque",
+          "date": "1913-05-07",
+          "language": "",
+          "genre": "Classical music",
+          "credits": "Dvořák, Antonín, Composer | Pilzer, Maximilian, Instrumentalist -- Violin",
+          "source": "https://www.loc.gov/item/jukebox-133290/",
+          "matched": [
+            "dvořák"
+          ]
+        },
+        {
+          "id": "268785",
+          "title": "Indian lament",
+          "date": "1914-03-31",
+          "language": "",
+          "genre": "Classical music",
+          "credits": "O'Brien, Vincent, Instrumentalist -- Piano | Dvořák, Antonín, Composer | Kreisler, Fritz, Arranger | Kreisler, Fritz, Instrumentalist -- Violin",
+          "source": "https://www.loc.gov/item/jukebox-268785/",
+          "matched": [
+            "dvořák"
+          ]
+        },
+        {
+          "id": "265995",
+          "title": "Lieblicher Mond",
+          "date": "1915-03-09",
+          "language": "German",
+          "genre": "Opera",
+          "credits": "Dvořák, Antonín, Composer | Rogers, Walter B., Conductor | Destinnová, Ema, Vocalist -- Soprano Vocal",
+          "source": "https://www.loc.gov/item/jukebox-265995/",
+          "matched": [
+            "dvořák"
+          ]
+        },
+        {
+          "id": "291700",
+          "title": "My homeland",
+          "date": "1914-04-23",
+          "language": "Czech",
+          "genre": "Classical",
+          "credits": "Destinnová, Ema, Vocalist -- Soprano Vocal | Pisek, Vincent, Rev., Translator | Gilly, Dinh, Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-291700/",
+          "matched": [
+            "czech"
+          ]
+        },
+        {
+          "id": "130321",
+          "title": "Rigoletto quartet",
+          "date": "1911-05-18",
+          "language": "",
+          "genre": "Opera",
+          "credits": "Regina, [?], Instrumentalist -- Cornet | Kryl's Bohemian Band, Musical Group | Kryl, Bohumir, Instrumentalist -- Cornet | Verdi, Giuseppe, Composer | Cimera, Jaroslav, Instrumentalist -- Trombone | Cinconne, [?], Instrumentalist -- Euphonium",
+          "source": "https://www.loc.gov/item/jukebox-130321/",
+          "matched": [
+            "bohemian"
+          ]
+        },
+        {
+          "id": "130314",
+          "title": "Sakuntala overture",
+          "date": "1911-05-16",
+          "language": "",
+          "genre": "Classical music",
+          "credits": "Kryl's Bohemian Band, Musical Group | Goldmark, Carl, Composer",
+          "source": "https://www.loc.gov/item/jukebox-130314/",
+          "matched": [
+            "bohemian"
+          ]
+        },
+        {
+          "id": "188648",
+          "title": "Sila kosilicku",
+          "date": "1919-11-26",
+          "language": "Czech",
+          "genre": "Classical",
+          "credits": "Destinnová, Ema, Vocalist -- Soprano Vocal | Pasternack, Josef, Conductor | Jindřich, Jindřich, Composer",
+          "source": "https://www.loc.gov/item/jukebox-188648/",
+          "matched": [
+            "czech"
+          ]
+        },
+        {
+          "id": "135061",
+          "title": "The wedding",
+          "date": "1914-04-23",
+          "language": "Czech",
+          "genre": "Classical",
+          "credits": "Destinnová, Ema, Vocalist -- Soprano Vocal | Pisek, Vincent, Rev., Translator | Gilly, Dinh, Vocalist -- Baritone Vocal",
+          "source": "https://www.loc.gov/item/jukebox-135061/",
+          "matched": [
+            "czech"
+          ]
+        }
+      ]
+    },
+    "Yugoslavia": {
+      "count": 0,
+      "candidates": []
+    },
+    "Turkey": {
+      "count": 19,
+      "candidates": [
+        {
+          "id": "130179",
+          "title": "I'm crazy 'bout the turkey trot",
+          "date": "1911-04-05",
+          "language": "English",
+          "genre": "Popular music",
+          "credits": "Collins, Arthur, Vocalist -- Baritone Vocal | Collins and Harlan, Vocal Group | Goodwin, Joe, Lyricist | Meyer, George W., Composer | Harlan, Byron G., Vocalist -- Tenor Vocal",
+          "source": "https://www.loc.gov/item/jukebox-130179/",
+          "matched": [
+            "turkey"
+          ]
+        },
+        {
+          "id": "133181",
+          "title": "My Turkish Opal",
+          "date": "1913-04-18",
+          "language": "English",
+          "genre": "Humorous songs | Ethnic characterizations",
+          "credits": "Gillespie, Arthur, Lyricist | Collins, Arthur, Vocalist -- Baritone Vocal | Burr, Henry, Vocalist -- Tenor Vocal | Williams, Edna, Composer | Peerless Quartet, Vocal Group | Campbell, Albert, Vocalist -- Tenor Vocal | Meyer, John H., Vocalist -- Bass Vocal",
+          "source": "https://www.loc.gov/item/jukebox-133181/",
+          "matched": [
+            "turkish"
+          ]
+        },
+        {
+          "id": "127686",
+          "title": "The Turkish patrol",
+          "date": "1909-06-29",
+          "language": "",
+          "genre": "Classical",
+          "credits": "Michaelis, Th., Composer | Victor Orchestra, Musical Group | Rogers, Walter B., Conductor",
+          "source": "https://www.loc.gov/item/jukebox-127686/",
+          "matched": [
+            "turkish"
+          ]
+        },
+        {
+          "id": "259862",
+          "title": "The grizzly turkey trot",
+          "date": "1912-04-11",
+          "language": "",
+          "genre": "Popular music",
+          "credits": "Roberts, Charles J., Composer | Laurendeau, L. P., Arranger | Arthur Pryor's Band, Musical Group",
+          "source": "https://www.loc.gov/item/jukebox-259862/",
+          "matched": [
+            "turkey"
+          ]
+        },
+        {
+          "id": "121687",
+          "title": "Turkey in de straw",
+          "date": "1908-11-25",
+          "language": "English",
+          "genre": "Ethnic characterizations | Popular music",
+          "credits": "Golden, Billy, Vocalist",
+          "source": "https://www.loc.gov/item/jukebox-121687/",
+          "matched": [
+            "turkey"
+          ]
+        },
+        {
+          "id": "121688",
+          "title": "Turkey in de straw",
+          "date": "1920-10-15",
+          "language": "English",
+          "genre": "Ethnic characterizations | Popular music",
+          "credits": "Golden, Billy, Vocalist | Pasternack, Josef, Conductor",
+          "source": "https://www.loc.gov/item/jukebox-121688/",
+          "matched": [
+            "turkey"
+          ]
+        },
+        {
+          "id": "422471",
+          "title": "Turkey in de straw",
+          "date": "1920-10-15",
+          "language": "English",
+          "genre": "Ethnic characterizations | Popular music",
+          "credits": "Golden, Billy, Vocalist | Pasternack, Josef, Conductor",
+          "source": "https://www.loc.gov/item/jukebox-422471/",
+          "matched": [
+            "turkey"
+          ]
+        },
+        {
+          "id": "121684",
+          "title": "Turkey in de straw",
+          "date": "1905-05-10",
+          "language": "English",
+          "genre": "Ethnic characterizations | Popular music",
+          "credits": "Golden, Billy, Vocalist",
+          "source": "https://www.loc.gov/item/jukebox-121684/",
+          "matched": [
+            "turkey"
+          ]
+        },
+        {
+          "id": "121685",
+          "title": "Turkey in de straw",
+          "date": "1906-09-25",
+          "language": "English",
+          "genre": "Ethnic characterizations | Popular music",
+          "credits": "Golden, Billy, Vocalist | Pasternack, Josef, Conductor",
+          "source": "https://www.loc.gov/item/jukebox-121685/",
+          "matched": [
+            "turkey"
+          ]
+        },
+        {
+          "id": "238132",
+          "title": "Turkey in de straw",
+          "date": "1902-05-02",
+          "language": "English",
+          "genre": "Popular music",
+          "credits": "Golden, Billy, Vocalist",
+          "source": "https://www.loc.gov/item/jukebox-238132/",
+          "matched": [
+            "turkey"
+          ]
+        },
+        {
+          "id": "243662",
+          "title": "Turkey in de straw",
+          "date": "1903-09-01",
+          "language": "English",
+          "genre": "Traditional/Country",
+          "credits": "Golden, Billy, Vocalist",
+          "source": "https://www.loc.gov/item/jukebox-243662/",
+          "matched": [
+            "turkey"
+          ]
+        },
+        {
+          "id": "2649",
+          "title": "Turkey in de straw",
+          "date": "1901-12-07",
+          "language": "English",
+          "genre": "Traditional/Country",
+          "credits": "Leachman, Silas F., Vocalist",
+          "source": "https://www.loc.gov/item/jukebox-2649/",
+          "matched": [
+            "turkey"
+          ]
+        },
+        {
+          "id": "422467",
+          "title": "Turkey in de straw' medley",
+          "date": "1905-06-02",
+          "language": "",
+          "genre": "Traditional/Country",
+          "credits": "Ossman, Vess L., Arranger | Ossman, Vess L., Instrumentalist -- Banjo",
+          "source": "https://www.loc.gov/item/jukebox-422467/",
+          "matched": [
+            "turkey"
+          ]
+        },
+        {
+          "id": "247928",
+          "title": "Turkey in de straw' medley",
+          "date": "1905-06-02",
+          "language": "",
+          "genre": "Traditional/Country",
+          "credits": "Ossman, Vess L., Arranger | Ossman, Vess L., Instrumentalist -- Banjo",
+          "source": "https://www.loc.gov/item/jukebox-247928/",
+          "matched": [
+            "turkey"
+          ]
+        },
+        {
+          "id": "30868",
+          "title": "Turkey in the straw",
+          "date": "1918-11-21",
+          "language": "",
+          "genre": "Popular music",
+          "credits": "Pietro, Instrumentalist -- Accordion | Deiro, Pietro, Instrumentalist -- Accordion",
+          "source": "https://www.loc.gov/item/jukebox-30868/",
+          "matched": [
+            "turkey"
+          ]
+        },
+        {
+          "id": "126831",
+          "title": "Turkey in the straw medley",
+          "date": "1908-10-05",
+          "language": "",
+          "genre": "Popular music",
+          "credits": "Ossman, Vess L., Instrumentalist -- Banjo",
+          "source": "https://www.loc.gov/item/jukebox-126831/",
+          "matched": [
+            "turkey"
+          ]
+        },
+        {
+          "id": "37442",
+          "title": "Turkey in the straw medley",
+          "date": "1920-09-22",
+          "language": "",
+          "genre": "Popular music",
+          "credits": "Banta, Frank E., Instrumentalist -- Piano | Van Eps, Fred, Instrumentalist -- Banjo",
+          "source": "https://www.loc.gov/item/jukebox-37442/",
+          "matched": [
+            "turkey"
+          ]
+        },
+        {
+          "id": "128982",
+          "title": "Turkey specialty",
+          "date": "1910-05-24",
+          "language": "English",
+          "genre": "Ethnic characterizations | Comedies",
+          "credits": "Golden, Billy, Performer | Hughes, Joe, Speaker",
+          "source": "https://www.loc.gov/item/jukebox-128982/",
+          "matched": [
+            "turkey"
+          ]
+        },
+        {
+          "id": "253718",
+          "title": "Turkey specialty",
+          "date": "1910-05-24",
+          "language": "English",
+          "genre": "Ethnic characterizations | Comedies",
+          "credits": "Golden, Billy, Performer | Hughes, Joe, Speaker",
+          "source": "https://www.loc.gov/item/jukebox-253718/",
+          "matched": [
+            "turkey"
+          ]
+        }
+      ]
+    },
+    "Bulgaria": {
+      "count": 1,
+      "candidates": [
+        {
+          "id": "13218",
+          "title": "Bulgarian dance",
+          "date": "1915-04-30",
+          "language": "",
+          "genre": "Ethnic music",
+          "credits": "Dimitri, Michael, Instrumentalist -- Accordion | Melnikoff, Wassili, Instrumentalist -- Accordion",
+          "source": "https://www.loc.gov/item/jukebox-13218/",
+          "matched": [
+            "bulgarian",
+            "bulgaria"
+          ]
+        }
+      ]
+    },
+    "Iceland": {
+      "count": 0,
+      "candidates": []
+    },
+    "Latvia": {
+      "count": 0,
+      "candidates": []
+    },
+    "Lithuania": {
+      "count": 0,
+      "candidates": []
+    },
+    "Ethiopia": {
+      "count": 0,
+      "candidates": []
+    },
+    "Iran": {
+      "count": 2,
+      "candidates": [
+        {
+          "id": "132263",
+          "title": "My little Persian Rose",
+          "date": "1912-10-31",
+          "language": "English",
+          "genre": "Musical theater | Ethnic characterizations",
+          "credits": "Friedland, Anatol, Composer | That Girl\" Quartet, Vocal Group | Woolf, Edgar Allan, Lyricist",
+          "source": "https://www.loc.gov/item/jukebox-132263/",
+          "matched": [
+            "persian",
+            "persia"
+          ]
+        },
+        {
+          "id": "43644",
+          "title": "Say, Persianna, say!",
+          "date": "1922-02-02",
+          "language": "",
+          "genre": "Popular music",
+          "credits": "White, Willy, Composer | Terry, Lee, Arranger | Ohman, Phil, Instrumentalist -- Piano | Arden, Victor, Instrumentalist -- Piano",
+          "source": "https://www.loc.gov/item/jukebox-43644/",
+          "matched": [
+            "persian",
+            "persia"
+          ]
+        }
+      ]
+    },
+    "South Africa": {
+      "count": 0,
+      "candidates": []
+    },
+    "Chile": {
+      "count": 0,
+      "candidates": []
+    },
+    "Uruguay": {
+      "count": 0,
+      "candidates": []
+    },
+    "Paraguay": {
+      "count": 0,
+      "candidates": []
+    }
+  }
+}
