@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.17: four additional actual pre-1923 LOC audio original recording links, including first Romanian-composer and Portuguese fado-style programming, Hungary and Czech repertoire. LOC source-file streaming not locally hosted and not independently browser-tested; historic recordings are not WWII-era masters. Existing 73 local and 6 Commons tracks preserved; no synthetic audio or copyrighted user masters.",
+  "notes": "Phase 23C.18: three real human audio recordings linked to Commons, two new stations Yugoslavia and New Zealand, Spain expanded; 1918 source attribution for Yugoslavia, 2003 modern US Navy Band for NZ, and 1915 Odeon original for Spain. Remote playback still requires listening check. C.18 also skips broken external streams without endless retries. Existing 83 tracks and private file picker preserved. No synthetic tracks.",
   "stations": {
     "United States": [
       {
@@ -300,6 +300,10 @@
       {
         "title": "Meus amores — original 1906 recording",
         "src": "audio/tobs-c12-123293.mp3"
+      },
+      {
+        "title": "Marcha Real — historical 1915 Odeon recording",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Marcha_Real_%281915%29.ogg"
       }
     ],
     "Canada": [
@@ -388,6 +392,18 @@
       {
         "title": "Lu Lu Fado — Le vrai fado portugais — original 1914 recording · external archive stream",
         "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-10884_1.mp3"
+      }
+    ],
+    "Yugoslavia": [
+      {
+        "title": "National Anthem of the Kingdom of Yugoslavia — historical recording attributed to 1918",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Himna_Kraljevine_Jugoslavije.ogg"
+      }
+    ],
+    "New Zealand": [
+      {
+        "title": "God Defend New Zealand — U.S. Navy Band instrumental (modern circa 2003)",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/God_Defend_New_Zealand_instrumental.ogg"
       }
     ]
   }

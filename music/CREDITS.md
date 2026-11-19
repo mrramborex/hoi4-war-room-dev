@@ -281,3 +281,15 @@ These are **actual original pre-1923 recorded musical performances**, not synthe
 | Czechoslovakia | Rekruti | 1907-08-01 | A. Bartos and F. R. Běláč (vocals); Anton Grill (composer) | Original Bohemian/Czech-language historical vocal recording. Recorded before Czechoslovakia existed. | [LOC 125361](https://www.loc.gov/item/jukebox-125361/) |
 
 The Portuguese selection is an American band's *fado*-style dance, not a Portuguese folk vocalist. The Romanian program is a Romanian composer's waltz sung in Polish, not a Romanian-language recording. This is deliberate cultural transparency, not a claim of national-origin broadcast authenticity. Any inaccessible external links should be removed or replaced with verified local masters in a later consolidated batch; the prior 79 entries remain unchanged.
+
+## Phase 23C.18 — Two new stations, Spanish historical anthem, and external-stream fallback
+
+Three real human recordings are referenced through exact Wikimedia Commons original URLs. **They are not locally downloaded or byte-level checksum-verified**, and their live playback remains to be tested. Existing 83 playlist entries are preserved. No copyrighted user-uploaded MP3s were published.
+
+| TOBS country | Recording | Recorded | Source attribution | Source and rights |
+| --- | --- | --- | --- | --- |
+| Yugoslavia | National Anthem of the Kingdom of Yugoslavia — historical recording attributed to 1918 | c. 1918 (source attribution) | Historical anthem recording; Commons source attributes performance to Stanislav Binički; The Commons description attributes this 1m42 historic recording to December 1918, sourced from an old LP. Exact original recording date is not independently verified; do not represent as 1939-1945 wartime master. | [Commons file](https://commons.wikimedia.org/wiki/File:Himna_Kraljevine_Jugoslavije.ogg) — Commons labels recording public domain in the US and source territories, and digital modification public domain. |
+| New Zealand | God Defend New Zealand — U.S. Navy Band instrumental (modern circa 2003) | c. 2003 | United States Navy Band; Historical anthem composed 1876 but this performance was recorded circa 2003: real U.S. military band, NOT WWII recording. | [Commons file](https://commons.wikimedia.org/wiki/File:God_Defend_New_Zealand_instrumental.ogg) — US federal government performance and public-domain composition as identified on Commons. |
+| Spain | Marcha Real — historical 1915 Odeon recording | 1915 | Historical Odeon recording; performer unknown; Original 1915 2m52 recording of Spain's Marcha Real. Pre-WWII performance, not a 1936-1945 radio broadcast. | [Commons file](https://commons.wikimedia.org/wiki/File:Marcha_Real_(1915).ogg) — Commons source marks original recording and composition as public domain. |
+
+**Radio resilience:** An HTML audio load error now marks the failing recording unavailable and attempts an untried alternative in that country's playlist. After exhausting candidates, the radio reports that recordings are unavailable instead of looping through broken URLs. This change is a code/syntax check, not yet a real browser-network test.

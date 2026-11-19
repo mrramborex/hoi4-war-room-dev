@@ -133,10 +133,10 @@
       "frequency_mhz": 85,
       "country": "New Zealand",
       "station": "Kiwi Coast Radio",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "external_archive_stream_pending_playback",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "23C.18: Historical anthem composed 1876 but this performance was recorded circa 2003: real U.S. military band, NOT WWII recording. Commons source documented, exact archive URL allowlisted; still needs actual browser playback test. https://commons.wikimedia.org/wiki/File:God_Defend_New_Zealand_instrumental.ogg"
     },
     {
       "frequency_mhz": 85.2,
@@ -223,10 +223,10 @@
       "frequency_mhz": 88.9,
       "country": "Yugoslavia",
       "station": "Belgrade Wireless",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "external_archive_stream_pending_playback",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "23C.18: The Commons description attributes this 1m42 historic recording to December 1918, sourced from an old LP. Exact original recording date is not independently verified; do not represent as 1939-1945 wartime master. Commons source documented, exact archive URL allowlisted; still needs actual browser playback test. https://commons.wikimedia.org/wiki/File:Himna_Kraljevine_Jugoslavije.ogg"
     },
     {
       "frequency_mhz": 89.1,
@@ -511,10 +511,10 @@
       "frequency_mhz": 102,
       "country": "Spain",
       "station": "Radio Madrid",
-      "research_status": "audio_deployed",
-      "rights_cleared_track_count": 2,
+      "research_status": "external_archive_stream_pending_playback",
+      "rights_cleared_track_count": 3,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.12: authentic LOC archival sound recordings, validated against official item MD5; Spanish songs include Galician and Spain-composed originals, Argentina original tango, Mexico a composition by Juventino Rosas. Recordings pre-1923; NOT WWII broadcasts. See music/minor-batch6-sources.json."
+      "notes": "23C.18: Original 1915 2m52 recording of Spain's Marcha Real. Pre-WWII performance, not a 1936-1945 radio broadcast. Commons source documented, exact archive URL allowlisted; still needs actual browser playback test. https://commons.wikimedia.org/wiki/File:Marcha_Real_(1915).ogg"
     },
     {
       "frequency_mhz": 102.2,

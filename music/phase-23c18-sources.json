@@ -1,0 +1,38 @@
+{
+  "phase": "23C.18",
+  "version": 1,
+  "media_origin": "Wikimedia Commons exact public original streaming URLs",
+  "notes": "Sources and reuse status verified on file description pages; no local bytes were fetched; verify actual playback. Historical composition or anthem does not establish wartime recording date.",
+  "tracks": [
+    {
+      "country": "Yugoslavia",
+      "title": "National Anthem of the Kingdom of Yugoslavia — historical recording attributed to 1918",
+      "date": "c. 1918 (source attribution)",
+      "performers": "Historical anthem recording; Commons source attributes performance to Stanislav Binički",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Himna_Kraljevine_Jugoslavije.ogg",
+      "source": "https://commons.wikimedia.org/wiki/File:Himna_Kraljevine_Jugoslavije.ogg",
+      "historicalNote": "The Commons description attributes this 1m42 historic recording to December 1918, sourced from an old LP. Exact original recording date is not independently verified; do not represent as 1939-1945 wartime master.",
+      "rights": "Commons labels recording public domain in the US and source territories, and digital modification public domain."
+    },
+    {
+      "country": "New Zealand",
+      "title": "God Defend New Zealand — U.S. Navy Band instrumental (modern circa 2003)",
+      "date": "c. 2003",
+      "performers": "United States Navy Band",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/God_Defend_New_Zealand_instrumental.ogg",
+      "source": "https://commons.wikimedia.org/wiki/File:God_Defend_New_Zealand_instrumental.ogg",
+      "historicalNote": "Historical anthem composed 1876 but this performance was recorded circa 2003: real U.S. military band, NOT WWII recording.",
+      "rights": "US federal government performance and public-domain composition as identified on Commons."
+    },
+    {
+      "country": "Spain",
+      "title": "Marcha Real — historical 1915 Odeon recording",
+      "date": "1915",
+      "performers": "Historical Odeon recording; performer unknown",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Marcha_Real_%281915%29.ogg",
+      "source": "https://commons.wikimedia.org/wiki/File:Marcha_Real_(1915).ogg",
+      "historicalNote": "Original 1915 2m52 recording of Spain's Marcha Real. Pre-WWII performance, not a 1936-1945 radio broadcast.",
+      "rights": "Commons source marks original recording and composition as public domain."
+    }
+  ]
+}
