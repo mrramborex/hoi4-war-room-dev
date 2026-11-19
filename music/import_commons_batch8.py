@@ -26,7 +26,7 @@ for x in d["items"]:
  info=pages[0]["imageinfo"][0]
  url=info["url"]
  assert urllib.parse.urlparse(url).hostname=="upload.wikimedia.org"
- assert url.lower().endswith((".ogg",".oga"))
+ assert urllib.parse.unquote(urllib.parse.urlparse(url).path).lower().endswith((".ogg",".oga")), url
  raw=get(url,15_000_000)
  if not (50000<len(raw)<15_000_000) or not raw.startswith(b"OggS"):raise ValueError("Invalid source Ogg file: "+name)
  sha=hashlib.sha1(raw).hexdigest()
