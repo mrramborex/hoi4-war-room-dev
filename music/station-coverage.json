@@ -44,18 +44,18 @@
       "country": "Mexico",
       "station": "Radio México",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 2,
+      "rights_cleared_track_count": 3,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.11: complete original pre-1923 LOC performances, original audio MD5 verified against official package. Regional selection by composer, ensemble or genre, not recording location. See music/minor-batch5-sources.json and music/minor-batch5-verified.json."
+      "notes": "Phase 23C.12: authentic LOC archival sound recordings, validated against official item MD5; Spanish songs include Galician and Spain-composed originals, Argentina original tango, Mexico a composition by Juventino Rosas. Recordings pre-1923; NOT WWII broadcasts. See music/minor-batch6-sources.json."
     },
     {
       "frequency_mhz": 81.8,
       "country": "Argentina",
       "station": "Radio del Plata",
       "research_status": "audio_deployed",
-      "rights_cleared_track_count": 1,
+      "rights_cleared_track_count": 2,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.11: complete original pre-1923 LOC performances, original audio MD5 verified against official package. Regional selection by composer, ensemble or genre, not recording location. See music/minor-batch5-sources.json and music/minor-batch5-verified.json."
+      "notes": "Phase 23C.12: authentic LOC archival sound recordings, validated against official item MD5; Spanish songs include Galician and Spain-composed originals, Argentina original tango, Mexico a composition by Juventino Rosas. Recordings pre-1923; NOT WWII broadcasts. See music/minor-batch6-sources.json."
     },
     {
       "frequency_mhz": 82.1,
@@ -511,10 +511,10 @@
       "frequency_mhz": 102,
       "country": "Spain",
       "station": "Radio Madrid",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "audio_deployed",
+      "rights_cleared_track_count": 2,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.12: authentic LOC archival sound recordings, validated against official item MD5; Spanish songs include Galician and Spain-composed originals, Argentina original tango, Mexico a composition by Juventino Rosas. Recordings pre-1923; NOT WWII broadcasts. See music/minor-batch6-sources.json."
     },
     {
       "frequency_mhz": 102.2,
