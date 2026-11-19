@@ -1,0 +1,54 @@
+{
+  "phase": "23C.12",
+  "version": 1,
+  "created": "2026-11-18",
+  "selection_policy": "Full historic performances, culturally relevant actual composers/performers, and each file must exactly match the LOC downloadable package's MD5; authentic pre-WWII, not 1939-45",
+  "rights": "https://data.labs.loc.gov/jukebox/README.html",
+  "archive_manifest": "https://data.labs.loc.gov/jukebox/manifest.json",
+  "tracks": [
+    {
+      "country": "Spain",
+      "id": "117554",
+      "title": "La paloma",
+      "date": "1903-05-17",
+      "credits": "Zélie de Lussan (soprano), Sebastián Yradier (Spanish composer)",
+      "reason": "Spanish composition by Sebastián Yradier; original recorded New York",
+      "source_url": "https://www.loc.gov/item/jukebox-117554/",
+      "audio_url": "https://data.labs.loc.gov/jukebox/audio/jukebox-117554_1.mp3",
+      "filename": "tobs-c12-117554.mp3"
+    },
+    {
+      "country": "Spain",
+      "id": "123293",
+      "title": "Meus amores",
+      "date": "1906-07-02",
+      "credits": "Eladio A. Chao (baritone)",
+      "reason": "LOC identifies Galician-language vocal performance, culturally appropriate to Spain; not necessarily recorded in Spain",
+      "source_url": "https://www.loc.gov/item/jukebox-123293/",
+      "audio_url": "https://data.labs.loc.gov/jukebox/audio/jukebox-123293_1.mp3",
+      "filename": "tobs-c12-123293.mp3"
+    },
+    {
+      "country": "Argentina",
+      "id": "189361",
+      "title": "El amanecer",
+      "date": "1915-10-15",
+      "credits": "Victor Orchestra, Edward T. King (conductor); Roberto Firpo (Argentine tango composer)",
+      "reason": "Argentine tango composed by Roberto Firpo, performed by orchestra",
+      "source_url": "https://www.loc.gov/item/jukebox-189361/",
+      "audio_url": "https://data.labs.loc.gov/jukebox/audio/jukebox-189361_1.mp3",
+      "filename": "tobs-c12-189361.mp3"
+    },
+    {
+      "country": "Mexico",
+      "id": "13857",
+      "title": "Over the Waves (Sobre las olas)",
+      "date": "1915-10-06",
+      "credits": "Pietro Deiro (accordion), Juventino Rosas (Mexican composer)",
+      "reason": "Instrumental on accordion by Italian-born musician, but Mexican work by Juventino Rosas; not traditional Mexican folk band",
+      "source_url": "https://www.loc.gov/item/jukebox-13857/",
+      "audio_url": "https://data.labs.loc.gov/jukebox/audio/jukebox-13857_1.mp3",
+      "filename": "tobs-c12-13857.mp3"
+    }
+  ]
+}
