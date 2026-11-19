@@ -214,3 +214,20 @@ This batch contains **actual historical recordings**, not WWII-era performances.
 | Mexico | La Golondrina | 1906-06-27 | Emilio de Gogorza and Carlos Francisco, baritones; Narciso Serradell, Mexican composer; Spanish-language historical rendition of original Mexican composition. | [LOC 249295](https://www.loc.gov/item/jukebox-249295/), `5d523d1576a239f31f315b689d7f4e21` |
 
 Original audio verified from the [LOC National Jukebox pre-1923 dataset](https://data.labs.loc.gov/jukebox/) and [published manifest](https://data.labs.loc.gov/jukebox/manifest.html). No user-provided restricted tracks or rejected synthetic audio uploaded.
+
+## Phase 23C.14 — Five countries added via verified Commons archival source pages
+
+Six actual human musical performances have been added to the TOBS playlists using directly allowlisted `upload.wikimedia.org` sound-file URLs. **Important technical limitation:** importing local Ogg copies was blocked by HTTP 429 rate limits on the GitHub Actions runner. Unlike the previous LOC batches, the downloaded bytes were **not independently hashed** on GitHub; the public audio manifest points only to the exact canonical Wikimedia Commons files, as verified against their source pages. Live browser playback still needs user testing. No public GitHub-hosted media was added in this batch.
+
+| Station | Recording | Original date/length | Attribution | Commons source and rights evidence |
+| --- | --- | --- | --- | --- |
+| Canada | O Canada — Victor Military Band (recorded 1915, issued c.1916) | 1915-12-09 | Victor Military Band; Calixa Lavallée | [Commons original and license](https://commons.wikimedia.org/wiki/File:O_Canada_instrumental_1916.ogg) |
+| Australia | Advance Australia Fair — original 1915 recording | 1915-02-25 | Historic Australian performance; archival source lacks independently confirmed performer | [Commons original and license](https://commons.wikimedia.org/wiki/File:Advance_Australia_Fair_(1915).ogg) |
+| Netherlands | Het Wilhelmus — first recording (1899) | 1899 | Historical Dutch anthem performance; performer not reliably identified in source | [Commons original and license](https://commons.wikimedia.org/wiki/File:Het_Wilhelmus_(first_recording_1899).ogg) |
+| Netherlands | Wilhelmus — Henri Dons (1920) | 1920 | Henri Dons (singer) | [Commons original and license](https://commons.wikimedia.org/wiki/File:Henri_Dons_-_Wilhelmus.ogg) |
+| Estonia | Mu isamaa, mu õnn ja rõõm — instrumental (1914) | 1914 | Puhkpillide Orkester (historic band, per Commons) | [Commons original and license](https://commons.wikimedia.org/wiki/File:Estonian_National_Anthem_(first_instrumental_recording).oga) |
+| Belgium | La Brabançonne — United States Navy Band (circa 2003) | c.2003 | United States Navy Band; François Van Campenhout (composer) | [Commons original and license](https://commons.wikimedia.org/wiki/File:La_Braban%C3%A7onne.oga) |
+
+**Period accuracy:** Canada's *O Canada* is the Victor Military Band original recorded December 1915, issued circa 1916; Australia's 1915 *Advance Australia Fair* is a very short original historical recording (~39 seconds); the Netherlands performances are from 1899 and around 1920; Estonia's original 1914 instrumental is ~35 seconds. The **Belgian U.S. Navy Band performance is from approximately 2003**, of a much older anthem. It's a real band, but **not a WWI or WWII historical recording**. Short historical pieces count toward playlist entries but are not full-length modern pop songs. No synthetic music or the user's separately supplied commercial MP3s has been distributed.
+
+**Import issue:** The automation `music/import_commons_batch8.py` and `.github/workflows/import-commons-batch8.yml` are retained for future verified local import when Wikimedia's GitHub-hosted download rate limit clears. Keep remote sources allowlisted only, and don't count the failed workflow as a successful hosted binary import. 
