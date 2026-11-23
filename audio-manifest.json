@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.30: five distinct original 1913–1937 Japanese historical recordings added in one consolidated commit. 124 entries, 47/65 stations. Commons documents Japanese public-domain status; US pre-1972 sound recording rights and underlying compositions need independent final clearance before production. External playback not browser-verified; keep development only.",
+  "notes": "Phase 23C.32: consolidated 11-track multi-station batch using documented Wikimedia Commons files; 135 playlist entries, 47/65 stations. Modern U.S. Navy Band performances are explicitly identified as modern and not WWII recordings or necessarily period national anthems. Anchors Aweigh is original 1929 recording. Commons file-page existence documented, but external playback/redirects not independently tested; production unchanged. User-owned licensed files will be handled in later batch once uploaded.",
   "stations": {
     "United States": [
       {
@@ -22,6 +22,10 @@
       {
         "title": "After You've Gone — LOC complete recording",
         "src": "audio/tobs-full-after-youve-gone.mp3"
+      },
+      {
+        "title": "Anchors Aweigh — U.S. Navy Band · original 1929 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Anchors%20Aweigh%2C%201929%20recording.oga"
       }
     ],
     "United Kingdom": [
@@ -60,6 +64,10 @@
       {
         "title": "Irish jigs medley — Tom Ennis (1917-04-07)",
         "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-22862_1.mp3"
+      },
+      {
+        "title": "Colonel Bogey March — U.S. Navy Band · modern performance (1914 composition)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Colonel%20Bogey.mp3"
       }
     ],
     "France": [
@@ -104,6 +112,10 @@
       {
         "title": "Deutschland über alles — Carl Schlegel — original historical recording",
         "src": "audio/tobs-international-batch3-187660.mp3"
+      },
+      {
+        "title": "Das Lied der Deutschen — U.S. Navy Band · modern instrumental (1797 melody)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/German%20national%20anthem%20performed%20by%20the%20US%20Navy%20Band.ogg"
       }
     ],
     "Italy": [
@@ -122,6 +134,14 @@
       {
         "title": "Ah! non credea mirarti — LOC full recording",
         "src": "audio/tobs-major-batch2-24085.mp3"
+      },
+      {
+        "title": "Il Canto degli Italiani — U.S. Navy Band · modern short instrumental (1847 composition)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/National%20anthem%20of%20Italy%20-%20U.S.%20Navy%20Band%20(short%20version).ogg"
+      },
+      {
+        "title": "Il Canto degli Italiani — U.S. Navy Band · modern long instrumental (1847 composition)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/National%20anthem%20of%20Italy%20-%20U.S.%20Navy%20Band%20(long%20version).ogg"
       }
     ],
     "Soviet Union": [
@@ -318,6 +338,14 @@
       {
         "title": "El Choclo — Tango — original 1916 recording",
         "src": "audio/tobs-c13-17295.mp3"
+      },
+      {
+        "title": "Himno Nacional Argentino — U.S. Navy Band · modern abridged instrumental",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Himno%20Nacional%20Argentino%20instrumental%20(abridged).ogg"
+      },
+      {
+        "title": "Himno Nacional Argentino — U.S. Navy Band · modern full instrumental",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Himno%20Nacional%20Argentino%20instrumental.ogg"
       }
     ],
     "Brazil": [
@@ -370,6 +398,10 @@
       {
         "title": "Wilhelmus — Henri Dons, circa 1920",
         "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Henri_Dons_-_Wilhelmus.ogg"
+      },
+      {
+        "title": "Wilhelmus — U.S. Navy Band · modern instrumental",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dutch%20national%20anthem%20performed%20by%20the%20United%20States%20Navy%20Band.mp3"
       }
     ],
     "Estonia": [
@@ -452,18 +484,30 @@
       {
         "title": "Lu Lu Fado — Le vrai fado portugais — original 1914 recording · external archive stream",
         "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-10884_1.mp3"
+      },
+      {
+        "title": "A Portuguesa — U.S. Navy Band · modern instrumental (1890 composition)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/A%20Portuguesa.ogg"
       }
     ],
     "Yugoslavia": [
       {
         "title": "National Anthem of the Kingdom of Yugoslavia — historical recording attributed to 1918",
         "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Himna_Kraljevine_Jugoslavije.ogg"
+      },
+      {
+        "title": "Hey, Slavs — U.S. Navy Band · modern instrumental (1834 composition; later Yugoslav anthem)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/United%20States%20Navy%20Band%20-%20Hey%2C%20Slavs.ogg"
       }
     ],
     "New Zealand": [
       {
         "title": "God Defend New Zealand — U.S. Navy Band instrumental (modern circa 2003)",
         "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/God_Defend_New_Zealand_instrumental.ogg"
+      },
+      {
+        "title": "God Defend New Zealand — U.S. Navy Band · alternate modern instrumental",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/God%20Defend%20New%20Zealand%20instrumental.ogg"
       }
     ],
     "Turkey": [
