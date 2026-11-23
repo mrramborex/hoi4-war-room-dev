@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.39: 7 newly sourced original 1940s recordings/excerpts from individually identified Wikimedia Commons file pages. Includes one 27-second excerpt and one military cadence, explicitly labeled; other selections are songs/marches. 1940s recording rights and direct streaming behavior require verification before production. 205 playlist placements and 176 unique audio URLs, 65 stations. Development only.",
+  "notes": "Phase 23C.40: four original 1940–1941 Artie Shaw recordings, source filenames independently listed in Wikimedia Commons Artie Shaw category. 180 unique source URLs, 209 playlist entries, 65/65 stations represented. US pre-1972 sound recording rights not cleared; streaming and rights review required before production. Development only.",
   "stations": {
     "United States": [
       {
@@ -86,6 +86,22 @@
       {
         "title": "Duckworth Chant — 1944 wartime V-Disc · military cadence (not a song)",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/V%20disc%201944%20duckworth%20chant.ogg"
+      },
+      {
+        "title": "All the Things You Are — Artie Shaw & Helen Forrest · 1940 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/ArtieShawVhelenForest-AllTheThingsYouAre1940.ogg"
+      },
+      {
+        "title": "I Hear a Rhapsody — Artie Shaw & Helen Forrest · 1941 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/ArtieShawVhelenForest-IHearARhapsody1941.ogg"
+      },
+      {
+        "title": "This Time the Dream's on Me — Artie Shaw & Helen Forrest · 1941 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/ArtieShawVhelenForest-ThisTimeTheDreamsOnMe1941.ogg"
+      },
+      {
+        "title": "Gloomy Sunday — Artie Shaw & Pauline Byrne · 1940 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/ArtieShawVpaulineBryne-GloomySunday1940.ogg"
       }
     ],
     "United Kingdom": [
