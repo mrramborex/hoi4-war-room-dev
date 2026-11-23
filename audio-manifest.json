@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.23: 107 playlist entries, 40/65 represented stations. Iran receives a genuine U.S. Navy Band performance of the 1933–1979 imperial anthem, not a WWII-era recording. External browser playback not verified; no other country added pending recording/rights verification.",
+  "notes": "Phase 23C.24: 110 entries across 43 of 65 stations. Iraq receives period-correct 1924–1958 anthem composition (later CC BY 3.0 performance; attribution nationalanthems.info), Ethiopia receives 1930 imperial anthem (1954 performance), Afghanistan receives original circa-1928 traditional Afghan performance by Mizar Nazar Khan. External streams and browser playback not independently verified. No synthetic modern Afghanistan anthem reconstruction used.",
   "stations": {
     "United States": [
       {
@@ -508,6 +508,24 @@
       {
         "title": "Sorude Melli — Imperial Iranian anthem (1933) · modern U.S. Navy Band performance",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Former%20imperial%20Iranian%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga"
+      }
+    ],
+    "Iraq": [
+      {
+        "title": "As-Salam al-Malaki — 1924–1958 royal anthem · later performance, CC BY 3.0",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Former%20Iraqi%20national%20anthem%2C%201924-1958.oga"
+      }
+    ],
+    "Ethiopia": [
+      {
+        "title": "Ityopp'ya Hoy dess yibelish — 1930 imperial anthem · 1954 performance",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ityopp'ya%20Hoy%20dess%20yibelish.ogg"
+      }
+    ],
+    "Afghanistan": [
+      {
+        "title": "Baz karé man va mashough beh peygham oftad — Mizar Nazar Khan · original c. 1928",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Baz%20kar%C3%A9%20man%20va%20mashough%20beh%20peygham%20oftad%20.ogg"
       }
     ]
   }
