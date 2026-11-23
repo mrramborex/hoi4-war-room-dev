@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.33: 12 verified-name Wikimedia Commons music files, historical pre-1945 compositions with modern performances explicitly marked; 147 playlist entries across 47/65 stations. External redirects and audio playback not verified. No user-licensed uploads added yet; awaiting re-upload. Dev only.",
+  "notes": "Phase 23C.34: ten distinct Wikimedia Commons-listed historical East Asian audio files added in one consolidated commit. 157 entries across 48/65 stations; includes one spoken Japanese rakugo performance, clearly labeled (not a song). 1935 Manchukuo recording is NOT public domain in US merely because Japan rights expired; US pre-1972 sound recording rights and all user permissions require final review before public release. All external streams unverified for browser playback. Development only.",
   "stations": {
     "United States": [
       {
@@ -234,6 +234,38 @@
       {
         "title": "Yuki no Shingun (Snow March) — Toyama Army School Military Band · original 1937 recording",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Yuki%2BNo%2BShingun.ogg"
+      },
+      {
+        "title": "Kimigayo — historical 1940 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kimigayo%201940.opus"
+      },
+      {
+        "title": "Teki wa Ikuman — Nōsho Benjirō historical performance",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Teki%20wa%20Ikuman%20(N%C5%8Dsho%20Benjir%C5%8D).ogg"
+      },
+      {
+        "title": "Umi Yukaba — historical Japanese patriotic song performance",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Umi%20Yukaba.ogg"
+      },
+      {
+        "title": "Gunkan kōshinkyoku — alternate Japanese naval march recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/01%20%E8%BB%8D%E8%89%A6%E8%A1%8C%E9%80%B2%E6%9B%B2.ogg"
+      },
+      {
+        "title": "Bunretsu Kōshinkyoku — Japanese military march recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/1-01%20%E5%88%86%E5%88%97%E8%A1%8C%E9%80%B2%E6%9B%B2.ogg"
+      },
+      {
+        "title": "Genkō — Japanese historical music recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Genk%C5%8D.ogg"
+      },
+      {
+        "title": "Shikanotoone — Japanese traditional performance",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Shikanotoone.ogg"
+      },
+      {
+        "title": "Jugemu — Tachibanaya Kakitsu II · historical rakugo spoken performance",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jugemu%20performed%20by%20Tachibanaya%20Kakitsu%20II.oga"
       }
     ],
     "Poland": [
@@ -676,12 +708,22 @@
       {
         "title": "Pang-tse Nan-tien-men — Chinese dramatic music · 1931 recording",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pang-tse%20Nan-tien-men%20(1931).oga"
+      },
+      {
+        "title": "San Min Chu I — historical Republic of China anthem recording (1930s)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Anthem%20of%20Republic%20of%20China%201930s.oga"
       }
     ],
     "Paraguay": [
       {
         "title": "Himno Nacional Paraguayo — 1933 arrangement · U.S. Navy Band (circa 2000)",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Paraguayan%20National%20Anthem.oga"
+      }
+    ],
+    "Manchukuo": [
+      {
+        "title": "Manchukuo national anthem — Japan Victrola Chorus (1935 historical recording)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Manchukuo%20National%20Anthem%201933-1942%20Chinese%20Korean.ogg"
       }
     ]
   }
