@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "23C.37: added 2 shared prewar Chinese archival recordings to each of seven previously silent regional stations (14 new playlist placements). These are reuses of existing China (Nationalist) audio URLs, NOT 14 newly sourced recordings; no local/regional provenance is claimed. 195 playlist entries, 167 unique audio sources, 63/65 stations represented. External stream playback and rights still require verification; development only.",
+  "notes": "Phase 23C.38: filled final two silent stations, Aussa with one shared Ethiopian anthem recording (1954 performance, NOT Afar-specific), Congo with two original 1931 Congolese traditional recordings from the 1931 Colonial Exposition. 65/65 stations represented, 198 playlist placements, 169 unique source URLs. External browser playback and final US recording rights still unverified. Development only.",
   "stations": {
     "United States": [
       {
@@ -906,6 +906,22 @@
       {
         "title": "Kun-ch'ü P'i-p'a-chi — Chinese traditional opera · 1931 recording · shared Chinese archival programming (not region-specific)",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kun-ch'%C3%BC%20P'i-p'a-chi%20(1931).ogg"
+      }
+    ],
+    "Aussa": [
+      {
+        "title": "Ityopp'ya Hoy dess yibelish — 1930 Ethiopian imperial anthem · 1954 performance · shared Ethiopian programming (not Afar-specific)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ityopp'ya%20Hoy%20dess%20yibelish.ogg"
+      }
+    ],
+    "Congo": [
+      {
+        "title": "Lem'Boumga A — traditional Congolese music · original 1931 colonial exposition recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lem'Boumga%20A.ogg"
+      },
+      {
+        "title": "Lem'Boumga B — traditional Congolese music · original 1931 colonial exposition recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lem'Boumga%20B.ogg"
       }
     ]
   }
