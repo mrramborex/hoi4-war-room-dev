@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.24: 110 entries across 43 of 65 stations. Iraq receives period-correct 1924–1958 anthem composition (later CC BY 3.0 performance; attribution nationalanthems.info), Ethiopia receives 1930 imperial anthem (1954 performance), Afghanistan receives original circa-1928 traditional Afghan performance by Mizar Nazar Khan. External streams and browser playback not independently verified. No synthetic modern Afghanistan anthem reconstruction used.",
+  "notes": "Phase 23C.25: 111 playlist entries, 44/65 represented stations. Added Swiss Army Central Band original 1938 Schweizerpsalm recording from Swiss National Sound Archives via Wikimedia Commons. Historical Swiss repertoire, not Switzerland's official national anthem in 1938. External audio playback not independently verified; earlier entries preserved.",
   "stations": {
     "United States": [
       {
@@ -526,6 +526,12 @@
       {
         "title": "Baz karé man va mashough beh peygham oftad — Mizar Nazar Khan · original c. 1928",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Baz%20kar%C3%A9%20man%20va%20mashough%20beh%20peygham%20oftad%20.ogg"
+      }
+    ],
+    "Switzerland": [
+      {
+        "title": "Schweizerpsalm — Swiss Army Central Band · original 1938 instrumental recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Schweizerpsalm%20%281938%20instrumental%29.ogg"
       }
     ]
   }
