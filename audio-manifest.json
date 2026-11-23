@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.25: 111 playlist entries, 44/65 represented stations. Added Swiss Army Central Band original 1938 Schweizerpsalm recording from Swiss National Sound Archives via Wikimedia Commons. Historical Swiss repertoire, not Switzerland's official national anthem in 1938. External audio playback not independently verified; earlier entries preserved.",
+  "notes": "Phase 23C.26: 112 playlist entries across 45 of 65 stations. Added Indonesia Raya, 1928 Indonesian independence song, performed by U.S. Navy Band circa 1953, to Dutch East Indies / Indonesia. This is NOT a WWII-era recording nor an official Dutch East Indies anthem. Manchukuo 1935 and March of Volunteers 1935 source recordings deferred due US pre-1972 sound-recording rights questions. Remote stream playback unverified.",
   "stations": {
     "United States": [
       {
@@ -532,6 +532,12 @@
       {
         "title": "Schweizerpsalm — Swiss Army Central Band · original 1938 instrumental recording",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Schweizerpsalm%20%281938%20instrumental%29.ogg"
+      }
+    ],
+    "Dutch East Indies / Indonesia": [
+      {
+        "title": "Indonesia Raya — 1928 independence song · U.S. Navy Band instrumental (c. 1953)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Indonesia_Raya_instrumental.ogg"
       }
     ]
   }
