@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.28: 118 playlist entries, 46/65 stations represented. Five distinct archival Chinese music recordings from 1914, c.1920 and 1931 added to China (Nationalist) as broad Chinese cultural repertoire; not claimed to be KMT-specific or regional warlord broadcasts. All five Wikimedia Commons source pages label public domain, but individual US rights and external playback still require final verification. Larger multi-track batch in one commit.",
+  "notes": "Phase 23C.29: 119 entries across 47 of 65 stations. Added Paraguay 1933-arranged anthem, U.S. Navy Band circa 2000, from Wikimedia Commons. Rejected 1935 Manchukuo recording due U.S. pre-1972 sound-recording rights and rejected Congo anthem composed 1959 as anachronistic. Aiming for 5–10 additions per commit but only one source passed this phase's review. External playback unverified.",
   "stations": {
     "United States": [
       {
@@ -564,6 +564,12 @@
       {
         "title": "Pang-tse Nan-tien-men — Chinese dramatic music · 1931 recording",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pang-tse%20Nan-tien-men%20(1931).oga"
+      }
+    ],
+    "Paraguay": [
+      {
+        "title": "Himno Nacional Paraguayo — 1933 arrangement · U.S. Navy Band (circa 2000)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Paraguayan%20National%20Anthem.oga"
       }
     ]
   }
