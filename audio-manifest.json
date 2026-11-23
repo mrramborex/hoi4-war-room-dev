@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.32: consolidated 11-track multi-station batch using documented Wikimedia Commons files; 135 playlist entries, 47/65 stations. Modern U.S. Navy Band performances are explicitly identified as modern and not WWII recordings or necessarily period national anthems. Anchors Aweigh is original 1929 recording. Commons file-page existence documented, but external playback/redirects not independently tested; production unchanged. User-owned licensed files will be handled in later batch once uploaded.",
+  "notes": "Phase 23C.33: 12 verified-name Wikimedia Commons music files, historical pre-1945 compositions with modern performances explicitly marked; 147 playlist entries across 47/65 stations. External redirects and audio playback not verified. No user-licensed uploads added yet; awaiting re-upload. Dev only.",
   "stations": {
     "United States": [
       {
@@ -26,6 +26,42 @@
       {
         "title": "Anchors Aweigh — U.S. Navy Band · original 1929 recording",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Anchors%20Aweigh%2C%201929%20recording.oga"
+      },
+      {
+        "title": "Semper Fidelis March — U.S. Navy Band · modern performance of 1888 march",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Semper%20Fidelis%20March%20-%20U.S.%20Navy%20Band.ogg"
+      },
+      {
+        "title": "The Stars and Stripes Forever — U.S. Navy Band · modern performance of 1896 march",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Stars%20and%20Stripes%20Forever%20-%20U.S.%20Navy%20Band.ogg"
+      },
+      {
+        "title": "The Fairest of the Fair — U.S. Navy Band · modern performance of 1908 march",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Fairest%20of%20the%20Fair.ogg"
+      },
+      {
+        "title": "The New Colonial March — U.S. Navy Band · modern performance of 1914 march",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20New%20Colonial%20March.ogg"
+      },
+      {
+        "title": "March Grandioso — U.S. Navy Band · modern performance of 1901 march",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/March%20Grandioso.ogg"
+      },
+      {
+        "title": "Florentiner March — U.S. Navy Band · modern performance of 1907 march",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Florentiner%20March.ogg"
+      },
+      {
+        "title": "National Emblem March — U.S. Naval Academy Band · modern performance of 1902 march",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Edwin%20Eugene%20Bagley's%20%22National%20Emblem%22%20played%20by%20the%20U.S.%20Naval%20Academy%20Band.mp3"
+      },
+      {
+        "title": "Eternal Father, Strong to Save — U.S. Navy Band · instrumental hymn",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Eternal%20Father%2C%20Strong%20to%20Save%20(instrumental).ogg"
+      },
+      {
+        "title": "America the Beautiful — U.S. Navy Band · modern performance of 1910 song",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%22America%20the%20Beautiful%22%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga"
       }
     ],
     "United Kingdom": [
@@ -68,6 +104,14 @@
       {
         "title": "Colonel Bogey March — U.S. Navy Band · modern performance (1914 composition)",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Colonel%20Bogey.mp3"
+      },
+      {
+        "title": "Auld Lang Syne — U.S. Navy Band · 1997 performance of traditional Scottish song",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Auld%20Lang%20Syne%20-%20U.S.%20Navy%20Band.ogg"
+      },
+      {
+        "title": "Roast Beef of Old England — U.S. Navy Band · historical British song",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Roast%20Beef%20of%20England.ogg"
       }
     ],
     "France": [
@@ -288,6 +332,10 @@
       {
         "title": "Ei taivahan alla — original 1916 recording",
         "src": "audio/tobs-minors-batch4-18369.mp3"
+      },
+      {
+        "title": "Maamme — U.S. Navy Band · modern performance of 1848 anthem",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/United%20States%20Navy%20Band%20-%20Maamme.ogg"
       }
     ],
     "Denmark": [
