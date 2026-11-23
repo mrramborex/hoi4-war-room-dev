@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.41: one additional verified Wikimedia Commons 1941 Artie Shaw audio file (alternate transfer of an existing song, not a new composition). 210 playlist placements, 181 unique source URLs, 65/65 stations. Did not pad with unverified 1940s titles. External audio playback and US pre-1972 recording rights remain unverified. Development only.",
+  "notes": "Phase 23C.43: eight original 1940 Swedish traditional music field recordings documented in Wikimedia Commons Category:Audio files of 1940; WAV audio (large files), not 1940s American swing. 189 distinct source URLs and 218 playlist placements. External browser streaming, licensing and performance not yet verified. Development only.",
   "stations": {
     "United States": [
       {
@@ -380,6 +380,38 @@
       {
         "title": "Till Osterland vill jag fara — 1916-05-25 · archive stream",
         "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-16737_1.mp3"
+      },
+      {
+        "title": "Alvegrens vals — Swedish traditional music · original 1940 field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alvegrens%20vals%20-%20SMV%20-%20SVA%20BB%205310%2005.wav"
+      },
+      {
+        "title": "Baxningsvisa — Swedish traditional music · original 1940 field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Baxningsvisa%20-%20SMV%20-%20SVA%20BB%205308%2058.wav"
+      },
+      {
+        "title": "Brudmarsch D-dur — Swedish traditional music · original 1940 field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Brudmarsch%20D-dur%20-%20SMV%20-%20SVA%20BB%205310%2001.wav"
+      },
+      {
+        "title": "Brudmarsch G-dur — Swedish traditional music · original 1940 field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Brudmarsch%20G-dur%20-%20SMV%20-%20SVA%20BB%205310%2007.wav"
+      },
+      {
+        "title": "Orrepolska — Swedish traditional music · original 1940 field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Orrepolska%20-%20SMV%20-%20SVA%20BB%205310%2006.wav"
+      },
+      {
+        "title": "Romins polska — Swedish traditional music · original 1940 field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Romins%20polska%20-%20SMV%20-%20SVA%20BB%205310%2004.wav"
+      },
+      {
+        "title": "Skålstycke G-dur — Swedish traditional music · original 1940 field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sk%C3%A5lstycke%20G-dur%20-%20SMV%20-%20SVA%20BB%205310%2002.wav"
+      },
+      {
+        "title": "Staikstrik — Swedish traditional music · original 1940 field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Staikstrik%20-%20SMV%20-%20SVA%20BB%205310%2003.wav"
       }
     ],
     "Norway": [
