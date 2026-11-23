@@ -128,9 +128,12 @@ function initializeAtmosphere(){
  if(!Context)return null;
  try{
   const ctx=new Context();
-  const source=ctx.createMediaElementSource(audio),tone=ctx.createBiquadFilter();
-  tone.type='lowpass';tone.frequency.value=4500;tone.Q.value=.55;
-  source.connect(tone);tone.connect(ctx.destination);
+  // Phase 23R.5: Never route cross-origin archive media through a
+  // MediaElementAudioSourceNode without verified CORS. Browsers output
+  // SILENCE for non-CORS media routed through Web Audio even when play()
+  // succeeds and currentTime advances. Keep the HTML audio element's
+  // native output path; Web Audio is used only for locally generated static.
+  // This preserves external streaming without requiring archive CORS headers.
   const noise=ctx.createBuffer(1,Math.ceil(ctx.sampleRate*2),ctx.sampleRate);
   const data=noise.getChannelData(0);
   for(let i=0;i<data.length;i++)data[i]=Math.random()*2-1;
