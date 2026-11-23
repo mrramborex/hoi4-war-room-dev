@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.35: ten original 1931 regional traditional music recordings (5 Indonesian gamelan, 2 Indian art songs, 1 Siamese musical drama, 1 Persian song, 1 Japanese song) from Wikimedia Commons traditional music category. 167 entries across 49/65 stations. Audio source pages document recording dates; external browser playback and final US sound-recording rights remain unverified. Development only; no licensed user uploads included yet.",
+  "notes": "23C.36: added 2 shared prewar Chinese archival recordings to each of seven previously silent regional stations (14 new playlist placements). These are reuses of existing China (Nationalist) audio URLs, NOT 14 newly sourced recordings; no local/regional provenance is claimed. 181 playlist entries, 167 unique audio sources, 56/65 stations represented. External stream playback and rights still require verification; development only.",
   "stations": {
     "United States": [
       {
@@ -766,6 +766,76 @@
       {
         "title": "Raga Bilaval — Jammu art song · original 1931 recording",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Art-song%20from%20Jummoo%20Raga%20Bilaval%20(1931).ogg"
+      }
+    ],
+    "Yunnan": [
+      {
+        "title": "Pu Tian Yue — Victor Military Band · original 1914 recording · shared Chinese archival programming (not region-specific)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pu%20Tian%20Yue.ogg"
+      },
+      {
+        "title": "Hsi-pi Tso fang Tsao — Chinese dramatic music · 1931 recording · shared Chinese archival programming (not region-specific)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hsi-pi%20Tso%20fang%20Tsao%20(1931).ogg"
+      }
+    ],
+    "Sichuan Clique": [
+      {
+        "title": "Yu Wang Tan Ming — Jianhong He · original circa 1920 recording · shared Chinese archival programming (not region-specific)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Yu%20Wang%20Tan%20Ming%20(c.%201920).ogg"
+      },
+      {
+        "title": "Kun-ch'ü P'i-p'a-chi — Chinese traditional opera · 1931 recording · shared Chinese archival programming (not region-specific)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kun-ch'%C3%BC%20P'i-p'a-chi%20(1931).ogg"
+      }
+    ],
+    "Northeastern Army": [
+      {
+        "title": "Hsi-pi Tso fang Tsao — Chinese dramatic music · 1931 recording · shared Chinese archival programming (not region-specific)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hsi-pi%20Tso%20fang%20Tsao%20(1931).ogg"
+      },
+      {
+        "title": "Pang-tse Nan-tien-men — Chinese dramatic music · 1931 recording · shared Chinese archival programming (not region-specific)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pang-tse%20Nan-tien-men%20(1931).oga"
+      }
+    ],
+    "Shanxi": [
+      {
+        "title": "Kun-ch'ü P'i-p'a-chi — Chinese traditional opera · 1931 recording · shared Chinese archival programming (not region-specific)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kun-ch'%C3%BC%20P'i-p'a-chi%20(1931).ogg"
+      },
+      {
+        "title": "Pu Tian Yue — Victor Military Band · original 1914 recording · shared Chinese archival programming (not region-specific)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pu%20Tian%20Yue.ogg"
+      }
+    ],
+    "Sinkiang": [
+      {
+        "title": "Pang-tse Nan-tien-men — Chinese dramatic music · 1931 recording · shared Chinese archival programming (not region-specific)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pang-tse%20Nan-tien-men%20(1931).oga"
+      },
+      {
+        "title": "Yu Wang Tan Ming — Jianhong He · original circa 1920 recording · shared Chinese archival programming (not region-specific)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Yu%20Wang%20Tan%20Ming%20(c.%201920).ogg"
+      }
+    ],
+    "Hebei-Chahar": [
+      {
+        "title": "Pu Tian Yue — Victor Military Band · original 1914 recording · shared Chinese archival programming (not region-specific)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pu%20Tian%20Yue.ogg"
+      },
+      {
+        "title": "Hsi-pi Tso fang Tsao — Chinese dramatic music · 1931 recording · shared Chinese archival programming (not region-specific)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hsi-pi%20Tso%20fang%20Tsao%20(1931).ogg"
+      }
+    ],
+    "Shandong Clique": [
+      {
+        "title": "Yu Wang Tan Ming — Jianhong He · original circa 1920 recording · shared Chinese archival programming (not region-specific)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Yu%20Wang%20Tan%20Ming%20(c.%201920).ogg"
+      },
+      {
+        "title": "Kun-ch'ü P'i-p'a-chi — Chinese traditional opera · 1931 recording · shared Chinese archival programming (not region-specific)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kun-ch'%C3%BC%20P'i-p'a-chi%20(1931).ogg"
       }
     ]
   }
