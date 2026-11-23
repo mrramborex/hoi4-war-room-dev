@@ -1,7 +1,7 @@
 {
   "version": 1,
   "phase": "23C.6",
-  "updated_on": "2026-11-16",
+  "updated_on": "2026-11-23",
   "scope": "Actual 1939-1945 source recordings and wartime performances; research only; do not add to playable radio until exact audio file and all underlying rights cleared",
   "rights_rule": "public_domain_or_explicit_free_reuse_only",
   "items": [
@@ -164,6 +164,80 @@
       "recording_rights_evidence": "LOC National Jukebox says pre-1923 published US recordings entered US public domain Jan 1 2022; item lists 1915 recording date but no item-specific first publication date",
       "composition_rights_evidence": "Osmán Pérez Freire credited; composition original publication date not independently established",
       "reason": "Previously uploaded in Phase 23C.11; archive hash validation does not independently establish composition rights or first publication. Do not treat as new clearance."
+    },
+    {
+      "kind": "modern interpretation of period-appropriate composition",
+      "title": "American Patrol",
+      "performer": "United States Marine Band; Capt. Michelle A. Rakers, conductor",
+      "recording_date": "2018-03-11",
+      "original_publication": "2018 Marine Band Living History concert; Commons upload 2018",
+      "composition": "Frank W. Meacham (d. 1909); published before 1931",
+      "duration_seconds": 251,
+      "station_fit": "United States; modern WWII-band tribute, not WWII-era master",
+      "source_url": "https://commons.wikimedia.org/wiki/File:American_Patrol_Meacham_United_States_Marine_Band.ogg",
+      "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American_Patrol_Meacham_United_States_Marine_Band.ogg",
+      "recording_rights_evidence": "Commons file licensing identifies U.S. Marine Band official-duty performance as PD-USGov; Marine Band concert March 11 2018, source video identified.",
+      "composition_rights_evidence": "Commons item identifies Meacham, died 1909, pre-1931 published composition; public-domain composition.",
+      "file_provenance": "Commons original Ogg, 4:11, 12.73 MB; underlying Marine Band concert footage identified",
+      "status": "excluded_unverified",
+      "reason": "No independent file checksum or exact original recording master download verification in this run. Modern interpretation; no WWII-era authenticity.",
+      "checksum_sha256": null,
+      "commercial_streaming_redistribution_approved": false
+    },
+    {
+      "kind": "modern interpretation of period-appropriate composition",
+      "title": "USAAC March",
+      "performer": "United States Marine Band; Lt. Col. Jason K. Fettig, conductor",
+      "recording_date": "2019",
+      "original_publication": "2019 The Complete Marches of John Philip Sousa Vol. 5, track 87",
+      "composition": "John Philip Sousa (1918; died 1932)",
+      "duration_seconds": 185,
+      "station_fit": "United States; historical military composition, modern master",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sousa%27s_%22USAAC_March%22_-_United_States_Marine_Band_(2019).ogg",
+      "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sousa%27s_%22USAAC_March%22_-_United_States_Marine_Band_(2019).ogg",
+      "recording_rights_evidence": "Commons file specifically identifies U.S. Marine Band performance as PD-USGov; linked to Marine Band's official Sousa recordings series.",
+      "composition_rights_evidence": "Commons identifies 1918 composition and pre-1931 publication, PD in U.S.",
+      "file_provenance": "Commons Ogg original 3:05, 7.7 MB; official Marine Band series and original MP3 referenced",
+      "status": "excluded_unverified",
+      "reason": "Original downloaded bytes and checksum not independently checked; 2019 performance is not a WWII master.",
+      "checksum_sha256": null,
+      "commercial_streaming_redistribution_approved": false
+    },
+    {
+      "kind": "authentic older historical recording",
+      "title": "The Stars and Stripes Forever",
+      "performer": "United States Navy Ceremonial Band",
+      "recording_date": "before 2003-05-06 (exact session unknown)",
+      "original_publication": "Official U.S. Navy Band website, archived 2003-05-06",
+      "composition": "John Philip Sousa (1897; died 1932)",
+      "duration_seconds": 219,
+      "station_fit": "United States; modern military interpretation of 1897 march",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Stars_and_Stripes_Forever_-_U.S._Navy_Band.ogg",
+      "download_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Stars_and_Stripes_Forever_-_U.S._Navy_Band.ogg",
+      "recording_rights_evidence": "Commons file attributes original official Navy Band MP3 from archived navyband.navy.mil site and PD-USGov Navy official duty performance.",
+      "composition_rights_evidence": "Commons identifies 1897 Sousa march and pre-1931 published composition, PD in U.S.",
+      "file_provenance": "Commons original Ogg 3:39, 9.17 MB; archived original Navy Band MP3 linked",
+      "status": "excluded_unverified",
+      "reason": "Exact session date unknown and original file checksum not independently verified; not WWII-era.",
+      "checksum_sha256": null,
+      "commercial_streaming_redistribution_approved": false
+    },
+    {
+      "kind": "authentic older historical recording",
+      "title": "Piros kalap piros száj",
+      "performer": "Lajos Nagy, tenor; Gyula Szalay, conductor",
+      "recording_date": "1921-10-28",
+      "original_publication": "Victor 73221, matrix B-25679 take 2; original publication date not independently checked",
+      "composition": "Gyula Holtzer (composer; publication and death date not verified)",
+      "station_fit": "Hungary; genuine 1921 Hungarian-language popular song",
+      "source_url": "https://www.loc.gov/item/jukebox-42577/",
+      "recording_rights_evidence": "LOC National Jukebox: pre-1923 published U.S. sound recordings entered PD; item date 1921-10-28, publication date not independently confirmed.",
+      "composition_rights_evidence": "No item-specific evidence that Holtzer's underlying song and lyrics are PD.",
+      "file_provenance": "LOC National Jukebox item; exact redistributable master file URL/checksum not verified",
+      "status": "excluded_unverified",
+      "reason": "Composition/lyrics rights and original publication not cleared; LOC streaming permission does not grant independent site redistribution.",
+      "checksum_sha256": null,
+      "commercial_streaming_redistribution_approved": false
     }
   ],
   "discovery_sources": [
@@ -173,5 +247,5 @@
     "https://www.loc.gov/collections/national-jukebox/about-this-collection/rights-and-access/",
     "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/listen-to-registry-titles/"
   ],
-  "audit_note": "Strict two-layer rights audit. No new 1936–1945 performance cleared. Commons government-band recordings are modern interpretations, not WWII originals. Do not auto-deploy. Recording MD5 or Commons SHA-1 proves file identity, not licensing or original release."
+  "audit_note": "2026-11-23: Item-specific Commons composition and PD-USGov master assertions reviewed for three full-length modern military performances; all remain excluded_unverified pending exact master checksum/original provenance confirmation. LOC 1921 Hungarian recording excluded for composition and redistribution evidence gaps. No new WWII-era recording cleared; no audio or playlists changed."
 }
