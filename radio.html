@@ -291,7 +291,7 @@ async function playCurrent(){
  try{
   await audio.play();
   if(generation!==playbackGeneration||!power||country!==$('country').value)return;
-  playing=true;autoplayBlocked=false;unavailableByStation.get(country)?.delete(selected.url);audioMessage='On air · '+selected.title;
+  playing=true;autoplayBlocked=false;unavailableByStation.get(country)?.delete(selected.url);audioMessage='Stream started · checking audio progress: '+selected.title;
  }catch(error){
   if(generation!==playbackGeneration)return;
   playing=false;autoplayBlocked=error?.name==='NotAllowedError';
@@ -311,6 +311,25 @@ function seekIntoBroadcast(){
  state.position=audio.currentTime;state.at=Date.now();state.fresh=false;pendingSeek=null;
 }
 audio.addEventListener('loadedmetadata',seekIntoBroadcast);
+// Phase 23R.2: Do not equate a resolved play() promise with audible progress.
+// A source may appear to start but stall without producing a playable stream.
+let lastProgressAt=0,lastProgressTime=0;
+audio.addEventListener('timeupdate',()=>{
+ if(!power||audio.paused||!playing)return;
+ if(audio.currentTime>lastProgressTime+0.15){
+  lastProgressTime=audio.currentTime;lastProgressAt=Date.now();
+  if(audioMessage.startsWith('Stream started')||audioMessage.startsWith('Buffering')){
+   const item=stationPlaylist()[track];audioMessage='Stream advancing · '+(item?.title||'recording');render();
+  }
+ }
+});
+audio.addEventListener('waiting',()=>{
+ if(power&&!audio.paused){audioMessage='Buffering · stream has not resumed';render()}
+});
+audio.addEventListener('stalled',()=>{
+ if(power&&!audio.paused){audioMessage='Stream stalled · archive may be unavailable';render()}
+});
+
 function pauseAudio(message){
  rememberBroadcast();playbackGeneration++;audio.pause();playing=false;audioMessage=message;render();
 }
