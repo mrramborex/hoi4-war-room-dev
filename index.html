@@ -3375,7 +3375,7 @@ header.war-header .topnav .navbtn{width:100%!important;min-width:0!important;mar
 </div>
 <input id="stage" type="hidden" value="country">
 <div class="command-field"><label>Country Roster</label><select id="countryRoster" onchange="changeCountryRoster()"><option value="all">All 65 Countries</option><option value="major">Major Powers Only</option><option value="minor">Minor Powers Only</option></select></div>
-<div class="small command-audit" id="countryAuditNote">1936 campaign roster • 65 Interesting Major + Interesting Minor countries • 293 / 293 Steam achievements validated</div>
+<div class="small command-audit" id="countryAuditNote">1936 campaign roster • 65 Interesting Major + Interesting Minor countries • 298 Steam achievements cataloged</div>
 <div class="command-check"><label><input type="checkbox" id="noRepeat" checked> Remove countries after selection</label></div>
 <button class="spin command-reset" id="reset" type="button" onclick="resetGenerator()">RESET GENERATOR</button>
 <div class="legend"><b>Political Alignment Key</b><p><span class="dot" style="background:#5b5549"></span>Fascist</p><p><span class="dot" style="background:#9a3b35"></span>Communist</p><p><span class="dot" style="background:#3d7390"></span>Democratic</p><p><span class="dot" style="background:#9a804d"></span>Unaligned / Non-Aligned</p></div>
@@ -4300,6 +4300,28 @@ function warRoomPhase18AchievementReleaseGate(){
  return result;
 }
 window.HOI4WarRoomPhase18AchievementReleaseGate=warRoomPhase18AchievementReleaseGate;
+
+/* Phase 22-M4 — current catalog gate, separate from the archived 293-artwork certification.
+   New achievements require independent Steam metadata verification before production. */
+function warRoomPhase22RomaniaReleaseGate(){
+ const required=['Rome-mania','Dacii','Total Balkan Domination','Before 1947','What would Maniu think'];
+ const all=flatAchievements(), names=all.map(a=>a.name), unique=new Set(names.map(normAchievementName));
+ const reviews=required.map(name=>({name,classification:warRoomAchievementClassification(name)}));
+ const missingIcons=required.filter(name=>!achievementIcons[name]&&!achievementArtworkOverrides[normAchievementName(name)]&&!PHASE18I_MISSING_ARTWORK_REPAIRS[normAchievementName(name)]);
+ const verifiedIds=Object.values(WAR_ROOM_VERIFIED_STEAM_API_IDS);
+ const checks={
+  catalogCount:all.length===298,
+  uniqueNames:unique.size===all.length,
+  romaniaEntries:required.every(name=>all.some(a=>a.name===name&&a.country==='Romania')),
+  difficultyReviewed:reviews.every(x=>x.classification&&x.classification.reviewStatus==='reviewed'&&x.classification.difficulty),
+  verifiedSteamApiIds:required.every(name=>verifiedIds.includes(name)),
+  verifiedSteamArtwork:missingIcons.length===0
+ };
+ const failures=Object.entries(checks).filter(([,ok])=>!ok).map(([key])=>key);
+ return {phase:'22-M4',checks,failures,missingIcons,catalog:all.length,passed:failures.length===0};
+}
+window.HOI4WarRoomPhase22RomaniaReleaseGate=warRoomPhase22RomaniaReleaseGate;
+
 
 
 /* Phase 15G — Final production QA / release gate.
@@ -13652,7 +13674,7 @@ function completeCurrentMissionAchievement(){if(!currentMission)return;const man
 document.getElementById('completeMissionAchievement').onclick=completeCurrentMissionAchievement;;
 function bindPrimaryGeneratorControls(){const spinButton=document.getElementById('spin'),stageSelector=document.getElementById('stage');if(spinButton)spinButton.onclick=spin;if(stageSelector){stageSelector.onchange=()=>{spinButton.textContent=stageSelector.value==='country'?'SPIN COUNTRY':stageSelector.value==='ideology'?'SPIN IDEOLOGY':'SPIN POLITICAL PATH';draw()}}}
 bindPrimaryGeneratorControls();document.getElementById('startCampaign').onclick=()=>{if(campaignLocked)return;logCurrentCampaign();campaignLocked=true;const start=document.getElementById('startCampaign');document.getElementById('missionNote').textContent='⚔ Campaign locked in and added to your Campaign Log. See you on the front, commander.';start.textContent='CAMPAIGN LOCKED IN';start.disabled=true;btn.disabled=true;const reroll=document.getElementById('rerollAchievement');if(reroll)reroll.disabled=true;document.querySelectorAll('[data-special-mode]').forEach(x=>x.disabled=true);};
-function resetCampaign(clearHistory=true,preserveRemaining=false){if(spinning)return; if(!preserveRemaining)remaining=shuffledCountries();const audit=document.getElementById('countryAuditNote'),mode=document.getElementById('countryRoster')?.value||'all';if(audit)audit.textContent=(mode==='major'?'Major Powers':mode==='minor'?'Minor Powers':'Full 65-country roster')+' • '+remaining.length+' countries available • 293 / 293 Steam achievements validated';selected=null;window.dispatchEvent(new Event('warroom-dev-campaign-changed'));selectedIdeology=null;currentMission=null;currentPath=null;currentSpecialOrder=null;campaignLocked=false;renderCurrentSpecialOrder();if(clearHistory)hist=[];angle=0;stage.value='country';document.getElementById('mission').classList.remove('show');const start=document.getElementById('startCampaign');start.textContent='START CAMPAIGN';start.disabled=false;btn.disabled=false;const reroll=document.getElementById('rerollAchievement');if(reroll)reroll.disabled=false;document.querySelectorAll('[data-special-mode]').forEach(x=>x.disabled=false);btn.textContent='SPIN COUNTRY';res.textContent=remaining.length?randomFieldIntelligence():'No countries remaining in this roster. Reset the generator or disable Remove countries after selection.';if(clearHistory)document.getElementById('history').innerHTML='';if(operationMode==='chosen')prepareChosenNation();else draw()}
+function resetCampaign(clearHistory=true,preserveRemaining=false){if(spinning)return; if(!preserveRemaining)remaining=shuffledCountries();const audit=document.getElementById('countryAuditNote'),mode=document.getElementById('countryRoster')?.value||'all';if(audit)audit.textContent=(mode==='major'?'Major Powers':mode==='minor'?'Minor Powers':'Full 65-country roster')+' • '+remaining.length+' countries available • 298 Steam achievements cataloged';selected=null;window.dispatchEvent(new Event('warroom-dev-campaign-changed'));selectedIdeology=null;currentMission=null;currentPath=null;currentSpecialOrder=null;campaignLocked=false;renderCurrentSpecialOrder();if(clearHistory)hist=[];angle=0;stage.value='country';document.getElementById('mission').classList.remove('show');const start=document.getElementById('startCampaign');start.textContent='START CAMPAIGN';start.disabled=false;btn.disabled=false;const reroll=document.getElementById('rerollAchievement');if(reroll)reroll.disabled=false;document.querySelectorAll('[data-special-mode]').forEach(x=>x.disabled=false);btn.textContent='SPIN COUNTRY';res.textContent=remaining.length?randomFieldIntelligence():'No countries remaining in this roster. Reset the generator or disable Remove countries after selection.';if(clearHistory)document.getElementById('history').innerHTML='';if(operationMode==='chosen')prepareChosenNation();else draw()}
 function updateOperationModeUI(){
  const chosen=operationMode==='chosen';
  document.getElementById('modeRandom').classList.toggle('active',!chosen);
