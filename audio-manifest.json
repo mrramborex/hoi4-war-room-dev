@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.19: exactly 100 playlist entries. Seven modern US Navy Band genuine performances for Turkey Iceland Latvia Lithuania Chile Uruguay South Africa, plus seven pre-1923 original LOC archival streams for Hungary Czech Poland Sweden. All 14 externally streamed and awaiting live playback verification; original locally hosted 73 masters intact. No synthetic music, no restricted user uploads.",
+  "notes": "Phase 23C.21: 103 playlist entries; three original 1905–1917 Irish repertoire recordings added to the United Kingdom station from Library of Congress National Jukebox. External audio playback not independently verified; Ireland is not a separate TOBS station. Previous 100 entries preserved.",
   "stations": {
     "United States": [
       {
@@ -48,6 +48,18 @@
       {
         "title": "It's a Long, Long Way to Tipperary — American Quartet (1914) — complete historical recording",
         "src": "audio/tobs-uk-tipperary-11094.mp3"
+      },
+      {
+        "title": "Irish tune from County Derry — Victor Concert Orchestra (1915-10-26)",
+        "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-15133_1.mp3"
+      },
+      {
+        "title": "Father O'Flynn — William F. Hooley (1905-04-27)",
+        "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-121635_1.mp3"
+      },
+      {
+        "title": "Irish jigs medley — Tom Ennis (1917-04-07)",
+        "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-22862_1.mp3"
       }
     ],
     "France": [
