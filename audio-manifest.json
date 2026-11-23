@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.34: ten distinct Wikimedia Commons-listed historical East Asian audio files added in one consolidated commit. 157 entries across 48/65 stations; includes one spoken Japanese rakugo performance, clearly labeled (not a song). 1935 Manchukuo recording is NOT public domain in US merely because Japan rights expired; US pre-1972 sound recording rights and all user permissions require final review before public release. All external streams unverified for browser playback. Development only.",
+  "notes": "Phase 23C.35: ten original 1931 regional traditional music recordings (5 Indonesian gamelan, 2 Indian art songs, 1 Siamese musical drama, 1 Persian song, 1 Japanese song) from Wikimedia Commons traditional music category. 167 entries across 49/65 stations. Audio source pages document recording dates; external browser playback and final US sound-recording rights remain unverified. Development only; no licensed user uploads included yet.",
   "stations": {
     "United States": [
       {
@@ -266,6 +266,10 @@
       {
         "title": "Jugemu — Tachibanaya Kakitsu II · historical rakugo spoken performance",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jugemu%20performed%20by%20Tachibanaya%20Kakitsu%20II.oga"
+      },
+      {
+        "title": "Ha-uta Umenimo Haru — traditional Japanese song · original 1931 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ha-uta%20Umenimo%20haru%20(1931).ogg"
       }
     ],
     "Poland": [
@@ -646,12 +650,20 @@
       {
         "title": "Sansoen Phra Barami — U.S. Navy Band (modern royal anthem)",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thai_Royal_Anthem_-_US_Navy_Band.ogg"
+      },
+      {
+        "title": "Scene from the Rama Legend — traditional Siamese musical drama · original 1931 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Scene%20from%20the%20Rama%20legend%20(1931).ogg"
       }
     ],
     "Iran": [
       {
         "title": "Sorude Melli — Imperial Iranian anthem (1933) · modern U.S. Navy Band performance",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Former%20imperial%20Iranian%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga"
+      },
+      {
+        "title": "Popular Song — traditional Persian music · original 1931 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Popular%20song%20(1931).ogg"
       }
     ],
     "Iraq": [
@@ -682,6 +694,26 @@
       {
         "title": "Indonesia Raya — 1928 independence song · U.S. Navy Band instrumental (c. 1953)",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Indonesia_Raya_instrumental.ogg"
+      },
+      {
+        "title": "Gamelan Anklung Berong Pengetjet — Bali · original 1931 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gamelan%20Anklung%20Berong%20Pengetjet%20(1931).ogg"
+      },
+      {
+        "title": "Gamelan Djoged Tjedjing-Kereman — Bali · original 1931 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gamelan%20Djoged%20Tjedjing-Kereman%20(1931).oga"
+      },
+      {
+        "title": "Gamelan Gong Lagu Kebiar — Bali · original 1931 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gamelan%20Gong%20Lagu%20Kebiar%20(1931).ogg"
+      },
+      {
+        "title": "Gamelan Pelog Kinanti Madumurti — Java · original 1931 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gamelan%20Pelog%20Kinanti%20madumurti%20(1931).ogg"
+      },
+      {
+        "title": "Gamelan Slendro Sekar Gadung — Java · original 1931 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gamelan%20Slendro%20Sekar%20gadung%20(1931).oga"
       }
     ],
     "China (Nationalist)": [
@@ -724,6 +756,16 @@
       {
         "title": "Manchukuo national anthem — Japan Victrola Chorus (1935 historical recording)",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Manchukuo%20National%20Anthem%201933-1942%20Chinese%20Korean.ogg"
+      }
+    ],
+    "British Raj / India": [
+      {
+        "title": "Raga Bhairavi — Meerut art song · original 1931 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Art%20song%20from%20Meerut%20Raga%20Bhairavi%20(1931).ogg"
+      },
+      {
+        "title": "Raga Bilaval — Jammu art song · original 1931 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Art-song%20from%20Jummoo%20Raga%20Bilaval%20(1931).ogg"
       }
     ]
   }
