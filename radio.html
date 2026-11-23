@@ -291,7 +291,7 @@ async function playCurrent(){
  try{
   await audio.play();
   if(generation!==playbackGeneration||!power||country!==$('country').value)return;
-  playing=true;autoplayBlocked=false;unavailableByStation.get(country)?.delete(selected.url);audioMessage='Stream started · checking audio progress: '+selected.title;
+  playing=true;autoplayBlocked=false;audioMessage='Stream started · checking audio progress: '+selected.title;
  }catch(error){
   if(generation!==playbackGeneration)return;
   playing=false;autoplayBlocked=error?.name==='NotAllowedError';
@@ -350,29 +350,39 @@ audio.addEventListener('ended',()=>{
  playbackGeneration++;playing=false;audio.removeAttribute('src');audio.load();
  if(power)void playCurrent();else render();
 });
-audio.addEventListener('error',()=>{
- if(!audio.getAttribute('src'))return;
+// Phase 23R.3: One failure path for every station and every audio source.
+// A broken or indefinitely buffering stream must not be reported as playable.
+let attemptedStreamAt=0,attemptedStreamUrl='';
+function failCurrentRecording(reason){
+ if(!power||!audio.getAttribute('src'))return;
  const country=$('country').value,list=stationPlaylist();
  const selected=list[track],url=selected?.url;
+ if(!url||audio.src!==url)return;
  let failed=unavailableByStation.get(country);
  if(!failed){failed=new Set();unavailableByStation.set(country,failed)}
- if(url)failed.add(url);
- const current=track;
+ failed.add(url);
  let alternative=-1;
  for(let offset=1;offset<list.length;offset++){
-  const idx=(current+offset)%list.length;
+  const idx=(track+offset)%list.length;
   if(!failed.has(list[idx].url)){alternative=idx;break}
  }
- if(alternative>=0&&power){
-  // Don't loop forever when an external archive is down: each candidate is
-  // tried once per tuning session, then the receiver reports no signal.
-  changeTrack(alternative-current);
-  return;
- }
- playbackGeneration++;playing=false;
- audioMessage=list.length>1?'Station unavailable · all selected recordings failed to load.':'Recording unavailable · the archive stream may be offline.';
+ if(alternative>=0){changeTrack(alternative-track);return}
+ playbackGeneration++;playing=false;audio.pause();
+ audioMessage='Station unavailable · '+reason+' · '+failed.size+' recording(s) failed';
  render();
-});
+}
+audio.addEventListener('error',()=>failCurrentRecording('audio source error'));
+// Keep the watchdog attached to the active media element, regardless of station.
+// Allow 20s for first audio progress and 25s between progress updates.
+setInterval(()=>{
+ if(!power||audio.paused||!audio.getAttribute('src'))return;
+ const now=Date.now(),url=audio.src;
+ if(url!==attemptedStreamUrl){attemptedStreamUrl=url;attemptedStreamAt=now;lastProgressAt=0;lastProgressTime=0;return}
+ if(audio.currentTime>lastProgressTime+0.15){lastProgressTime=audio.currentTime;lastProgressAt=now;return}
+ if(!attemptedStreamAt)attemptedStreamAt=now;
+ if(!lastProgressAt&&now-attemptedStreamAt>20000)failCurrentRecording('no playback progress after 20 seconds');
+ else if(lastProgressAt&&now-lastProgressAt>25000)failCurrentRecording('playback stalled for 25 seconds');
+},2500);
 audio.addEventListener('pause',()=>{if(playing&&audio.paused){playing=false;render()}});
 window.addEventListener('pagehide',()=>{playbackGeneration++;audio.pause();silenceStatic();playing=false});
 const stationByCountry=new Map(options.map((option,index)=>[option.value,index]));
