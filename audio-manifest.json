@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.29: 119 entries across 47 of 65 stations. Added Paraguay 1933-arranged anthem, U.S. Navy Band circa 2000, from Wikimedia Commons. Rejected 1935 Manchukuo recording due U.S. pre-1972 sound-recording rights and rejected Congo anthem composed 1959 as anachronistic. Aiming for 5–10 additions per commit but only one source passed this phase's review. External playback unverified.",
+  "notes": "Phase 23C.30: five distinct original 1913–1937 Japanese historical recordings added in one consolidated commit. 124 entries, 47/65 stations. Commons documents Japanese public-domain status; US pre-1972 sound recording rights and underlying compositions need independent final clearance before production. External playback not browser-verified; keep development only.",
   "stations": {
     "United States": [
       {
@@ -150,6 +150,26 @@
       {
         "title": "Teki wa Ikuman — historical recording",
         "src": "audio/tobs-japan-teki-wa-ikuman.ogg"
+      },
+      {
+        "title": "Gunkan kōshinkyoku (Warship March) — Fumiko Nōsho · original 1913 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gunkan%20k%C5%8Dshinkyoku%20(1913).ogg"
+      },
+      {
+        "title": "Kimi ga Yo — Toyama Army School Military Band · original November 1930 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kimi%20ga%20Yo%201930.ogg"
+      },
+      {
+        "title": "Kimigayo — historical vocal performance · original 1930 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kimigayo%20vocal%201930.ogg"
+      },
+      {
+        "title": "Roei no Uta (Field Encampment Song) — Columbia Orchestra · original 1937 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Roei%20No%20Uta.ogg"
+      },
+      {
+        "title": "Yuki no Shingun (Snow March) — Toyama Army School Military Band · original 1937 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Yuki%2BNo%2BShingun.ogg"
       }
     ],
     "Poland": [
