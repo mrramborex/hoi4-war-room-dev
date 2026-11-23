@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.22: 106 playlist entries, 39 of 65 stations represented. Three documented genuine modern U.S. Navy Band recordings added to Philippines and Siam / Thailand via Wikimedia Commons file redirects; historical compositions but modern performances, NOT WWII recordings. External browser playback not verified. All previous entries preserved.",
+  "notes": "Phase 23C.23: 107 playlist entries, 40/65 represented stations. Iran receives a genuine U.S. Navy Band performance of the 1933–1979 imperial anthem, not a WWII-era recording. External browser playback not verified; no other country added pending recording/rights verification.",
   "stations": {
     "United States": [
       {
@@ -502,6 +502,12 @@
       {
         "title": "Sansoen Phra Barami — U.S. Navy Band (modern royal anthem)",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thai_Royal_Anthem_-_US_Navy_Band.ogg"
+      }
+    ],
+    "Iran": [
+      {
+        "title": "Sorude Melli — Imperial Iranian anthem (1933) · modern U.S. Navy Band performance",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Former%20imperial%20Iranian%20national%20anthem%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga"
       }
     ]
   }
