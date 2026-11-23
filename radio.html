@@ -12,6 +12,14 @@ button,select,input{font:inherit}button{cursor:pointer}button:focus-visible,sele
 @media(prefers-reduced-motion:reduce){.needle{transition:none}}
 body{padding:8px 10px;min-height:0;display:block;background:#1b241e}.page{width:min(100%,770px);margin:auto}.heading,.note{display:none}.radio{padding:12px 16px 10px;border-radius:27px}.top-trim{margin-bottom:8px;height:5px}.brand{margin:0 0 9px}.brand strong{font-size:18px}.brand small{font-size:9px}.front{padding:10px}.speaker{min-height:165px}.glass{min-height:112px}.station-name{margin:6px 0 2px;font-size:17px;min-height:22px}.station-info{min-height:20px}.dial-title{margin-bottom:5px}.dial-track{margin:8px 3px}.controls{margin-top:9px;gap:8px}.panel{padding:9px}.feet span{height:8px}@media(max-width:650px){.upper{grid-template-columns:1fr 1fr}.speaker{min-height:150px}.controls{grid-template-columns:1fr 1fr}.panel:first-child{grid-column:1/-1}}@media(max-width:460px){.upper{grid-template-columns:1fr}.speaker{min-height:85px}.controls{grid-template-columns:1fr 1fr}}@media(max-height:650px) and (min-width:650px){.speaker{min-height:110px}.glass{min-height:95px}.radio{padding:8px 12px}.front{padding:7px}.brand{margin-bottom:5px}.controls{margin-top:6px}}/* Phase 23A walnut cabinet and transparent embed */
 html,body{background:transparent!important;overflow:hidden!important}
+/* Phase 23C.42: permit vertical scrolling on standalone mobile radio pages.
+   Embedded desktop presentation keeps its original clipped layout. */
+@media (max-width:650px), (pointer:coarse) and (max-height:850px){
+ html,body{overflow-x:hidden!important;overflow-y:auto!important;-webkit-overflow-scrolling:touch;}
+ html{height:auto!important;min-height:100%!important;}
+ body{height:auto!important;min-height:100dvh!important;touch-action:pan-y;}
+ .page{height:auto!important;min-height:0!important;}
+}
 body{padding:0!important;margin:0!important;min-height:0!important;display:block!important}
 .page{width:100%!important;margin:0!important}
 .radio{position:relative;z-index:1;background:radial-gradient(ellipse 22px 85px at 14% 46%,#4b2415a8 0%,#6f3921a0 35%,transparent 75%),radial-gradient(ellipse 16px 65px at 84% 28%,#4e2516a3 0%,transparent 80%),repeating-linear-gradient(177deg,transparent 0 3px,#29130924 4px 5px,transparent 6px 11px),repeating-linear-gradient(6deg,#b27743 0 2px,#8e4c29 4px 7px,#a76539 9px 13px,#6d351f 16px 19px,#a15b32 22px 26px);border-color:#341a0d;box-shadow:inset 0 0 0 3px #cf995f,inset 0 0 0 8px #5a2d19,inset 0 11px 16px #f5c08225,0 15px 28px #0009}
