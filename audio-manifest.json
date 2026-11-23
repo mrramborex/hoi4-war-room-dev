@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.27: 113 entries across 46/65 stations. Added 1935 Chinese anti-Japanese resistance song March of the Volunteers to Nationalist China station, using US Navy Band public-domain performance recorded May 5 2003. NOT a wartime performance and NOT Nationalist China's national anthem. Manchukuo source candidates remain excluded because recording provenance/licensing is unclear or audio is synthesized.",
+  "notes": "Phase 23C.28: 118 playlist entries, 46/65 stations represented. Five distinct archival Chinese music recordings from 1914, c.1920 and 1931 added to China (Nationalist) as broad Chinese cultural repertoire; not claimed to be KMT-specific or regional warlord broadcasts. All five Wikimedia Commons source pages label public domain, but individual US rights and external playback still require final verification. Larger multi-track batch in one commit.",
   "stations": {
     "United States": [
       {
@@ -544,6 +544,26 @@
       {
         "title": "March of the Volunteers — 1935 anti-Japanese resistance song · U.S. Navy Band performance (2003)",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/March%20of%20the%20Volunteers%20instrumental.ogg"
+      },
+      {
+        "title": "Pu Tian Yue — Victor Military Band · original 1914 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pu%20Tian%20Yue.ogg"
+      },
+      {
+        "title": "Yu Wang Tan Ming — Jianhong He · original circa 1920 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Yu%20Wang%20Tan%20Ming%20(c.%201920).ogg"
+      },
+      {
+        "title": "Hsi-pi Tso fang Tsao — Chinese dramatic music · 1931 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hsi-pi%20Tso%20fang%20Tsao%20(1931).ogg"
+      },
+      {
+        "title": "Kun-ch'ü P'i-p'a-chi — Chinese traditional opera · 1931 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kun-ch'%C3%BC%20P'i-p'a-chi%20(1931).ogg"
+      },
+      {
+        "title": "Pang-tse Nan-tien-men — Chinese dramatic music · 1931 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pang-tse%20Nan-tien-men%20(1931).oga"
       }
     ]
   }
