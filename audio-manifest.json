@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.44: 11 original 1940s audio sources (ten Swedish folk recordings from 1943 and one Brazilian 1941 performance), individually listed in Wikimedia Commons category pages. 200 unique source URLs, 229 playlist entries, 65/65 stations. Swedish files are large WAV recordings; playback and US sound-recording rights not verified. Development only.",
+  "notes": "Phase 23C.45: 13 original 1940s audio sources (12 Swedish 1942/1945 traditional music recordings; 1944 Brazilian wartime anthem recording). Commons category files documented; no synthetic or modern performances. 213 unique source URLs, 242 playlist entries, 65/65 stations. Large WAV streams, browser playback and US rights still unverified; development only.",
   "stations": {
     "United States": [
       {
@@ -452,6 +452,54 @@
       {
         "title": "Vals — original 1943 Swedish field recording",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vals%20-%20SMV%20-%20SVA%20BB%205311%2029.wav"
+      },
+      {
+        "title": "Back-Olles brudlåt, Harbo — original 1942 recording · Swedish folk archive",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Back-Olles%20brudl%C3%A5t%2C%20Harbo%20-%20SMV%20-%20SVA%20BB%205312%2005.wav"
+      },
+      {
+        "title": "Eklundapolska nr 1 — original 1942 recording · Swedish folk archive",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Eklundapolska%20nr%201%20-%20SMV%20-%20SVA%20BB%205312%2002.wav"
+      },
+      {
+        "title": "Lilla Österman, Hjälsta — original 1942 recording · Swedish folk archive",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lilla%20%C3%96sterman%2C%20Hj%C3%A4lsta%20-%20SMV%20-%20SVA%20BB%205312%2008.wav"
+      },
+      {
+        "title": "Långbacka Jans polska — original 1942 recording · Swedish folk archive",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/L%C3%A5ngbacka%20Jans%20polska%20-%20SMV%20-%20SVA%20BB%205312%2001.wav"
+      },
+      {
+        "title": "Mungamarschen — original 1942 recording · Swedish folk archive",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mungamarschen%20-%20SMV%20-%20SVA%20BB%205312%2007.wav"
+      },
+      {
+        "title": "Polska efter August Frank, Hjälsta — original 1942 recording · Swedish folk archive",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Polska%20efter%20August%20Frank%2C%20Hj%C3%A4lsta%20-%20SMV%20-%20SVA%20BB%205312%2009.wav"
+      },
+      {
+        "title": "Polska från Fjärdhundra — original 1942 recording · Swedish folk archive",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Polska%20fr%C3%A5n%20Fj%C3%A4rdhundra%20-%20SMV%20-%20SVA%20BB%205312%2006.wav"
+      },
+      {
+        "title": "Sko-Ella och näcken — original 1942 recording · Swedish folk archive",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sko-Ella%20och%20n%C3%A4cken%20-%20SMV%20-%20SVA%20BB%205312%2004.wav"
+      },
+      {
+        "title": "Spel-Jerkers vals — original 1942 recording · Swedish folk archive",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Spel-Jerkers%20vals%20-%20SMV%20-%20SVA%20BB%205312%2003.wav"
+      },
+      {
+        "title": "En Lars å en Mas — original 1945 recording · Swedish folk archive",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/En%20Lars%20%C3%A5%20en%20Mas%20-%20SMV%20-%20SVA%20BB%205311%2035.wav"
+      },
+      {
+        "title": "Ett förnöjeligt sinn det är rikedomen min — original 1945 recording · Swedish folk archive",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ett%20f%C3%B6rn%C3%B6jeligt%20sinn%20det%20%C3%A4r%20rikedomen%20min%20-%20SMV%20-%20SVA%20BB%205311%2037.wav"
+      },
+      {
+        "title": "Jag är böjd att älska båda slag — original 1945 recording · Swedish folk archive",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jag%20%C3%A4r%20b%C3%B6jd%20att%20%C3%A4lska%20b%C3%A5da%20slag%20-%20SMV%20-%20SVA%20BB%205311%2036.wav"
       }
     ],
     "Norway": [
@@ -560,6 +608,10 @@
       {
         "title": "Amapá — Dante Santoro · original 1941 recording",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Amap%C3%A1%20-%20Dante%20Santoro%20-%201941-%20Juca%20Storoni.ogg"
+      },
+      {
+        "title": "Hino Nacional Brasileiro Durante Segunda Guerra Mundial na Itália (1944) — original 1944 recording · Brazilian wartime anthem in Italy",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hino%20Nacional%20Brasileiro%20Durante%20Segunda%20Guerra%20Mundial%20na%20It%C3%A1lia%20(1944).ogg"
       }
     ],
     "Greece": [
