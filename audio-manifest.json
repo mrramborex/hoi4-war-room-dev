@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.43: eight original 1940 Swedish traditional music field recordings documented in Wikimedia Commons Category:Audio files of 1940; WAV audio (large files), not 1940s American swing. 189 distinct source URLs and 218 playlist placements. External browser streaming, licensing and performance not yet verified. Development only.",
+  "notes": "Phase 23C.44: 11 original 1940s audio sources (ten Swedish folk recordings from 1943 and one Brazilian 1941 performance), individually listed in Wikimedia Commons category pages. 200 unique source URLs, 229 playlist entries, 65/65 stations. Swedish files are large WAV recordings; playback and US sound-recording rights not verified. Development only.",
   "stations": {
     "United States": [
       {
@@ -412,6 +412,46 @@
       {
         "title": "Staikstrik — Swedish traditional music · original 1940 field recording",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Staikstrik%20-%20SMV%20-%20SVA%20BB%205310%2003.wav"
+      },
+      {
+        "title": "Gånglåt fr Frösön — original 1943 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/G%C3%A5ngl%C3%A5t%20fr%20Fr%C3%B6s%C3%B6n%20-%20SMV%20-%20SVA%20BB%205311%2020.wav"
+      },
+      {
+        "title": "Jämtländsk polska — original 1943 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/J%C3%A4mtl%C3%A4ndsk%20polska%20-%20SMV%20-%20SVA%20BB%205311%2015.wav"
+      },
+      {
+        "title": "Polska — original 1943 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Polska%20-%20SMV%20-%20SVA%20BB%205311%2028.wav"
+      },
+      {
+        "title": "Polska e fadern — original 1943 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Polska%20e%20fadern%20-%20SMV%20-%20SVA%20BB%205311%2031.wav"
+      },
+      {
+        "title": "Polska e Lapp-Nils — original 1943 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Polska%20e%20Lapp-Nils%20-%20SMV%20-%20SVA%20BB%205311%2017.wav"
+      },
+      {
+        "title": "Polska e morfar, Innersta friden — original 1943 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Polska%20e%20morfar%2C%20Innersta%20friden%20-%20SMV%20-%20SVA%20BB%205311%2027.wav"
+      },
+      {
+        "title": "Polska efter Elias Hedberg — original 1943 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Polska%20efter%20Elias%20Hedberg%20-%20SMV%20-%20SVA%20BB%205311%2014.wav"
+      },
+      {
+        "title": "Polska till dottern — original 1943 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Polska%20till%20dottern%20-%20SMV%20-%20SVA%20BB%205311%2021.wav"
+      },
+      {
+        "title": "Vals (tills m brodern) — original 1943 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vals%20(tills%20m%20brodern)%20-%20SMV%20-%20SVA%20BB%205311%2030.wav"
+      },
+      {
+        "title": "Vals — original 1943 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vals%20-%20SMV%20-%20SVA%20BB%205311%2029.wav"
       }
     ],
     "Norway": [
@@ -516,6 +556,10 @@
       {
         "title": "Intrigas no Boteco do Padilha — Luís Americano · original 1940 recording",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Intrigas%20no%20Boteco%20do%20Padilha%20-%20Luis%20Americano%201940.ogg"
+      },
+      {
+        "title": "Amapá — Dante Santoro · original 1941 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Amap%C3%A1%20-%20Dante%20Santoro%20-%201941-%20Juca%20Storoni.ogg"
       }
     ],
     "Greece": [
