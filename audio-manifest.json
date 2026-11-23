@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.21: 103 playlist entries; three original 1905–1917 Irish repertoire recordings added to the United Kingdom station from Library of Congress National Jukebox. External audio playback not independently verified; Ireland is not a separate TOBS station. Previous 100 entries preserved.",
+  "notes": "Phase 23C.22: 106 playlist entries, 39 of 65 stations represented. Three documented genuine modern U.S. Navy Band recordings added to Philippines and Siam / Thailand via Wikimedia Commons file redirects; historical compositions but modern performances, NOT WWII recordings. External browser playback not verified. All previous entries preserved.",
   "stations": {
     "United States": [
       {
@@ -486,6 +486,22 @@
       {
         "title": "South African National Anthem — U.S. Navy Band (modern version) — c. 1996 · archive stream",
         "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/South_African_national_anthem.oga"
+      }
+    ],
+    "Philippines": [
+      {
+        "title": "Lupang Hinirang — U.S. Navy Band (c. 1994 modern instrumental)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lupang_Hinirang_instrumental.ogg"
+      }
+    ],
+    "Siam / Thailand": [
+      {
+        "title": "Phleng Chat Thai — U.S. Navy Band (2004 modern instrumental)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thai_National_Anthem_-_US_Navy_Band.ogg"
+      },
+      {
+        "title": "Sansoen Phra Barami — U.S. Navy Band (modern royal anthem)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thai_Royal_Anthem_-_US_Navy_Band.ogg"
       }
     ]
   }
