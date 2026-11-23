@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.47: 7 newly listed 1942–1944 archival sources, 4 UK orchestral sides, 2 Manchukuo anthems, 1 US V-Disc. Large FLAC sources (up to 177 MB) are not mobile-optimized; browser streaming, source rights and dates need final checks. 229 unique URLs; 258 playlist placements, 65/65 stations. No original swing/pop tracks added because matching recordings were not independently verified. Development only.",
+  "notes": "Phase 23C.49: 3 newly reviewed 1945 Swedish vocal field-recording fragments, with individual Wikimedia Commons pages confirming performer, exact recording date, durations and CC0 licensing. Short excerpts, not full songs. 232 distinct audio URLs, 261 playlist entries, 65/65 stations. Streaming untested; expanded candidate research continues separately. Dev only.",
   "stations": {
     "United States": [
       {
@@ -556,6 +556,18 @@
       {
         "title": "Polska, Kom fattigdom — original 1941 Swedish field recording",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Polska%2C%20Kom%20fattigdom%20-%20SMV%20-%20SVA%20BB%205309%2032.wav"
+      },
+      {
+        "title": "I dag som i går — 16-second Swedish folk vocal fragment; Levi Johansson; recorded 3 November 1945 · CC0 archive",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/I%20dag%20som%20i%20g%C3%A5r%20-%20SMV%20-%20SVA%20BB%205311%2032.wav"
+      },
+      {
+        "title": "Statt upp du källarepiga — 26-second Swedish folk vocal fragment; Levi Johansson; recorded 3 November 1945 · CC0 archive",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Statt%20upp%20du%20k%C3%A4llarepiga%20-%20SMV%20-%20SVA%20BB%205311%2033.wav"
+      },
+      {
+        "title": "Sätt dig på stolen du vallerman — 43-second Swedish folk vocal fragment; Levi Johansson; recorded 3 November 1945 · CC0 archive",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/S%C3%A4tt%20dig%20p%C3%A5%20stolen%20du%20vallerman%20-%20SMV%20-%20SVA%20BB%205311%2034.wav"
       }
     ],
     "Norway": [
