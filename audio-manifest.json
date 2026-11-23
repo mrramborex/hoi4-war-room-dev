@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.45: 13 original 1940s audio sources (12 Swedish 1942/1945 traditional music recordings; 1944 Brazilian wartime anthem recording). Commons category files documented; no synthetic or modern performances. 213 unique source URLs, 242 playlist entries, 65/65 stations. Large WAV streams, browser playback and US rights still unverified; development only.",
+  "notes": "Phase 23C.46: 9 original 1941 Swedish folk music files sourced from Wikimedia Commons Category:Audio files of 1941. 222 unique source URLs and 251 playlist placements across 65 stations. Large WAV files; external playback and US rights remain unverified. No additional countries added due to lack of independently verified 1940s recordings. Development only.",
   "stations": {
     "United States": [
       {
@@ -500,6 +500,42 @@
       {
         "title": "Jag är böjd att älska båda slag — original 1945 recording · Swedish folk archive",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jag%20%C3%A4r%20b%C3%B6jd%20att%20%C3%A4lska%20b%C3%A5da%20slag%20-%20SMV%20-%20SVA%20BB%205311%2036.wav"
+      },
+      {
+        "title": "Armbågsleken från Evertsberg — original 1941 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Armb%C3%A5gsleken%20fr%C3%A5n%20Evertsberg%20-%20SMV%20-%20SVA%20BB%205309%2023.wav"
+      },
+      {
+        "title": "Brudmarsch e Anders Söderlund — original 1941 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Brudmarsch%20e%20Anders%20S%C3%B6derlund%20-%20SMV%20-%20SVA%20BB%205309%2022.wav"
+      },
+      {
+        "title": "Du gamla du fria — original 1941 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Du%20gamla%20du%20fria%20-%20SMV%20-%20SVA%20BB%205309%2034.wav"
+      },
+      {
+        "title": "En känd visa — original 1941 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/En%20k%C3%A4nd%20visa%20-%20SMV%20-%20SVA%20BB%205309%2028.wav"
+      },
+      {
+        "title": "En visa till — original 1941 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/En%20visa%20till%20-%20SMV%20-%20SVA%20BB%205309%2029.wav"
+      },
+      {
+        "title": "Gånglåt — original 1941 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/G%C3%A5ngl%C3%A5t%20-%20SMV%20-%20SVA%20BB%205309%2024.wav"
+      },
+      {
+        "title": "Polska (Mjölnarpolska) — original 1941 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Polska%20(Mj%C3%B6lnarpolska)%20-%20SMV%20-%20SVA%20BB%205309%2026.wav"
+      },
+      {
+        "title": "Polska, Je skull fäll ut å fria — original 1941 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Polska%2C%20Je%20skull%20f%C3%A4ll%20ut%20%C3%A5%20fria%20-%20SMV%20-%20SVA%20BB%205309%2031.wav"
+      },
+      {
+        "title": "Polska, Kom fattigdom — original 1941 Swedish field recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Polska%2C%20Kom%20fattigdom%20-%20SMV%20-%20SVA%20BB%205309%2032.wav"
       }
     ],
     "Norway": [
