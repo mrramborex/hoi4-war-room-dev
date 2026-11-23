@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.38: filled final two silent stations, Aussa with one shared Ethiopian anthem recording (1954 performance, NOT Afar-specific), Congo with two original 1931 Congolese traditional recordings from the 1931 Colonial Exposition. 65/65 stations represented, 198 playlist placements, 169 unique source URLs. External browser playback and final US recording rights still unverified. Development only.",
+  "notes": "Phase 23C.39: 7 newly sourced original 1940s recordings/excerpts from individually identified Wikimedia Commons file pages. Includes one 27-second excerpt and one military cadence, explicitly labeled; other selections are songs/marches. 1940s recording rights and direct streaming behavior require verification before production. 205 playlist placements and 176 unique audio URLs, 65 stations. Development only.",
   "stations": {
     "United States": [
       {
@@ -62,6 +62,30 @@
       {
         "title": "America the Beautiful — U.S. Navy Band · modern performance of 1910 song",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%22America%20the%20Beautiful%22%2C%20performed%20by%20the%20United%20States%20Navy%20Band.oga"
+      },
+      {
+        "title": "American Patrol — Glenn Miller · original wartime performance (before Dec 1944)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Meacham's%20%22American%20Patrol%22%2C%20performed%20by%20Glenn%20Miller.oga"
+      },
+      {
+        "title": "Anchors Aweigh — Glenn Miller · original wartime performance (before Dec 1944)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%22Anchors%20Aweigh%22%2C%20performed%20by%20Glenn%20Miller.mp3"
+      },
+      {
+        "title": "The Star-Spangled Banner — Fred Waring and His Pennsylvanians · 1942 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Star-spangled%20banner.ogg"
+      },
+      {
+        "title": "The Star-Spangled Banner — archival circa-1940s recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Star-Spangled%20Banner%20(ca.%201940's).ogg"
+      },
+      {
+        "title": "Anchors Aweigh — Boston Pops · 1944 excerpt (27 seconds)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Anchors%20Aweigh%20(1944)%2C%20by%20the%20Boston%20Pops.oga"
+      },
+      {
+        "title": "Duckworth Chant — 1944 wartime V-Disc · military cadence (not a song)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/V%20disc%201944%20duckworth%20chant.ogg"
       }
     ],
     "United Kingdom": [
@@ -436,6 +460,10 @@
       {
         "title": "A madrugada exul — original historical recording",
         "src": "audio/tobs-c11-126387.mp3"
+      },
+      {
+        "title": "Intrigas no Boteco do Padilha — Luís Americano · original 1940 recording",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Intrigas%20no%20Boteco%20do%20Padilha%20-%20Luis%20Americano%201940.ogg"
       }
     ],
     "Greece": [
