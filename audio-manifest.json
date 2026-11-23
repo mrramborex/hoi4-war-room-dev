@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.40: four original 1940–1941 Artie Shaw recordings, source filenames independently listed in Wikimedia Commons Artie Shaw category. 180 unique source URLs, 209 playlist entries, 65/65 stations represented. US pre-1972 sound recording rights not cleared; streaming and rights review required before production. Development only.",
+  "notes": "Phase 23C.41: one additional verified Wikimedia Commons 1941 Artie Shaw audio file (alternate transfer of an existing song, not a new composition). 210 playlist placements, 181 unique source URLs, 65/65 stations. Did not pad with unverified 1940s titles. External audio playback and US pre-1972 recording rights remain unverified. Development only.",
   "stations": {
     "United States": [
       {
@@ -102,6 +102,10 @@
       {
         "title": "Gloomy Sunday — Artie Shaw & Pauline Byrne · 1940 recording",
         "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/ArtieShawVpaulineBryne-GloomySunday1940.ogg"
+      },
+      {
+        "title": "I Hear a Rhapsody — Artie Shaw & Helen Forrest · alternate 1941 transfer (same song, distinct audio file)",
+        "src": "https://commons.wikimedia.org/wiki/Special:Redirect/file/ArtieShawVhelenForrest-IHearARhapsody1941.ogg"
       }
     ],
     "United Kingdom": [
