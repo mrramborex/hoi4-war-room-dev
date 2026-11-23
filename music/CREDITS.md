@@ -293,3 +293,26 @@ Three real human recordings are referenced through exact Wikimedia Commons origi
 | Spain | Marcha Real — historical 1915 Odeon recording | 1915 | Historical Odeon recording; performer unknown; Original 1915 2m52 recording of Spain's Marcha Real. Pre-WWII performance, not a 1936-1945 radio broadcast. | [Commons file](https://commons.wikimedia.org/wiki/File:Marcha_Real_(1915).ogg) — Commons source marks original recording and composition as public domain. |
 
 **Radio resilience:** An HTML audio load error now marks the failing recording unavailable and attempts an untried alternative in that country's playlist. After exhausting candidates, the radio reports that recordings are unavailable instead of looping through broken URLs. This change is a code/syntax check, not yet a real browser-network test.
+
+## Phase 23C.19 — 100-entry milestone, one consolidated commit
+
+**100 curated playlist entries, not 100 verified-working hosted MP3 files.** Fourteen exact third-party archival URLs were added (seven Wikimedia Commons documented public-domain U.S. Navy Band original performances and seven Library of Congress pre-1923 original historical MP3 sources). All fourteen **stream externally**, were not byte-level hashed locally, and need browser-playback testing. Wikimedia and LOC may rate-limit access. No production changes.
+
+| Station | Historical program / recording | Performance date | Source |
+|---|---|---|---|
+| Turkey | İstiklâl Marşı — U.S. Navy Band (modern instrumental) | c. 2000 | [Source and rights evidence](https://commons.wikimedia.org/wiki/File:Istikl%C3%A2l_Marsi_instrumetal.ogg) |
+| Iceland | Lofsöngur — U.S. Navy Band (modern instrumental) | c. 2003 | [Source and rights evidence](https://commons.wikimedia.org/wiki/File:Lofs%C3%B6ngur.ogg) |
+| Latvia | Dievs, svētī Latviju! — U.S. Navy Band | 1995 | [Source and rights evidence](https://commons.wikimedia.org/wiki/File:Latvian_National_Anthem.ogg) |
+| Lithuania | Tautiška giesmė — U.S. Navy Band instrumental | c. 2003 | [Source and rights evidence](https://commons.wikimedia.org/wiki/File:Tauti%C5%A1ka_giesme_instrumental.oga) |
+| Chile | Himno Nacional de Chile — U.S. Navy Band | modern; exact recording year unspecified | [Source and rights evidence](https://commons.wikimedia.org/wiki/File:United_States_Navy_Band_-_National_Anthem_of_Chile.ogg) |
+| Uruguay | Himno Nacional de Uruguay — complete U.S. Navy Band performance | c. 2003 | [Source and rights evidence](https://commons.wikimedia.org/wiki/File:United_States_Navy_Band_-_National_Anthem_of_Uruguay_%28complete%29.ogg) |
+| South Africa | South African National Anthem — U.S. Navy Band (modern version) | c. 1996 | [Source and rights evidence](https://commons.wikimedia.org/wiki/File:South_African_national_anthem.oga) |
+| Hungary | Hungarian rhapsody , no. 2 | 1908-09-18 | [Source and rights evidence](https://www.loc.gov/item/jukebox-126691/) |
+| Hungary | Hungarian dance no. 5 | 1916-02-04 | [Source and rights evidence](https://www.loc.gov/item/jukebox-187866/) |
+| Czechoslovakia | Ne ty to nepovis | 1912-01-24 | [Source and rights evidence](https://www.loc.gov/item/jukebox-131436/) |
+| Czechoslovakia | Vesely Mlandenci | 1907-08-01 | [Source and rights evidence](https://www.loc.gov/item/jukebox-125363/) |
+| Poland | Idzie Stary Bes Wies | 1911-07-18 | [Source and rights evidence](https://www.loc.gov/item/jukebox-130636/) |
+| Poland | Nasz Chlopicki | 1915-10-21 | [Source and rights evidence](https://www.loc.gov/item/jukebox-15273/) |
+| Sweden | Till Osterland vill jag fara | 1916-05-25 | [Source and rights evidence](https://www.loc.gov/item/jukebox-16737/) |
+
+Important historical clarification: seven Navy Band recordings are from the 1990s–2000s, not WWII. The South African item is the *post-1994 combined anthem* with 1995 arrangement, not the anthem used during WWII. The seven LOC performances are genuinely older master recordings, but not WWII-era either. Avoid claiming historical sound authenticity for modern Navy Band performances. See `music/phase-23c19-sources.json` for exact canonical source URLs and cultural contextual notes.

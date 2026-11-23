@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "phase": "23C.19",
+  "target": "100 total archive playlist entries; 7 previously silent stations receive genuine modern band recordings; 7 additional original pre-1923 archival LOC streams",
+  "notes": "ALL FOURTEEN are direct archive streams, not binary files added to GitHub. Source pages verified, original sound bytes and browser playback unverified. Seven Commons performances modern U.S. Navy Band, never claim to be 1939-1945 masters. The seven LOC titles are real pre-1923 original recordings. Source file URLs may return rate limits.",
+  "tracks": [
+    {
+      "country": "Turkey",
+      "title": "İstiklâl Marşı — U.S. Navy Band (modern instrumental)",
+      "year": "c. 2000",
+      "source": "https://commons.wikimedia.org/wiki/File:Istikl%C3%A2l_Marsi_instrumetal.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Istikl%C3%A2l_Marsi_instrumetal.ogg",
+      "context": "Original national anthem composed 1930/arranged 1932; this is a modern U.S. Navy Band recording, NOT WWII-era music.",
+      "source_type": "Wikimedia Commons PD file"
+    },
+    {
+      "country": "Iceland",
+      "title": "Lofsöngur — U.S. Navy Band (modern instrumental)",
+      "year": "c. 2003",
+      "source": "https://commons.wikimedia.org/wiki/File:Lofs%C3%B6ngur.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lofs%C3%B6ngur.ogg",
+      "context": "Historic Icelandic anthem composed 1874; genuine MODERN U.S. Navy Band performance.",
+      "source_type": "Wikimedia Commons PD file"
+    },
+    {
+      "country": "Latvia",
+      "title": "Dievs, svētī Latviju! — U.S. Navy Band",
+      "year": "1995",
+      "source": "https://commons.wikimedia.org/wiki/File:Latvian_National_Anthem.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Latvian_National_Anthem.ogg",
+      "context": "Real 1995 U.S. Navy Band instrumental performance of Latvia's historical anthem; not 1940s.",
+      "source_type": "Wikimedia Commons PD file"
+    },
+    {
+      "country": "Lithuania",
+      "title": "Tautiška giesmė — U.S. Navy Band instrumental",
+      "year": "c. 2003",
+      "source": "https://commons.wikimedia.org/wiki/File:Tauti%C5%A1ka_giesme_instrumental.oga",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Tauti%C5%A1ka_giesme_instrumental.oga",
+      "context": "Modern U.S. Navy Band recording of Lithuanian historical anthem (composition from 1898).",
+      "source_type": "Wikimedia Commons PD file"
+    },
+    {
+      "country": "Chile",
+      "title": "Himno Nacional de Chile — U.S. Navy Band",
+      "year": "modern; exact recording year unspecified",
+      "source": "https://commons.wikimedia.org/wiki/File:United_States_Navy_Band_-_National_Anthem_of_Chile.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/United_States_Navy_Band_-_National_Anthem_of_Chile.ogg",
+      "context": "Real modern U.S. Navy Band performance of historical Chilean anthem; not WWII-era.",
+      "source_type": "Wikimedia Commons PD file"
+    },
+    {
+      "country": "Uruguay",
+      "title": "Himno Nacional de Uruguay — complete U.S. Navy Band performance",
+      "year": "c. 2003",
+      "source": "https://commons.wikimedia.org/wiki/File:United_States_Navy_Band_-_National_Anthem_of_Uruguay_%28complete%29.ogg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/United_States_Navy_Band_-_National_Anthem_of_Uruguay_%28complete%29.ogg",
+      "context": "Complete 4m30s modern U.S. Navy Band performance of historic Uruguayan anthem.",
+      "source_type": "Wikimedia Commons PD file"
+    },
+    {
+      "country": "South Africa",
+      "title": "South African National Anthem — U.S. Navy Band (modern version)",
+      "year": "c. 1996",
+      "source": "https://commons.wikimedia.org/wiki/File:South_African_national_anthem.oga",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/South_African_national_anthem.oga",
+      "context": "Current post-apartheid anthem arrangement of 1995, performed c.1996 by U.S. Navy Band; NOT a WWII-period or apartheid-era recording.",
+      "source_type": "Wikimedia Commons PD file"
+    },
+    {
+      "country": "Hungary",
+      "title": "Hungarian rhapsody , no. 2",
+      "year": "1908-09-18",
+      "credits": "Liszt, Franz, Composer | Arthur Pryor's Band, Musical Group | Pryor, Arthur, Conductor",
+      "genre": "Classical music",
+      "source": "https://www.loc.gov/item/jukebox-126691/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-126691_1.mp3",
+      "context": "Original pre-1923 American-made archived performance linked to cultural repertoire or original language; full source sound file not independently downloaded or tested this batch.",
+      "source_type": "Library of Congress National Jukebox pre-1923 original MP3"
+    },
+    {
+      "country": "Hungary",
+      "title": "Hungarian dance no. 5",
+      "year": "1916-02-04",
+      "credits": "Brahms, Johannes, Composer | Moskowitz, Joseph, Instrumentalist -- Cimbalom | Yussim, Max, Instrumentalist -- Piano",
+      "genre": "Classical music",
+      "source": "https://www.loc.gov/item/jukebox-187866/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-187866_1.mp3",
+      "context": "Original pre-1923 American-made archived performance linked to cultural repertoire or original language; full source sound file not independently downloaded or tested this batch.",
+      "source_type": "Library of Congress National Jukebox pre-1923 original MP3"
+    },
+    {
+      "country": "Czechoslovakia",
+      "title": "Ne ty to nepovis",
+      "year": "1912-01-24",
+      "credits": "King, Edward T., Conductor | Vymetal, Alois Ladislov, Composer | King's Orchestra, Musical Group | Pták, Bohumil, Vocalist -- Tenor Vocal",
+      "genre": "Opera | Bohemian (Czech)",
+      "source": "https://www.loc.gov/item/jukebox-131436/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-131436_1.mp3",
+      "context": "Original pre-1923 American-made archived performance linked to cultural repertoire or original language; full source sound file not independently downloaded or tested this batch.",
+      "source_type": "Library of Congress National Jukebox pre-1923 original MP3"
+    },
+    {
+      "country": "Czechoslovakia",
+      "title": "Vesely Mlandenci",
+      "year": "1907-08-01",
+      "credits": "Bartos, A., Vocalist | Grill, Anton, Composer | Běláč, F. R., Vocalist -- Tenor Vocal",
+      "genre": "Ethnic music | Bohemian (Czech)",
+      "source": "https://www.loc.gov/item/jukebox-125363/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-125363_1.mp3",
+      "context": "Original pre-1923 American-made archived performance linked to cultural repertoire or original language; full source sound file not independently downloaded or tested this batch.",
+      "source_type": "Library of Congress National Jukebox pre-1923 original MP3"
+    },
+    {
+      "country": "Poland",
+      "title": "Idzie Stary Bes Wies",
+      "year": "1911-07-18",
+      "credits": "Chopin Conservatory Male Quartet, Vocal Group | Gall, Jan, Composer",
+      "genre": "Polish | Ethnic music",
+      "source": "https://www.loc.gov/item/jukebox-130636/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-130636_1.mp3",
+      "context": "Original pre-1923 American-made archived performance linked to cultural repertoire or original language; full source sound file not independently downloaded or tested this batch.",
+      "source_type": "Library of Congress National Jukebox pre-1923 original MP3"
+    },
+    {
+      "country": "Poland",
+      "title": "Nasz Chlopicki",
+      "year": "1915-10-21",
+      "credits": "Wroński, Tadeusz, Vocalist -- Baritone Vocal | King, Edward T., Conductor | King's Orchestra, Musical Group | Kurpiński, Karol, Composer",
+      "genre": "Polish | Ethnic music",
+      "source": "https://www.loc.gov/item/jukebox-15273/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-15273_1.mp3",
+      "context": "Original pre-1923 American-made archived performance linked to cultural repertoire or original language; full source sound file not independently downloaded or tested this batch.",
+      "source_type": "Library of Congress National Jukebox pre-1923 original MP3"
+    },
+    {
+      "country": "Sweden",
+      "title": "Till Osterland vill jag fara",
+      "year": "1916-05-25",
+      "credits": "King, Edward T., Conductor | Haag, Gustav, Arranger | Wang-Holm, Aage, Vocalist -- Tenor Vocal | King's Orchestra, Musical Group",
+      "genre": "Ethnic music | Swedish",
+      "source": "https://www.loc.gov/item/jukebox-16737/",
+      "url": "https://data.labs.loc.gov/jukebox/audio/jukebox-16737_1.mp3",
+      "context": "Original pre-1923 American-made archived performance linked to cultural repertoire or original language; full source sound file not independently downloaded or tested this batch.",
+      "source_type": "Library of Congress National Jukebox pre-1923 original MP3"
+    }
+  ]
+}

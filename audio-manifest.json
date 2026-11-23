@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "Phase 23C.18: three real human audio recordings linked to Commons, two new stations Yugoslavia and New Zealand, Spain expanded; 1918 source attribution for Yugoslavia, 2003 modern US Navy Band for NZ, and 1915 Odeon original for Spain. Remote playback still requires listening check. C.18 also skips broken external streams without endless retries. Existing 83 tracks and private file picker preserved. No synthetic tracks.",
+  "notes": "Phase 23C.19: exactly 100 playlist entries. Seven modern US Navy Band genuine performances for Turkey Iceland Latvia Lithuania Chile Uruguay South Africa, plus seven pre-1923 original LOC archival streams for Hungary Czech Poland Sweden. All 14 externally streamed and awaiting live playback verification; original locally hosted 73 masters intact. No synthetic music, no restricted user uploads.",
   "stations": {
     "United States": [
       {
@@ -160,6 +160,14 @@
       {
         "title": "Polonez Kosciuszkowski — historical 1915 performance",
         "src": "audio/tobs-c15-15249.mp3"
+      },
+      {
+        "title": "Idzie Stary Bes Wies — 1911-07-18 · archive stream",
+        "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-130636_1.mp3"
+      },
+      {
+        "title": "Nasz Chlopicki — 1915-10-21 · archive stream",
+        "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-15273_1.mp3"
       }
     ],
     "Austria": [
@@ -192,6 +200,10 @@
       {
         "title": "Lifdrabanten och kung Erik — historical 1916 performance",
         "src": "audio/tobs-c15-17593.mp3"
+      },
+      {
+        "title": "Till Osterland vill jag fara — 1916-05-25 · archive stream",
+        "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-16737_1.mp3"
       }
     ],
     "Norway": [
@@ -356,6 +368,14 @@
       {
         "title": "Hungarian Rhapsody No. 2 — original 1908 recording · external archive stream",
         "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-126679_1.mp3"
+      },
+      {
+        "title": "Hungarian rhapsody , no. 2 — 1908-09-18 · archive stream",
+        "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-126691_1.mp3"
+      },
+      {
+        "title": "Hungarian dance no. 5 — 1916-02-04 · archive stream",
+        "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-187866_1.mp3"
       }
     ],
     "Czechoslovakia": [
@@ -374,6 +394,14 @@
       {
         "title": "Rekruti — original 1907 recording · external archive stream",
         "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-125361_1.mp3"
+      },
+      {
+        "title": "Ne ty to nepovis — 1912-01-24 · archive stream",
+        "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-131436_1.mp3"
+      },
+      {
+        "title": "Vesely Mlandenci — 1907-08-01 · archive stream",
+        "src": "https://data.labs.loc.gov/jukebox/audio/jukebox-125363_1.mp3"
       }
     ],
     "Bulgaria": [
@@ -404,6 +432,48 @@
       {
         "title": "God Defend New Zealand — U.S. Navy Band instrumental (modern circa 2003)",
         "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/God_Defend_New_Zealand_instrumental.ogg"
+      }
+    ],
+    "Turkey": [
+      {
+        "title": "İstiklâl Marşı — U.S. Navy Band (modern instrumental) — c. 2000 · archive stream",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Istikl%C3%A2l_Marsi_instrumetal.ogg"
+      }
+    ],
+    "Iceland": [
+      {
+        "title": "Lofsöngur — U.S. Navy Band (modern instrumental) — c. 2003 · archive stream",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lofs%C3%B6ngur.ogg"
+      }
+    ],
+    "Latvia": [
+      {
+        "title": "Dievs, svētī Latviju! — U.S. Navy Band — 1995 · archive stream",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Latvian_National_Anthem.ogg"
+      }
+    ],
+    "Lithuania": [
+      {
+        "title": "Tautiška giesmė — U.S. Navy Band instrumental — c. 2003 · archive stream",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Tauti%C5%A1ka_giesme_instrumental.oga"
+      }
+    ],
+    "Chile": [
+      {
+        "title": "Himno Nacional de Chile — U.S. Navy Band — modern; exact recording year unspecified · archive stream",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/United_States_Navy_Band_-_National_Anthem_of_Chile.ogg"
+      }
+    ],
+    "Uruguay": [
+      {
+        "title": "Himno Nacional de Uruguay — complete U.S. Navy Band performance — c. 2003 · archive stream",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/United_States_Navy_Band_-_National_Anthem_of_Uruguay_%28complete%29.ogg"
+      }
+    ],
+    "South Africa": [
+      {
+        "title": "South African National Anthem — U.S. Navy Band (modern version) — c. 1996 · archive stream",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/South_African_national_anthem.oga"
       }
     ]
   }

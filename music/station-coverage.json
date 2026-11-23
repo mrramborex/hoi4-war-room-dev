@@ -61,10 +61,10 @@
       "frequency_mhz": 82.1,
       "country": "Turkey",
       "station": "Ankara Radio",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "external_archive_stream_pending_playback",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.19: Original national anthem composed 1930/arranged 1932; this is a modern U.S. Navy Band recording, NOT WWII-era music. Exact source https://commons.wikimedia.org/wiki/File:Istikl%C3%A2l_Marsi_instrumetal.ogg; live browser playback not verified."
     },
     {
       "frequency_mhz": 82.3,
@@ -178,10 +178,10 @@
       "frequency_mhz": 87.2,
       "country": "Uruguay",
       "station": "Radio Montevideo",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "external_archive_stream_pending_playback",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.19: Complete 4m30s modern U.S. Navy Band performance of historic Uruguayan anthem. Exact source https://commons.wikimedia.org/wiki/File:United_States_Navy_Band_-_National_Anthem_of_Uruguay_%28complete%29.ogg; live browser playback not verified."
     },
     {
       "frequency_mhz": 87.4,
@@ -241,10 +241,10 @@
       "frequency_mhz": 89.5,
       "country": "Poland",
       "station": "Polskie Echo",
-      "research_status": "audio_deployed",
-      "rights_cleared_track_count": 5,
+      "research_status": "external_archive_stream_pending_playback",
+      "rights_cleared_track_count": 7,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.15 adds fully original pre-1923 LOC records (12 across Sweden Norway Denmark Poland Austria), individually MD5 checked. Danish recordings are Danish language of French-composed theatrical works, Austria item by Mozart. These were recorded outside target country; not WWII-period masters. See music/northern-europe-batch9-sources.json."
+      "notes": "Phase 23C.19: Original pre-1923 American-made archived performance linked to cultural repertoire or original language; full source sound file not independently downloaded or tested this batch. Exact source https://www.loc.gov/item/jukebox-15273/; live browser playback not verified."
     },
     {
       "frequency_mhz": 89.6,
@@ -287,9 +287,9 @@
       "country": "Hungary",
       "station": "Budapest Radio",
       "research_status": "external_archive_stream_pending_playback",
-      "rights_cleared_track_count": 4,
+      "rights_cleared_track_count": 6,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.17: one original pre-1923 LOC recording added by exact allowlisted external streaming URL. Not a locally hosted MP3; browser audio reachability not yet confirmed. An American band's genuine early recording of Hungarian composer Liszt's orchestral repertoire. See music/phase-23c17-sources.json."
+      "notes": "Phase 23C.19: Original pre-1923 American-made archived performance linked to cultural repertoire or original language; full source sound file not independently downloaded or tested this batch. Exact source https://www.loc.gov/item/jukebox-187866/; live browser playback not verified."
     },
     {
       "frequency_mhz": 92,
@@ -313,10 +313,10 @@
       "frequency_mhz": 93,
       "country": "Iceland",
       "station": "Reykjavík Wireless",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "external_archive_stream_pending_playback",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.19: Historic Icelandic anthem composed 1874; genuine MODERN U.S. Navy Band performance. Exact source https://commons.wikimedia.org/wiki/File:Lofs%C3%B6ngur.ogg; live browser playback not verified."
     },
     {
       "frequency_mhz": 93.5,
@@ -412,10 +412,10 @@
       "frequency_mhz": 97.1,
       "country": "Chile",
       "station": "Radio Santiago",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "external_archive_stream_pending_playback",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.19: Real modern U.S. Navy Band performance of historical Chilean anthem; not WWII-era. Exact source https://commons.wikimedia.org/wiki/File:United_States_Navy_Band_-_National_Anthem_of_Chile.ogg; live browser playback not verified."
     },
     {
       "frequency_mhz": 97.4,
@@ -448,10 +448,10 @@
       "frequency_mhz": 98.6,
       "country": "South Africa",
       "station": "Cape Town Radio",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "external_archive_stream_pending_playback",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.19: Current post-apartheid anthem arrangement of 1995, performed c.1996 by U.S. Navy Band; NOT a WWII-period or apartheid-era recording. Exact source https://commons.wikimedia.org/wiki/File:South_African_national_anthem.oga; live browser playback not verified."
     },
     {
       "frequency_mhz": 98.8,
@@ -485,9 +485,9 @@
       "country": "Czechoslovakia",
       "station": "Praha Radioklub",
       "research_status": "external_archive_stream_pending_playback",
-      "rights_cleared_track_count": 4,
+      "rights_cleared_track_count": 6,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.17: one original pre-1923 LOC recording added by exact allowlisted external streaming URL. Not a locally hosted MP3; browser audio reachability not yet confirmed. Original Bohemian/Czech-language historical vocal recording. Recorded before Czechoslovakia existed. See music/phase-23c17-sources.json."
+      "notes": "Phase 23C.19: Original pre-1923 American-made archived performance linked to cultural repertoire or original language; full source sound file not independently downloaded or tested this batch. Exact source https://www.loc.gov/item/jukebox-125363/; live browser playback not verified."
     },
     {
       "frequency_mhz": 101.3,
@@ -502,10 +502,10 @@
       "frequency_mhz": 101.5,
       "country": "Latvia",
       "station": "Rīga Radio",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "external_archive_stream_pending_playback",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.19: Real 1995 U.S. Navy Band instrumental performance of Latvia's historical anthem; not 1940s. Exact source https://commons.wikimedia.org/wiki/File:Latvian_National_Anthem.ogg; live browser playback not verified."
     },
     {
       "frequency_mhz": 102,
@@ -547,19 +547,19 @@
       "frequency_mhz": 103.2,
       "country": "Lithuania",
       "station": "Kaunas Wireless",
-      "research_status": "not_started",
-      "rights_cleared_track_count": 0,
+      "research_status": "external_archive_stream_pending_playback",
+      "rights_cleared_track_count": 1,
       "target_initial_tracks": 5,
-      "notes": ""
+      "notes": "Phase 23C.19: Modern U.S. Navy Band recording of Lithuanian historical anthem (composition from 1898). Exact source https://commons.wikimedia.org/wiki/File:Tauti%C5%A1ka_giesme_instrumental.oga; live browser playback not verified."
     },
     {
       "frequency_mhz": 103.7,
       "country": "Sweden",
       "station": "Stockholm Wireless",
-      "research_status": "audio_deployed",
-      "rights_cleared_track_count": 5,
+      "research_status": "external_archive_stream_pending_playback",
+      "rights_cleared_track_count": 6,
       "target_initial_tracks": 5,
-      "notes": "Phase 23C.15 adds fully original pre-1923 LOC records (12 across Sweden Norway Denmark Poland Austria), individually MD5 checked. Danish recordings are Danish language of French-composed theatrical works, Austria item by Mozart. These were recorded outside target country; not WWII-period masters. See music/northern-europe-batch9-sources.json."
+      "notes": "Phase 23C.19: Original pre-1923 American-made archived performance linked to cultural repertoire or original language; full source sound file not independently downloaded or tested this batch. Exact source https://www.loc.gov/item/jukebox-16737/; live browser playback not verified."
     },
     {
       "frequency_mhz": 103.9,

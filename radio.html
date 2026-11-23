@@ -207,8 +207,26 @@ const commonsC18Allowlist=new Set([
  "https://upload.wikimedia.org/wikipedia/commons/d/d6/God_Defend_New_Zealand_instrumental.ogg",
  "https://upload.wikimedia.org/wikipedia/commons/3/3b/Marcha_Real_%281915%29.ogg"
 ]);
+// Phase 23C.19 exact source URLs, not arbitrary remote uploads. Entries
+// are archived recordings; browser playback still needs a real listening test.
+const c19Allowlist=new Set([
+ "https://upload.wikimedia.org/wikipedia/commons/9/99/Istikl%C3%A2l_Marsi_instrumetal.ogg",
+ "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lofs%C3%B6ngur.ogg",
+ "https://upload.wikimedia.org/wikipedia/commons/5/55/Latvian_National_Anthem.ogg",
+ "https://upload.wikimedia.org/wikipedia/commons/a/ab/Tauti%C5%A1ka_giesme_instrumental.oga",
+ "https://upload.wikimedia.org/wikipedia/commons/6/6e/United_States_Navy_Band_-_National_Anthem_of_Chile.ogg",
+ "https://upload.wikimedia.org/wikipedia/commons/2/2b/United_States_Navy_Band_-_National_Anthem_of_Uruguay_%28complete%29.ogg",
+ "https://upload.wikimedia.org/wikipedia/commons/1/1d/South_African_national_anthem.oga",
+ "https://data.labs.loc.gov/jukebox/audio/jukebox-126691_1.mp3",
+ "https://data.labs.loc.gov/jukebox/audio/jukebox-187866_1.mp3",
+ "https://data.labs.loc.gov/jukebox/audio/jukebox-131436_1.mp3",
+ "https://data.labs.loc.gov/jukebox/audio/jukebox-125363_1.mp3",
+ "https://data.labs.loc.gov/jukebox/audio/jukebox-130636_1.mp3",
+ "https://data.labs.loc.gov/jukebox/audio/jukebox-15273_1.mp3",
+ "https://data.labs.loc.gov/jukebox/audio/jukebox-16737_1.mp3"
+]);
 function mediaUrl(source){
- if(typeof source==='string'&&(commonsArchiveAllowlist.has(source)||locArchiveAllowlist.has(source)||commonsC18Allowlist.has(source)))return source;
+ if(typeof source==='string'&&(commonsArchiveAllowlist.has(source)||locArchiveAllowlist.has(source)||commonsC18Allowlist.has(source)||c19Allowlist.has(source)))return source;
  if(typeof source!=='string'||!/^audio\/[\w.\-/]+\.(?:mp3|ogg|wav)$/i.test(source)||source.split('/').includes('..'))return null;
  const url=new URL(source,location.href),root=new URL('audio/',location.href);
  return url.origin===root.origin&&url.pathname.startsWith(root.pathname)?url.href:null;
