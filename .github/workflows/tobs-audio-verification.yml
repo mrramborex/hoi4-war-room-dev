@@ -6,14 +6,20 @@ permissions:
 jobs:
   audit:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
+      - name: Install and verify audio tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          ffprobe -version
+          ffmpeg -version
       - name: Audit recording sources
         shell: bash
         run: |
           python3 - <<'PY'
-          import csv, json, hashlib, socket, subprocess, tempfile, pathlib, urllib.parse, concurrent.futures, collections
+          import csv, json, hashlib, socket, subprocess, tempfile, pathlib, urllib.parse, concurrent.futures, collections, time
           manifest=json.load(open('audio-manifest.json'))
           sources=collections.defaultdict(list)
           for country, tracks in manifest['stations'].items():
@@ -38,9 +44,12 @@ jobs:
                           except OSError as e:
                               row['dns']='failed'
                               raise
-                          proc=subprocess.run(['curl','--silent','--show-error','--fail','--location','--max-redirs','5','--proto','=https','--proto-redir','=https','--connect-timeout','15','--max-time','120','--max-filesize','50000000','--user-agent','HOI4WarRoom-TOBS-Audit/1.0 (https://github.com/mrramborex/hoi4-war-room-dev)','--output',str(p),'--write-out','%{http_code} %{url_effective}',src],capture_output=True,text=True,timeout=130)
+                          time.sleep(3)
+                          proc=subprocess.run(['curl','--silent','--show-error','--fail','--location','--max-redirs','5','--proto','=https','--proto-redir','=https','--retry','2','--retry-delay','30','--retry-max-time','180','--connect-timeout','15','--max-time','120','--max-filesize','50000000','--user-agent','HOI4WarRoom-TOBS-Audit/1.0 (https://github.com/mrramborex/hoi4-war-room-dev)','--output',str(p),'--write-out','%{http_code} %{url_effective}',src],capture_output=True,text=True,timeout=320)
                           row['http'],_,row['final_url']=proc.stdout.partition(' ')
-                          if proc.returncode: raise ValueError(proc.stderr.strip() or 'curl failed')
+                          if proc.returncode:
+                              if row['http']=='429': row['status']='rate_limited'
+                              raise ValueError(proc.stderr.strip() or 'curl failed')
                       row['bytes']=p.stat().st_size
                       row['sha256']=hashlib.file_digest(p.open('rb'),'sha256').hexdigest()
                       probe=subprocess.run(['ffprobe','-v','error','-select_streams','a:0','-show_entries','stream=codec_name:format=duration','-of','json',str(p)],capture_output=True,text=True,timeout=30,check=True)
@@ -54,7 +63,7 @@ jobs:
               except Exception as e:
                   row['detail']=str(e)[:500]
               return row
-          with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
+          with concurrent.futures.ThreadPoolExecutor(max_workers=1) as pool:
               rows=list(pool.map(audit,sources.items()))
           hashes=collections.Counter(r['sha256'] for r in rows if r['sha256'])
           for r in rows: r['identical_file_count']=hashes[r['sha256']] if r['sha256'] else 0
@@ -63,6 +72,7 @@ jobs:
           summary=dict(total=len(rows), statuses=dict(collections.Counter(r['status'] for r in rows)), duplicate_groups=sum(n>1 for n in hashes.values()))
           pathlib.Path('tobs-audit-summary.json').write_text(json.dumps(summary,indent=2))
           print(json.dumps(summary,indent=2))
+          print('Error categories:',dict(collections.Counter(r['detail'] for r in rows if r['detail'])))
           PY
       - uses: actions/upload-artifact@v4
         if: always()
