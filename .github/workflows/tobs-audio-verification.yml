@@ -1,6 +1,14 @@
 name: TOBS audio verification
 on:
   workflow_dispatch:
+    inputs:
+      scope:
+        description: Recording audit scope
+        type: choice
+        options:
+          - oversized_flac
+          - all
+        default: oversized_flac
 permissions:
   contents: read
 jobs:
@@ -17,14 +25,18 @@ jobs:
           ffmpeg -version
       - name: Audit recording sources
         shell: bash
+        env:
+          AUDIT_SCOPE: ${{ inputs.scope }}
         run: |
           python3 - <<'PY'
-          import csv, json, hashlib, socket, subprocess, tempfile, pathlib, urllib.parse, concurrent.futures, collections, time
+          import csv, json, hashlib, socket, subprocess, tempfile, pathlib, urllib.parse, concurrent.futures, collections, time, os
           manifest=json.load(open('audio-manifest.json'))
           sources=collections.defaultdict(list)
           for country, tracks in manifest['stations'].items():
               for t in tracks:
                   sources[t['src']].append((country,t['title']))
+          if os.environ.get('AUDIT_SCOPE') == 'oversized_flac':
+              sources={s:a for s,a in sources.items() if urllib.parse.unquote(s).lower().endswith('.flac')}
           def audit(item):
               src, assignments=item
               row=dict(source=src, stations='; '.join(c for c,t in assignments), titles='; '.join(t for c,t in assignments), dns='', http='', final_url='', bytes=0, sha256='', codec='', duration_seconds='', status='error', detail='')
@@ -45,7 +57,7 @@ jobs:
                               row['dns']='failed'
                               raise
                           time.sleep(3)
-                          proc=subprocess.run(['curl','--silent','--show-error','--fail','--location','--max-redirs','5','--proto','=https','--proto-redir','=https','--retry','2','--retry-delay','30','--retry-max-time','180','--connect-timeout','15','--max-time','120','--max-filesize','50000000','--user-agent','HOI4WarRoom-TOBS-Audit/1.0 (https://github.com/mrramborex/hoi4-war-room-dev)','--output',str(p),'--write-out','%{http_code} %{url_effective}',src],capture_output=True,text=True,timeout=320)
+                          proc=subprocess.run(['curl','--silent','--show-error','--fail','--location','--max-redirs','5','--proto','=https','--proto-redir','=https','--retry','2','--retry-delay','30','--retry-max-time','180','--connect-timeout','15','--max-time','300','--max-filesize','250000000','--user-agent','HOI4WarRoom-TOBS-Audit/1.0 (https://github.com/mrramborex/hoi4-war-room-dev)','--output',str(p),'--write-out','%{http_code} %{url_effective}',src],capture_output=True,text=True,timeout=650)
                           row['http'],_,row['final_url']=proc.stdout.partition(' ')
                           if proc.returncode:
                               if row['http']=='429': row['status']='rate_limited'
