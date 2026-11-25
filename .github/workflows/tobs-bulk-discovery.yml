@@ -43,23 +43,32 @@ jobs:
               if m: used.add(m.group(1))
           regions={"Bulgaria":"bulgarian|bulgaria","Romania":"romanian|roumanian|rumanian|romania","Estonia":"estonian|estonia","Latvia":"latvian|lettish|latvia","Lithuania":"lithuanian|lithuania","Iceland":"icelandic|iceland","Finland":"finnish|finland","Denmark":"danish|denmark","Yugoslavia":"serbian|croatian|slovenian|serbia|croatia|slovenia","Soviet Union":"russian|ukrainian|russia|ukraine","Belgium":"belgian|belgium","Switzerland":"swiss|switzerland","Portugal":"portuguese|portugal","Italy":"italian|italy"}
           results={k:[] for k in regions}
+          counters=collections.Counter()
+          sample=json.loads(next(iter(open("/tmp/metadata.jsonl"))))
+          (out/"schema.json").write_text(json.dumps({"metadata_sample":sample,"manifest_sample":next((o for o in objects(manifest) if any(isinstance(v,str) and v.endswith(".mp3") for v in o.values())),{})},ensure_ascii=False,indent=2))
           for line in open("/tmp/metadata.jsonl"):
               if not line.strip(): continue
               r=json.loads(line)
-              matchids=ids([r.get("Id"),r.get("Url")])
+              matchids=ids(r)
+              counters["records"]+=1
+              if matchids: counters["with_ids"]+=1
+              if matchids & index.keys(): counters["joined"]+=1
               if not matchids or matchids & used: continue
               links=sorted({u for i in matchids for u in index[i]}-prior)
               if not links: continue
-              fields={k:r.get(k) for k in ("Title","Language","Genre","Subjects","Description","Audio_type","Contributors","Date","Rights","Url")}
-              evidence=" ".join(str(fields[k]) for k in ("Language","Genre","Subjects","Description","Title"))
+              normalized={re.sub(r"[^a-z0-9]","",k.lower()):v for k,v in r.items()}
+              fields={k:normalized.get(re.sub(r"[^a-z0-9]","",k.lower())) for k in ("Title","Language","Genre","Subjects","Description","Audio_type","Contributors","Date","Rights","Url","Country","Subject","Contributor","Languages","Location") }
+              evidence=" ".join(str(fields[k]) for k in ("Language","Languages","Genre","Subjects","Subject","Description","Title","Country","Location"))
               if re.search(r'spoken word|monologue|recitation|speech',str(fields["Audio_type"]),re.I): continue
               for station,pattern in regions.items():
                   if re.search(r'\b(?:'+pattern+r')\b',evidence,re.I):
                       results[station].append({"archive_ids":sorted(matchids),"audio_urls":links,"metadata":fields,"review":"Verify musical origin, performer, duplicate status and playback before integration"})
+          print("Join diagnostics:",dict(counters),"indexed IDs:",len(index))
           for k,v in results.items(): print(k,len(v),"candidates")
           (out/"candidates.json").write_text(json.dumps(results,ensure_ascii=False,indent=2))
           (out/"summary.json").write_text(json.dumps({"indexed_ids":len(index),"counts":{k:len(v) for k,v in results.items()}},indent=2))
-          if not index: raise RuntimeError("No audio IDs parsed; inspect official manifest schema")
+          if not index or not counters["joined"]: raise RuntimeError("No archive join; inspect schema artifact")
+          if not any(results.values()): raise RuntimeError("No regional matches; inspect metadata schema artifact")
           PY
       - uses: actions/upload-artifact@v4
         if: always()
