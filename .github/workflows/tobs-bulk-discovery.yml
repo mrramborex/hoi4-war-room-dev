@@ -1,0 +1,68 @@
+name: TOBS Bulk Archive Discovery
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download official archive indexes
+        run: |
+          mkdir -p archive-discovery
+          curl -fL --retry 2 --max-time 120 https://data.labs.loc.gov/jukebox/metadata.jsonl -o /tmp/metadata.jsonl
+          curl -fL --retry 2 --max-time 120 https://data.labs.loc.gov/jukebox/manifest.json -o /tmp/manifest.json
+      - name: Extract regional candidates
+        run: |
+          python3 - <<'PY'
+          import json,re,pathlib,collections
+          from urllib.parse import unquote
+          out=pathlib.Path("archive-discovery")
+          manifest=json.load(open("/tmp/manifest.json"))
+          def objects(x):
+              if isinstance(x,dict):
+                  yield x
+                  for v in x.values(): yield from objects(v)
+              elif isinstance(x,list):
+                  for v in x: yield from objects(v)
+          def ids(x):
+              return set(re.findall(r'jukebox[-/](\d+)',unquote(str(x)),re.I))
+          index=collections.defaultdict(set)
+          for obj in objects(manifest):
+              urls=[v for v in obj.values() if isinstance(v,str) and v.startswith("https://") and v.lower().endswith(".mp3")]
+              for u in urls:
+                  for i in ids(obj): index[i].add(u)
+          current=json.load(open("audio-manifest.json"))["stations"]
+          prior={t["src"] for a in current.values() for t in a}
+          used=ids(list(prior))
+          # Local archive filenames also carry numeric identifiers.
+          for u in prior:
+              m=re.search(r'-(\d+)\.mp3$',u)
+              if m: used.add(m.group(1))
+          regions={"Bulgaria":"bulgarian|bulgaria","Romania":"romanian|roumanian|rumanian|romania","Estonia":"estonian|estonia","Latvia":"latvian|lettish|latvia","Lithuania":"lithuanian|lithuania","Iceland":"icelandic|iceland","Finland":"finnish|finland","Denmark":"danish|denmark","Yugoslavia":"serbian|croatian|slovenian|serbia|croatia|slovenia","Soviet Union":"russian|ukrainian|russia|ukraine","Belgium":"belgian|belgium","Switzerland":"swiss|switzerland","Portugal":"portuguese|portugal","Italy":"italian|italy"}
+          results={k:[] for k in regions}
+          for line in open("/tmp/metadata.jsonl"):
+              if not line.strip(): continue
+              r=json.loads(line)
+              matchids=ids([r.get("Id"),r.get("Url")])
+              if not matchids or matchids & used: continue
+              links=sorted({u for i in matchids for u in index[i]}-prior)
+              if not links: continue
+              fields={k:r.get(k) for k in ("Title","Language","Genre","Subjects","Description","Audio_type","Contributors","Date","Rights","Url")}
+              evidence=" ".join(str(fields[k]) for k in ("Language","Genre","Subjects","Description","Title"))
+              if re.search(r'spoken word|monologue|recitation|speech',str(fields["Audio_type"]),re.I): continue
+              for station,pattern in regions.items():
+                  if re.search(r'\b(?:'+pattern+r')\b',evidence,re.I):
+                      results[station].append({"archive_ids":sorted(matchids),"audio_urls":links,"metadata":fields,"review":"Verify musical origin, performer, duplicate status and playback before integration"})
+          for k,v in results.items(): print(k,len(v),"candidates")
+          (out/"candidates.json").write_text(json.dumps(results,ensure_ascii=False,indent=2))
+          (out/"summary.json").write_text(json.dumps({"indexed_ids":len(index),"counts":{k:len(v) for k,v in results.items()}},indent=2))
+          if not index: raise RuntimeError("No audio IDs parsed; inspect official manifest schema")
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: tobs-bulk-discovery
+          path: archive-discovery/
