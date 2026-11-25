@@ -210,6 +210,7 @@ function mediaUrl(source){
  if(url.protocol!=='https:'||url.username||url.password||url.port||url.search||url.hash)return null;
  if(url.hostname==='upload.wikimedia.org'&&url.pathname.startsWith('/wikipedia/commons/'))return url.href;
  if(url.hostname==='commons.wikimedia.org'&&url.pathname.startsWith('/wiki/Special:Redirect/file/'))return url.href;
+ if(url.hostname==='tile.loc.gov'&&/^\/storage-services\/public\/navcc\/ihas-[0-9]+\/ihas-[0-9]+\.mp3$/.test(url.pathname))return url.href;
  if(url.hostname==='data.labs.loc.gov'&&/^\/jukebox\/audio\/jukebox-[0-9]+_[0-9]+\.mp3$/.test(url.pathname))return url.href;
  return null;
 }
